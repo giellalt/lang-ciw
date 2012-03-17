@@ -1,0 +1,78 @@
+Config:
+  hfst:
+    Gen: ../bin/ciw-gen.hfstol
+    Morph: ../bin/ciw.hfstol
+  xerox:
+    Gen: ../bin/iciw.fst
+    Morph: ../bin/ciw.fst
+    App: lookup
+
+Tests:
+  
+  Verb - nibaa: # Ordinary IA verb - full paradigm
+     nibaa+V+IA+Ind+Prs+1Sg: ninibaa
+     nibaa+V+IA+Ind+Prs+2Sg: ginibaa
+     nibaa+V+IA+Ind+Prs+3Sg: nibaa
+     nibaa+V+IA+Ind+Prs+3oSg: nibaawan
+     nibaa+V+IA+Ind+Prs+3iSg: nibaam
+     nibaa+V+IA+Ind+Prs+1Pl: ninibaamin
+     nibaa+V+IA+Ind+Prs+12Pl: ginibaamin
+     nibaa+V+IA+Ind+Prs+2Pl: ginibaam
+     nibaa+V+IA+Ind+Prs+3Pl: nibaawag
+     nibaa+V+IA+Neg+Ind+Prs+1Sg: ninibaasiin
+     nibaa+V+IA+Neg+Ind+Prs+2Sg: ginibaasiin
+     nibaa+V+IA+Neg+Ind+Prs+3Sg: nibaasiin
+     nibaa+V+IA+Neg+Ind+Prs+3oSg: nibaasiiwan
+     nibaa+V+IA+Neg+Ind+Prs+3iSg: nibaasiim
+     nibaa+V+IA+Neg+Ind+Prs+1Pl: ninibaasiimin
+     nibaa+V+IA+Neg+Ind+Prs+12Pl: ginibaasiimin
+     nibaa+V+IA+Neg+Ind+Prs+2Pl: ginibaasiim
+     nibaa+V+IA+Neg+Ind+Prs+3Pl: nibaasiiwag
+
+     nibaa+V+IA+Sbj+1Sg: nibaayaan
+     nibaa+V+IA+Sbj+2Sg: nibaayan
+     nibaa+V+IA+Sbj+3Sg: nibaad
+     nibaa+V+IA+Sbj+3oSg: nibaanid
+     nibaa+V+IA+Sbj+3iSg: nibaang
+     nibaa+V+IA+Sbj+1Pl: nibaayaang
+     nibaa+V+IA+Sbj+12Pl: nibaayang
+     nibaa+V+IA+Sbj+2Pl: nibaayeg
+     nibaa+V+IA+Sbj+3Pl: nibaawaad
+     nibaa+V+IA+Neg+Sbj+1Sg: nibaasiwaan
+     nibaa+V+IA+Neg+Sbj+2Sg: nibaasiwan
+     nibaa+V+IA+Neg+Sbj+3Sg: nibaasig
+     nibaa+V+IA+Neg+Sbj+3oSg: [nibaasinid, nibaasinig]
+     nibaa+V+IA+Neg+Sbj+3iSg: nibaasing
+     nibaa+V+IA+Neg+Sbj+1Pl: nibaasiwaang
+     nibaa+V+IA+Neg+Sbj+12Pl: nibaasiwang
+     nibaa+V+IA+Neg+Sbj+2Pl: nibaasiweg
+     nibaa+V+IA+Neg+Sbj+3Pl: nibaasiwaa
+
+     nibaa+V+IA+Imp+Imm+2Sg: nibaan
+     nibaa+V+IA+Imp+Imm+1Pl: nibaadaa
+     nibaa+V+IA+Imp+Imm+2Pl: [nibaak, nibaag]
+     nibaa+V+IA+Imp+Int+2Sg: nibaaken
+     nibaa+V+IA+Imp+Int+1Pl: nibaasiidaa
+     nibaa+V+IA+Imp+Int+2Pl: nibaakegon
+     nibaa+V+IA+Imp+Dur+2Sg: nibaakan
+     nibaa+V+IA+Imp+Dur+2Pl: nibaakeg
+
+
+  Verb - ozhaawashkwaa: # Ordinary IA verb - full paradigm
+     ozhaawashkwaa+V+II+Ind+Prs+3Sg: ozhaawashkwaa
+     ozhaawashkwaa+V+II+Ind+Prs+3oSg: ozhaawashkwaani
+     ozhaawashkwaa+V+II+Ind+Prs+3Pl: ozhaawashkwaawan
+     ozhaawashkwaa+V+II+Ind+Prs+3oPl: ozhaawashkwaaniwan
+     ozhaawashkwaa+V+II+Neg+Ind+Prs+3Sg: ozhaawashkwaasiinoon
+     ozhaawashkwaa+V+II+Neg+Ind+Prs+3oSg: ozhaawashkwaasinini
+     ozhaawashkwaa+V+II+Neg+Ind+Prs+3Pl: ozhaawashkwaasiinoon
+     ozhaawashkwaa+V+II+Neg+Ind+Prs+3oPl: ozhaawashkwaasininiwan
+
+     ozhaawashkwaa+V+II+Sbj+3Sg: ozhaawashkwaag
+     ozhaawashkwaa+V+II+Sbj+3oSg: ozhaawashkwaanig
+     ozhaawashkwaa+V+II+Sbj+3Pl: ozhaawashkwaag
+     ozhaawashkwaa+V+II+Sbj+3oPl: ozhaawashkwaanig
+     ozhaawashkwaa+V+II+Neg+Sbj+3Sg: ozhaawashkwaasinog
+     ozhaawashkwaa+V+II+Neg+Sbj+3oSg: ozhaawashkwaasininig
+     ozhaawashkwaa+V+II+Neg+Sbj+3Pl: ozhaawashkwaasinog
+     ozhaawashkwaa+V+II+Neg+Sbj+3oPl: ozhaawashkwaasininig

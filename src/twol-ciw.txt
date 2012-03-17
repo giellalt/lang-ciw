@@ -1,0 +1,74 @@
+Alphabet
+ a b c d e f g h i j k l m n o p q r s t u v w x y z
+ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+
+ %>:0 
+ 
+@U.verb.1sgindep@ 
+@U.verb.2sgindep@ 
+@U.verb.3sgindep@ 
+@U.verb.3osgindep@ 
+@U.verb.3isgindep@ 
+@U.verb.1plindep@ 
+@U.verb.12plindep@ 
+@U.verb.2plindep@ 
+@U.verb.3plindep@ 
+
+@U.verb.1sgsbj@ 
+@U.verb.2sgsbj@ 
+@U.verb.3sgsbj@ 
+@U.verb.3osgsbj@ 
+@U.verb.3isgsbj@ 
+@U.verb.1plsbj@ 
+@U.verb.12plsbj@ 
+@U.verb.2plsbj@ 
+@U.verb.3plsbj@ 
+
+@U.verb.2sgimp@
+@U.verb.1plimp@
+@U.verb.2plimp@
+
+ ;
+
+Sets
+
+ Vow = a e i o u;
+
+ Cns = b c d f g h j k l m n p q r s t v w x z ;
+ 
+ Nas = m n ;
+ NonNas = b c d f g h j k l p q r s t v w x z ;
+
+ Dummy = @U.verb.1sgindep@ 
+@U.verb.2sgindep@ 
+@U.verb.3sgindep@ 
+@U.verb.3osgindep@ 
+@U.verb.3isgindep@ 
+@U.verb.1plindep@ 
+@U.verb.12plindep@ 
+@U.verb.2plindep@ 
+@U.verb.3plindep@ 
+
+@U.verb.1sgsbj@ 
+@U.verb.2sgsbj@ 
+@U.verb.3sgsbj@ 
+@U.verb.3osgsbj@ 
+@U.verb.3isgsbj@ 
+@U.verb.1plsbj@ 
+@U.verb.12plsbj@ 
+@U.verb.2plsbj@ 
+@U.verb.3plsbj@ 
+
+@U.verb.2sgimp@
+@U.verb.1plimp@
+@U.verb.2plimp@
+;
+
+Rules
+
+"Suffix Final n"
+ n:0 <=> _ (Dummy:) %>:0 Cns ;
+
+
+  
+ 

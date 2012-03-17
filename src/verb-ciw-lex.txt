@@ -1,0 +1,62 @@
+LEXICON Verb
+
+IA ;
+II ;
+TA ;
+TI ;
+
+LEXICON IA
+
+IA_INDEPENDENT ;
+IA_SUBJUNCTIV ;
+IA_IMPERATIV ;
+
+LEXICON II
+IISTEM ;
+
+LEXICON IA_INDEPENDENT
+
+@U.verb.1sgindep@:ni@U.verb.1sgindep@ IASTEM ;
+@U.verb.2sgindep@:gi@U.verb.2sgindep@ IASTEM ;
+@U.verb.3sgindep@:@U.verb.3sgindep@ IASTEM ;
+@U.verb.3osgindep@:@U.verb.3osgindep@ IASTEM ;
+@U.verb.3isgindep@:@U.verb.3isgindep@ IASTEM ;
+
+@U.verb.1plindep@:ni@U.verb.1plindep@ IASTEM ;   ! exclusive Pl
+@U.verb.12plindep@:gi@U.verb.12plindep@ IASTEM ; ! inclusive Pl
+@U.verb.2plindep@:gi@U.verb.2plindep@ IASTEM ;   
+@U.verb.3plindep@:@U.verb.3plindep@ IASTEM ;
+
+LEXICON IA_SUBJUNCTIV
+@U.verb.1sgsbj@ IASTEM ;
+@U.verb.2sgsbj@ IASTEM ;
+@U.verb.3sgsbj@ IASTEM ;
+@U.verb.3osgsbj@ IASTEM ;
+@U.verb.3isgsbj@ IASTEM ;
+
+@U.verb.1plsbj@  IASTEM ;   ! exclusive Pl
+@U.verb.12plsbj@  IASTEM ; ! inclusive Pl
+@U.verb.2plsbj@  IASTEM ;   
+@U.verb.3plsbj@ IASTEM ;
+
+
+LEXICON IA_IMPERATIV
+@U.verb.2sgimp@ IASTEM ;
+@U.verb.1plimp@  IASTEM ;   ! exclusive Pl
+@U.verb.2plimp@  IASTEM ;   
+
+
+
+LEXICON TA
+# ;
+LEXICON TI
+# ;
+
+
+LEXICON IASTEM
+nibaa IACONJ "dormir" ;
+
+
+LEXICON IISTEM
+ozhaawashkwaa IICONJ "bleuir" ;
+

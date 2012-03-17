@@ -1,0 +1,136 @@
+
+
+! IA
+
+LEXICON IACONJ
++V+IA: IA_IND ;
++V+IA: IA_SBJ ;
++V+IA: IA_IMP ;
+
+LEXICON IA_IND
+            IASUFF ;
++Neg:%>siin IASUFF ;
+
+
+LEXICON IASUFF
+
++Ind+Prs: IA_IND_PRS ;
+
+LEXICON IA_IND_PRS
++1Sg@U.verb.1sgindep@:0@U.verb.1sgindep@ # ;
++2Sg@U.verb.2sgindep@:0@U.verb.2sgindep@ # ;
++3Sg@U.verb.3sgindep@:0@U.verb.3sgindep@ # ;
++3oSg@U.verb.3osgindep@:@U.verb.3osgindep@%>wan # ;
++3iSg@U.verb.3isgindep@:@U.verb.3isgindep@%>m # ;
+
++1Pl@U.verb.1plindep@:@U.verb.1plindep@%>min # ;   ! exclusive Pl
++12Pl@U.verb.12plindep@:@U.verb.12plindep@%>min # ; ! inclusive Pl
++2Pl@U.verb.2plindep@:@U.verb.2plindep@%>m # ;
++3Pl@U.verb.3plindep@:@U.verb.3plindep@%>wag # ;
+
+
+LEXICON IA_SBJ
+@U.verb.1sgsbj@  1sgsubj ;
+@U.verb.2sgsbj@  2sgsubj ;
+@U.verb.3sgsbj@  3sgsubj ;
+@U.verb.3osgsbj@ 3osgsubj ;
+@U.verb.3isgsbj@ 3isgsubj ;
+@U.verb.1plsbj@  1plsubj ;
+@U.verb.12plsbj@ 12plsubj ;
+@U.verb.2plsbj@  2plsubj ;
+@U.verb.3plsbj@  3plsubj ;
+
+LEXICON 1sgsubj
++Sbj+1Sg:%>yaan #;
++Neg+Sbj+1Sg:%>siwaan  # ;
+
+LEXICON 2sgsubj
++Sbj+2Sg:%>yan	#;
++Neg+Sbj+2Sg:%>siwan   # ;
+
+LEXICON 3sgsubj
++Sbj+3Sg:%>d	#;
++Neg+Sbj+3Sg:%>sig	   # ;
+
+LEXICON 3osgsubj
++Sbj+3oSg:%>nid #;
++Neg+Sbj+3oSg:%>sinid  # ;
++Neg+Sbj+3oSg:%>sinig  # ;
+
+LEXICON 3isgsubj
++Sbj+3iSg:%>ng #;
++Neg+Sbj+3iSg:%>sing   # ;
+
+LEXICON 1plsubj 
++Sbj+1Pl:%>yaang #;
++Neg+Sbj+1Pl:%>siwaang # ;
+
+LEXICON 12plsubj
++Sbj+12Pl:%>yang #;
++Neg+Sbj+12Pl:%>siwang # ;
+
+LEXICON 2plsubj 
++Sbj+2Pl:%>yeg #;
++Neg+Sbj+2Pl:%>siweg   # ;
+
+LEXICON 3plsubj 
++Sbj+3Pl:%>waad #;
++Neg+Sbj+3Pl:%>siwaa   # ;
+
+
+
+LEXICON IA_IMP
+@U.verb.2sgimp@  2sgimp ;
+@U.verb.1plimp@  1plimp ;
+@U.verb.2plimp@  2plimp ;
+
+LEXICON 2sgimp
++Imp+Imm+2Sg:%>n   # ;
++Imp+Int+2Sg:%>ken # ;
++Imp+Dur+2Sg:%>kan # ;
+
+LEXICON 1plimp
++Imp+Imm+1Pl:%>daa	  # ;
++Imp+Int+1Pl:%>siidaa # ;
+
+LEXICON 2plimp
++Imp+Imm+2Pl:%>k	 # ;
++Imp+Imm+2Pl:%>g	 # ;
++Imp+Int+2Pl:%>kegon # ;
++Imp+Dur+2Pl:%>keg	 # ;
+
+
+
+! II
+! ==
+
+LEXICON IICONJ
++V+II+Ind+Prs: II_IND_PRS ;
++V+II+Neg+Ind+Prs: II_NEG_IND_PRS ;
++V+II+Sbj: II_SBJ ;
++V+II+Neg+Sbj: II_NEG_SBJ ;
+
+LEXICON II_IND_PRS 
++3Sg: # ;
++3oSg:%>ni # ;
++3Pl:%>wan # ;
++3oPl:%>niwan # ;
+
+LEXICON II_NEG_IND_PRS
++3Sg:%>siinoon # ;
++3oSg:%>sinini # ;
++3Pl:%>siinoon # ;
++3oPl:%>sininiwan # ;
+
+LEXICON II_SBJ 
++3Sg:%>g # ;
++3oSg:%>nig # ;
++3Pl:%>g # ;
++3oPl:%>nig # ;
+
+LEXICON II_NEG_SBJ 
++3Sg:%>sinog # ;
++3oSg:%>sininig # ;
++3Pl:%>sinog # ;
++3oPl:%>sininig # ;
+
