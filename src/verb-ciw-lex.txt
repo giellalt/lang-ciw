@@ -54,7 +54,30 @@ LEXICON TI
 
 
 LEXICON IASTEM
-nibaa IACONJ "dormir" ;
+aadizooke IACONJ "he/she tells a story" ;
+bangishino IACONJ "he/she falls" ;
+biindige IACONJ "he/she comes in" ;
+bimaadizi IACONJ "he/she lives" ;
+bimose IACONJ "he/she walks" ;
+boogide IACONJ "he/she has flatulence" ;
+boogidi IACONJ "he/she flatulates" ;
+digoshino IACONJ "he/she is arriving" ;
+gaasikanaabaagawe IACONJ "he/she is thirsty" ;
+gashkendamo IACONJ "he/she is sad" ;
+giigoonyike IACONJ "he/she is fishing (lit. he/she makes fish)" ;
+giiwe IACONJ "he/she goes home" ;
+izhaa IACONJ "he/she goes" ;
+jiibaakwe IACONJ "he/she cooks" ;
+maajaa IACONJ "he/she departs" ;
+minikwe IACONJ "he/she drinks" ;
+mino'endamo IACONJ "he/she is glad" ;
+nibaa IACONJ "he/she sleeps" ;
+ojibwemo IACONJ "he/she speaks Ojibwe" ;
+onjibaa IACONJ "he/she comes" ;
+pikade IACONJ "he/she is hungry" ;
+wiisini IACONJ "he/she is eating" ;
+zagaswe IACONJ "he/she smokes" ;
+zhaaganaashimo IACONJ "he/she speaks English" ;
 
 
 LEXICON IISTEM
