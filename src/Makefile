@@ -13,6 +13,14 @@ TWOLC = twolc
 LEXC = lexc
 XFST = xfst
 
+ifeq (victorio.uit.no, $(shell hostname))
+XFST = /opt/sami/xerox/c-fsm/ix86-linux2.6-gcc3.4/bin/fst -utf8
+LEXC = /opt/sami/xerox/bin/lexc -utf8
+TWOLC = /opt/sami/xerox/bin/twolc -utf8
+endif
+
+
+
 iciw.fst: ../bin/iciw.fst
 ../bin/iciw.fst: ../bin/ciw.fst
 	@echo
@@ -22,7 +30,7 @@ iciw.fst: ../bin/iciw.fst
 	invert net \n\
 	save stack ../bin/iciw.fst \n\
 	quit \n" > ../../tmp/iciw-fst-script
-	@(XFST) < ../../tmp/iciw-fst-script
+	$(XFST) < ../../tmp/iciw-fst-script
 	@rm -f ../../tmp/iciw-fst-script
 
 
@@ -37,7 +45,7 @@ ciw.fst: ../bin/ciw.fst
 	[@\"../bin/caseconv.fst\"]] ; \n\
 	save stack ../bin/ciw.fst \n\
 	quit \n" > ../../tmp/ciw-fst-script
-	@(XFST) < ../../tmp/ciw-fst-script
+	$(XFST) < ../../tmp/ciw-fst-script
 	@rm -f ../../tmp/ciw-fst-script
 
 
@@ -52,7 +60,7 @@ caseconv.fst: ../bin/caseconv.fst
 	@printf "read regex < case.regex \n\
 	save stack ../bin/caseconv.fst \n\
 	quit \n" > ../../tmp/caseconv-script
-	@(XFST) < ../../tmp/caseconv-script
+	$(XFST) < ../../tmp/caseconv-script
 	@rm -f ../../tmp/caseconv-script
 
 
@@ -66,7 +74,7 @@ ciw.save: ../bin/ciw.save
 	[@\"../bin/twol-ciw.bin\"]] ; \n\
 	save stack ../bin/ciw.save \n\
 	quit \n" > ../../tmp/ciw-save-script
-	@(XFST) < ../../tmp/ciw-save-script
+	$(XFST) < ../../tmp/ciw-save-script
 	@rm -f ../../tmp/ciw-save-script
 
 # The first goal is to build ciw-lex.save
@@ -87,7 +95,7 @@ ciw-lex.save: ../bin/ciw-lex.save
 	adv-ciw-lex.txt pp-ciw-lex.txt punct-ciw-lex.txt  num-ciw-lex.txt \n\
 	save-source ../bin/ciw-lex.save \n\
 	quit \n" > ../../tmp/ciw-lex-save-script
-	@(LEXC) < ../../tmp/ciw-lex-save-script
+	$(LEXC) < ../../tmp/ciw-lex-save-script
 	rm -f ../../tmp/ciw-lex-save-script
 
 
@@ -116,7 +124,7 @@ twol-ciw.bin: ../bin/twol-ciw.bin
 ### 	@printf "source xfst-ciw.txt \n\
 ### 	save stack ../bin/xfst-ciw.bin \n\
 ### 	quit \n" > ../../tmp/xfst-ciw-script
-### 	@(XFST) < ../../tmp/xfst-ciw-script
+### 	$(XFST) < ../../tmp/xfst-ciw-script
 ### 	@rm -f ../../tmp/xfst-ciw-script
 
 clean:
