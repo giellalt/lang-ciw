@@ -54,6 +54,7 @@ LEXICON TI
 
 
 LEXICON IASTEM
+anwebi IACONJ "he/she rests" ;
 aadizooke IACONJ "he/she tells a story" ;
 bangishino IACONJ "he/she falls" ;
 biindige IACONJ "he/she comes in" ;
@@ -62,6 +63,7 @@ bimose IACONJ "he/she walks" ;
 boogide IACONJ "he/she has flatulence" ;
 boogidi IACONJ "he/she flatulates" ;
 digoshino IACONJ "he/she is arriving" ;
+dagoshin IACONJ "he/she arrives" ; ! cns stem
 gaasikanaabaagawe IACONJ "he/she is thirsty" ;
 gashkendamo IACONJ "he/she is sad" ;
 giigoonyike IACONJ "he/she is fishing (lit. he/she makes fish)" ;
@@ -71,7 +73,8 @@ jiibaakwe IACONJ "he/she cooks" ;
 maajaa IACONJ "he/she departs" ;
 minikwe IACONJ "he/she drinks" ;
 mino'endamo IACONJ "he/she is glad" ;
-nibaa IACONJ "he/she sleeps" ;
+nibaa IACONJ "he/she sleeps" ; ! vowel stem
+nisidotam IACONJ "he/she understands" ; ! am Stem 
 ojibwemo IACONJ "he/she speaks Ojibwe" ;
 onjibaa IACONJ "he/she comes" ;
 pikade IACONJ "he/she is hungry" ;
@@ -82,4 +85,5 @@ zhaaganaashimo IACONJ "he/she speaks English" ;
 
 LEXICON IISTEM
 ozhaawashkwaa IICONJ "bleuir" ;
-
+minomaagwad
+gozigwan
