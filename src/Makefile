@@ -22,7 +22,7 @@ endif
 
 
 iciw.fst: ../bin/iciw.fst
-../bin/iciw.fst: ../bin/ciw.fst
+../bin/iciw.fst: ../bin/ciw.fst ../int/tag-not-save.fst
 	@echo
 	@echo "*** Building the inverse iciw.fst ***"
 	@echo
