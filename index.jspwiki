@@ -1,0 +1,29 @@
+
+These pages document our work on Ojibwe.
+
+!!!The language
+
+Ojibwe is an Algonquin language spoken in Canada and the United States.
+There are dialect differences within the language. The principal source
+of our analyser presents the Minnesota dialect, using the Double Vowel, 
+or so-called Fiero system. This system is characterised by marking vowel
+length by writing double vowel symbols.
+
+!!!The analyser
+
+So far, the analyser contains 30 verbs, 27 intransitive animates and 3 intransitive animates.
+
+__Intransitive animates__: ''anwebi, aadizooke, bangishino, biindige, bimaadizi, bimose, boogide, boogidi, digoshino, dagoshin, gaasikanaabaagawe, gashkendamo, giigoonyike, giiwe, izhaa, jiibaakwe, maajaa, minikwe, mino'endamo, nibaa, nisidotam, ojibwemo, onjibaa, pikade, wiisini, zagaswe, zhaaganaashimo''
+
+__Intransitive inanimates__: ''ozhaawashkwaa, minomaagwad, gozigwan''
+
+
+
+!!!Sources
+
+We have so far used the following two sources:
+
+# The ''chart'' verb paradigms of the web page [Anishinaabemowin, Ojibwe Language|http://weshki.atwebpages.com/oj_verbs.html]
+# [The article on Ojibwe grammar|http://fr.wikipedia.org/wiki/Grammaire_de_l%27ojibwé] on the French Wikipedia
+
+
