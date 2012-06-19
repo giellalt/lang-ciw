@@ -85,5 +85,5 @@ zhaaganaashimo IACONJ "he/she speaks English" ;
 
 LEXICON IISTEM
 ozhaawashkwaa IICONJ "bleuir" ;
-minomaagwad
-gozigwan
+minomaagwad IICONJ "hs/she smells good" ;
+gozigwan IICONJ "he/she/it is heavy" ;
