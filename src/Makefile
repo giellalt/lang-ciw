@@ -26,12 +26,29 @@ iciw.fst: ../bin/iciw.fst
 	@echo
 	@echo "*** Building the inverse iciw.fst ***"
 	@echo
-	@printf "load ../bin/ciw.save \n\
+	@printf "read regex [[@\"../int/tag-not-save.fst\"] .o. \
+	[@\"../bin/ciw.save\"]] ; \n\
 	invert net \n\
 	save stack ../bin/iciw.fst \n\
 	quit \n" > ../../tmp/iciw-fst-script
 	$(XFST) < ../../tmp/iciw-fst-script
 	@rm -f ../../tmp/iciw-fst-script
+
+
+
+# We want to delete the +TA +IA etc. tags for the generator (and other
+# tags later on?. For that we need our tag-deleter.
+tag-not-save.fst: ../int/tag-not-save.fst
+../int/tag-not-save.fst: tag-not-save.regex
+	@echo
+	@echo "*** Building tag-not-save.fst ***" ;
+	@echo
+	@printf "read regex < tag-not-save.regex \n\
+	save stack ../int/tag-not-save.fst \n\
+	quit \n" > ../../tmp/ciw-tag-not-save-script
+	$(XFST) < ../../tmp/ciw-tag-not-save-script
+	@rm -f ../../tmp/ciw-tag-not-save-script
+
 
 
 # This goal is to build the final analyser. It depends on all the files.
