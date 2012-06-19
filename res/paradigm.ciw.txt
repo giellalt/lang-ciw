@@ -10,5 +10,5 @@
 #
 	
 #N+Gender+Number+Case+Definiteness
-V+Class+Pol?+Mood+Tense?+Aspect?+PersonNumber
+V+Class?+Pol?+Mood+Tense?+Aspect?+PersonNumber
 #V+Infinite
