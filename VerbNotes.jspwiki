@@ -13,6 +13,8 @@ Transitive verbs also agree with the person of the object
 
 ? 3SgObvObj 3SgObjSubj 
 
+They also have reflexives.
+
 Looks like they should be able to maybe agree with obviative in nishnaabemwin  as well?
 
 {{{
@@ -28,6 +30,17 @@ Looks like they should be able to maybe agree with obviative in nishnaabemwin  a
     niniim
     giniim 
 }}}
+
+!!! Verb categories
+
+Ojibwe has several verb categories, dependent on transitivity and animacy. Animacy seems to be lexical, everytihng else is inflectional, but I could be wrong. Often the following labels are used.
+
+* VAI - animate intransitive
+* VII - inanimate intransitive
+* VTA - transitive animate
+* VTI - transitive inanimate
+
+Verbs also have a conjunct form and non-conjunct form. Is this relative clause verbs versus matrix clause?
 
 !!! TENSE
 
@@ -556,4 +569,4 @@ Combined with ...
                                                
 }}}
 
- 
+!!! Some words 
