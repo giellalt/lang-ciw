@@ -9,15 +9,13 @@ of our analyser presents the Minnesota dialect, using the Double Vowel,
 or so-called Fiero system. This system is characterised by marking vowel
 length by writing double vowel symbols.
 
-!!!The analyser
 
-So far, the analyser contains 30 verbs, 27 intransitive animates and 3 intransitive animates.
+!!!Documentation of the analyser
 
-__Intransitive animates__: ''anwebi, aadizooke, bangishino, biindige, bimaadizi, bimose, boogide, boogidi, digoshino, dagoshin, gaasikanaabaagawe, gashkendamo, giigoonyike, giiwe, izhaa, jiibaakwe, maajaa, minikwe, mino'endamo, nibaa, nisidotam, ojibwemo, onjibaa, pikade, wiisini, zagaswe, zhaaganaashimo''
+The analyser is in an initial state, and contains only a handful of verbs.
 
-__Intransitive inanimates__: ''ozhaawashkwaa, minomaagwad, gozigwan''
-
-
+* [Grammatical tags|OjibweGrammaticalTags.html]
+* [A list of the words used so far|OjibweWordList.html]
 
 !!!Sources
 
