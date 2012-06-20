@@ -9,9 +9,9 @@ Multichar_Symbols
 +Ind +Imp +Sbj ! Subjunctive
 +Imm +Int +Dur ! Imperative forms Immediate, Interdiction, Durative
 +1Sg +2Sg +3Sg +3oSg +3iSg ! 3o is obviative, 3i is indefinite
-+1Pl +2Pl +3Pl +3oPl +3iSg
++1Pl +2Pl +3Pl +3oPl +3iPl
 +12Pl ! 1Pl is exclusive, 12Pl is inclusive
-+1SgO +S2gO +3SgO +SgO +3oSgO +3iSgO
++1SgO +2SgO +3SgO +SgO +3oSgO +3iSgO
 +1PlO +P2lO +3PlO +PlO +3oPlO +3iPlO
 +Inf
 +Pos +Neg +ConNeg
