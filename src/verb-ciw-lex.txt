@@ -1,9 +1,16 @@
 LEXICON Verb
 
-IA ;
-II ;
-TA ;
-TI ;
+! The four transitivity classes
+! =============================
+
+IA ; ! intransitive animate
+II ; ! intransitive inanimate
+TA ; ! transitive animate
+TI ; ! transitive inanimate
+
+
+! Intransitive animate
+! ====================
 
 LEXICON IA
 
@@ -11,8 +18,6 @@ IA_INDEPENDENT ;
 IA_SUBJUNCTIV ;
 IA_IMPERATIV ;
 
-LEXICON II
-IISTEM ;
 
 LEXICON IA_INDEPENDENT
 
@@ -46,11 +51,28 @@ LEXICON IA_IMPERATIV
 @U.verb.2plimp@  IASTEM ;   
 
 
+! Intransitive inanimate
+! ====================
+
+LEXICON II
+IISTEM ;
+
+
+! Transitive animate
+! ====================
 
 LEXICON TA
 # ;
+
+! Transitive inanimate
+! ====================
+
 LEXICON TI
 # ;
+
+
+! The stems
+! =========
 
 
 LEXICON IASTEM
