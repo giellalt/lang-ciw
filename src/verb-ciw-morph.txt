@@ -1,4 +1,20 @@
+! Divvun & Giellatekno - open source grammars for Sámi and other languages
+! Copyright © 2000-2010 The University of Tromsø
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@hum.uit.no or divvun@samediggi.no
 
+! ========================================================================== !
+!                           Ojibwe verb morphology                           !
+! ========================================================================== !
 
 ! IA
 
@@ -8,11 +24,11 @@ LEXICON IACONJ
 +V+IA: IA_IMP ;
 
 LEXICON IA_IND
-            IASUFF ;
-+Neg:%>siin IASUFF ;
+            IA_IND_SUFF ;
++Neg:%>siin IA_IND_SUFF ;
 
 
-LEXICON IASUFF
+LEXICON IA_IND_SUFF
 
 +Ind+Prs: IA_IND_PRS ;
 
@@ -30,51 +46,51 @@ LEXICON IA_IND_PRS
 
 
 LEXICON IA_SBJ
-@U.verb.1sgsbj@  1sgsubj ;
-@U.verb.2sgsbj@  2sgsubj ;
-@U.verb.3sgsbj@  3sgsubj ;
-@U.verb.3osgsbj@ 3osgsubj ;
-@U.verb.3isgsbj@ 3isgsubj ;
-@U.verb.1plsbj@  1plsubj ;
-@U.verb.12plsbj@ 12plsubj ;
-@U.verb.2plsbj@  2plsubj ;
-@U.verb.3plsbj@  3plsubj ;
+@U.verb.1sgsbj@  1sgsubjunctive ;
+@U.verb.2sgsbj@  2sgsubjunctive ;
+@U.verb.3sgsbj@  3sgsubjunctive ;
+@U.verb.3osgsbj@ 3osgsubjunctive ;
+@U.verb.3isgsbj@ 3isgsubjunctive ;
+@U.verb.1plsbj@  1plsubjunctive ;
+@U.verb.12plsbj@ 12plsubjunctive ;
+@U.verb.2plsbj@  2plsubjunctive ;
+@U.verb.3plsbj@  3plsubjunctive ;
 
-LEXICON 1sgsubj
-+Sbj+1Sg:%>yaan #;
+LEXICON 1sgsubjunctive
+    +Sbj+1Sg:%>yaan #;
 +Neg+Sbj+1Sg:%>siwaan  # ;
 
-LEXICON 2sgsubj
-+Sbj+2Sg:%>yan	#;
+LEXICON 2sgsubjunctive
+    +Sbj+2Sg:%>yan	#;
 +Neg+Sbj+2Sg:%>siwan   # ;
 
-LEXICON 3sgsubj
-+Sbj+3Sg:%>d	#;
+LEXICON 3sgsubjunctive
+    +Sbj+3Sg:%>d	#;
 +Neg+Sbj+3Sg:%>sig	   # ;
 
-LEXICON 3osgsubj
-+Sbj+3oSg:%>nid #;
+LEXICON 3osgsubjunctive
+    +Sbj+3oSg:%>nid #;
 +Neg+Sbj+3oSg:%>sinid  # ;
 +Neg+Sbj+3oSg:%>sinig  # ;
 
-LEXICON 3isgsubj
-+Sbj+3iSg:%>ng #;
+LEXICON 3isgsubjunctive
+    +Sbj+3iSg:%>ng #;
 +Neg+Sbj+3iSg:%>sing   # ;
 
-LEXICON 1plsubj 
-+Sbj+1Pl:%>yaang #;
+LEXICON 1plsubjunctive 
+    +Sbj+1Pl:%>yaang #;
 +Neg+Sbj+1Pl:%>siwaang # ;
 
-LEXICON 12plsubj
-+Sbj+12Pl:%>yang #;
+LEXICON 12plsubjunctive
+    +Sbj+12Pl:%>yang #;
 +Neg+Sbj+12Pl:%>siwang # ;
 
-LEXICON 2plsubj 
-+Sbj+2Pl:%>yeg #;
+LEXICON 2plsubjunctive 
+    +Sbj+2Pl:%>yeg #;
 +Neg+Sbj+2Pl:%>siweg   # ;
 
-LEXICON 3plsubj 
-+Sbj+3Pl:%>waad #;
+LEXICON 3plsubjunctive 
+    +Sbj+3Pl:%>waad #;
 +Neg+Sbj+3Pl:%>siwaa   # ;
 
 
