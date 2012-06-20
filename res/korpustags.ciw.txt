@@ -49,7 +49,8 @@
 % 2.  List of the tags, and their internal distribution
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-V	Verb
+V Verb
+N Noun
 #Wordclass
 
 IA Intransitive Animate
@@ -84,3 +85,21 @@ Dur Durative
 
 Prs
 #Tense
+
+AN Animate noun
+IN Inanimate noun
+#Gender
+
++Px1Sg First Person singular possessive suffix
++Px2Sg Second Person singular possessive suffix 
++Px3Sg Third Person singular possessive suffix
++Px1Pl First Person plural possessive suffix exclusive
++Px12Pl First Person plural possessive suffix inclusive
++Px2Pl Second Person plural possessive suffix
++Px3Pl Third Person plural possessive suffix
+#PossessiveSuffix
+
+Pl Plural
+Sg Singular
+#Number
+
