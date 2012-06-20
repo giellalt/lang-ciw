@@ -19,6 +19,17 @@ LEXC = /opt/sami/xerox/bin/lexc -utf8
 TWOLC = /opt/sami/xerox/bin/twolc -utf8
 endif
 
+LEX = ciw-lex.txt \
+	noun-ciw-lex.txt \
+	noun-ciw-morph.txt \
+	verb-ciw-lex.txt \
+	verb-ciw-morph.txt \
+	pron-ciw-lex.txt \
+	punct-ciw-lex.txt 
+#	propernoun-ciw-lex.txt \
+#	propernoun-ciw-morph.txt \
+#	abbr-ciw-lex.txt \
+#	acro-ciw-lex.txt \
 
 
 iciw.fst: ../bin/iciw.fst
@@ -98,18 +109,11 @@ ciw.save: ../bin/ciw.save
 # This goal depends on a bunch of lexicon files
 
 ciw-lex.save: ../bin/ciw-lex.save
-../bin/ciw-lex.save: ciw-lex.txt noun-ciw-morph.txt noun-ciw-lex.txt \
-	adj-ciw-lex.txt verb-ciw-morph.txt verb-ciw-lex.txt \
-	cc-ciw-lex.txt cs-ciw-lex.txt interj-ciw-lex.txt \
-	adv-ciw-lex.txt verb-ciw-lex.txt pron-ciw-lex.txt punct-ciw-lex.txt \
-	pp-ciw-lex.txt  num-ciw-lex.txt 
+../bin/ciw-lex.save: $(LEX)  
 	@echo
 	@echo "*** Building ciw-lex.save ***" ;
 	@echo
-	printf "compile-source ciw-lex.txt noun-ciw-morph.txt noun-ciw-lex.txt \
-	adj-ciw-lex.txt verb-ciw-lex.txt verb-ciw-morph.txt pron-ciw-lex.txt \
-	cc-ciw-lex.txt cs-ciw-lex.txt interj-ciw-lex.txt \
-	adv-ciw-lex.txt pp-ciw-lex.txt punct-ciw-lex.txt  num-ciw-lex.txt \n\
+	printf "compile-source $(LEX) \n\
 	save-source ../bin/ciw-lex.save \n\
 	quit \n" > ../../tmp/ciw-lex-save-script
 	$(LEXC) < ../../tmp/ciw-lex-save-script
