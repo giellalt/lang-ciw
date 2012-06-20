@@ -24,7 +24,7 @@ Multichar_Symbols
 +Prl +Apr
 +Com +Cns +Tra +Ter
 +Ord
-+PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
++Px1Sg +Px2Sg +Px3Sg +Px1Pl +Px12Pl +Px2Pl +Px3Pl
 +IA ! (intransitive with animate subject), 
 +II ! (intransitive with inanimate subject), 
 +TA ! (transitive with animate object), and 
@@ -57,12 +57,20 @@ Multichar_Symbols
 @U.verb.1plimp@
 @U.verb.2plimp@
 
+@U.noun.1sg@
+@U.noun.2sg@
+@U.noun.3sg@
+@U.noun.1pl@
+@U.noun.12pl@
+@U.noun.2pl@
+@U.noun.3pl@
+
 
 ! Key lexicon
 
 LEXICON Root
 
-!Noun ;
+Noun ;
 Verb ;
 !Adjective ;
 !Adverb ;
