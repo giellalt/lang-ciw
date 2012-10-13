@@ -9,15 +9,16 @@
 # Here we build the final generator , an inverted transducer of the analyzer.
 # It is dependent upon ciw.save
 
-TWOLC = twolc 
-LEXC = lexc
-XFST = xfst
 
-ifeq (victorio.uit.no, $(shell hostname))
-XFST = /opt/sami/xerox/c-fsm/ix86-linux2.6-gcc3.4/bin/fst -utf8
-LEXC = /opt/sami/xerox/bin/lexc -utf8
-TWOLC = /opt/sami/xerox/bin/twolc -utf8
-endif
+XFST = xfst
+LEXC = lexc
+TWOLC = twolc
+
+#ifeq (victorio.uit.no, $(shell hostname))
+#XFST = /opt/sami/xerox/c-fsm/ix86-linux2.6-gcc3.4/bin/fst -utf8
+#LEXC = /opt/sami/xerox/bin/lexc -utf8
+#TWOLC = /opt/sami/xerox/bin/twolc -utf8
+#endif
 
 LEX = ciw-lex.txt \
 	noun-ciw-lex.txt \
@@ -30,6 +31,8 @@ LEX = ciw-lex.txt \
 #	propernoun-ciw-morph.txt \
 #	abbr-ciw-lex.txt \
 #	acro-ciw-lex.txt \
+
+
 
 
 iciw.fst: ../bin/iciw.fst
