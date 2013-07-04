@@ -1,0 +1,869 @@
+! Divvun & Giellatekno - open source grammars for Sámi and other languages
+! Copyright © 2000-2010 The University of Tromsø
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@hum.uit.no or divvun@samediggi.no
+
+! ========================================================================== !
+!!                           !!! Ojibwe verb stems                           
+! ========================================================================== !
+
+
+!! The verbs are analysed as follows:
+!! * We split the Verb lexicon in 4 groups according to transitivity class
+!! * For each group, we add the prefixes, and mark them with ''flag diacritics'' (the @ symbols)
+!! * Then come the stems themselves
+!! * Finally, and in another file, come the suffixes, including flag diacritics
+!!   to ensure that the correct prefixes and suffixes are matched together
+
+
+!! The Ojibwe verbs are divided in four groups:
+
+!! # IA: Intransitive animate
+!! # II: Intransitive inanimate
+!! # TA: Transitive animate
+!! # TI: Transitive inanimate
+
+LEXICON Verb !!= @CODE@ divides the verbs in four transitivity classes
+
+IA ; ! intransitive animate
+II ; ! intransitive inanimate
+TA ; ! transitive animate
+TI ; ! transitive inanimate
+
+
+!! !! Intransitive animate
+!     ====================
+
+LEXICON IA   !!= @CODE@ divides in independent, subjunctive and imperative
+
+IA_INDEPENDENT ;
+IA_SUBJUNCTIV ;
+IA_IMPERATIV ;
+
+
+LEXICON IA_INDEPENDENT   !!= @CODE@ gives prefixes and flags for person-number in indicative
+
+@U.verb.1sgindep@:ni@U.verb.1sgindep@ IASTEM ;
+@U.verb.2sgindep@:gi@U.verb.2sgindep@ IASTEM ;
+@U.verb.3sgindep@:@U.verb.3sgindep@ IASTEM ;
+@U.verb.3osgindep@:@U.verb.3osgindep@ IASTEM ;
+@U.verb.3isgindep@:@U.verb.3isgindep@ IASTEM ;
+
+@U.verb.1plindep@:ni@U.verb.1plindep@ IASTEM ;   ! exclusive Pl
+@U.verb.12plindep@:gi@U.verb.12plindep@ IASTEM ; ! inclusive Pl
+@U.verb.2plindep@:gi@U.verb.2plindep@ IASTEM ;   
+@U.verb.3plindep@:@U.verb.3plindep@ IASTEM ;
+
+LEXICON IA_SUBJUNCTIV   !!= @CODE@ gives prefixes and flags for person-number in subjunctive
+@U.verb.1sgsbj@ IASTEM ;
+@U.verb.2sgsbj@ IASTEM ;
+@U.verb.3sgsbj@ IASTEM ;
+@U.verb.3osgsbj@ IASTEM ;
+@U.verb.3isgsbj@ IASTEM ;
+
+@U.verb.1plsbj@  IASTEM ;   ! exclusive Pl
+@U.verb.12plsbj@  IASTEM ; ! inclusive Pl
+@U.verb.2plsbj@  IASTEM ;   
+@U.verb.3plsbj@ IASTEM ;
+
+
+LEXICON IA_IMPERATIV   !!= @CODE@ gives prefixes and flags for person-number in imperative
+@U.verb.2sgimp@ IASTEM ;
+@U.verb.1plimp@  IASTEM ;   ! exclusive Pl
+@U.verb.2plimp@  IASTEM ;   
+
+
+!! !! Intransitive inanimate
+!     ====================
+
+!! These have no prefixes, so we go directly to the __IISTEM__ lexicon.
+
+LEXICON II 
+IISTEM ;
+
+
+!! !! Transitive animate
+!     ==================
+
+LEXICON TA  !!= @CODE@ is still not written
+ TASTEM_am ;
+ TASTEM_aw ;
+ ZO ;
+
+
+!! !! Transitive inanimate
+!     ====================
+
+LEXICON TI  !!= @CODE@ is still not written
+# ;
+
+
+!! !!! The stems
+!      =========
+
+
+LEXICON IASTEM   !!= @CODE@ 
+
+anokii IACONJ "work" ;
+    ! indanokii, enokiid (ptcpl)
+anwebi IACONJ "he/she rests" ;
+    !indanwebi ? no final deletion for ni?
+aadizooke IACONJ "he/she tells a story" ;
+bakade IACONJ "be hungry" ;
+    ! imbakade, prt. bekaded
+bangishino IACONJ "he/she falls" ;
+biindige IACONJ "he/she comes in" ;
+bimaadizi IACONJ "he/she lives" ;
+bimose IACONJ "he/she walks" ;
+boogide IACONJ "he/she has flatulence" ;
+dewaabide IACONJ "he has a toothache (CH)" ;
+miniiwaabide IACONJ "he has an abscessed tooth (CH)" ;
+dangishkide IACONJ "he kicks things (CH)" ;
+gaagiijizide IACONJ "he has a sore foot (CH)" ;
+dakizide IACONJ "his feet are cold (CH)" ;
+zhaashaaginizide IACONJ "he is barefoot (CH)" ;
+boogidi IACONJ "he/she flatulates" ;
+digoshino IACONJ "he/she is arriving" ;
+dagoshin IACONJ "he/she arrives" ; ! cns stem
+    ! indagoshin, prt. degoshig
+gaasikanaabaagawe IACONJ "he/she is thirsty" ;
+gashkendamo IACONJ "he/she is sad" ;
+giigoonyike IACONJ "he/she is fishing (lit. he/she makes fish)" ;
+giiwe IACONJ "he/she goes home" ;
+izhaa IACONJ "he/she goes" ;
+jiibaakwe IACONJ "he/she cooks" ;
+maajaa IACONJ "he/she departs" ;
+minikwe IACONJ "he/she drinks" ;
+mino'endamo IACONJ "he/she is glad" ;
+naangide'e IACONJ "be carefree" ;
+    ! ninaangide'e, nayaangide'ed (prt)
+nagamo IACONJ "sing" ; 
+namadabi IACONJ "sit" ;
+nibaa IACONJ "he/she sleeps" ; ! vowel stem
+nisidotam IACONJ "he/she understands" ; ! am Stem 
+    ! ninisidotam, neg. 1p - ninisidotanziin
+odamino IACONJ "play" ;
+    ! final short vowel deletion with ni- and gi-: indodamin, gidodamin,
+    ! odamino
+ojibwemo IACONJ "he/she speaks Ojibwe" ;
+ojiindiwag IACONJ "kiss eachother" ;
+    ! indoojiindimin (1pl); prt wejiindijig
+onjibaa IACONJ "he/she comes" ;
+pikade IACONJ "he/she is hungry" ;
+wiisini IACONJ "he/she is eating" ;
+   ! final short vowel deletion with ni- and gi-: niwiisin, giwisiin,
+   ! wisiini
+zagaswe IACONJ "he/she smokes" ;
+zhaaganaashimo IACONJ "he/she speaks English" ;
+
+!! -mo 
+
+jaachaamo IACONJ "he sneezes (CH)" ;
+ishkwaanaamo IACONJ "he spots breathing (CH)" ;
+dadaatabanaamo IACONJ "he has fast respiration (CH)" ;
+bagidanaamo IACONJ "he breathes; he exhales (CH)" ;
+jakanaamo IACONJ "he has chest pains while breathing (CH)" ;
+gaaskanaamo IACONJ "he wheezes (CH)" ;
+nasanaamo IACONJ "he recovers his breath; he exhales (CH)" ;
+maazhimaagwanaamo IACONJ "he has bad breath (CH)" ;
+akwanaamo IACONJ "breath -short of breath; he takes short breaths" ;
+ikwanaamo IACONJ "he draws breath in (CH)" ;
+odaawaamo IACONJ "he speaks Odawa (Ottawa) (CH)" ;
+goji-nagamo IACONJ "sing   practice; try" ;
+mooshkamo IACONJ "he come up to water surface (CH)" ;
+wiikwamo IACONJ "he sucks (CH)" ;
+anishinaabemo IACONJ "Indian language; speaks Ojibwe" ;
+babaamademo IACONJ "he goes about crying (CH)" ;
+bimademo IACONJ "he walks along crying (CH)" ;
+inademo IACONJ "cry a certain way; go there crying;" ;
+
+biindigeshimo IACONJ "he dances inside (Grand Entry) (CH)" ;
+apikweshimo IACONJ "lie with his head on st" ;
+dazhishimo IACONJ "he dances there (CH)" ;
+babaamishimo IACONJ "he dances about (CH)" ;
+bimishimo IACONJ "he dances along (CH)" ;
+animishimo IACONJ "he dances away (CH)" ;
+apishimo IACONJ "he lies on st (CH)" ;
+gawishimo IACONJ "he goes to bed; he lies down (CH)" ;
+gii'igoshimo IACONJ "he fasts (for vision) (CH)" ;
+izhinizhimo IACONJ "he runs to there in flight; he runs there in flight" ;
+aapijinizhimo IACONJ "he flees for good (CH)" ;
+onjinizhimo IACONJ "he runs from there in flight (CH)" ;
+biminizhimo IACONJ "he runs along in flight (CH)" ;
+animinizhimo IACONJ "he runs away scared (CH)" ;
+ozhimo IACONJ "he escapes; he flees (CH)" ;
+zhaaganaashiimo IACONJ "he speaks English (CH)" ;
+wemitigoozhiimo IACONJ "he speaks French (CH)" ;
+dibaajimo IACONJ "he narrates; he tells (CH)" ;
+dadibaajimo IACONJ "he reports; he tells stories (CH)" ;
+maadaajimo IACONJ "he begins to tell; he starts to tell (CH)" ;
+biidaajimo IACONJ "he comes telling news (CH)" ;
+giizhaajimo IACONJ "he tells all (CH)" ;
+babaamaajimo IACONJ "news; he spreads the news about" ;
+bagamaajimo IACONJ "he arrives with news (CH)" ;
+inaajimo IACONJ "he narrates so; he tells so (CH)" ;
+wiinaajimo IACONJ "he tells a dirty story (CH)" ;
+minwaajimo IACONJ "he tells good news; he tells a good story (CH)" ;
+noojimo IACONJ "he recovers from an illness (CH)" ;
+zhakimo IACONJ "he puts (st) in his mouth (CH)" ;
+niikimo IACONJ "he growls (as a dog) (CH)" ;
+gichi-mookomaanimo IACONJ "English - speak" ;
+bwaanimo IACONJ "he speaks Dakota (CH)" ;
+giiwanimo IACONJ "he is deceptive in speech; he lies (tells lie) (CH)" ;
+na'enimo IACONJ "he stores things away (CH)" ;
+zhaagenimo IACONJ "he is introverted (CH)" ;
+onzaamenimo IACONJ "he is elated; he is overexcited (CH)" ;
+apenimo IACONJ "he depends (on st); he relys on st (CH)" ;
+ishpenimo IACONJ "he is proud; he thinks high of himself (CH)" ;
+apiitenimo IACONJ "he is proud of himself (CH)" ;
+agongosimo IACONJ "he speaks Scandinavian language (CH)" ;
+
+!! -de
+
+! cat /tmp/vai | cut -f 1 | lookup ../bin/ciw.fst -flags mbTT | grep '?' | grep 'de    ' | cut -f 1 | sed "s/'/\\\\'/g" | xargs -I {} grep "^{}    " /tmp/vai
+
+
+gaagiijigaade IACONJ "he has a sore leg (CH)" ;
+maakigaade IACONJ "he has a lame leg (CH)" ;
+dewigaade IACONJ "he has an ache in his leg (CH)" ;
+niboowigaade IACONJ "he has a numb leg (CH)" ;
+jiibadaakogaade IACONJ "he has a stiff leg (CH)" ;
+bookogaade IACONJ "leg - break; he has a broken leg" ;
+dangishkaade IACONJ "he kicks people (CH)" ;
+aagade IACONJ "burp" ;
+megade IACONJ "he burps (CH)" ;
+aakoshkade IACONJ "stomachache" ;
+maadoode IACONJ "he crawls off (CH)" ;
+giimaadoode IACONJ "he creeps away (CH)" ;
+zaagidoode IACONJ "he crawls out (CH)" ;
+biidoode IACONJ "he crawls here (CH)" ;
+biindoode IACONJ "he crawls in (CH)" ;
+ondoode IACONJ "he crawls from there (CH)" ;
+ajidagoode IACONJ "it hangs upside down (CH)" ;
+aandagoode IACONJ "change dress" ;
+biitagoode IACONJ "she puts on her dress (CH)" ;
+giitagoode IACONJ "she takes off her dress (CH)" ;
+zhegoode IACONJ "he crawls into a tight space (CH)" ;
+babaamoode IACONJ "he crawls about (CH)" ;
+bagamoode IACONJ "he arrives crawling (CH)" ;
+bimoode IACONJ "he crawls along (CH)" ;
+animoode IACONJ "he crawls away (CH)" ;
+inoode IACONJ "he crawls so; he crawls to there (CH)" ;
+
+!! -aa / go/be ?
+
+anami'aa IACONJ "he is Christian; he prays (CH)" ;
+gabaa IACONJ "disembark; get off a vehicle/boat" ;
+aabijiibaa IACONJ "revives" ;
+daa IACONJ "lives there; he resides" ;
+mizhaagaa IACONJ "he arrives (by water) (Wil)" ;
+biidaadagaa IACONJ "he swims here (CH)" ;
+ondaadagaa IACONJ "he swims from there (CH)" ;
+babaamaadagaa IACONJ "he swims about (CH)" ;
+bagamaadagaa IACONJ "he arrives swimming (CH)" ;
+bimaadagaa IACONJ "he swims along (CH)" ;
+animaadagaa IACONJ "he swims away (CH)" ;
+inaadagaa IACONJ "he swims there (CH)" ;
+aazhawaadagaa IACONJ "he swims across (CH)" ;
+agwaayaadagaa IACONJ "he swims ashore (CH)" ;
+biidweweyaadagaa IACONJ "he is heard swimming here (CH)" ;
+mizhagaa IACONJ "he comes ashore in canoe (CH)" ;
+bi-izhaa IACONJ "come" ;
+ani-maajaa IACONJ "leaves departs   starts off" ;
+gizhibaashkaa IACONJ "he goes in a circle (NO)" ;
+niibaashkaa IACONJ "he travels at night (CH)" ;
+nagaashkaa IACONJ "he halts; he stops moving (CH)" ;
+azhetaashkaa IACONJ "he makes a round trip (NO)" ;
+giiwitaashkaa IACONJ "he goes around; he encircle (CH)" ;
+gabeshkaa IACONJ "he goes to the end (CH)" ;
+azheshkaa IACONJ "he goes backwards (CH)" ;
+giziibweweshkaa IACONJ "he creaks; he squeaks in motion (CH)" ;
+gwanabishkaa IACONJ "he capsizes; he tips over (CH)" ;
+dibishkaa IACONJ "birthday - have" ;
+jiichiibishkaa IACONJ "he quivers (CH)" ;
+ombishkaa IACONJ "he goes upwards (CH)" ;
+bishagishkaa IACONJ "he peels off (CH)" ;
+oziigishkaa IACONJ "he wrinkles up (CH)" ;
+daashkigishkaa IACONJ "chop; split (wood" ;
+noogishkaa IACONJ "he stops (moving) (CH)" ;
+ombijiishkaa IACONJ "he has a swollen stomach (CH)" ;
+babaamishkaa IACONJ "he goes about by boat; he paddles about (CH)" ;
+ondamishkaa IACONJ "he is absent from home (occupied elsewhere)" ;
+bagamishkaa IACONJ "arrive paddling; he arrives by boat" ;
+biidaasamishkaa IACONJ "comes in a boat; he paddles here" ;
+bimishkaa IACONJ "he paddles along (CH)" ;
+animishkaa IACONJ "he goes away in a canoe; he paddles away (CH)" ;
+onishkaa IACONJ "he gets up (CH)" ;
+odaapishkaa IACONJ "he shrinks (CH)" ;
+onjishkawishkaa IACONJ "he goes against the wind (CH)" ;
+biigoshkaa IACONJ "break; he is broke (out of money); he is broken" ;
+niigoshkaa IACONJ "he is broken in two (CH)" ;
+gwayakoshkaa IACONJ "he goes straight; he goes the right way (CH)" ;
+bookoshkaa IACONJ "break in two; be broken in two" ;
+aazhooshkaa IACONJ "he goes across (CH)" ;
+gikaa IACONJ "he is elderly (CH)" ;
+gizhiikaa IACONJ "he goes as fast as he can; he goes fast (CH)" ;
+giishkikaa IACONJ "he tears; it tears (CH)" ;
+mamaazikaa IACONJ "he agitates; he moves (CH)" ;
+bezikaa IACONJ "move slowly; walks slowly" ;
+apiizikaa IACONJ "fast- go;  as possible; go with such a speed" ;
+aaboozikaa IACONJ "turns inside out" ;
+agigokaa IACONJ "he has a cold (CH)" ;
+wanendamaa IACONJ "he faints (CH)" ;
+agwaataa IACONJ "he comes ashore; he goes ashore (CH)" ;
+ishkwaataa IACONJ "he stops an activity; he is at the end of activity" ;
+anwaataa IACONJ "he finishes (work/activity) (CH)" ;
+azhetaa IACONJ "back up; go backwards; reverses" ;
+madwetaa IACONJ "he is heard in activity; he is heard doing (st)" ;
+wewiibitaa IACONJ "he hurries in activity; he hurries (doing st) (CH)" ;
+apiichitaa IACONJ "he is engaged in activity (CH)" ;
+dazhitaa IACONJ "plays there; he spends time there" ;
+gibichiitaa IACONJ "he takes a break (CH)" ;
+giizhiitaa IACONJ "he finishes a task; he finishes work (CH)" ;
+ozhiitaa IACONJ "he gets ready; he prepares (CH)" ;
+maajiitaa IACONJ "he starts an activity; he begins (CH)" ;
+nishkaajitaa IACONJ "he behaves angrily (CH)" ;
+maajitaa IACONJ "he starts an activity (CH)" ;
+gwekitaa IACONJ "he turns (his body) (CH)" ;
+zhagashkitaa IACONJ "he bends down (CH)" ;
+ojaanimitaa IACONJ "he is busy in activity (CH)" ;
+bagida'waa IACONJ "fish with a net; he sets a net" ;
+akwa'waa IACONJ "fish through the ice with spear;" ;
+manepwaa IACONJ "he is short of tobacco; he needs to smoke (CH)" ;
+waaswaa IACONJ "he shines for game/fish (CH)" ;
+zagaswaa IACONJ "he smokes tobacco (CH)" ;
+ayaa IACONJ "he is (in some place) (CH)" ;
+! bizaan(i)-ayaa IACONJ "quiet - be" ;
+babaa-ayaa IACONJ "around - be" ;
+ezhi-ayaa IACONJ "be" ;
+dibiki-ayaa IACONJ "dark - be" ;
+bagami-ayaa IACONJ "arrive" ;
+bimi-ayaa IACONJ "go along" ;
+dago-ayaa IACONJ "be among others" ;
+dadaakwanagweyaa IACONJ "he has short sleeves (CH)" ;
+gagaanonagweyaa IACONJ "he has long sleeves (CH)" ;
+
+
+
+!! VAI2 extracted from pdfs in Gikendandaa Ojibwemowin.
+!! All of these are -am stems. What is (CH)?
+
+aakwendam IACONJ "he/she has intense feelings/desires  (CH)" ;
+aanimendam IACONJ "he/she suffers mentally; he suffers emotionally; he suffers in mind  (CH) " ;
+aanizhiitam IACONJ "he/she changes his mind; he decides against; he gives up; he quits working  (CH) " ;
+agadendam IACONJ "he/she is ashamed; he feels shy  (CH)" ;
+agwaa'am IACONJ "he/she comes ashore in a boat; he lands  (CH)" ;
+animwewidam IACONJ "he/she goes away speaking  (CH)" ;
+ayaangwaamendam IACONJ "he/she pays attention  (CH)" ;
+baashkaawe'am IACONJ "he/she hatches  (CH)" ;
+babaamendam IACONJ "he/she pays attention; he worries  (CH)" ;
+bagosendam IACONJ "he/she hopes; he wish es  (CH)" ;
+banaadendam IACONJ "he/she despairs  (CH)" ;
+bapaakwa'am IACONJ "he/she comes out of the woods  (CH)" ;
+bawa'am IACONJ "he/she harvests wild rice; he knocks wild rice  (CH)" ;
+biidwewidam IACONJ "he/she comes making noise (e.g. thunder); he comes speaking  (CH) " ;
+biingeyendam IACONJ "he/she has something on his mind; he worries  (CH)" ;
+bizindam IACONJ "he/she listens  (CH)" ;
+boonam IACONJ "he/she lays an egg  (CH)" ;
+boonendam IACONJ "he/she gives up; he ignores; he doesn't think about  (CH)" ;
+danwewidam IACONJ "he/she is heard speaking there  (CH)" ;
+debaabam IACONJ "see somebody. at a distance; have somebody. in sight (vta) (CH) " ;
+debisewendam IACONJ "he/she think there is enough; he feels satisfied  (CH) " ;
+debwetam IACONJ "he/she agrees; he believes  (CH)" ;
+debwewidam IACONJ "he/she is heard speaking at a distance  (CH) " ;
+debweyendam IACONJ "he/she believes  (CH)" ;
+doodam IACONJ "he/she does (something.)  (CH)" ;
+gaawendam IACONJ "he/she is jealous  (CH)" ;
+gagwaanisagendam IACONJ "he/she considers things terrible  (CH)" ;
+gashkendam IACONJ "he/she is lonely; he is sad  (CH)" ;
+gawanaandam IACONJ "he/she starves  (CH)" ;
+gezikwendam IACONJ "he/she vaguely remembers  (CH)" ;
+giiwanaadingwaam IACONJ "he/she has a bad dream; he has a nightmare  (CH) " ;
+giiwashkweyaabandam IACONJ "he/she is dizzy; he feels unsteady  (CH) " ;
+giiwashkweyendam IACONJ "he/she is confused  (CH)" ;
+giiweyendam IACONJ "he/she thinks about going home; he thinks about returning  (CH)" ;
+giiwitaa'am IACONJ "he/she goes around a bay/point in a canoe  (CH) " ;
+giizhendam IACONJ "he/she made up his mind; he has his mind made up  (CH) " ;
+googa'am IACONJ "he/she (fish) jumps out of the water  (CH)" ;
+gwayakotam IACONJ "he/she finds out the truth; he hears the right thing  (CH) " ;
+gwayakowendam IACONJ "he/she thinks correctly  (CH)" ;
+gwayakwendam IACONJ "he/she is certain; he thinks correctly  (CH) " ;
+gwekendam IACONJ "he/she changes his mind  (CH)" ;
+gwiinawi-doodam IACONJ "he/she doesn't know what to do  (CH) " ;
+gwiinawi-inendam IACONJ "he/she doesn't know what to think  (CH)" ;
+inaabandam IACONJ "he/she dreams so  (CH)" ;
+ina'am IACONJ "he/she sings so  (CH)" ;
+inendam IACONJ "he/she agrees; he decides; he feels so; he is of a certain mind; he thinks so  (CH) " ;
+initam IACONJ "he/she hears such a noise; he understands so  (CH)" ;
+inwewidam IACONJ "he/she is heard speaking going there  (CH)" ;
+ishkendam IACONJ "he/she is disturbed  (CH)" ;
+jekaakwa'am IACONJ "he/she goes into the woods; he goes into wilds  (CH) " ;
+jiigewe'am IACONJ "he/she paddles along the shore  (CH)" ;
+jiikendam IACONJ "he/she is happy (CH)" ;
+maa'ishkam IACONJ "he/she shops  (CH)" ;
+maajii'am IACONJ "he/she starts to sing  (CH)" ;
+maamakaadendam IACONJ "he/she is amazed; he is astonished  (CH)" ;
+maaminonendam IACONJ "he/she considers; he ponders; he thinks  (CH)" ;
+maanendam IACONJ "he/she feels bad, he feels depressed  (CH)" ;
+maazhendam IACONJ "he/she feels depressed; he feels bad; he feels out of sorts  (CH)" ;
+maazhingwaam IACONJ "he/she sleeps uncomfortably (vta) (CH)" ;
+madwengwaam IACONJ "he/she makes noise in his sleep; he snores  (CH)" ;
+mamiidaawendam IACONJ "he/she is disturbed in his mind; he is troubled in his mind  (CH) " ;
+maminaadendam IACONJ "he/she has an arrogant attitude; he has proud thoughts  (CH)" ;
+mayagendam IACONJ "he/she feels strange  (CH)" ;
+migoshkaadendam IACONJ "he/she is annoyed  (CH)" ;
+miigwechiwendam IACONJ "he/she is thankful  (CH)" ;
+mikwendam IACONJ "he/she has things come to his mind; he recollects; he remembers  (CH) " ;
+mimigoshkam IACONJ "he/she jigs (something.) (e.g. wild rice); he threshes (something.)(wild rice); he threshes wild rice  (CH)" ;
+minotam IACONJ "he/she likes hearing (something.); he likes the sound  (CH)" ;
+minwendam IACONJ "he/she is glad; he is happy  (CH)" ;
+misawendam IACONJ "he/she desires; he wants  (CH)" ;
+mooka'am IACONJ "he/she (the sun) rises; it is sunrise  (CH)" ;
+naagadawendam IACONJ "he/she thinks  (CH) " ;
+naanaagadawendam IACONJ "he/she considers; he thinks  (CH) " ;
+nandawendam IACONJ "he/she desires; he wants  (CH) " ;
+nishkendam IACONJ "he/she feels angry; he feels mad  (CH) " ;
+noodendam IACONJ "he/she flirts  (CH)" ;
+noondam IACONJ "he/she hears  (CH)" ;
+ojaanimendam IACONJ "he/she is anxious; he is impatient  (CH)" ;
+ombendam IACONJ "he/she is excited; he is hopeful  (CH)" ;
+ondamendam IACONJ "he/she is preoccupied; he is worried  (CH) " ;
+ondendam IACONJ "he/she strongly desires  (CH)" ;
+onendam IACONJ "he/she decides what to do; he figures something. out  (CH) " ;
+onjishkawa'am IACONJ "he/she paddles against the wind  (CH) " ;
+onzaamendam IACONJ "he/she gives too much consideration  (CH) " ;
+onzaamigidndam IACONJ "he/she is over angry  (Wil)" ;
+osidaawendam IACONJ "he/she is dejected; he is sad; he is sorrowful  (CH)" ;
+wanendam IACONJ "he/she forgets  (CH)" ;
+wanishkweyendam IACONJ "he/she is distracted  (CH) " ;
+wewiibendam IACONJ "he/she is eager; he wants to hurry  (CH) " ;
+wiisagendam IACONJ "he/she suffers pain  (CH)" ;
+zaaga'am IACONJ "he/she exits; he goes out; he goes to the toilet  (CH) " ;
+zanagendam IACONJ "he/she considers things hard  (CH) " ;
+zegaabandam IACONJ "he/she has a scary dream  (CH)" ;
+zegendam IACONJ "he/she is fearful; he is nervous  (CH)" ;
+
+aazhawa'am IACONJ "boat   cross by; go across by boat" ;
+zhigingwaam IACONJ "he wets the bed (CH)" ;
+giikaawidam IACONJ "he argues (BR)" ;
+bezhigwendam IACONJ "agree together (Wil)" ;
+bimijiishkiwagaham IACONJ "he walks in the mud (AL)" ;
+nizhike'okam IACONJ "he is alone in the canoe (Wil)" ;
+
+!! VAI3 extracted from pdfs in Gikendandaa Ojibwemowin
+!! All of these are -shin stems. What is (CH)?
+
+aanikooshin IACONJ "he/she lies joining something else (CH)" ;
+aapijishin IACONJ "he/she dies from falling; he has a fatal fall; he dies from a fall (CH)" ;
+aateyaabikishin IACONJ "he/she (moon/sun) is darkened (CH)" ;
+aatwaakoshin IACONJ "he/she leans against (wood-like) (CH)" ;
+aazhawaakoshin IACONJ "he/she (wood-like) lies across (CH)" ;
+aazhigijishin IACONJ "he/she lies face up; he falls over backwards (CH) " ;
+abashkwebiigininjiishin IACONJ "he/she has a blister on his hand (CH) " ;
+abashkwebiigizideshin IACONJ "he/she has a blister on his foot (CH)" ;
+agawaateshin IACONJ "he/she is in shade; he is in shadow (CH)" ;
+agoojin IACONJ "he/she hangs (e.g. star/sun/moon); he is in the sky (sun/moon/star) (CH) " ;
+agwaagwaabikishin IACONJ "he/she turns rusty (CH)" ;
+ajidagoojin IACONJ "he/she hangs upside down (CH)" ;
+animikoshin IACONJ "he/she lays face down; he lies face down (CH)" ;
+anweshin IACONJ "he/she rests lying down (CH)" ;
+apangishin IACONJ "he/she falls down against (CH)" ;
+apiichishin IACONJ "he/she lies to such a depth; he lies so deep (CH)" ;
+baakishin IACONJ "he/she is open; he is uncovered; he lies uncovered (CH)" ;
+baasinbideshin IACONJ "he/she falls and cracks his head (CH)" ;
+baasishin IACONJ "he/she cracks on impact; he shatters on impact (CH)" ;
+baataashin IACONJ "he/she is stuck (CH)" ;
+badagwiingwesgin IACONJ "he/she lies with his face covered (CH)" ;
+bakiteshin IACONJ "he/she falls down hard (CH)" ;
+banaajishin IACONJ "he/she spoils (CH)" ;
+bangishin IACONJ "he/she falls (CH)" ;
+bibagishin IACONJ "he/she lies in a thin layer (CH)" ;
+biidweweshin IACONJ "he/she is heard walking here (CH)" ;
+biigoshin IACONJ "he/she breaks on impact (CH)" ;
+biimiskonikeshin IACONJ "he/she falls and twists his arm (CH)" ;
+biitooshin IACONJ "he/she lies in a layer (CH)" ;
+bimweweshin IACONJ "he/she is heard going along and falling; he is heard walking along (CH) " ;
+bitaakondibeshin IACONJ "he/she bumps his head (CH)" ;
+bitaakoshin IACONJ "he/she bumps (something.); he hits against (something. wooden) accidentally (CH) " ;
+bizaanishin IACONJ "he/she lies still (CH)" ;
+bizogeshin IACONJ "he/she stumbles; he trips (CH)" ;
+bizozideshin IACONJ "he/she stubs his toe (CH)" ;
+bookogaadeshin IACONJ "he/she falls and breaks his leg (CH)" ;
+bookonikeshin IACONJ "he/she falls and breaks his arm; he breaks his arm (CH)" ;
+bookwaawiganeshin IACONJ "he/she falls and breaks his back (CH)" ;
+daangishin IACONJ "he/she lies touching (CH)" ;
+dagoshin IACONJ "he/she arrives (by land) (CH)" ;
+dakishin IACONJ "he/she cools off (CH)" ;
+dazhishin IACONJ "he/she is buried there; he lies there (CH)" ;
+dewipikwan IACONJ "he/she has backache; his back aches; he has pain in his back (CH)" ;
+ezhininjiishin IACONJ "he/she leaves a handprint (CH)" ;
+gakakishin IACONJ "he/she has a square pattern (CH)" ;
+gibitaneshin IACONJ "he/she bloodies his nose falling (CH)" ;
+giiwashkweshin IACONJ "he/she is knocked senseless in impact (CH) " ;
+giizhkishin IACONJ "he/she gets cut falling (CH)" ;
+giizhooshin IACONJ "he/she lies in warmth (CH)" ;
+gipagishin IACONJ "he/she lies in a thick layer (CH)" ;
+godigoshin IACONJ "he/she is injured in a fall (CH)" ;
+gwayakoshin IACONJ "he/she lies correctly; he lies straight (CH) " ;
+gwekishin IACONJ "he/she turns lying in place (CH)" ;
+ikoshin IACONJ "he/she lies out of the way (CH)" ;
+inaasamishin IACONJ "he/she lies facing so (CH)" ;
+inagoojin IACONJ "he/she hangs so (CH)" ;
+inikweshin IACONJ "he/she lies with his head so; he lies with head placed so (CH) " ;
+ishkwegoojin IACONJ "he/she hangs at the end (CH)" ;
+ishkweshin IACONJ "he/she lies at the end (CH)" ;
+ishpishin IACONJ "he/she lies high up (CH)" ;
+izhishin IACONJ "he/she lies so (CH)" ;
+jaangidiyeshin IACONJ "he/she lies with his rear end sticking out (CH) " ;
+jaanidiyeshin IACONJ "he/she lies with rear end sticking out (CH)" ;
+madwesagishin IACONJ "he/she is heard falling on the floor; he is heard walking on the floor (VAI3)(CH) " ;
+madweshin IACONJ "he/she makes noise hitting; he rings (CH)" ;
+mazinishin IACONJ "he/she has a design; he is imprinted (CH)" ;
+michishin IACONJ "he/she lies uncovered (CH)" ;
+minoshin IACONJ "he/she lies comfortably; he lies in a good position (CH)" ;
+nabagijiishin IACONJ "he/she has a flat tire (CH)" ;
+nameshin IACONJ "he/she leaves signs of his presence (CH) " ;
+neshangishin IACONJ "he/she lies limp; he lies relaxed (CH)" ;
+niigaanagoojin IACONJ "he/she hangs in front (CH)" ;
+niigoshin IACONJ "he/she breaks on impact (CH)" ;
+niiwanishin IACONJ "he/she dies in an accident (CH)" ;
+noondeshin IACONJ "he/she is exhausted; he is fatigued (CH)" ;
+ojichaagobiishin IACONJ "he/she reflects in water (CH)" ;
+okoshin IACONJ "he/she lies in a pile (CH)" ;
+onagoojin IACONJ "he/she hangs in place (CH)" ;
+opimeshin IACONJ "he/she lies on (his) side (CH)" ;
+oshkagoojin IACONJ "it is a new moon (CH)" ;
+oshki-agoojin IACONJ "it is a new moon (CH)" ;
+ozhaashikoshin IACONJ "he/she slips and falls on the ice (CH)" ;
+ozhaashishin IACONJ "he/she slips and falls (CH)" ;
+wanishin IACONJ "he/she goes astray; he gets lost; he is lost (CH)" ;
+zaagaakoshin IACONJ "he/she lies sticking out (CH)" ;
+zaateshin IACONJ "he/she turns rancid (CH)" ;
+zegigaadeshin IACONJ "he/she sprains his leg (CH)" ;
+zeginikeshin IACONJ "he/she sprains his arm (CH)" ;
+zegizideshin IACONJ "he/she sprains his foot (CH)" ;
+ziindaakoshin IACONJ "he/she (wood-like) is wedged in tightly (CH)" ;
+zoongishin IACONJ "he/she lies firmly fixed (CH)" ;
+zhegoshin IACONJ "he/she lies in a tight place (CH)" ;
+zhingadeshin IACONJ "he/she lies flat; he lies spread out (CH)" ;
+zhingishin IACONJ "he/she lies down (CH)" ;
+
+!! dw- ?
+
+dwaashin IACONJ "he falls through the ice (CH)" ;
+bishagigidigweshin IACONJ "he skins his knee (CH)" ;
+moozhagishin IACONJ "he is always there (Wil)" ;
+bakitejiishkiwagishin IACONJ "he falls in the mud (AL)" ;
+ozhaashijiishkiwagishin IACONJ "he slips in the mud (AL)" ;
+aajijiishkiwagishin IACONJ "mud blocked by" ;
+wiisaghishin IACONJ "he hurts; he gets hurt (CH)" ;
+maazhishin IACONJ "he lies uncomfortably (CH)" ;
+ezhishin IACONJ "he leaves a mark (CH)" ;
+nawaj% onizhishin IACONJ "it is better (PC) + (Wil)" ;
+apishin IACONJ "he lays as padding (CH)" ;
+daghoshin IACONJ "he arrives (by land) (CH)" ;
+bimaakoshin IACONJ "lie along (wood like)" ;
+
+
+LEXICON IISTEM   !!= @CODE@ 
+
+ozhaawashkwaa IICONJ "bleuir" ;
+minomaagwad IICONJ "hs/she smells good" ;
+gozigwan IICONJ "he/she/it is heavy" ;
+
+!! TODO: these need morphology
+
+LEXICON TASTEM_am   !!= @CODE@ 
+aabaji':aabaji'     TACONJ_am       "use s.o." ;
+abwaazh:abwaan      TACONJ_am       "roast s.o." ;
+agoozh:agoon        TACONJ_am       "hang s.o." ;
+amajwebin:amajwebin TACONJ_am       "shake s.o. awake" ;
+ashi:as             TACONJ_am       "put s.o. down" ;
+baabii':baabii'     TACONJ_am       "wait for s.o." ;
+baashkiz:baashkizw  TACONJ_am       "shoot s.o." ;
+    ! imbaashkizwaa
+dakwam:dakwam       TACONJ_am       "bite s.o." ;
+waabam:waabam       TACONJ_am       "see" ;
+
+LEXICON TASTEM_aw   !!= @CODE@ 
+
+aaniikanootaw:aanikanoot            TACONJ_am   "translate s.o." ;
+ayaaw:aya                           TACONJ_am   "to know" ;
+anishinaabemotaw:anishinaabemot     TACONJ_am   "to speak Ojibwe to s.o." ;
+    ! indanishinaabemotawaa
+amo:amw                             TACONJ_am   "to eat s.o." ;
+    ! NOTE: indamwaa?
+baakaakonamaw:baakaakonam           TACONJ_am   "open s.t. for s.o." ;
+    ! nibaakaakonamawaa
+baakinamaw:baakinam                 TACONJ_am   "uncover st for s.o." ;
+    ! nibaakinamawa
+bizindaw:bizind                     TACONJ_am   "listen (to s.o.?)" ;
+    ! nibizindawaa
+biizikaw:biizik                     TACONJ_am   "put s.o. on" ;
+ininamaw:ininam                     TACONJ_am   "hand s.t. to s.o." ;
+mikaw:mik                           TACONJ_am   "find s.o." ;
+    ! nimikawaa
+dazhiikaw:daazhik                   TACONJ_am   "work on s.o." ;
+
+
+
+!! !! -zo passives
+
+!! TODO: morphology for the -zo passives
+
+LEXICON ZO   !!= @CODE@ 
+gaashkibaazo # "shaves" ;
+animagidaazo # "he goes away mad (CH)" ;
+giiwegidaazo # "he goes home mad (CH)" ;
+apiichigidaazo # "he is so angry (CH)" ;
+maajiigidaazo # "he goes off angry; he goes off mad (CH)" ;
+zaagijigidaazo # "he goes out angry (CH)" ;
+biijigidaazo # "he comes in anger (CH)" ;
+bagamigidaazo # "he arrives mad (CH)" ;
+animigidaazo # "he goes away mad (CH)" ;
+ziiga'andaazo # "he is baptized (Wil)" ;
+doodaazo # "he does (st) to himself (CH)" ;
+gaazo # "he hides himself (CH)" ;
+aaba'igaazo # "undone/untied" ;
+giba'igaazo # "plugged   be; stopped" ;
+izhinizha'igaazo # "he is sent there (CH)" ;
+gashkaabika'igaazo # "he is locked (CH)" ;
+badagwana'igaazo # "he is covered (CH)" ;
+biina'igaazo # "he is put in (CH)" ;
+gawa'igaazo # "he is chopped down (CH)" ;
+bagwa'igaazo # "he wears patch es; he is patched (CH)" ;
+ningwa'igaazo # "he is buried (CH)" ;
+gibaakwa'igaazo # "he is imprisoned (CH)" ;
+zagaakwa'igaazo # "he is fastened; he is pinned (CH)" ;
+nandone'igaazo # "he is looked for (CH)" ;
+bakite'igaazo # "he is hit; he is struck (CH)" ;
+achigaazo # "he is put there (CH)" ;
+zaagichigaazo # "he is loved; he is held stingily (CH)" ;
+wawezhichigaazo # "he is decorated (CH)" ;
+izhichigaazo # "he is made so (CH)" ;
+giizhichigaazo # "he is finished (CH)" ;
+ozhichigaazo # "he is built; he is made (CH)" ;
+biinichigaazo # "he is cleaned (CH)" ;
+boonichigaazo # "he is left alone (CH)" ;
+zaaguchigaazo # "he is treasured (CH)" ;
+niisiiwezhigaazo # "he is fringed (CH)" ;
+miigaazo # "he fights (CH)" ;
+gaajigaazo # "he is hidden (CH)" ;
+naajigaazo # "he is fetched; he is picked up (CH)" ;
+biindegajigaazo # "he is brought in (Wil)" ;
+gashkibijigaazo # "wrapped and tied in a bundle" ;
+giishkibijigaazo # "he is torn off (CH)" ;
+biigobijigaazo # "he is ripped; he is torn (CH)" ;
+wiikobijigaazo # "he is pulled (CH)" ;
+baagijigaazo # "he is struck by lightning (CH)" ;
+biijigaazo # "he is brought (CH)" ;
+maajiijigaazo # "he is taken along (CH)" ;
+agonjijigaazo # "he is put in to soak (CH)" ;
+agwapijigaazo # "he is hitched on; he is tied on (CH)" ;
+agwaasijigaazo # "he is taken ashore; he is taken of the fire (CH)" ;
+izhwijigaazo # "he is carried to there (CH)" ;
+izhiwijigaazo # "he is taken there (CH)" ;
+onaabanjigaazo # "he is chosen; he is picked (CH)" ;
+waabanjigaazo # "he is seen (CH)" ;
+ganawaabanjigaazo # "watched   be; looked at; on parole" ;
+dibenjigaazo # "member   be initiated; owned" ;
+bagidenjigaazo # "he is buried (CH)" ;
+ganawenjigaazo # "taken care of ; on parole" ;
+aginjigaazo # "he is counted (CH)" ;
+waawiinjigaazo # "he is talked about all the time (CH)" ;
+mikigaazo # "he is found (CH)" ;
+mamigaazo # "he is picked up; he is taken (CH)" ;
+webinigaazo # "he is thrown away (CH)" ;
+bagidinigaazo # "let go; be offered; released; set down" ;
+ondinigaazo # "he is obtained from there (CH)" ;
+inaaginigaazo # "he is bent so (CH)" ;
+asiginigaazo # "he is gathered up (CH)" ;
+zagakinigaazo # "he is put away; he is tidied (CH)" ;
+ininigaazo # "he is held so; he is handled so (CH)" ;
+odaapinigaazo # "he is accepted; he is taken (CH)" ;
+ginigawinigaazo # "he is mixed (CH)" ;
+dagonigaazo # "he is added/mixed in (CH)" ;
+zhiigonigaazo # "he is emptied (CH)" ;
+dibaakonigaazo # "he is judged; he is sentenced (CH)" ;
+inaakonigaazo # "he is sentenced (CH)" ;
+ishkonigaazo # "he is held back; he is reserved; he is saved back" ;
+ikonigaazo # "he is evicted; he is sets out of the way (CH)" ;
+animikonigaazo # "face down   turned; face backwards" ;
+baasigaazo # "he is dried (CH)" ;
+gibokiwasigaazo # "he is glued shut (CH)" ;
+gitigaazo # "he is planted (CH)" ;
+nibekaazo # "he pretends to sleep (CH)" ;
+bakadekaazo # "he pretends to be hungry (CH)" ;
+anokiikaazo # "he pretends to work (CH)" ;
+maawiikaazo # "he pretends to cry (CH)" ;
+mawiikaazo # "he pretends to cry (CH)" ;
+aakoziikaazo # "sick   pretends to be" ;
+ishkwenikaazo # "he has the last name (CH)" ;
+maazhinikaazo # "he has an ugly name (CH)" ;
+izhinikaazo # "he is named so (CH)" ;
+anishinaabewinikaazo # "he is called in Ojibwe /Indian (CH)" ;
+abinoojiinyikaazo # "he pretends to be a child (CH)" ;
+wiidookaazo # "he helps (CH)" ;
+manidookaazo # "he takes on spiritual power by his own authority" ;
+bima'amaazo # "he goes along singing (CH)" ;
+anima'amaazo # "he goes away singing (CH)" ;
+ondinamaazo # "he gets (st) from there for himself (CH)" ;
+adaawetamaazo # "he buys st for himself (CH)" ;
+anokiitaazo # "he works for himself (CH)" ;
+gashkigwaazo # "sewn   be;" ;
+zaasakokwaazo # "he is fried (CH)" ;
+gaaskanazo # "he whispers (CH)" ;
+awazo # "he warms himself by the fire (CH)" ;
+abizidezo # "he warms his feet (CH)" ;
+abaawiganezo # "he warms his back (CH)" ;
+baashkinezo # "he steams (CH)" ;
+nesezo # "he pants (like a dog) (CH)" ;
+abwezo # "he sweats (CH)" ;
+gizhibaabizo # "he revolves; he spins; he whirls (CH)" ;
+niibaabizo # "he drives/flies/moves/speeds at night (CH)" ;
+waabizo # "he is bleached; he is faded (CH)" ;
+biindigebizo # "inside drive/fly/move/speed inside" ;
+animaazakonenjigebizo # "he drives away with light (CH)" ;
+aazhogebizo # "across drives (speeds/flies/moves)" ;
+naanaabishebizo # "he wears earrings (CH)" ;
+azhebizo # "he backs up a vehicle (CH)" ;
+bakebizo # "he drives/speeds off to the side (CH)" ;
+jiiskinikebizo # "he wears arm garters; he wears a bracelet (CH)" ;
+biidaazakonebizo # "he drives here with a light (CH)" ;
+gashkidaasebizo # "he wears leg garters (CH)" ;
+akwaandaawebizo # "he climbs up fast (CH)" ;
+niisaandawebizo # "he climbs down fast (CH)" ;
+zaagewebizo # "he drives/speeds suddenly into view (CH)" ;
+jiigewebizo # "he drives/flies/moves/speeds along the shore" ;
+wewebizo # "he swings (CH)" ;
+biidwewebizo # "speeding here; heard speeding along" ;
+animiwewebizo # "drives/speeds/moves/flies away with noise" ;
+bimwewebizo # "heard driving/speeding along (CH)" ;
+animwewebizo # "drives/speeds/moves/flies away with noise;" ;
+didibibizo # "he rolls (CH)" ;
+ombibizo # "he flies/speeds upwards (CH)" ;
+noogibizo # "he stops driving/speeding (CH)" ;
+apiichibizo # "drives - machine drives/flies/runs/with speed" ;
+maazhibizo # "he operates poorly; he (a car) runs poorly (CH)" ;
+gizhiibizo # "he drives/flies/moves/speeds fast (CH)" ;
+bejibizo # "he drives/moves slowly (CH)" ;
+biijibizo # "he drives/flies/moves/speeds here (CH)" ;
+ajijibizo # "he falls head first (CH)" ;
+biinjibizo # "he drives/flies/moves/speeds in (CH)" ;
+gwekibizo # "he turns driving (CH)" ;
+gashkibizo # "wrapped and tied in a bundle" ;
+babaamibizo # "he drives/speeds/flies/moves about (CH)" ;
+bagamibizo # "arrive driving/flying/speeding" ;
+bimibizo # "drives/flies/moves/speeds along" ;
+animibizo # "drive/speeds/moves/flies away" ;
+wanibizo # "he gets lost driving (CH)" ;
+wanibizo # "he is lost driving (CH)" ;
+wanibizo # "he gets lost driving (CH)" ;
+wanibizo # "he is lost driving (CH)" ;
+gotigobizo # "he goes out of place; he rolls over (CH)" ;
+angobizo # "he wears out in operation (CH)" ;
+dakobizo # "tied; be bound in a cradle board; he is tied" ;
+minobizo # "he (a car) runs well (CH)" ;
+doodaadizo # "he does (st) to himself (CH)" ;
+gikinoo'amaadizo # "he teaches himself (CH)" ;
+bichinaadizo # "he shoots himself accidentally (CH)" ;
+nawadizo # "he catches fire (CH)" ;
+wewese'idizo # "he fans himself (CH)" ;
+izhinaago'idizo # "he transforms himself in appearance (CH)" ;
+aanzinaago'idizo # "change his appearance; transforms" ;
+naaba'anidizo # "he steps in the same tracks (CH)" ;
+agadenidizo # "he is ashamed of himself (CH)" ;
+giboobinidizo # "he zips himself up (CH)" ;
+zhiginidizo # "he pisses on himself; he urinates on himself" ;
+giishkiganzhiikonidizo # "he cuts his own nails (CH)" ;
+nisidizo # "he commits suicide; he kills himself (CH)" ;
+waabandizo # "he sees himself (CH)" ;
+wanishindizo # "he causes himself to go astray (Wil)" ;
+anaamindizo # "he blames himself (CH)" ;
+dibenindizo # "independent   be; be own master" ;
+zagaakwa'odizo # "he buttons up himself (CH)" ;
+giziiyaabide'odizo # "he brushs his teeth (CH)" ;
+bapasininjii'odizo # "he clap his hands (CH)" ;
+giishkizhodizo # "he cuts himself (CH)" ;
+jaagizodizo # "he burns himself (CH)" ;
+baashkizodizo # "he shoots himself (CH)" ;
+jaagizo # "he burns up (CH)" ;
+bagizo # "he bathes; he goes swimming (Wil)" ;
+gwekibagizo # "he rights self; he turns quickly (CH)" ;
+washkibagizo # "he turns in place (CH)" ;
+apagizo # "throw self down against st" ;
+ningizo # "he melts; he thaws (CH)" ;
+gizhizo # "he has a fever; he is hot (CH)" ;
+gichi-gizhizo # "pneumonia - have" ;
+giizhizo # "he is done cooking (CH)" ;
+abininjiizo # "he warms his hands (CH)" ;
+jaagaakizo # "he burns up (CH)" ;
+onzaamaakizo # "he is burnt to crisp (CH)" ;
+inaakizo # "burn certain way" ;
+mazinaakizo # "he is photographed; he is pictured (CH)" ;
+bagwaakizo # "he has a hole burned in (CH)" ;
+badakizo # "planted be in; he stands up from a surface" ;
+zakizo # "he burns; he has a fire at his place (CH)" ;
+ashkizo # "he is cooked incompletely (CH)" ;
+baashkizo # "he blows up; he explodes (CH)" ;
+waasaabikizo # "he (mineral) reflects; he (mineral) shines (CH)" ;
+agwaabikizo # "he burns to the pan (CH)" ;
+nookizo # "he is cooked tender (CH)" ;
+gaaskizo # "he is dried out; he is shriveled (CH)" ;
+onzaamizo # "he is overcooked (CH)" ;
+madwegamizo # "he makes noise boiling (CH)" ;
+gwiishkoshwewegamizo # "he whistles from boiling (CH)" ;
+gwiishkoshwegamizo # "he whistles boiling (CH)" ;
+ziigigamizo # "he boils over (CH)" ;
+iskigamizo # "he boils down (CH)" ;
+basangwaabapizo # "he is blindfolded (CH)" ;
+zagapizo # "he is tied on; he is towed (CH)" ;
+onapizo # "he is harnessed; he is tied in place (CH)" ;
+mashkawapizo # "he is tied tight (CH)" ;
+okwapizo # "he is tied in a bunch (CH)" ;
+ipizo # "he drives/flies/speeds there (CH)" ;
+giizhoopizo # "he is wrapped up warm (CH)" ;
+baasizo # "he cracks from heat (CH)" ;
+giizizo # "he is done cooking (CH)" ;
+waabaanzo # "he is colored grey (CH)" ;
+giizhaanzo # "he is fully ripe (CH)" ;
+waabishkaanzo # "he is colored white (CH)" ;
+bishagiishkaanzo # "he is dark colored (CH)" ;
+inaanzo # "he is colored so (CH)" ;
+ashkibagong% inaanzo # "colored green; he is colored leaf" ;
+miinaanzo # "he is colored purple (CH)" ;
+ozaawaanzo # "he is colored yellow (CH)" ;
+makadewaanzo # "he is colored black (CH)" ;
+ozhaawashkwaanzo # "he is colored blue; he is colored green (CH)" ;
+miskwaanzo # "he is colored red (CH)" ;
+minwaanzo # "he is a good color; he is of a good color (CH)" ;
+banzo # "he is singed (CH)" ;
+aginzo # "belong to a group; is counted" ;
+maadaginzo # "a month begins; it is the first day of a month" ;
+aandaginzo # "count over" ;
+wendaginzo # "he is cheap (CH)" ;
+apiitaginzo # "price - have such a height; it has such a price" ;
+dagwaginzo # "he is counted in; he is included (CH)" ;
+biinzo # "he is in (CH)" ;
+wiinzo # "he has a name (CH)" ;
+mawinzo # "he picks berries (CH)" ;
+onzo # "he boils (CH)" ;
+bakaakadozo # "skinny   be; thin" ;
+dagozo # "he is cooked with st else (CH)" ;
+biigozo # "he breaks by heat (CH)" ;
+baapaagokozo # "he gets a haircut (CH)" ;
+gibwanaamozo # "he suffocates from smoke (CH)" ;
+minozo # "he is cooked well; he is well cooked (CH)" ;
+gashka'oozo # "he is tangled (CH)" ;
+bakiboozo # "he breaks from rubbing (CH)" ;
+minjimishkoozo # "he is held in place (CH)" ;
+dasoozo # "he is trapped (CH)" ;
