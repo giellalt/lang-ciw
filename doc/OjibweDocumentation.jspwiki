@@ -1,0 +1,44 @@
+
+These pages document our work on Ojibwe.
+
+!!!The language
+
+Ojibwe is an Algonquin language spoken in Canada and the United States.
+There are dialect differences within the language. The principal source
+of our analyser presents the Minnesota dialect, using the Double Vowel, 
+or so-called Fiero system. This system is characterised by marking vowel
+length by writing double vowel symbols.
+
+!!! Our ojibwe analyser
+
+* [Ojibwe text analysis|http://giellatekno.uit.no/cgi/d-ciw.eng.html] 
+* [Ojibwe paradigm generation|http://giellatekno.uit.no/cgi/p-ciw.eng.html] 
+* [Ojibwe wordform generation|http://giellatekno.uit.no/cgi/g-ciw.eng.html]
+
+
+
+!!!Documentation of the analyser
+
+The analyser is in an initial state, and contains only a handful of verbs.
+
+* [Grammatical tags|OjibweGrammaticalTags.html]
+* [A list of the words used so far|OjibweWordList.html]
+* [Notes on verb inflection|VerbNotes.html]
+* [Notes on morphophonology|MorphoPhonologyNotes.html], mostly verbs for now
+
+!!!Sources
+
+We have so far used the following two sources:
+
+# The ''chart'' verb paradigms of the web page [Anishinaabemowin, Ojibwe Language|http://weshki.atwebpages.com/oj_verbs.html]
+# [The article on Ojibwe grammar|http://fr.wikipedia.org/wiki/Grammaire_de_l%27ojibwé] on the French Wikipedia
+# [Gikendandaa Ojibwemowin!|http://jamesastarkeyjr.com/Ojibwemowin/Pages/Index.htm] has lists of different classes of verbs in PDF format, collected from [Weshki|http://weshki.atwebpages.com] online ojibwe dictionary
+
+Additional sources to peruse
+
+* [Ojibwe Vocabulary Project, Working Session July 6-8, 2009|http://minnesotahumanities.org/resources/Book%20Contents.pdf]. Lots of words, but it appears that the encoding is a bit weird and thus hard to export data from the PDF.
+* [Kwayaciiwiin|http://www.kwayaciiwin.com/node/15336] has some very big, free dictionaries in both latin and canadian syllabics, and verbs are marked in a roundabout way (otherwise no PoS and inflectional category information)
+* Anton Truer at Bemidji state has collected a fair amount of resources and wordlists, which are published online, however it may be that he would be willing to donate plaintext wordlists as well.
+
+
+
