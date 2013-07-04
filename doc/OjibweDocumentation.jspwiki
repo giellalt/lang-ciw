@@ -1,30 +1,28 @@
 
-These pages document our work on Ojibwe.
+[What is this?|WhatIsThis.html]
 
-!!!The language
+!!! Dynamic documentation
 
-Ojibwe is an Algonquin language spoken in Canada and the United States.
-There are dialect differences within the language. The principal source
-of our analyser presents the Minnesota dialect, using the Double Vowel, 
-or so-called Fiero system. This system is characterised by marking vowel
-length by writing double vowel symbols.
-
-!!! Our ojibwe analyser
-
-* [Ojibwe text analysis|http://giellatekno.uit.no/cgi/d-ciw.eng.html] 
-* [Ojibwe paradigm generation|http://giellatekno.uit.no/cgi/p-ciw.eng.html] 
-* [Ojibwe wordform generation|http://giellatekno.uit.no/cgi/g-ciw.eng.html]
+* [Links to generated source file documentation|Links.html]
+* Source files: [stems|https://victorio.uit.no/langtech/trunk/langs/ciw/src/morphology/stems/]   
+  / [affixes|https://victorio.uit.no/langtech/trunk/langs/ciw/src/morphology/affixes/] 
+  / [twolc|https://victorio.uit.no/langtech/trunk/langs/ciw/src/phonology/ciw-phon.twolc]   
+  / [yaml|https://victorio.uit.no/langtech/trunk/langs/ciw/test/src/morphology/]
+* [Generation of paradigms|http://giellatekno.uit.no/cgi/p-ciw.eng.html]
+ and [text analysis|http://giellatekno.uit.no/cgi/d-ciw.eng.html]
 
 
 
 !!!Documentation of the analyser
 
-The analyser is in an initial state, and contains only a handful of verbs.
+The analyser is in an initial state, and contains some hundred verbs, approximately
+hundred nouns and some pronouns.
 
 * [Grammatical tags|OjibweGrammaticalTags.html]
 * [A list of the words used so far|OjibweWordList.html]
 * [Notes on verb inflection|VerbNotes.html]
 * [Notes on morphophonology|MorphoPhonologyNotes.html], mostly verbs for now
+
 
 !!!Sources
 
