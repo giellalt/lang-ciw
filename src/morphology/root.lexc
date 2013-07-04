@@ -1,0 +1,177 @@
+! Divvun & Giellatekno - open source grammars for Sámi and other languages
+! Copyright © 2000-2010 The University of Tromsø
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@hum.uit.no or divvun@samediggi.no
+
+! ========================================================================== !
+!!                           !!! Ojibwe postpositions                           
+! ========================================================================== !
+
+
+
+Multichar_Symbols
+
+!! POS
+
++N
++V
++A
+
++Adv
++CC
++CS
++Interj
++Pron
++Num
+
+!! Verbal MSP
++Prs  !!= * @CODE@ 
++Fut  !!= * @CODE@ 
++Prt  !!= * @CODE@ 
++Prf  !!= * @CODE@ 
+
++Ind  !!= * @CODE@ 
++Imp  !!= * @CODE@ Imperative
++Sbj  !!= * @CODE@ Subjunctive
++Imm  !!= * @CODE@ Immediate,
+
++Int  !!= * @CODE@ Interdiction,
++Dur  !!= * @CODE@ Durative
+
++1Sg    !!= * @CODE@ first singular
++2Sg    !!= * @CODE@ etc
++3Sg    !!= * @CODE@
++3oSg   !!= * @CODE@ 3o is obviative,
++3iSg   !!= * @CODE@ 3i is indefinite
+
++1Pl    !!= * @CODE@ 1Pl is exclusive plural (I, them, not you)
++2Pl    !!= * @CODE@
++3Pl    !!= * @CODE@
++3oPl   !!= * @CODE@
++3iPl   !!= * @CODE@
++12Pl   !!= * @CODE@ 12Pl is inclusive plural (I, you, ...)
+
++1SgO   !!= * @CODE@ objective conjugation
++2SgO   !!= * @CODE@
++3SgO   !!= * @CODE@
++SgO    !!= * @CODE@
++3oSgO  !!= * @CODE@ obviative with objective conjugation
++3iSgO  !!= * @CODE@
++1PlO   !!= * @CODE@
++P2lO   !!= * @CODE@
++3PlO   !!= * @CODE@
++PlO    !!= * @CODE@
++3oPlO  !!= * @CODE@
++3iPlO  !!= * @CODE@
+
++Inf    !!= * @CODE@ infinitive (infinite?)
++Pos    !!= * @CODE@ postitive
++Neg    !!= * @CODE@ negative
++ConNeg !!= * @CODE@ accompanying negative form
+
+!! Nominal MSP
++Sg		 !!= * @CODE@ singular
++Pl		 !!= * @CODE@ plural
+
++Nom	 !!= * @CODE@ are cases. Hmm, do they belong here?
++Acc	 !!= * @CODE@
++Gen	 !!= * @CODE@
++Abl	 !!= * @CODE@
++Dat	 !!= * @CODE@
++Abe	 !!= * @CODE@
+
++Adc	 !!= * @CODE@
+
++Ins	 !!= * @CODE@
++Apr	 !!= * @CODE@
++Ine	 !!= * @CODE@
++Ill	 !!= * @CODE@
++Ela	 !!= * @CODE@
++Egr	 !!= * @CODE@
++Prl	 !!= * @CODE@
++Apr	 !!= * @CODE@
++Com	 !!= * @CODE@
++Cns	 !!= * @CODE@
++Tra	 !!= * @CODE@
++Ter	 !!= * @CODE@
++Ord	 !!= * @CODE@
+
++Px1Sg	 !!= * @CODE@ person prefixes for nouns
++Px2Sg	 !!= * @CODE@
++Px3Sg	 !!= * @CODE@
++Px1Pl	 !!= * @CODE@ obviative
++Px12Pl	 !!= * @CODE@ inclusive
++Px2Pl	 !!= * @CODE@
++Px3Pl	 !!= * @CODE@
+
++IA      !!= * @CODE@ intransitive with animate subject, 
++II      !!= * @CODE@ intransitive with inanimate subject, 
++TA      !!= * @CODE@ transitive with animate object, and 
++TI      !!= * @CODE@ transitive with inanimate object.
+
++AN		 !!= * @CODE@ animate noun
++IN		 !!= * @CODE@ inanimate noun
+
+%> 		 !!= * @CODE@ suffix border
+
+
+!! !! Flagdiacritics 
+
+!! These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
+
+@U.verb.1sgindep@ 
+@U.verb.2sgindep@ 
+@U.verb.3sgindep@ 
+@U.verb.3osgindep@ 
+@U.verb.3isgindep@ 
+@U.verb.1plindep@ 
+@U.verb.12plindep@ 
+@U.verb.2plindep@ 
+@U.verb.3plindep@ 
+
+@U.verb.1sgsbj@ 
+@U.verb.2sgsbj@ 
+@U.verb.3sgsbj@ 
+@U.verb.3osgsbj@ 
+@U.verb.3isgsbj@ 
+@U.verb.1plsbj@ 
+@U.verb.12plsbj@ 
+@U.verb.2plsbj@ 
+@U.verb.3plsbj@ 
+
+@U.verb.2sgimp@
+@U.verb.1plimp@
+@U.verb.2plimp@
+
+@U.noun.1sg@
+@U.noun.2sg@
+@U.noun.3sg@
+@U.noun.1pl@
+@U.noun.12pl@
+@U.noun.2pl@
+@U.noun.3pl@
+
+
+! Key lexicon
+
+LEXICON Root 		 !!=  @CODE@ is where it all starts
+
+Noun ;	             !!= * @CODE@ 
+Verb ;	             !!= * @CODE@ 
+Pronoun ;            !!= * @CODE@ 
+Punctuation ;
+!Particles ;
+
+
+! LEXICON K ! Clitics in Ojibwe? perhaps not...
+! # ;
+
