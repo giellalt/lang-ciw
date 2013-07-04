@@ -1,0 +1,127 @@
+! Divvun & Giellatekno - open source grammars for Sámi and other languages
+! Copyright © 2000-2010 The University of Tromsø
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@hum.uit.no or divvun@samediggi.no
+
+! ========================================================================== !
+!!                           !!! Ojibwe noun stems                           
+! ========================================================================== !
+
+!! The file
+
+
+!! !! The prefixes
+
+LEXICON Noun 
+
+AN ; ! Animate nouns
+IN ; ! Inanimate nouns
+KINSHIP ;
+
+LEXICON AN
+ANSTEMS ; ! Absolutive (non-Px) declension
+
+
+
+LEXICON IN
+
+! Absolutive (non-Px) declension
+INSTEMS ; 
+
+! Possessive declension
+@U.noun.1sg@:nin@U.noun.1sg@ INSTEMS ;
+@U.noun.2sg@:gi@U.noun.2sg@ INSTEMS ;
+@U.noun.3sg@:o@U.noun.3sg@ INSTEMS ;
+
+@U.noun.1pl@:nin@U.noun.1pl@ INSTEMS ;   ! exclusive Pl
+@U.noun.12pl@:gi@U.noun.12pl@ INSTEMS ; ! inclusive Pl
+@U.noun.2pl@:gi@U.noun.2pl@ INSTEMS ;   
+@U.noun.3pl@:o@U.noun.3pl@ INSTEMS ;
+
+
+LEXICON KINSHIP 
+
+@U.noun.1sg@:nin@U.noun.1sg@ KINSHIPSTEMS ;
+@U.noun.2sg@:gi@U.noun.2sg@ KINSHIPSTEMS ;
+@U.noun.3sg@:o@U.noun.3sg@ KINSHIPSTEMS ;
+
+@U.noun.1pl@:nin@U.noun.1pl@ KINSHIPSTEMS ;   ! exclusive Pl
+@U.noun.12pl@:gi@U.noun.12pl@ KINSHIPSTEMS ; ! inclusive Pl
+@U.noun.2pl@:gi@U.noun.2pl@ KINSHIPSTEMS ;   
+@U.noun.3pl@:o@U.noun.3pl@ KINSHIPSTEMS ;
+
+
+
+!! !! The stems
+
+!! ! Animate Nouns
+!    =============
+
+LEXICON ANSTEMS
+
+inini ANDECL "man" ; 
+ikwe ANDECL "woman" ; 
+makwa ANDECL "bear" ; 
+mitig ANDECL "tree" ; 
+giizis ANDECL "sun, month" ; 
+animikii ANDECL "thunder" ; 
+miigwan ANDECL "feather" ; 
+odaabaan ANDECL "car" ; 
+akik ANDECL "kettle" ; 
+ma'iingan ANDECL "wolf" ;
+amik ANDECL "beaver" ;
+giigoonh ANDECL "fish" ;
+waabooz ANDECL "rabbit" ;
+mikwam ANDECL "ice" ;
+
+
+
+!! ! Inanimate Nouns
+!    ===============
+
+LEXICON INSTEMS !!= @CODE@ 
+
+waakaa'igan INDECL "house" ;  !!= @CODE@
+adopowin INDECL "table" ;     !!= @CODE@
+waasechigan INDECL "window" ; 
+zhoomin INDECL "grape" ; 
+mitig INDECL "stick" ; 
+aanakwad INDECL "cloud" ; 
+zaaga'igan INDECL "lake" ; 
+miikana INDECL "road" ; 
+onaagaans INDECL "cup" ; 
+ishkode INDECL "fire" ;
+onaagan INDECL "dish" ;
+mashkiki INDECL "plant" ;
+ziibi INDECL "river" ;
+makak INDECL "box" ;
+abwi INDECL "paddle" ;
+
+
+LEXICON KINSHIPSTEMS   !!= @CODE@
+
+baabaa KINDECL "father" ;   !!= * @CODE@
+maamaa KINDECL "mother" ;   !!= * @CODE@
+gosis KINDECL "son" ;
+daanis KINDECL "daughter" ;
+mishoomis KINDECL "grandfather" ;
+ookomis KINDECL "grandmother" ;
+saye KINDECL "elder brother" ;
+
+
+
+
+
+
+
+
+

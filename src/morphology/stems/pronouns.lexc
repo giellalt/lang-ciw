@@ -1,0 +1,59 @@
+! Divvun & Giellatekno - open source grammars for Sámi and other languages
+! Copyright © 2000-2010 The University of Tromsø
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@hum.uit.no or divvun@samediggi.no
+
+! ========================================================================== !
+!!                           !!! Ojibwe verb morphology                           
+! ========================================================================== !
+
+!! We list personal and demonstrative pronouns, and still have
+!! not made it to the reflexives.
+
+LEXICON Pronoun 
+
+Personal ;
+Demonstrative ;
+!Reflexive ;
+
+LEXICON Personal
+
+niin+Pron+Pers+1Sg:niin # "I, me" ;
+giin+Pron+Pers+2Sg:giin # "you" ;
+wiin+Pron+Pers+3Sg:wiin # "he, she" ;
+niinawind+Pron+Pers+1Pl:niinawind # "we (exc.); we exclusive" ;
+giinawind+Pron+Pers+12Pl:giinawind # "we (inc.); we inclusive" ;
+giinawaa+Pron+Pers+2Pl:giinawaa # "you pl" ;
+wiinawaa+Pron+Pers+3Pl:wiinawaa # "they" ;
+
+LEXICON Demonstrative
+ 
+wa'aw+Pron+Dem+AN+Sg:wa'aw # "this" ;
+wa'aw+Pron+Dem+AN+Pl:ongow # "this" ;
+wa'aw+Pron+Dem+IN+Sg:o'ow #  "this" ;
+wa'aw+Pron+Dem+IN+Pl:onow #  "this" ;
+
+a'aw+Pron+Dem+AN+Sg:wa'aw # "that" ;
+a'aw+Pron+Dem+AN+Pl:ingiw # "that" ;
+a'aw+Pron+Dem+IN+Sg:i'iw #  "that" ;
+a'aw+Pron+Dem+IN+Pl:iniw #  "that" ;
+
+
+awedi+Pron+Dem+AN+Sg:awedi # "that over there" ;
+awedi+Pron+Dem+AN+Pl:ingiwedig # "that over there" ;
+awedi+Pron+Dem+IN+Sg:iwedi #  "that over there" ;
+awedi+Pron+Dem+IN+Pl:iniwedin #  "that over there" ;
+
+
+
+!LEXICON Reflexive
+!K ;
