@@ -1,0 +1,14 @@
+
+This is a grammatical analyser for Ojibwe, or Chippewa.
+
+It is in an initial phase, and contains less than hundred
+nouns and a couple of hundred verbs.
+
+
+!!!The language
+
+Ojibwe is an Algonquin language spoken in Canada and the United States.
+There are dialect differences within the language. The principal source
+of our analyser presents the Minnesota dialect, using the Double Vowel, 
+or so-called Fiero system. This system is characterised by marking vowel
+length by writing double vowel symbols.
