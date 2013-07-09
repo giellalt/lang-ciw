@@ -64,9 +64,13 @@ Sets
          @U.verb.2plimp@
 ;
 
+
+!! !!!Rules
+
 Rules
 
-"Suffix Final n"
+"Suffix Final n" 
+!! __RULENAME__  
  n:0 <=> _ (Dummy:) %>:0 Cns ;
 
 
