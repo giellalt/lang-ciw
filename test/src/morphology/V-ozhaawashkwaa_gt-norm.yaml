@@ -1,0 +1,29 @@
+Config:
+  hfst:
+    Gen: ../bin/ciw-gen.hfstol
+    Morph: ../bin/ciw.hfstol
+  xerox:
+    Gen: ../bin/iciw.fst
+    Morph: ../bin/ciw.fst
+    App: lookup
+
+Tests:
+  
+  Verb - ozhaawashkwaa: # Ordinary IA verb - full paradigm
+     ozhaawashkwaa+V+II+Ind+Prs+3Sg: ozhaawashkwaa
+     ozhaawashkwaa+V+II+Ind+Prs+3oSg: ozhaawashkwaani
+     ozhaawashkwaa+V+II+Ind+Prs+3Pl: ozhaawashkwaawan
+     ozhaawashkwaa+V+II+Ind+Prs+3oPl: ozhaawashkwaaniwan
+     ozhaawashkwaa+V+II+Neg+Ind+Prs+3Sg: ozhaawashkwaasiinoon
+     ozhaawashkwaa+V+II+Neg+Ind+Prs+3oSg: ozhaawashkwaasinini
+     ozhaawashkwaa+V+II+Neg+Ind+Prs+3Pl: ozhaawashkwaasiinoon
+     ozhaawashkwaa+V+II+Neg+Ind+Prs+3oPl: ozhaawashkwaasininiwan
+
+     ozhaawashkwaa+V+II+Sbj+3Sg: ozhaawashkwaag
+     ozhaawashkwaa+V+II+Sbj+3oSg: ozhaawashkwaanig
+     ozhaawashkwaa+V+II+Sbj+3Pl: ozhaawashkwaag
+     ozhaawashkwaa+V+II+Sbj+3oPl: ozhaawashkwaanig
+     ozhaawashkwaa+V+II+Neg+Sbj+3Sg: ozhaawashkwaasinog
+     ozhaawashkwaa+V+II+Neg+Sbj+3oSg: ozhaawashkwaasininig
+     ozhaawashkwaa+V+II+Neg+Sbj+3Pl: ozhaawashkwaasinog
+     ozhaawashkwaa+V+II+Neg+Sbj+3oPl: ozhaawashkwaasininig
