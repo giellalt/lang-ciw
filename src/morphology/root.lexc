@@ -82,29 +82,6 @@ Multichar_Symbols
 +Sg		 !!= * @CODE@ singular
 +Pl		 !!= * @CODE@ plural
 
-+Nom	 !!= * @CODE@ are cases. Hmm, do they belong here?
-+Acc	 !!= * @CODE@
-+Gen	 !!= * @CODE@
-+Abl	 !!= * @CODE@
-+Dat	 !!= * @CODE@
-+Abe	 !!= * @CODE@
-
-+Adc	 !!= * @CODE@
-
-+Ins	 !!= * @CODE@
-+Apr	 !!= * @CODE@
-+Ine	 !!= * @CODE@
-+Ill	 !!= * @CODE@
-+Ela	 !!= * @CODE@
-+Egr	 !!= * @CODE@
-+Prl	 !!= * @CODE@
-+Apr	 !!= * @CODE@
-+Com	 !!= * @CODE@
-+Cns	 !!= * @CODE@
-+Tra	 !!= * @CODE@
-+Ter	 !!= * @CODE@
-+Ord	 !!= * @CODE@
-
 +Px1Sg	 !!= * @CODE@ person prefixes for nouns
 +Px2Sg	 !!= * @CODE@
 +Px3Sg	 !!= * @CODE@

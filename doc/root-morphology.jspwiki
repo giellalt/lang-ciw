@@ -57,29 +57,6 @@ Nominal MSP
  * +Sg		  singular
  * +Pl		  plural
 
- * +Nom	  are cases. Hmm, do they belong here?
- * +Acc	 
- * +Gen	 
- * +Abl	 
- * +Dat	 
- * +Abe	 
-
- * +Adc	 
-
- * +Ins	 
- * +Apr	 
- * +Ine	 
- * +Ill	 
- * +Ela	 
- * +Egr	 
- * +Prl	 
- * +Apr	 
- * +Com	 
- * +Cns	 
- * +Tra	 
- * +Ter	 
- * +Ord	 
-
  * +Px1Sg	  person prefixes for nouns
  * +Px2Sg	 
  * +Px3Sg	 
