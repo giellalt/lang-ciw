@@ -23,6 +23,10 @@ hundred nouns and some pronouns.
 * [Notes on verb inflection|VerbNotes.html]
 * [Notes on morphophonology|MorphoPhonologyNotes.html], mostly verbs for now
 
+!!!Using the analysers
+
+* In the terminal: analyse words by writing ''uciw'', generate with ''dciw''
+* For more info, see [How to use the morphological parsers|../../tools/docu-sme-manual.html]
 
 !!!Sources
 
