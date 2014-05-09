@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+libdir=@libdir@
+dir=@libdir@/giella/ciw
+srcdir=@datarootdir@/giella/ciw
+
+Name: giella-ciw
+Description: Finite-state transducers and other language processing tools for Chippewa, developed by the Giellatekno and Divvun groups at UiT The Arctic University of Norway, in cooperation with the language communities.
+URL: 
+Version: @VERSION@
