@@ -16,6 +16,62 @@
 !!                           !!! Ojibwe noun morphology                           
 ! ========================================================================== !
 
+
+!! !!!Prefixes
+
+
+!! !! The prefixes
+
+LEXICON Noun !!= * @CODE@
+
+AN ; ! Animate nouns
+IN ; ! Inanimate nouns
+KINSHIP ;
+
+LEXICON AN  !!= * @CODE@ animate nouns
+ANSTEMS ; ! Absolutive (non-Px) declension
+
+
+
+LEXICON IN !!= * @CODE@ inanimate nouns
+
+! Absolutive (non-Px) declension
+INSTEMS ; 
+
+! Possessive declension
+@U.noun.1sg@:nin@U.noun.1sg@ INSTEMS ;
+@U.noun.2sg@:gi@U.noun.2sg@ INSTEMS ;
+@U.noun.3sg@:o@U.noun.3sg@ INSTEMS ;
+
+@U.noun.1pl@:nin@U.noun.1pl@ INSTEMS ;   ! exclusive Pl
+@U.noun.12pl@:gi@U.noun.12pl@ INSTEMS ; ! inclusive Pl
+@U.noun.2pl@:gi@U.noun.2pl@ INSTEMS ;   
+@U.noun.3pl@:o@U.noun.3pl@ INSTEMS ;
+
+
+LEXICON KINSHIP 
+
+@U.noun.1sg@:nin@U.noun.1sg@ KINSHIPSTEMS ;
+@U.noun.2sg@:gi@U.noun.2sg@ KINSHIPSTEMS ;
+@U.noun.3sg@:o@U.noun.3sg@ KINSHIPSTEMS ;
+
+@U.noun.1pl@:nin@U.noun.1pl@ KINSHIPSTEMS ;   ! exclusive Pl
+@U.noun.12pl@:gi@U.noun.12pl@ KINSHIPSTEMS ; ! inclusive Pl
+@U.noun.2pl@:gi@U.noun.2pl@ KINSHIPSTEMS ;   
+@U.noun.3pl@:o@U.noun.3pl@ KINSHIPSTEMS ;
+
+
+
+!! Thereafter, lexc directs us to the ../stems/nouns.lexc file
+!! where we find all the stems.
+
+!! The stems/nouns.lexc file will then direct us back here, to 
+!! the suffixes.
+
+
+
+!! !!!Suffixes
+
 !! Here, we give person suffixes. The flag diacritics
 !! match the prefixes in the stem file.
 
