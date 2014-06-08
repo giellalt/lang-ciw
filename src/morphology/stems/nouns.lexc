@@ -16,49 +16,8 @@
 !!                           !!! Ojibwe noun stems                           
 ! ========================================================================== !
 
-!! The file
-
-
-!! !! The prefixes
-
-LEXICON Noun 
-
-AN ; ! Animate nouns
-IN ; ! Inanimate nouns
-KINSHIP ;
-
-LEXICON AN
-ANSTEMS ; ! Absolutive (non-Px) declension
-
-
-
-LEXICON IN
-
-! Absolutive (non-Px) declension
-INSTEMS ; 
-
-! Possessive declension
-@U.noun.1sg@:nin@U.noun.1sg@ INSTEMS ;
-@U.noun.2sg@:gi@U.noun.2sg@ INSTEMS ;
-@U.noun.3sg@:o@U.noun.3sg@ INSTEMS ;
-
-@U.noun.1pl@:nin@U.noun.1pl@ INSTEMS ;   ! exclusive Pl
-@U.noun.12pl@:gi@U.noun.12pl@ INSTEMS ; ! inclusive Pl
-@U.noun.2pl@:gi@U.noun.2pl@ INSTEMS ;   
-@U.noun.3pl@:o@U.noun.3pl@ INSTEMS ;
-
-
-LEXICON KINSHIP 
-
-@U.noun.1sg@:nin@U.noun.1sg@ KINSHIPSTEMS ;
-@U.noun.2sg@:gi@U.noun.2sg@ KINSHIPSTEMS ;
-@U.noun.3sg@:o@U.noun.3sg@ KINSHIPSTEMS ;
-
-@U.noun.1pl@:nin@U.noun.1pl@ KINSHIPSTEMS ;   ! exclusive Pl
-@U.noun.12pl@:gi@U.noun.12pl@ KINSHIPSTEMS ; ! inclusive Pl
-@U.noun.2pl@:gi@U.noun.2pl@ KINSHIPSTEMS ;   
-@U.noun.3pl@:o@U.noun.3pl@ KINSHIPSTEMS ;
-
+!! Note that both prefixes and suffixes are found in the file
+!! ../affixes/nouns.lexc
 
 
 !! !! The stems
