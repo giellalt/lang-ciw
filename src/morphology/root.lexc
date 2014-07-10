@@ -13,7 +13,7 @@
 ! giellatekno@hum.uit.no or divvun@samediggi.no
 
 ! ========================================================================== !
-!!                           !!! Ojibwe postpositions                           
+!!                           !!! Ojibwe postpositions
 ! ========================================================================== !
 
 
@@ -34,12 +34,12 @@ Multichar_Symbols
 +Num
 
 !! Verbal MSP
-+Prs  !!= * @CODE@ 
-+Fut  !!= * @CODE@ 
-+Prt  !!= * @CODE@ 
-+Prf  !!= * @CODE@ 
++Prs  !!= * @CODE@
++Fut  !!= * @CODE@
++Prt  !!= * @CODE@
++Prf  !!= * @CODE@
 
-+Ind  !!= * @CODE@ 
++Ind  !!= * @CODE@
 +Imp  !!= * @CODE@ Imperative
 +Sbj  !!= * @CODE@ Subjunctive
 +Imm  !!= * @CODE@ Immediate,
@@ -90,9 +90,9 @@ Multichar_Symbols
 +Px2Pl	 !!= * @CODE@
 +Px3Pl	 !!= * @CODE@
 
-+IA      !!= * @CODE@ intransitive with animate subject, 
-+II      !!= * @CODE@ intransitive with inanimate subject, 
-+TA      !!= * @CODE@ transitive with animate object, and 
++IA      !!= * @CODE@ intransitive with animate subject,
++II      !!= * @CODE@ intransitive with inanimate subject,
++TA      !!= * @CODE@ transitive with animate object, and
 +TI      !!= * @CODE@ transitive with inanimate object.
 
 +AN		 !!= * @CODE@ animate noun
@@ -101,29 +101,29 @@ Multichar_Symbols
 %> 		 !!= * @CODE@ suffix border
 
 
-!! !! Flagdiacritics 
+!! !! Flagdiacritics
 
 !! These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 
-@U.verb.1sgindep@ 
-@U.verb.2sgindep@ 
-@U.verb.3sgindep@ 
-@U.verb.3osgindep@ 
-@U.verb.3isgindep@ 
-@U.verb.1plindep@ 
-@U.verb.12plindep@ 
-@U.verb.2plindep@ 
-@U.verb.3plindep@ 
+@U.verb.1sgindep@
+@U.verb.2sgindep@
+@U.verb.3sgindep@
+@U.verb.3osgindep@
+@U.verb.3isgindep@
+@U.verb.1plindep@
+@U.verb.12plindep@
+@U.verb.2plindep@
+@U.verb.3plindep@
 
-@U.verb.1sgsbj@ 
-@U.verb.2sgsbj@ 
-@U.verb.3sgsbj@ 
-@U.verb.3osgsbj@ 
-@U.verb.3isgsbj@ 
-@U.verb.1plsbj@ 
-@U.verb.12plsbj@ 
-@U.verb.2plsbj@ 
-@U.verb.3plsbj@ 
+@U.verb.1sgsbj@
+@U.verb.2sgsbj@
+@U.verb.3sgsbj@
+@U.verb.3osgsbj@
+@U.verb.3isgsbj@
+@U.verb.1plsbj@
+@U.verb.12plsbj@
+@U.verb.2plsbj@
+@U.verb.3plsbj@
 
 @U.verb.2sgimp@
 @U.verb.1plimp@
@@ -142,9 +142,9 @@ Multichar_Symbols
 
 LEXICON Root 		 !!=  @CODE@ is where it all starts
 
-Noun ;	             !!= * @CODE@ 
-Verb ;	             !!= * @CODE@ 
-Pronoun ;            !!= * @CODE@ 
+Noun ;	             !!= * @CODE@
+Verb ;	             !!= * @CODE@
+Pronoun ;            !!= * @CODE@
 Punctuation ;
 !Particles ;
 
