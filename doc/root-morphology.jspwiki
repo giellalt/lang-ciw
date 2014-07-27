@@ -1,5 +1,5 @@
 
-Ojibwe postpositions                           
+Ojibwe postpositions
 
 
 
@@ -9,12 +9,12 @@ POS
 
 
 Verbal MSP
- * +Prs   
- * +Fut   
- * +Prt   
- * +Prf   
+ * +Prs  
+ * +Fut  
+ * +Prt  
+ * +Prf  
 
- * +Ind   
+ * +Ind  
  * +Imp   Imperative
  * +Sbj   Subjunctive
  * +Imm   Immediate,
@@ -65,9 +65,9 @@ Nominal MSP
  * +Px2Pl	 
  * +Px3Pl	 
 
- * +IA       intransitive with animate subject, 
- * +II       intransitive with inanimate subject, 
- * +TA       transitive with animate object, and 
+ * +IA       intransitive with animate subject,
+ * +II       intransitive with inanimate subject,
+ * +TA       transitive with animate object, and
  * +TI       transitive with inanimate object.
 
  * +AN		  animate noun
@@ -76,7 +76,7 @@ Nominal MSP
  * %> 		  suffix border
 
 
-Flagdiacritics 
+Flagdiacritics
 
 These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 
@@ -88,9 +88,9 @@ These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 
   LEXICON Root 		  is where it all starts
 
- * Noun ;	              
- * Verb ;	              
- * Pronoun ;             
+ * Noun ;	             
+ * Verb ;	             
+ * Pronoun ;            
 
 
 
