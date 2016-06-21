@@ -14,7 +14,7 @@ or so-called Fiero system. This system is characterised by marking vowel
 length by writing double vowel symbols.
 
 
------
+----
 
 The structure of the source file catalogue is the same for all
 the languages, it is documented [here|../../infra/infraremake/NewinfraCatalogues.html].
