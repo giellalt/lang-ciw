@@ -3,9 +3,10 @@ Multichar_Symbols
 @U.VALENCE.TRANSITIVE@
 @U.ASPECT.IPFV@
 @U.ASPECT.PFV@
-@U.ASPECT.PROG@
-@U.ASPECT.POT@
+@U.ASPECT.OPT@
 @U.TAMA.%0@
+@U.TAMA.gh@
+
 @U.TAMA.%0i@
 @U.TAMA.sii@
 @U.TAMA.ni@
@@ -23,10 +24,9 @@ LEXICON Verbstems
 ! N.B. removed English glosses in brackets so that
 ! analysis and generation in Gunáhà' would work
 
-itsiy[cry]:tsiy                          INTR-0-IPFV;    ! (IPFV; 0-IPFV)
-itsiy[cry]:tsày                          INTR-yi-y-PFV;  ! (PFV; yi-PFV-yi)
-itsiy[cry]:tsíł                          INTR-yi-PROG;   ! (PROG; yi-PROG)
-itsiy[cry]:ná=chish                      INTR-0-IPFV;    ! (REP; 0-IPFV)
+hetsagh[cry]:tsagh                          INTR-0-IPFV;
+hetsagh[cry]:tsagh                          INTR-gh-i-PFV;
+hetsagh[cry]:tsagh                          INTR-0-OPT;
 
 ts'ázid[wake-up]:ts'á=zíd                INTR-ni-IPFV;   ! (IPFV; ni-IPFV)
 ts'ázid[wake-up]:ts'á=zid                INTR-ni-PFV;    ! (PFV; ni-PFV)
@@ -63,6 +63,10 @@ LEXICON INTR-ni-IPFV
 !
 ! Past/perfective (PFV) forms
 !
+
+LEXICON INTR-gh-PFV
+@U.VALENCE.INTRANSITIVE@@U.ASPECT.PFV@@U.TAMA.gh@ Verbsuffixes;
+
 LEXICON INTR-ni-PFV
 @U.VALENCE.INTRANSITIVE@@U.ASPECT.PFV@@U.TAMA.ni@ Verbsuffixes;
 
