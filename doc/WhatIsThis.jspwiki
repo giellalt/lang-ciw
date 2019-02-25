@@ -1,8 +1,10 @@
 
 This is a grammatical analyser for Ojibwe, or Chippewa.
 
-It is in an initial phase, and contains less than hundred
-nouns and a couple of hundred verbs.
+It contains some 750 nouns and verbs, and a morphological
+component covering their basic inflection pattern.
+
+The analyser is thus still in an experimental phase.
 
 
 !!!The language
