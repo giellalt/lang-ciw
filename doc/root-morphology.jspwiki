@@ -7,6 +7,7 @@ Ojibwe postpositions
 POS
 
 
+ * +Symbol = independent symbols in the text stream, like £, €, ©
 
 Verbal MSP
  * +Prs  
@@ -91,6 +92,8 @@ These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
  * Noun ;	             
  * Verb ;	             
  * Pronoun ;            
+ * Punctuation ;        
+ * Symbols     ;        
 
 
 
