@@ -138,6 +138,16 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 @U.noun.3pl@
 
 
+        !! !!Symbols that need to be escaped on the lower side (towards twolc):
+ »7     !!≈ ; @CODE@ : Literal »
+ «7     !!≈ ; @CODE@ : Literal «
+        !! {{{
+ %[%>%] !!= @CODE@ - Literal >
+ %[%<%] !!= @CODE@ - Literal <
+        !! }}}
+
+
+
 ! Key lexicon
 
 LEXICON Root 		 !!=  @CODE@ is where it all starts
