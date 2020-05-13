@@ -1,0 +1,35 @@
+[package]
+name = "ciw"
+human_name = "Chippewa"
+version = "0.1.0"
+
+# Table of speller tag -> filename to include in the bundle
+# filenames depends on specific project
+[spellers.ciw]
+filename = "ciw-mobile.zhfst"
+
+# Table of bundles to generated
+# key is the type of bundle
+# Windows speller bundle require a uuid for the installer
+[bundles.speller_win]
+package = "speller-ciw"
+platform = "windows"
+uuid = "18419869-19CA-4AAC-8A92-D13C8CE25ECE"
+repo = "https://pahkat.uit.no/main/"
+
+[bundles.speller_macos]
+pkg_id = "no.divvun.MacDivvun.ciw"
+package = "speller-ciw"
+platform = "macos"
+repo = "https://pahkat.uit.no/main/"
+
+[bundles.speller_win_mso]
+package = "speller-ciw-mso"
+platform = "windows"
+uuid = "E91166AC-169E-4AAE-B648-3F37E99ED539"
+repo = "https://pahkat.uit.no/main/"
+
+[bundles.speller_mobile]
+package = "speller-ciw"
+platform = "mobile"
+repo = "https://pahkat.uit.no/main/"
