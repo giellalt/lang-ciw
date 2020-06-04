@@ -1,0 +1,9 @@
+name = "Chippewa"
+version = "0.1.0"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.ciw"
+
+[windows]
+system_product_code = "18419869-19CA-4AAC-8A92-D13C8CE25ECE"
+msoffice_product_code = "E91166AC-169E-4AAE-B648-3F37E99ED539"
