@@ -21,7 +21,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/ciwdoc/index.html>
+-   <https://giellalt.uit.no/lang/ciw/OjibweDocumentation.html>
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
