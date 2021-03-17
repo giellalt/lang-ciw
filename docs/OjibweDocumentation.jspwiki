@@ -1,14 +1,12 @@
 
 [What is this?|WhatIsThis.html]
 
-!!! Dynamic documentation
 
-* [Links to generated source file documentation|Links.html]
-* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/langs/ciw/src/fst/stems/]   
-  / [affixes|https://gtsvn.uit.no/langtech/trunk/langs/ciw/src/fst/affixes/] 
-  / [syntax|https://gtsvn.uit.no/langtech/trunk/langs/ciw/src/syntax/] 
-  / [twolc|https://gtsvn.uit.no/langtech/trunk/langs/ciw/src/phonology/ciw-phon.twolc]   
-  / [yaml|https://gtsvn.uit.no/langtech/trunk/langs/ciw/test/src/gt-norm-yamls/]
+
+ 
+ 
+ 
+ 
 * [Generation of paradigms|http://giellatekno.uit.no/cgi/p-ciw.en.html]
  and [text analysis|http://giellatekno.uit.no/cgi/d-ciw.en.html]
 
