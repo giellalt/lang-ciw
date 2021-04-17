@@ -65,12 +65,12 @@ Sets
 ;
 
 
-!! !!!Rules
+!! # Rules
 
 Rules
 
 "Suffix Final n" 
-!! __RULENAME__  
+!! **RULENAME**  
  n:0 <=> _ (Dummy:) %>:0 Cns ;
 
 

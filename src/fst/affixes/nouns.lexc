@@ -13,14 +13,14 @@
 ! giellatekno@hum.uit.no or feedback@divvun.no
 
 ! ========================================================================== !
-!!                           !!! Ojibwe noun morphology                           
+!! Ojibwe noun morphology                           
 ! ========================================================================== !
 
 
-!! !!!Prefixes
+!! # Prefixes
 
 
-!! !! The prefixes
+!! The prefixes
 
 LEXICON Noun !!= * @CODE@
 
@@ -70,7 +70,7 @@ LEXICON KINSHIP
 
 
 
-!! !!!Suffixes
+!! # Suffixes
 
 !! Here, we give person suffixes. The flag diacritics
 !! match the prefixes in the stem file.

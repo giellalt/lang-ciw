@@ -13,16 +13,16 @@
 ! giellatekno@hum.uit.no or feedback@divvun.no
 
 ! ========================================================================== !
-!!                           !!! Ojibwe noun stems                           
+!! Ojibwe noun stems                           
 ! ========================================================================== !
 
 !! Note that both prefixes and suffixes are found in the file
 !! ../affixes/nouns.lexc
 
 
-!! !! The stems
+!! The stems
 
-!! ! Animate Nouns
+!! ###  Animate Nouns
 !    =============
 
 LEXICON ANSTEMS
@@ -44,7 +44,7 @@ mikwam ANDECL "ice" ;
 
 
 
-!! ! Inanimate Nouns
+!! ###  Inanimate Nouns
 !    ===============
 
 LEXICON INSTEMS !!= @CODE@ 

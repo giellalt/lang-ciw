@@ -13,13 +13,13 @@
 ! giellatekno@hum.uit.no or feedback@divvun.no
 
 ! ========================================================================== !
-!!                           !!! Ojibwe verb stems                           
+!! Ojibwe verb stems                           
 ! ========================================================================== !
 
 
 !! The verbs are analysed as follows:
 !! * We split the Verb lexicon in 4 groups according to transitivity class
-!! * For each group, we add the prefixes, and mark them with ''flag diacritics'' (the @ symbols)
+!! * For each group, we add the prefixes, and mark them with *flag diacritics* (the @ symbols)
 !! * Then come the stems themselves
 !! * Finally, come the suffixes, including flag diacritics
 !!   to ensure that the correct prefixes and suffixes are matched together
@@ -29,14 +29,14 @@
 
 !! The Ojibwe verbs are divided in four groups:
 
-!! # IA: Intransitive animate
-!! # II: Intransitive inanimate
-!! # TA: Transitive animate
-!! # TI: Transitive inanimate
+!! 1. IA: Intransitive animate
+!! 1. II: Intransitive inanimate
+!! 1. TA: Transitive animate
+!! 1. TI: Transitive inanimate
 
 
 
-!! !!! The stems
+!! The stems
 !      =========
 
 
@@ -545,7 +545,7 @@ dazhiikaw:daazhik                   TACONJ_am   "work on s.o." ;
 
 
 
-!! !! -zo passives
+!! -zo passives
 
 !! TODO: morphology for the -zo passives
 

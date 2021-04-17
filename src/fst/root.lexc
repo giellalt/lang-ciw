@@ -13,10 +13,10 @@
 ! giellatekno@uit.no or feedback@divvun.no
 
 ! ========================================================================== !
-!!                           !!! Ojibwe postpositions
+!! Ojibwe postpositions
 ! ========================================================================== !
 
-Multichar_Symbols  !!≈ !!!Definitions for @CODE@
+Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 
 !! POS
@@ -101,7 +101,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 %> 		 !!= * @CODE@ suffix border
 
 
-!! !! Flagdiacritics
+!! Flagdiacritics
 
 !! These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 
@@ -138,13 +138,13 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 @U.noun.3pl@
 
 
-        !! !!Symbols that need to be escaped on the lower side (towards twolc):
- »7     !!≈ ; @CODE@ : Literal »
- «7     !!≈ ; @CODE@ : Literal «
-        !! {{{
+        !! ## Symbols that need to be escaped on the lower side (towards twolc):
+ »7     !!≈ * **@CODE@**:  Literal »
+ «7     !!≈ * **@CODE@**:  Literal «
+        !! ```
  %[%>%] !!= @CODE@ - Literal >
  %[%<%] !!= @CODE@ - Literal <
-        !! }}}
+        !! ```
 
 
 

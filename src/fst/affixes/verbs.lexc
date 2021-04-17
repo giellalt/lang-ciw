@@ -13,13 +13,13 @@
 ! giellatekno@hum.uit.no or feedback@divvun.no
 
 ! ========================================================================== !
-!!                           !!! Ojibwe verb morphology                           
+!! Ojibwe verb morphology                           
 ! ========================================================================== !
 
 
 !! The verbs are analysed as follows:
 !! * We split the Verb lexicon in 4 groups according to transitivity class
-!! * For each group, we add the prefixes, and mark them with ''flag diacritics'' (the @ symbols)
+!! * For each group, we add the prefixes, and mark them with *flag diacritics* (the @ symbols)
 !! * Then come the stems themselves
 !! * Finally, come the suffixes, including flag diacritics
 !!   to ensure that the correct prefixes and suffixes are matched together
@@ -30,15 +30,15 @@
 
 !! The Ojibwe verbs are divided in four groups:
 
-!! # IA: Intransitive animate
-!! # II: Intransitive inanimate
-!! # TA: Transitive animate
-!! # TI: Transitive inanimate
+!! 1. IA: Intransitive animate
+!! 1. II: Intransitive inanimate
+!! 1. TA: Transitive animate
+!! 1. TI: Transitive inanimate
 
 
 !  ===============
 !  ===============
-!! !!!The prefixes
+!! # The prefixes
 !  ===============
 !  ===============
 
@@ -51,7 +51,7 @@ TA ; ! transitive animate
 TI ; ! transitive inanimate
 
 
-!! !! Intransitive animate
+!! Intransitive animate
 !     ====================
 
 LEXICON IA   !!= @CODE@ divides in independent, subjunctive and imperative
@@ -93,16 +93,16 @@ LEXICON IA_IMPERATIV   !!= @CODE@ gives prefixes and flags for person-number in 
 @U.verb.2plimp@  IASTEM ;   
 
 
-!! !! Intransitive inanimate
+!! Intransitive inanimate
 !     ====================
 
-!! These have no prefixes, so we go directly to the __IISTEM__ lexicon.
+!! These have no prefixes, so we go directly to the **IISTEM** lexicon.
 
 LEXICON II 
 IISTEM ;
 
 
-!! !! Transitive animate
+!! Transitive animate
 !     ==================
 
 LEXICON TA  !!= @CODE@ is still not written
@@ -111,7 +111,7 @@ LEXICON TA  !!= @CODE@ is still not written
  ZO ;
 
 
-!! !! Transitive inanimate
+!! Transitive inanimate
 !     ====================
 
 LEXICON TI  !!= @CODE@ is still not written
@@ -125,7 +125,7 @@ LEXICON TI  !!= @CODE@ is still not written
 
 !  ===============
 !  ===============
-!! !!!The suffixes
+!! # The suffixes
 !  ===============
 !  ===============
 
@@ -133,7 +133,7 @@ LEXICON TI  !!= @CODE@ is still not written
 
 
 
-!! !! Intransitive animate (IA)
+!! Intransitive animate (IA)
 
 LEXICON IACONJ !!= @CODE@ splits in 3 conjugations
 +V+IA: IA_IND ;
@@ -235,7 +235,7 @@ LEXICON 2plimp
 
 
 
-!! !! Intransitive inanimate (II)
+!! Intransitive inanimate (II)
 
 
 LEXICON IICONJ  !!= @CODE@ splits according to conjugation
@@ -269,7 +269,7 @@ LEXICON II_NEG_SBJ   !!= @CODE@ is negative subjunctive
 +3oPl:%>sininig # ;
 
 
-!! !! Transitive animate (TA)
+!! Transitive animate (TA)
 
 LEXICON TACONJ_am  !!= * @CODE@ not yet written
 # ;
