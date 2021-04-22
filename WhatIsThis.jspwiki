@@ -1,0 +1,28 @@
+
+This is a grammatical analyser for Ojibwe, or Chippewa.
+
+It contains some 750 nouns and verbs, and a morphological
+component covering their basic inflection pattern.
+
+The analyser is thus still in an experimental phase.
+
+
+!!!The language
+
+Ojibwe is an Algonquin language spoken in Canada and the United States.
+There are dialect differences within the language. The principal source
+of our analyser presents the Minnesota dialect, using the Double Vowel, 
+or so-called Fiero system. This system is characterised by marking vowel
+length by writing double vowel symbols.
+
+
+----
+
+The structure of the source file catalogue is the same for all
+the languages, it is documented [here|/infra/infraremake/NewinfraCatalogues.html].
+
+
+
+These pages document how to build the parsers. If you want to know
+how to use them on the command line, read the
+[How to use the morphological parsers|/tools/docu-sme-manual.html] page.
