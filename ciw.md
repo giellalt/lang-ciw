@@ -199,7 +199,7 @@
 * Sets for verbs
 
 
-    - V is all readings with a V tag in them, REAL-V should
+- V is all readings with a V tag in them, REAL-V should
 be the ones without an N tag following the V.  
 The REAL-V set thus awaits a fix to the preprocess V ... N bug.
 
@@ -605,7 +605,172 @@ These were the set types.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-ciw/blob/main/../src/cg3/functions.cg3)</small>
+Ojibwe postpositions
 
+ # Definitions for Multichar_Symbols
+
+
+POS
+
+
+ * +Symbol = independent symbols in the text stream, like £, €, ©
+
+Verbal MSP
+ * +Prs  
+ * +Fut  
+ * +Prt  
+ * +Prf  
+
+ * +Ind  
+ * +Imp   Imperative
+ * +Sbj   Subjunctive
+ * +Imm   Immediate,
+
+ * +Int   Interdiction,
+ * +Dur   Durative
+
+ * +1Sg     first singular
+ * +2Sg     etc
+ * +3Sg    
+ * +3oSg    3o is obviative,
+ * +3iSg    3i is indefinite
+
+ * +1Pl     1Pl is exclusive plural (I, them, not you)
+ * +2Pl    
+ * +3Pl    
+ * +3oPl   
+ * +3iPl   
+ * +12Pl    12Pl is inclusive plural (I, you, ...)
+
+ * +1SgO    objective conjugation
+ * +2SgO   
+ * +3SgO   
+ * +SgO    
+ * +3oSgO   obviative with objective conjugation
+ * +3iSgO  
+ * +1PlO   
+ * +P2lO   
+ * +3PlO   
+ * +PlO    
+ * +3oPlO  
+ * +3iPlO  
+
+ * +Inf     infinitive (infinite?)
+ * +Pos     postitive
+ * +Neg     negative
+ * +ConNeg  accompanying negative form
+
+Nominal MSP
+ * +Sg		  singular
+ * +Pl		  plural
+
+ * +Px1Sg	  person prefixes for nouns
+ * +Px2Sg	 
+ * +Px3Sg	 
+ * +Px1Pl	  obviative
+ * +Px12Pl	  inclusive
+ * +Px2Pl	 
+ * +Px3Pl	 
+
+ * +IA       intransitive with animate subject,
+ * +II       intransitive with inanimate subject,
+ * +TA       transitive with animate object, and
+ * +TI       transitive with inanimate object.
+
+ * +AN		  animate noun
+ * +IN		  inanimate noun
+
+ * %> 		  suffix border
+
+
+Flagdiacritics
+
+These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
+
+
+
+
+
+
+## Symbols that need to be escaped on the lower side (towards twolc):
+ * **»7**:  Literal »
+ * **«7**:  Literal «
+```
+  %[%>%]  - Literal >
+  %[%<%]  - Literal <
+```
+
+
+
+
+  LEXICON Root 		  is where it all starts
+
+ * Noun ;	             
+ * Verb ;	             
+ * Pronoun ;            
+ * Punctuation ;        
+ * Symbols     ;        
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/root.lexc)</small>
+Ojibwe noun morphology                           
+
+
+# Prefixes
+
+
+The prefixes
+
+ * LEXICON Noun 
+
+
+ * LEXICON AN   animate nouns
+
+
+
+ * LEXICON IN  inanimate nouns
+
+
+
+
+
+
+
+
+
+
+Thereafter, lexc directs us to the ../stems/nouns.lexc file
+where we find all the stems.
+
+The stems/nouns.lexc file will then direct us back here, to 
+the suffixes.
+
+
+
+# Suffixes
+
+Here, we give person suffixes. The flag diacritics
+match the prefixes in the stem file.
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/affixes/nouns.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/affixes/symbols.lexc)</small>
 Ojibwe verb morphology                           
 
 
@@ -614,7 +779,7 @@ The verbs are analysed as follows:
 * For each group, we add the prefixes, and mark them with *flag diacritics* (the @ symbols)
 * Then come the stems themselves
 * Finally, come the suffixes, including flag diacritics
-  to ensure that the correct prefixes and suffixes are matched together
+to ensure that the correct prefixes and suffixes are matched together
 
 Prefixes and suffixes are in affixes/verbs.lexc, whereas
 the stems are in stems/verbs.lexc
@@ -731,53 +896,12 @@ Intransitive inanimate (II)
 Transitive animate (TA)
 
  * LEXICON TACONJ_am   not yet written
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/affixes/verbs.lexc)</small>
+Ojibwe verb morphology                           
 
-Ojibwe noun morphology                           
-
-
-# Prefixes
-
-
-The prefixes
-
- * LEXICON Noun 
-
-
- * LEXICON AN   animate nouns
-
-
-
- * LEXICON IN  inanimate nouns
-
-
-
-
-
-
-
-
-
-
-Thereafter, lexc directs us to the ../stems/nouns.lexc file
-where we find all the stems.
-
-The stems/nouns.lexc file will then direct us back here, to 
-the suffixes.
-
-
-
-# Suffixes
-
-Here, we give person suffixes. The flag diacritics
-match the prefixes in the stem file.
-
-
-
-
-
-
-
-# Symbol affixes
+We list personal and demonstrative pronouns, and still have
+not made it to the reflexives.
 
 
 
@@ -790,6 +914,41 @@ match the prefixes in the stem file.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/pronouns.lexc)</small>
+Ojibwe postpositions                           
+
+Do these even exist?
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/prepositions.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/prepositions.lexc)</small>
+Ojibwe noun stems                           
+
+Note that both prefixes and suffixes are found in the file
+../affixes/nouns.lexc
+
+
+The stems
+
+###  Animate Nouns
+
+
+
+
+
+###  Inanimate Nouns
+
+ LEXICON INSTEMS  
+
+ waakaa'igan INDECL "house" ;  
+ adopowin INDECL "table" ;     
+
+
+ LEXICON KINSHIPSTEMS   
+
+ * baabaa KINDECL "father" ;   
+ * maamaa KINDECL "mother" ;   
 
 
 
@@ -797,15 +956,23 @@ match the prefixes in the stem file.
 
 
 
-# Rules
 
 
-**RULENAME**  
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/nouns.lexc)</small>
+Ojibwe interjections                           
+
+This is a dummy files, awaiting real interjections.
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/interjections.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/interjections.lexc)</small>
+Ojibwe postpositions                           
+
+This is a dummy file, but perhaps *den* is a real subjunction?
 
 
-
-
-
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/subjunctions.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/subjunctions.lexc)</small>
 Ojibwe verb stems                           
 
 
@@ -814,7 +981,7 @@ The verbs are analysed as follows:
 * For each group, we add the prefixes, and mark them with *flag diacritics* (the @ symbols)
 * Then come the stems themselves
 * Finally, come the suffixes, including flag diacritics
-  to ensure that the correct prefixes and suffixes are matched together
+to ensure that the correct prefixes and suffixes are matched together
 
 Prefixes and suffixes are in affixes/verbs.lexc, whereas
 the stems are in stems/verbs.lexc
@@ -878,192 +1045,38 @@ TODO: these need morphology
 TODO: morphology for the -zo passives
 
  LEXICON ZO    
-
-Ojibwe postpositions                           
-
-Do these even exist?
-
-
-
-Ojibwe verb morphology                           
-
-We list personal and demonstrative pronouns, and still have
-not made it to the reflexives.
-
-
-
-
-
-
-
-
-
-
-
-
-
-Ojibwe interjections                           
-
-This is a dummy files, awaiting real interjections.
-
-
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/verbs.lexc)</small>
 Ojibwe numerals                           
 
 
 None so far.
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/numerals.lexc)</small>
 
-Ojibwe noun stems                           
 
-Note that both prefixes and suffixes are found in the file
-../affixes/nouns.lexc
 
 
-The stems
 
-###  Animate Nouns
 
 
 
 
 
-###  Inanimate Nouns
 
- LEXICON INSTEMS  
 
- waakaa'igan INDECL "house" ;  
- adopowin INDECL "table" ;     
 
+# Rules
 
- LEXICON KINSHIPSTEMS   
 
- * baabaa KINDECL "father" ;   
- * maamaa KINDECL "mother" ;   
+**RULENAME**  
 
 
 
 
-
-
-
-
-
-
-Ojibwe postpositions                           
-
-This is a dummy file, but perhaps *den* is a real subjunction?
-
-
-
-Ojibwe postpositions
-
- # Definitions for Multichar_Symbols
-
-
-POS
-
-
- * +Symbol = independent symbols in the text stream, like £, €, ©
-
-Verbal MSP
- * +Prs  
- * +Fut  
- * +Prt  
- * +Prf  
-
- * +Ind  
- * +Imp   Imperative
- * +Sbj   Subjunctive
- * +Imm   Immediate,
-
- * +Int   Interdiction,
- * +Dur   Durative
-
- * +1Sg     first singular
- * +2Sg     etc
- * +3Sg    
- * +3oSg    3o is obviative,
- * +3iSg    3i is indefinite
-
- * +1Pl     1Pl is exclusive plural (I, them, not you)
- * +2Pl    
- * +3Pl    
- * +3oPl   
- * +3iPl   
- * +12Pl    12Pl is inclusive plural (I, you, ...)
-
- * +1SgO    objective conjugation
- * +2SgO   
- * +3SgO   
- * +SgO    
- * +3oSgO   obviative with objective conjugation
- * +3iSgO  
- * +1PlO   
- * +P2lO   
- * +3PlO   
- * +PlO    
- * +3oPlO  
- * +3iPlO  
-
- * +Inf     infinitive (infinite?)
- * +Pos     postitive
- * +Neg     negative
- * +ConNeg  accompanying negative form
-
-Nominal MSP
- * +Sg		  singular
- * +Pl		  plural
-
- * +Px1Sg	  person prefixes for nouns
- * +Px2Sg	 
- * +Px3Sg	 
- * +Px1Pl	  obviative
- * +Px12Pl	  inclusive
- * +Px2Pl	 
- * +Px3Pl	 
-
- * +IA       intransitive with animate subject,
- * +II       intransitive with inanimate subject,
- * +TA       transitive with animate object, and
- * +TI       transitive with inanimate object.
-
- * +AN		  animate noun
- * +IN		  inanimate noun
-
- * %> 		  suffix border
-
-
-Flagdiacritics
-
-These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
-
-
-
-
-
-
-## Symbols that need to be escaped on the lower side (towards twolc):
- * **»7**:  Literal »
- * **«7**:  Literal «
-```
-  %[%>%]  - Literal >
-  %[%<%]  - Literal <
-```
-
-
-
-
-  LEXICON Root 		  is where it all starts
-
- * Noun ;	             
- * Verb ;	             
- * Pronoun ;            
- * Punctuation ;        
- * Symbols     ;        
-
-
-
-
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/phonology.twolc)</small>
 
 
 
@@ -1117,7 +1130,8 @@ These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
 
-
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-numbers-digit2text.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 
 We describe here how abbreviations are in Chippewa are read out, e.g.
@@ -1133,8 +1147,9 @@ For example:
  * esim.:esimerkiksi # ; 
 
 
-
-      [ L A N G U A G E ]  G R A M M A R   C H E C K E R
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+[ L A N G U A G E ]  G R A M M A R   C H E C K E R
 
 
 
@@ -1544,3 +1559,5 @@ expression **WORD - premodifiers**.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-ciw/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>

@@ -7,7 +7,7 @@ The verbs are analysed as follows:
 * For each group, we add the prefixes, and mark them with *flag diacritics* (the @ symbols)
 * Then come the stems themselves
 * Finally, come the suffixes, including flag diacritics
-  to ensure that the correct prefixes and suffixes are matched together
+to ensure that the correct prefixes and suffixes are matched together
 
 Prefixes and suffixes are in affixes/verbs.lexc, whereas
 the stems are in stems/verbs.lexc
@@ -71,3 +71,5 @@ TODO: these need morphology
 TODO: morphology for the -zo passives
 
  LEXICON ZO    
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/verbs.lexc)</small>
