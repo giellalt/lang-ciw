@@ -607,194 +607,15 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-ciw/blob/main/../src/cg3/functions.cg3)</small>
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Rules
-
-
-**RULENAME**  
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/phonology.twolc)</small>
-Ojibwe noun stems                           
-
-Note that both prefixes and suffixes are found in the file
-../affixes/nouns.lexc
-
-
-The stems
-
-###  Animate Nouns
-
-
-
-
-
-###  Inanimate Nouns
-
- LEXICON INSTEMS  
-
- waakaa'igan INDECL "house" ;  
- adopowin INDECL "table" ;     
-
-
- LEXICON KINSHIPSTEMS   
-
- * baabaa KINDECL "father" ;   
- * maamaa KINDECL "mother" ;   
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/nouns.lexc)</small>
-Ojibwe postpositions                           
-
-This is a dummy file, but perhaps *den* is a real subjunction?
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/subjunctions.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/subjunctions.lexc)</small>
-Ojibwe numerals                           
-
-
-None so far.
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/numerals.lexc)</small>
-Ojibwe postpositions                           
-
-Do these even exist?
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/prepositions.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/prepositions.lexc)</small>
-Ojibwe verb morphology                           
-
-We list personal and demonstrative pronouns, and still have
-not made it to the reflexives.
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/pronouns.lexc)</small>
-Ojibwe verb stems                           
-
-
-The verbs are analysed as follows:
-* We split the Verb lexicon in 4 groups according to transitivity class
-* For each group, we add the prefixes, and mark them with *flag diacritics* (the @ symbols)
-* Then come the stems themselves
-* Finally, come the suffixes, including flag diacritics
-to ensure that the correct prefixes and suffixes are matched together
-
-Prefixes and suffixes are in affixes/verbs.lexc, whereas
-the stems are in stems/verbs.lexc
-
-The Ojibwe verbs are divided in four groups:
-
-1. IA: Intransitive animate
-1. II: Intransitive inanimate
-1. TA: Transitive animate
-1. TI: Transitive inanimate
-
-
-
-The stems
-
-
- LEXICON IASTEM    
-
-
--mo 
-
-
-
--de
-
-
-
-
--aa / go/be ?
-
-
-
-
-VAI2 extracted from pdfs in Gikendandaa Ojibwemowin.
-All of these are -am stems. What is (CH)?
-
-
-
-VAI3 extracted from pdfs in Gikendandaa Ojibwemowin
-All of these are -shin stems. What is (CH)?
-
-
-dw- ?
-
-
-
- LEXICON IISTEM    
-
-
-TODO: these need morphology
-
- LEXICON TASTEM_am    
-
- LEXICON TASTEM_aw    
-
-
-
-
--zo passives
-
-TODO: morphology for the -zo passives
-
- LEXICON ZO    
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/verbs.lexc)</small>
-Ojibwe interjections                           
-
-This is a dummy files, awaiting real interjections.
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/interjections.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/interjections.lexc)</small>
 Ojibwe postpositions
 
- # Definitions for Multichar_Symbols
+# Definitions for Multichar_Symbols@CODE@
 
 
 POS
 
 
- * +Symbol = independent symbols in the text stream, like £, €, ©
+* +Symbol© = independent symbols in the text stream, like £, €, ©
 
 Verbal MSP
  * +Prs  
@@ -874,8 +695,8 @@ These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 
 
 ## Symbols that need to be escaped on the lower side (towards twolc):
- * **»7**:  Literal »
- * **«7**:  Literal «
+* **»7»**:  Literal »
+* **«7«**:  Literal «
 ```
   %[%>%]  - Literal >
   %[%<%]  - Literal <
@@ -1077,6 +898,185 @@ Transitive animate (TA)
  * LEXICON TACONJ_am   not yet written
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/affixes/verbs.lexc)</small>
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Rules
+
+
+**RULENAME**  
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/phonology.twolc)</small>
+Ojibwe interjections                           
+
+This is a dummy files, awaiting real interjections.
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/interjections.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/interjections.lexc)</small>
+Ojibwe postpositions                           
+
+Do these even exist?
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/prepositions.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/prepositions.lexc)</small>
+Ojibwe noun stems                           
+
+Note that both prefixes and suffixes are found in the file
+../affixes/nouns.lexc
+
+
+The stems
+
+###  Animate Nouns
+
+
+
+
+
+###  Inanimate Nouns
+
+ LEXICON INSTEMS  
+
+ waakaa'igan INDECL "house" ;  
+ adopowin INDECL "table" ;     
+
+
+ LEXICON KINSHIPSTEMS   
+
+ * baabaa KINDECL "father" ;   
+ * maamaa KINDECL "mother" ;   
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/nouns.lexc)</small>
+Ojibwe verb morphology                           
+
+We list personal and demonstrative pronouns, and still have
+not made it to the reflexives.
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/pronouns.lexc)</small>
+Ojibwe postpositions                           
+
+This is a dummy file, but perhaps *den* is a real subjunction?
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/subjunctions.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/subjunctions.lexc)</small>
+Ojibwe verb stems                           
+
+
+The verbs are analysed as follows:
+* We split the Verb lexicon in 4 groups according to transitivity class
+* For each group, we add the prefixes, and mark them with *flag diacritics* (the @ symbols)
+* Then come the stems themselves
+* Finally, come the suffixes, including flag diacritics
+to ensure that the correct prefixes and suffixes are matched together
+
+Prefixes and suffixes are in affixes/verbs.lexc, whereas
+the stems are in stems/verbs.lexc
+
+The Ojibwe verbs are divided in four groups:
+
+1. IA: Intransitive animate
+1. II: Intransitive inanimate
+1. TA: Transitive animate
+1. TI: Transitive inanimate
+
+
+
+The stems
+
+
+ LEXICON IASTEM    
+
+
+-mo 
+
+
+
+-de
+
+
+
+
+-aa / go/be ?
+
+
+
+
+VAI2 extracted from pdfs in Gikendandaa Ojibwemowin.
+All of these are -am stems. What is (CH)?
+
+
+
+VAI3 extracted from pdfs in Gikendandaa Ojibwemowin
+All of these are -shin stems. What is (CH)?
+
+
+dw- ?
+
+
+
+ LEXICON IISTEM    
+
+
+TODO: these need morphology
+
+ LEXICON TASTEM_am    
+
+ LEXICON TASTEM_aw    
+
+
+
+
+-zo passives
+
+TODO: morphology for the -zo passives
+
+ LEXICON ZO    
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/verbs.lexc)</small>
+Ojibwe numerals                           
+
+
+None so far.
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/numerals.lexc)</small>
 
 
 We describe here how abbreviations are in Chippewa are read out, e.g.

@@ -1,13 +1,13 @@
 
 Ojibwe postpositions
 
- # Definitions for Multichar_Symbols
+# Definitions for Multichar_Symbols@CODE@
 
 
 POS
 
 
- * +Symbol = independent symbols in the text stream, like £, €, ©
+* +Symbol© = independent symbols in the text stream, like £, €, ©
 
 Verbal MSP
  * +Prs  
@@ -87,8 +87,8 @@ These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 
 
 ## Symbols that need to be escaped on the lower side (towards twolc):
- * **»7**:  Literal »
- * **«7**:  Literal «
+* **»7»**:  Literal »
+* **«7«**:  Literal «
 ```
   %[%>%]  - Literal >
   %[%<%]  - Literal <
