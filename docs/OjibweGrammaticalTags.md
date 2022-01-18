@@ -3,6 +3,8 @@ The following grammatical tags are used for Ojibwe:
 ##  Parts of speech
 (Only verbs are implemented so far)
 
+| POS tag | POS name
+| ------- | --------
 |  +N	  | Noun
 |  +V	  | Verb
 |  +A	  | Adjective
@@ -17,6 +19,8 @@ The following grammatical tags are used for Ojibwe:
 
 ###  Transitivity
 
+|  Tag | Explanation
+| ---- | --------
 |  +IA | Intransitive with animate subject
 |  +II | Intransitive with inanimate subject
 |  +TA | Transitive with animate object
@@ -24,6 +28,8 @@ The following grammatical tags are used for Ojibwe:
 
 ###  Tense-Mood
 
+|  Tag | Explanation
+| ---- | --------
 |  +Prs	  | Present
 |  +Fut	  | Future
 |  +Prt	  | Preterite (Past)
@@ -37,6 +43,8 @@ The following grammatical tags are used for Ojibwe:
 
 ### Person-Number
 
+|  Tag | Explanation
+| ---- | --------
 |  +1Sg  | First singular
 |  +2Sg  | Second singular
 |  +3Sg  | Third singular
@@ -69,10 +77,15 @@ The following grammatical tags are used for Ojibwe:
 
 ###  Transitivity
 
+|  Tag | Explanation
+| ---- | --------
 |  +NA	 | Animate noun
 |  +NI	 | Inanimate noun
 
 ###  Number - case
+
+|  Tag | Explanation
+| ---- | --------
 |  +Sg	 | Singular
 |  +Pl	 | Plural
 |  +Nom	 | N
@@ -98,6 +111,8 @@ The following grammatical tags are used for Ojibwe:
 
 ###  Possessor forms
 
+|  Tag | Explanation
+| ---- | --------
 |  +PxSg1 | N
 |  +PxSg2 | N
 |  +PxSg3 | N
