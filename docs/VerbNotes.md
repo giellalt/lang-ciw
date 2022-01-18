@@ -69,8 +69,6 @@ NOTE: Wikipedia notes that Odaawaa has -mi
 ##  VAI Past paradigm
 
 ```  
-
-  	
   		sg                      pl
   	1	in-gii-nibaa 			1Ex	in-gii-nibaa-min
  								1In	gi-gii-nibaa-min
@@ -86,7 +84,7 @@ NOTE: Wikipedia notes that Odaawaa has -mi
 
 ##    VAI Future paradigm
 
-  	
+
 ```
   		sg                      pl
   	1	in-ga-nibaa 			1Ex	in-ga-nibaa-min
@@ -147,7 +145,6 @@ NOTE: Wikipedia notes that Odaawaa has -mi
   
 ##  VAI Preterite Negative sample paradigm
 
-  	
 ```
   		sg
   	1	ni-nibaa-sii-naaban 			1Ex	ni-nibaa-sii-minaaban 
@@ -163,7 +160,6 @@ NOTE: Wikipedia notes that Odaawaa has -mi
   
 ##  VAI Preterite Negative sample paradigm (SW Ojibwe dialect)
 
-  	
 ```
   		sg
   	1	ni-nibaa-sii-naaban 			1Ex	ni-nibaa-sii-minaaban 
@@ -173,17 +169,9 @@ NOTE: Wikipedia notes that Odaawaa has -mi
  	3'   0-nibaa-sii-banen 		
  	Imp  0-nibaa-sii-mwaaban 			
 ```
-
- 
-
-                             
-
-                             
-
   
 ##  VAI Dubitative Present Positive (??? dialect)
 
-  	
 ```
   		sg
   	1	ni-nibaa-naadig 			1Ex	ni-nibaa-minaadig 
@@ -194,12 +182,8 @@ NOTE: Wikipedia notes that Odaawaa has -mi
  	Imp  0-nibaa-midig 			
 ```
 
-                             
-
-  
 ##  VAI Dubitative Present Positive (SW Ojibwe)
 
-  	
 ```
   		sg
   	1	ni-nibaa-naadog 			1Ex	ni-nibaa-minaadog 
@@ -210,12 +194,8 @@ NOTE: Wikipedia notes that Odaawaa has -mi
  	Imp  0-nibaa-waadog 			
 ```
 
- 
-
-  
 ##  VAI Dubitative Present Negative (SW Ojibwe)
 
-  	
 ```
   		sg
   	1	ni-nibaa-sii-naadog 			1Ex	ni-nibaa-sii-minaadog 
@@ -225,17 +205,9 @@ NOTE: Wikipedia notes that Odaawaa has -mi
  	3'   0-nibaa-sii-genan 		
  	Imp  0-nibaa-sii-waadog 			
 ```
-
- 
-
-                             
-
-                             
-
   
 ##  VAI Dubitative Preterite Positive (?? Dialect) 
 
-  	
 ```
   		sg
   	1	ni-nibaa-naadig 			1Ex	ni-nibaa-minaadig 
@@ -252,10 +224,8 @@ TODO: Dubitative Preterite Negative
 
 #  VAI Conjunct forms
 
-                             
 ##  VAI Conjunct sample paradigm
 
-  	
 ```
   		sg
   	1	 0-nibaa-yaan 			1Ex	 0-nibaa-yaang 
@@ -265,14 +235,11 @@ TODO: Dubitative Preterite Negative
  	3'   0-nibaa-nid 		
  	Imp  0-nibaa-ng 			
 ```
-
  
 NOTE: DIALECT: Wikipedia says that Odaawaa has nibaasiwaanh 
 
-  
 ##  VAI Conjunct Negative sample paradigm
 
-  	
 ```
   		sg
   	1	 0-nibaa-si-yaan 			1Ex	 0-nibaa-si-waang 
@@ -284,59 +251,37 @@ NOTE: DIALECT: Wikipedia says that Odaawaa has nibaasiwaanh
  	Imp  0-nibaa-si-ng 			
 ```
 
- 
-
-                             
-
 #  VAI Imperatives 
 
-                             
-
-  
 ##  VAI Imperative Immediate
 
-  	
 ```
   		sg
   							1In  0-nibaa-daa  
   	2	 0-nibaa-n 			2	 0-nibaa-k, 0-nibaa-g
 ```
-
  
 ##  VAI Imperative Prohibitive Immediate
 
-  	
 ```
   		sg
   							    1In  0-nibaa-sii-daa  
   	2	 0-nibaa-ken 			2	 0-nibaa-keg-on
 ```
-
-  
-
-                             
-
   
 ##  VAI Imperative Delayed
 
-  	
 ```
   		sg
   	2	0-nibaa-kan 			2	 0-nibaa-keg
 ```
-
  
 ##  VAI Imperative Prohibitive Immediate
 
-  	
-
-  
 ```
   		sg
   	2	0-nibaa-sii-kan 			2	 0-nibaa-sii-keg
 ```
-
-                             
 
 #  VTA Verbs
 
@@ -350,12 +295,10 @@ Agree with object as well as subject, also have reflexive form.
  	waabam 'see' 
  	zaagi' 'love'
 ```
-
  
 ###  Cw-final. 
 
 Northern Ojibwe spells them with -o, southwestern without, but the stems are still pronounced the same
-
     
 ```
  	aaba'o	'untie s.o.'
@@ -369,8 +312,6 @@ Northern Ojibwe spells them with -o, southwestern without, but the stems are sti
  		imbaashkizwaa  'I shoot ANsg'
  		imbaashbizog   'ANsg shoots me.'
 ```
-
- 	
 
 ###  /N/-final
 
@@ -387,12 +328,10 @@ Northern Ojibwe spells them with -o, southwestern without, but the stems are sti
   /-ishi/ 3P goal imperative
 ```
 
-     
 ###  /S/-Final.
 
 /s/ /sh/ alternation in final sound of few stems, but otherwise, verbs ending
 in 	both these sounds
-
    
 ```
    nishi 'kill s.o.'
@@ -402,8 +341,6 @@ in 	both these sounds
   /-i/ 3P goal
   /-ishi/ 3P goal imperative
 ```
-
- 
 
 ###  /aw/-final
 
@@ -556,13 +493,10 @@ Combined with ...
     3SgSubj			2PlExclObj		igooyamban
     3PlSubj			2PlExclObj		igooyegiban
 ```
-
                                                
 ###  Conjunct Positive Dubitative 
 
 ```
-
-                                         
     1SgSubj				3SgObj			 aawagen
     1SgSubj				3PlObj			 aawagwaawen
     2SgSubj				3SgObj			 aawaden
@@ -620,8 +554,6 @@ Combined with ...
     3PlSubj			2PlInclObj		inowangwaawen
     3SgSubj			2PlExclObj		igoowanen
     3PlSubj			2PlExclObj		igoowegwen
-
-                                               
 ```
 
 #  Some words 
