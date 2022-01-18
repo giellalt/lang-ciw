@@ -1,80 +1,80 @@
 
 Ojibwe postpositions
 
-# Definitions for Multichar_Symbols@CODE@
+# Definitions for Multichar_Symbols
 
 
 POS
 
 
-* +Symbol© = independent symbols in the text stream, like £, €, ©
+* +Symbol = independent symbols in the text stream, like £, €, ©
 
 Verbal MSP
- * +Prs  
- * +Fut  
- * +Prt  
- * +Prf  
+* +Prs  
+* +Fut  
+* +Prt  
+* +Prf  
 
- * +Ind  
- * +Imp   Imperative
- * +Sbj   Subjunctive
- * +Imm   Immediate,
+* +Ind  
+* +Imp   Imperative
+* +Sbj   Subjunctive
+* +Imm   Immediate,
 
- * +Int   Interdiction,
- * +Dur   Durative
+* +Int   Interdiction,
+* +Dur   Durative
 
- * +1Sg     first singular
- * +2Sg     etc
- * +3Sg    
- * +3oSg    3o is obviative,
- * +3iSg    3i is indefinite
+* +1Sg     first singular
+* +2Sg     etc
+* +3Sg    
+* +3oSg    3o is obviative,
+* +3iSg    3i is indefinite
 
- * +1Pl     1Pl is exclusive plural (I, them, not you)
- * +2Pl    
- * +3Pl    
- * +3oPl   
- * +3iPl   
- * +12Pl    12Pl is inclusive plural (I, you, ...)
+* +1Pl     1Pl is exclusive plural (I, them, not you)
+* +2Pl    
+* +3Pl    
+* +3oPl   
+* +3iPl   
+* +12Pl    12Pl is inclusive plural (I, you, ...)
 
- * +1SgO    objective conjugation
- * +2SgO   
- * +3SgO   
- * +SgO    
- * +3oSgO   obviative with objective conjugation
- * +3iSgO  
- * +1PlO   
- * +P2lO   
- * +3PlO   
- * +PlO    
- * +3oPlO  
- * +3iPlO  
+* +1SgO    objective conjugation
+* +2SgO   
+* +3SgO   
+* +SgO    
+* +3oSgO   obviative with objective conjugation
+* +3iSgO  
+* +1PlO   
+* +P2lO   
+* +3PlO   
+* +PlO    
+* +3oPlO  
+* +3iPlO  
 
- * +Inf     infinitive (infinite?)
- * +Pos     postitive
- * +Neg     negative
- * +ConNeg  accompanying negative form
+* +Inf     infinitive (infinite?)
+* +Pos     postitive
+* +Neg     negative
+* +ConNeg  accompanying negative form
 
 Nominal MSP
- * +Sg		  singular
- * +Pl		  plural
+* +Sg		  singular
+* +Pl		  plural
 
- * +Px1Sg	  person prefixes for nouns
- * +Px2Sg	 
- * +Px3Sg	 
- * +Px1Pl	  obviative
- * +Px12Pl	  inclusive
- * +Px2Pl	 
- * +Px3Pl	 
+* +Px1Sg	  person prefixes for nouns
+* +Px2Sg	 
+* +Px3Sg	 
+* +Px1Pl	  obviative
+* +Px12Pl	  inclusive
+* +Px2Pl	 
+* +Px3Pl	 
 
- * +IA       intransitive with animate subject,
- * +II       intransitive with inanimate subject,
- * +TA       transitive with animate object, and
- * +TI       transitive with inanimate object.
+* +IA       intransitive with animate subject,
+* +II       intransitive with inanimate subject,
+* +TA       transitive with animate object, and
+* +TI       transitive with inanimate object.
 
- * +AN		  animate noun
- * +IN		  inanimate noun
+* +AN		  animate noun
+* +IN		  inanimate noun
 
- * %> 		  suffix border
+* %> 		  suffix border
 
 
 Flagdiacritics
@@ -87,23 +87,23 @@ These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 
 
 ## Symbols that need to be escaped on the lower side (towards twolc):
-* **»7»**:  Literal »
-* **«7«**:  Literal «
+* **»7**:  Literal »
+* **«7**:  Literal «
 ```
-  %[%>%]  - Literal >
-  %[%<%]  - Literal <
+ %[%>%]  - Literal >
+ %[%<%]  - Literal <
 ```
 
 
 
 
-  LEXICON Root 		  is where it all starts
+ LEXICON Root 		  is where it all starts
 
- * Noun ;	             
- * Verb ;	             
- * Pronoun ;            
- * Punctuation ;        
- * Symbols     ;        
+* Noun ;	             
+* Verb ;	             
+* Pronoun ;            
+* Punctuation ;        
+* Symbols     ;        
 
 
 

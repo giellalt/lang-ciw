@@ -1,32 +1,32 @@
-!!! Verb morphophonology
+#  Verb morphophonology
 
 There are some morphophonological processes in Ojibwe, though there may be some dialect variation.
 
 * Short final vowels in VAI go away for forms with ni- and gi- prefixes
-** Example: 
+    - Example: 
 * gi- and o- alternates with gid- and od- in verb stems beginning with vowels
-** Example: 
+    - Example: 
 * ni- is realized as several things depending on the initial context of the verb stem
 * there are several segmental changes that occur in preterites
 * Some reduplication
-* -s- in negative assimilates in voicing when following the segments ''n z h m''
+* -s- in negative assimilates in voicing when following the segments *n z h m*
 * -m- alternates with -n- before negative -s-/-z-, also both things occur: ni-nisidotam-siin ➔ ninisidotanziin
 
-!! ni-
+##  ni-
 
 * ni- ➔ ind- before vowels 
-* ni- ➔ in- before ''d g j z zh'' 
-* ni- ➔ im- before ''b''
+* ni- ➔ in- before *d g j z zh* 
+* ni- ➔ im- before *b*
 
-Some dialects may also have ''nin- '' before ''gii- '', as well as there is some
+Some dialects may also have *nin-* before *gii-*, as well as there is some
 dialectical variation for the whole process.
 
-* ''ni-nibaa''
-* ''ind-anokii''
-* ''in-dagoshin''
-* ''im-bakade''
+* *ni-nibaa*
+* *ind-anokii*
+* *in-dagoshin*
+* *im-bakade*
 
-!! Preterite segmental changes
+##  Preterite segmental changes
 
 * a ➔ e
 * aa ➔ ayaa
@@ -36,17 +36,17 @@ dialectical variation for the whole process.
 * o ➔ we
 * oo ➔ waa
 
-This process does not affect stems beginning in ''dan-, dazh-, das-, dash- '', or ''daa- ''. These have prefix ''en- ''.
+This process does not affect stems beginning in *dan-, dazh-, das-, dash-*, or *daa-*. These have prefix *en-*.
 
-There are some other changes too: the place prefix ''bi- '' 'here, hither' ➔ ''ba- ''
+There are some other changes too: the place prefix *bi-* 'here, hither' ➔ *ba-*
 
 There is also some vowel insertion between the preterite form and consonants. usually /a/?
 
-!! Reduplication
+##  Reduplication
 
 Reduplication of certain segments occurs, somewhat complex.
 
-{{{
+```
 	a    ➔   aya
 	aa   ➔   aayaa
 	e    ➔   eye
@@ -59,8 +59,6 @@ Reduplication of certain segments occurs, somewhat complex.
 	Cii  ➔   CaaCii
 	Co   ➔   CaCo
 	Coo  ➔   CaaCoo
-}}}
+```
 
-source - [James A. Starkey jr: Ojibwe Lesson 6|http://jamesastarkeyjr.com/Ojibwemowin/LessonPages/Lesson6.htm]
-
-
+source - [James A. Starkey jr: Ojibwe Lesson 6](http://jamesastarkeyjr.com/Ojibwemowin/LessonPages/Lesson6.htm)

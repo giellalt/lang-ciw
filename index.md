@@ -6,10 +6,50 @@
 [![Build status](https://github.com/giellalt/lang-ciw/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-ciw/actions)
 
 This page documents the work on the [Chippewa language model](https://github.com/giellalt/lang-ciw). 
+It contains some 750 nouns and verbs, and a morphological
+component covering their basic inflection pattern.
 
-# Project documentation
+The analyser is thus still in an experimental phase.
 
-* (Add links to project specific documentation here as needed. Keep the documentation in the `docs/` directory.)
+# The language
+
+Ojibwe is an Algonquin language spoken in Canada and the United States.
+There are dialect differences within the language. The principal source
+of our analyser presents the Minnesota dialect, using the Double Vowel, 
+or so-called Fiero system. This system is characterised by marking vowel
+length by writing double vowel symbols.
+
+* [Generation of paradigms](http://giellatekno.uit.no/cgi/p-ciw.en.html)
+ and [text analysis](http://giellatekno.uit.no/cgi/d-ciw.en.html)
+
+# Documentation of the analyser
+
+The analyser is in an initial state, and contains some hundred verbs, approximately
+hundred nouns and some pronouns.
+
+* [Grammatical tags](OjibweGrammaticalTags.md)
+* [A list of the words used so far](OjibweWordList.md)
+* [Notes on verb inflection](VerbNotes.md)
+* [Notes on morphophonology](MorphoPhonologyNotes.md), mostly verbs for now
+
+# Using the analysers
+
+* In the terminal: analyse words by writing *uciw*, generate with *dciw*
+* For more info, see [How to use the morphological parsers](/tools/docu-sme-manual.html)
+
+# Sources
+
+We have so far used the following two sources:
+
+1. The *chart* verb paradigms of the web page [Anishinaabemowin, Ojibwe Language](http://weshki.atwebpages.com/oj_verbs.html)
+1. [The article on Ojibwe grammar](http://fr.wikipedia.org/wiki/Grammaire_de_l%27ojibwé) on the French Wikipedia
+1. [Gikendandaa Ojibwemowin!|http://jamesastarkeyjr.com/Ojibwemowin/Pages/Index.htm] has lists of different classes of verbs in PDF format, collected from [Weshki](http://weshki.atwebpages.com) online ojibwe dictionary
+
+Additional sources to peruse
+
+* [Ojibwe Vocabulary Project, Working Session July 6-8, 2009](http://minnesotahumanities.org/resources/Book%20Contents.pdf). Lots of words, but it appears that the encoding is a bit weird and thus hard to export data from the PDF.
+* [Kwayaciiwiin](http://www.kwayaciiwin.com/node/15336) has some very big, free dictionaries in both latin and canadian syllabics, and verbs are marked in a roundabout way (otherwise no PoS and inflectional category information)
+* Anton Truer at Bemidji state has collected a fair amount of resources and wordlists, which are published online, however it may be that he would be willing to donate plaintext wordlists as well.
 
 # In-source documentation
 

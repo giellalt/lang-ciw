@@ -15,16 +15,16 @@ The stems
 
 ###  Inanimate Nouns
 
- LEXICON INSTEMS  
+LEXICON INSTEMS  
 
- waakaa'igan INDECL "house" ;  
- adopowin INDECL "table" ;     
+waakaa'igan INDECL "house" ;  
+adopowin INDECL "table" ;     
 
 
- LEXICON KINSHIPSTEMS   
+LEXICON KINSHIPSTEMS   
 
- * baabaa KINDECL "father" ;   
- * maamaa KINDECL "mother" ;   
+* baabaa KINDECL "father" ;   
+* maamaa KINDECL "mother" ;   
 
 
 

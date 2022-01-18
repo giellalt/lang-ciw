@@ -609,80 +609,80 @@ These were the set types.
 <small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-ciw/blob/main/../src/cg3/functions.cg3)</small>
 Ojibwe postpositions
 
-# Definitions for Multichar_Symbols@CODE@
+# Definitions for Multichar_Symbols
 
 
 POS
 
 
-* +Symbol© = independent symbols in the text stream, like £, €, ©
+* +Symbol = independent symbols in the text stream, like £, €, ©
 
 Verbal MSP
- * +Prs  
- * +Fut  
- * +Prt  
- * +Prf  
+* +Prs  
+* +Fut  
+* +Prt  
+* +Prf  
 
- * +Ind  
- * +Imp   Imperative
- * +Sbj   Subjunctive
- * +Imm   Immediate,
+* +Ind  
+* +Imp   Imperative
+* +Sbj   Subjunctive
+* +Imm   Immediate,
 
- * +Int   Interdiction,
- * +Dur   Durative
+* +Int   Interdiction,
+* +Dur   Durative
 
- * +1Sg     first singular
- * +2Sg     etc
- * +3Sg    
- * +3oSg    3o is obviative,
- * +3iSg    3i is indefinite
+* +1Sg     first singular
+* +2Sg     etc
+* +3Sg    
+* +3oSg    3o is obviative,
+* +3iSg    3i is indefinite
 
- * +1Pl     1Pl is exclusive plural (I, them, not you)
- * +2Pl    
- * +3Pl    
- * +3oPl   
- * +3iPl   
- * +12Pl    12Pl is inclusive plural (I, you, ...)
+* +1Pl     1Pl is exclusive plural (I, them, not you)
+* +2Pl    
+* +3Pl    
+* +3oPl   
+* +3iPl   
+* +12Pl    12Pl is inclusive plural (I, you, ...)
 
- * +1SgO    objective conjugation
- * +2SgO   
- * +3SgO   
- * +SgO    
- * +3oSgO   obviative with objective conjugation
- * +3iSgO  
- * +1PlO   
- * +P2lO   
- * +3PlO   
- * +PlO    
- * +3oPlO  
- * +3iPlO  
+* +1SgO    objective conjugation
+* +2SgO   
+* +3SgO   
+* +SgO    
+* +3oSgO   obviative with objective conjugation
+* +3iSgO  
+* +1PlO   
+* +P2lO   
+* +3PlO   
+* +PlO    
+* +3oPlO  
+* +3iPlO  
 
- * +Inf     infinitive (infinite?)
- * +Pos     postitive
- * +Neg     negative
- * +ConNeg  accompanying negative form
+* +Inf     infinitive (infinite?)
+* +Pos     postitive
+* +Neg     negative
+* +ConNeg  accompanying negative form
 
 Nominal MSP
- * +Sg		  singular
- * +Pl		  plural
+* +Sg		  singular
+* +Pl		  plural
 
- * +Px1Sg	  person prefixes for nouns
- * +Px2Sg	 
- * +Px3Sg	 
- * +Px1Pl	  obviative
- * +Px12Pl	  inclusive
- * +Px2Pl	 
- * +Px3Pl	 
+* +Px1Sg	  person prefixes for nouns
+* +Px2Sg	 
+* +Px3Sg	 
+* +Px1Pl	  obviative
+* +Px12Pl	  inclusive
+* +Px2Pl	 
+* +Px3Pl	 
 
- * +IA       intransitive with animate subject,
- * +II       intransitive with inanimate subject,
- * +TA       transitive with animate object, and
- * +TI       transitive with inanimate object.
+* +IA       intransitive with animate subject,
+* +II       intransitive with inanimate subject,
+* +TA       transitive with animate object, and
+* +TI       transitive with inanimate object.
 
- * +AN		  animate noun
- * +IN		  inanimate noun
+* +AN		  animate noun
+* +IN		  inanimate noun
 
- * %> 		  suffix border
+* %> 		  suffix border
 
 
 Flagdiacritics
@@ -695,23 +695,23 @@ These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 
 
 ## Symbols that need to be escaped on the lower side (towards twolc):
-* **»7»**:  Literal »
-* **«7«**:  Literal «
+* **»7**:  Literal »
+* **«7**:  Literal «
 ```
-  %[%>%]  - Literal >
-  %[%<%]  - Literal <
+ %[%>%]  - Literal >
+ %[%<%]  - Literal <
 ```
 
 
 
 
-  LEXICON Root 		  is where it all starts
+ LEXICON Root 		  is where it all starts
 
- * Noun ;	             
- * Verb ;	             
- * Pronoun ;            
- * Punctuation ;        
- * Symbols     ;        
+* Noun ;	             
+* Verb ;	             
+* Pronoun ;            
+* Punctuation ;        
+* Symbols     ;        
 
 
 
@@ -733,14 +733,14 @@ Ojibwe noun morphology
 
 The prefixes
 
- * LEXICON Noun 
+* LEXICON Noun 
 
 
- * LEXICON AN   animate nouns
+* LEXICON AN   animate nouns
 
 
 
- * LEXICON IN  inanimate nouns
+* LEXICON IN  inanimate nouns
 
 
 
@@ -796,25 +796,25 @@ The Ojibwe verbs are divided in four groups:
 # The prefixes
 
 
- LEXICON Verb  divides the verbs in four transitivity classes
+LEXICON Verb  divides the verbs in four transitivity classes
 
 
 
 Intransitive animate
 
- LEXICON IA    divides in independent, subjunctive and imperative
+LEXICON IA    divides in independent, subjunctive and imperative
 
 
 
- LEXICON IA_INDEPENDENT    gives prefixes and flags for person-number in indicative
+LEXICON IA_INDEPENDENT    gives prefixes and flags for person-number in indicative
 
 
 
- LEXICON IA_SUBJUNCTIV    gives prefixes and flags for person-number in subjunctive
+LEXICON IA_SUBJUNCTIV    gives prefixes and flags for person-number in subjunctive
 
 
 
- LEXICON IA_IMPERATIV    gives prefixes and flags for person-number in imperative
+LEXICON IA_IMPERATIV    gives prefixes and flags for person-number in imperative
 
 
 Intransitive inanimate
@@ -825,12 +825,12 @@ These have no prefixes, so we go directly to the **IISTEM** lexicon.
 
 Transitive animate
 
- LEXICON TA   is still not written
+LEXICON TA   is still not written
 
 
 Transitive inanimate
 
- LEXICON TI   is still not written
+LEXICON TI   is still not written
 
 
 
@@ -846,22 +846,20 @@ Transitive inanimate
 
 Intransitive animate (IA)
 
- LEXICON IACONJ  splits in 3 conjugations
+LEXICON IACONJ  splits in 3 conjugations
 
- LEXICON IA_IND  gives positive and negative
-
-
-
- LEXICON IA_IND_SUFF  (so far) gives present tense only
-
-
- LEXICON IA_IND_PRS  gives person suffixes
+LEXICON IA_IND  gives positive and negative
 
 
 
- LEXICON IA_SBJ  gives flag diacritics and directs to subjunctive person suffixes
+LEXICON IA_IND_SUFF  (so far) gives present tense only
 
 
+LEXICON IA_IND_PRS  gives person suffixes
+
+
+
+LEXICON IA_SBJ  gives flag diacritics and directs to subjunctive person suffixes
 
 
 
@@ -872,7 +870,9 @@ Intransitive animate (IA)
 
 
 
- LEXICON IA_IMP   gives flag diacritics and directs to imperative person suffixes
+
+
+LEXICON IA_IMP   gives flag diacritics and directs to imperative person suffixes
 
 
 
@@ -882,20 +882,20 @@ Intransitive animate (IA)
 Intransitive inanimate (II)
 
 
- LEXICON IICONJ   splits according to conjugation
+LEXICON IICONJ   splits according to conjugation
 
- LEXICON II_IND_PRS    is positive present
+LEXICON II_IND_PRS    is positive present
 
- LEXICON II_NEG_IND_PRS   is negative present
+LEXICON II_NEG_IND_PRS   is negative present
 
- LEXICON II_SBJ    is positive subjunctive
+LEXICON II_SBJ    is positive subjunctive
 
- LEXICON II_NEG_SBJ    is negative subjunctive
+LEXICON II_NEG_SBJ    is negative subjunctive
 
 
 Transitive animate (TA)
 
- * LEXICON TACONJ_am   not yet written
+* LEXICON TACONJ_am   not yet written
 * * *
 <small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/affixes/verbs.lexc)</small>
 
@@ -950,16 +950,16 @@ The stems
 
 ###  Inanimate Nouns
 
- LEXICON INSTEMS  
+LEXICON INSTEMS  
 
- waakaa'igan INDECL "house" ;  
- adopowin INDECL "table" ;     
+waakaa'igan INDECL "house" ;  
+adopowin INDECL "table" ;     
 
 
- LEXICON KINSHIPSTEMS   
+LEXICON KINSHIPSTEMS   
 
- * baabaa KINDECL "father" ;   
- * maamaa KINDECL "mother" ;   
+* baabaa KINDECL "father" ;   
+* maamaa KINDECL "mother" ;   
 
 
 
@@ -1021,7 +1021,7 @@ The Ojibwe verbs are divided in four groups:
 The stems
 
 
- LEXICON IASTEM    
+LEXICON IASTEM    
 
 
 -mo 
@@ -1051,14 +1051,14 @@ dw- ?
 
 
 
- LEXICON IISTEM    
+LEXICON IISTEM    
 
 
 TODO: these need morphology
 
- LEXICON TASTEM_am    
+LEXICON TASTEM_am    
 
- LEXICON TASTEM_aw    
+LEXICON TASTEM_aw    
 
 
 
@@ -1067,7 +1067,7 @@ TODO: these need morphology
 
 TODO: morphology for the -zo passives
 
- LEXICON ZO    
+LEXICON ZO    
 * * *
 <small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/verbs.lexc)</small>
 Ojibwe numerals                           
@@ -1084,12 +1084,12 @@ for text-to-speech systems.
 
 For example:
 
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
+* s.:syntynyt # ;  
+* os.:omaa% sukua # ;  
+* v.:vuosi # ;  
+* v.:vuonna # ;  
+* esim.:esimerkki # ; 
+* esim.:esimerkiksi # ; 
 
 
 * * *

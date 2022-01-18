@@ -7,14 +7,14 @@ Ojibwe noun morphology
 
 The prefixes
 
- * LEXICON Noun 
+* LEXICON Noun 
 
 
- * LEXICON AN   animate nouns
+* LEXICON AN   animate nouns
 
 
 
- * LEXICON IN  inanimate nouns
+* LEXICON IN  inanimate nouns
 
 
 

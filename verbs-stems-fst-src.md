@@ -24,7 +24,7 @@ The Ojibwe verbs are divided in four groups:
 The stems
 
 
- LEXICON IASTEM    
+LEXICON IASTEM    
 
 
 -mo 
@@ -54,14 +54,14 @@ dw- ?
 
 
 
- LEXICON IISTEM    
+LEXICON IISTEM    
 
 
 TODO: these need morphology
 
- LEXICON TASTEM_am    
+LEXICON TASTEM_am    
 
- LEXICON TASTEM_aw    
+LEXICON TASTEM_aw    
 
 
 
@@ -70,6 +70,6 @@ TODO: these need morphology
 
 TODO: morphology for the -zo passives
 
- LEXICON ZO    
+LEXICON ZO    
 * * *
 <small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/verbs.lexc)</small>
