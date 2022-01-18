@@ -27,10 +27,10 @@ length by writing double vowel symbols.
 The analyser is in an initial state, and contains some hundred verbs, approximately
 hundred nouns and some pronouns.
 
-* [Grammatical tags](OjibweGrammaticalTags.html)
-* [A list of the words used so far](OjibweWordList.html)
-* [Notes on verb inflection](VerbNotes.html)
-* [Notes on morphophonology](MorphoPhonologyNotes.html), mostly verbs for now
+* [Grammatical tags](OjibweGrammaticalTags.md)
+* [A list of the words used so far](OjibweWordList.md)
+* [Notes on verb inflection](VerbNotes.md)
+* [Notes on morphophonology](MorphoPhonologyNotes.md), mostly verbs for now
 
 # Using the analysers
 
