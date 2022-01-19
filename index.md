@@ -43,7 +43,7 @@ We have so far used the following two sources:
 
 1. The *chart* verb paradigms of the web page [Anishinaabemowin, Ojibwe Language](http://weshki.atwebpages.com/oj_verbs.html)
 1. [The article on Ojibwe grammar](http://fr.wikipedia.org/wiki/Grammaire_de_l%27ojibwé) on the French Wikipedia
-1. [Gikendandaa Ojibwemowin!|http://jamesastarkeyjr.com/Ojibwemowin/Pages/Index.htm] has lists of different classes of verbs in PDF format, collected from [Weshki](http://weshki.atwebpages.com) online ojibwe dictionary
+1. [Gikendandaa Ojibwemowin!](http://jamesastarkeyjr.com/Ojibwemowin/Pages/Index.htm) has lists of different classes of verbs in PDF format, collected from [Weshki](http://weshki.atwebpages.com) online ojibwe dictionary
 
 Additional sources to peruse
 
