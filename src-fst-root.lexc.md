@@ -3,9 +3,7 @@ Ojibwe postpositions
 
 # Definitions for Multichar_Symbols
 
-
 POS
-
 
 * +Symbol = independent symbols in the text stream, like £, €, ©
 
@@ -76,15 +74,9 @@ Nominal MSP
 
 * %> 		  suffix border
 
-
 Flagdiacritics
 
 These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
-
-
-
-
-
 
 ## Symbols that need to be escaped on the lower side (towards twolc):
 * **»7**:  Literal »
@@ -94,9 +86,6 @@ These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
  %[%<%]  - Literal <
 ```
 
-
-
-
  LEXICON Root 		  is where it all starts
 
 * Noun ;	             
@@ -105,7 +94,9 @@ These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 * Punctuation ;        
 * Symbols     ;        
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/root.lexc)</small>
+
+---
+

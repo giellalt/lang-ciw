@@ -1,7 +1,6 @@
 
 Ojibwe verb stems                           
 
-
 The verbs are analysed as follows:
 * We split the Verb lexicon in 4 groups according to transitivity class
 * For each group, we add the prefixes, and mark them with *flag diacritics* (the @ symbols)
@@ -19,43 +18,25 @@ The Ojibwe verbs are divided in four groups:
 1. TA: Transitive animate
 1. TI: Transitive inanimate
 
-
-
 The stems
-
 
 LEXICON IASTEM    
 
-
 -mo 
-
-
 
 -de
 
-
-
-
 -aa / go/be ?
-
-
-
 
 VAI2 extracted from pdfs in Gikendandaa Ojibwemowin.
 All of these are -am stems. What is (CH)?
 
-
-
 VAI3 extracted from pdfs in Gikendandaa Ojibwemowin
 All of these are -shin stems. What is (CH)?
 
-
 dw- ?
 
-
-
 LEXICON IISTEM    
-
 
 TODO: these need morphology
 
@@ -63,13 +44,15 @@ LEXICON TASTEM_am
 
 LEXICON TASTEM_aw    
 
-
-
-
 -zo passives
 
 TODO: morphology for the -zo passives
 
 LEXICON ZO    
+
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-ciw/blob/main/../src/fst/stems/verbs.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/stems/verbs.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/verbs.lexc)</small>
+
+---
+
