@@ -170,166 +170,7 @@ These were the set types.
 ## HNOUN MAPPING
 
 * * *
-
 <small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-ciw/blob/main/src/cg3/functions.cg3)</small>
-
----
-
-
-
-# Rules
-
-**RULENAME**  
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/phonology.twolc)</small>
-
----
-
-
-Ojibwe noun stems                           
-
-Note that both prefixes and suffixes are found in the file
-../affixes/nouns.lexc
-
-The stems
-
-###  Animate Nouns
-
-###  Inanimate Nouns
-
-LEXICON INSTEMS  
-
-waakaa'igan INDECL "house" ;  
-adopowin INDECL "table" ;     
-
-LEXICON KINSHIPSTEMS   
-
-* baabaa KINDECL "father" ;   
-* maamaa KINDECL "mother" ;   
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/nouns.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/nouns.lexc)</small>
-
----
-
-
-Ojibwe postpositions                           
-
-Do these even exist?
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/prepositions.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/prepositions.lexc)</small>
-
----
-
-
-Ojibwe interjections                           
-
-This is a dummy files, awaiting real interjections.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/interjections.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/interjections.lexc)</small>
-
----
-
-
-Ojibwe verb morphology                           
-
-We list personal and demonstrative pronouns, and still have
-not made it to the reflexives.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/pronouns.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/pronouns.lexc)</small>
-
----
-
-
-Ojibwe postpositions                           
-
-This is a dummy file, but perhaps *den* is a real subjunction?
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/subjunctions.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/subjunctions.lexc)</small>
-
----
-
-
-Ojibwe numerals                           
-
-None so far.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/numerals.lexc)</small>
-
----
-
-
-Ojibwe verb stems                           
-
-The verbs are analysed as follows:
-* We split the Verb lexicon in 4 groups according to transitivity class
-* For each group, we add the prefixes, and mark them with *flag diacritics* (the @ symbols)
-* Then come the stems themselves
-* Finally, come the suffixes, including flag diacritics
-to ensure that the correct prefixes and suffixes are matched together
-
-Prefixes and suffixes are in affixes/verbs.lexc, whereas
-the stems are in stems/verbs.lexc
-
-The Ojibwe verbs are divided in four groups:
-
-1. IA: Intransitive animate
-1. II: Intransitive inanimate
-1. TA: Transitive animate
-1. TI: Transitive inanimate
-
-The stems
-
-LEXICON IASTEM    
-
--mo 
-
--de
-
--aa / go/be ?
-
-VAI2 extracted from pdfs in Gikendandaa Ojibwemowin.
-All of these are -am stems. What is (CH)?
-
-VAI3 extracted from pdfs in Gikendandaa Ojibwemowin
-All of these are -shin stems. What is (CH)?
-
-dw- ?
-
-LEXICON IISTEM    
-
-TODO: these need morphology
-
-LEXICON TASTEM_am    
-
-LEXICON TASTEM_aw    
-
--zo passives
-
-TODO: morphology for the -zo passives
-
-LEXICON ZO    
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/verbs.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/verbs.lexc)</small>
-
----
-
-
 Ojibwe noun morphology                           
 
 # Prefixes
@@ -356,6 +197,15 @@ match the prefixes in the stem file.
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/affixes/nouns.lexc)</small>
+
+---
+
+
+# Symbol affixes
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/affixes/symbols.lexc)</small>
 
 ---
 
@@ -444,11 +294,14 @@ Transitive animate (TA)
 ---
 
 
-# Symbol affixes
+
+# Rules
+
+**RULENAME**  
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/phonology.twolc)</small>
 
 ---
 
@@ -551,6 +404,148 @@ These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/root.lexc)</small>
+
+---
+
+
+Ojibwe interjections                           
+
+This is a dummy files, awaiting real interjections.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/interjections.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/interjections.lexc)</small>
+
+---
+
+
+Ojibwe noun stems                           
+
+Note that both prefixes and suffixes are found in the file
+../affixes/nouns.lexc
+
+The stems
+
+###  Animate Nouns
+
+###  Inanimate Nouns
+
+LEXICON INSTEMS  
+
+waakaa'igan INDECL "house" ;  
+adopowin INDECL "table" ;     
+
+LEXICON KINSHIPSTEMS   
+
+* baabaa KINDECL "father" ;   
+* maamaa KINDECL "mother" ;   
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/nouns.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/nouns.lexc)</small>
+
+---
+
+
+Ojibwe numerals                           
+
+None so far.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/numerals.lexc)</small>
+
+---
+
+
+Ojibwe postpositions                           
+
+Do these even exist?
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/prepositions.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/prepositions.lexc)</small>
+
+---
+
+
+Ojibwe verb morphology                           
+
+We list personal and demonstrative pronouns, and still have
+not made it to the reflexives.
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/pronouns.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/pronouns.lexc)</small>
+
+---
+
+
+Ojibwe postpositions                           
+
+This is a dummy file, but perhaps *den* is a real subjunction?
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/subjunctions.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/subjunctions.lexc)</small>
+
+---
+
+
+Ojibwe verb stems                           
+
+The verbs are analysed as follows:
+* We split the Verb lexicon in 4 groups according to transitivity class
+* For each group, we add the prefixes, and mark them with *flag diacritics* (the @ symbols)
+* Then come the stems themselves
+* Finally, come the suffixes, including flag diacritics
+to ensure that the correct prefixes and suffixes are matched together
+
+Prefixes and suffixes are in affixes/verbs.lexc, whereas
+the stems are in stems/verbs.lexc
+
+The Ojibwe verbs are divided in four groups:
+
+1. IA: Intransitive animate
+1. II: Intransitive inanimate
+1. TA: Transitive animate
+1. TI: Transitive inanimate
+
+The stems
+
+LEXICON IASTEM    
+
+-mo 
+
+-de
+
+-aa / go/be ?
+
+VAI2 extracted from pdfs in Gikendandaa Ojibwemowin.
+All of these are -am stems. What is (CH)?
+
+VAI3 extracted from pdfs in Gikendandaa Ojibwemowin
+All of these are -shin stems. What is (CH)?
+
+dw- ?
+
+LEXICON IISTEM    
+
+TODO: these need morphology
+
+LEXICON TASTEM_am    
+
+LEXICON TASTEM_aw    
+
+-zo passives
+
+TODO: morphology for the -zo passives
+
+LEXICON ZO    
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/stems/verbs.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/verbs.lexc)</small>
 
 ---
 
@@ -723,20 +718,6 @@ retracted tongue root			_q
 
 
 
-% komma% :,      Root ;
-% tjuohkkis% :%. Root ;
-% kolon% :%:     Root ;
-% sárggis% :%-   Root ; 
-% násti% :%*     Root ; 
-
-* * *
-
-<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
-
----
-
-
-
 We describe here how abbreviations are in Chippewa are read out, e.g.
 for text-to-speech systems.
 
@@ -752,6 +733,20 @@ For example:
 * * *
 
 <small>This (part of) documentation was generated from [src/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+
+---
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
+
+* * *
+
+<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 ---
 
@@ -793,7 +788,6 @@ CLB
 LEFT
 RIGHT
 WEB
-QMARK
 PPUNCT
 PUNCT
 
@@ -907,9 +901,6 @@ Sem/Txt
 
 HUMAN
 
-HAB-ACTOR
-HAB-ACTOR-NOT-HUMAN
-
 PROP-ATTR
 PROP-SUR
 
@@ -998,8 +989,6 @@ INITIAL
 ### Sets for word or not
 
 WORD
-REAL-WORD
-REAL-WORD-NOT-ABBR
 NOT-COMMA
 
 ### Case sets
@@ -1058,75 +1047,7 @@ expression **WORD - premodifiers**.
 ### Grammarchecker sets
 
 * * *
-
-<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-ciw/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
-
----
-
-# Grammar checker tokenisation for ciw
-
-Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
-Then just:
-```
-$ make
-$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-```
-
-More usage examples:
-```
-$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
-```
-
-Pmatch documentation:
-<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
-
-Characters which have analyses in the lexicon, but can appear without spaces
-before/after, that is, with no context conditions, and adjacent to words:
-* Punct contains ASCII punctuation marks
-* The symbol after m-dash is soft-hyphen `U+00AD`
-* The symbol following {•} is byte-order-mark / zero-width no-break space
-`U+FEFF`.
-
-Whitespace contains ASCII white space and
-the List contains some unicode white space characters
-* En Quad U+2000 to Zero-Width Joiner U+200d'
-* Narrow No-Break Space U+202F
-* Medium Mathematical Space U+205F
-* Word joiner U+2060
-
-Apart from what's in our morphology, there are
-1) unknown word-like forms, and
-2) unmatched strings
-We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
-* select extended latin symbols
-* select symbols
-* various symbols from Private area (probably Microsoft),
-so far:
-* U+F0B7 for "x in box"
-
-TODO: Could use something like this, but built-in's don't include šžđčŋ:
-
-Simply give an empty reading when something is unknown:
-hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
-remove empty analyses from other readings. Empty readings are also
-legal in CG, they get a default baseform equal to the wordform, but
-no tag to check, so it's safer to let hfst-tokenise handle them.
-
-Finally we mark as a token any sequence making up a:
-* known word in context
-* unknown (OOV) token in context
-* sequence of word and punctuation
-* URL in context
-
-* * *
-
-<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-ciw/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
-
----
-
-# Tokeniser for ciw
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-ciw/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small># Tokeniser for ciw
 
 Usage:
 ```
@@ -1138,7 +1059,7 @@ $ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-des
 ```
 
 Pmatch documentation:
-<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
+<https://github.com/hfst/hfst/wiki/HfstPmatch>
 
 Characters which have analyses in the lexicon, but can appear without spaces
 before/after, that is, with no context conditions, and adjacent to words:
@@ -1186,6 +1107,69 @@ Finally we mark as a token any sequence making up a:
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-ciw/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
+
+---
+
+# Grammar checker tokenisation for ciw
+
+Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+Then just:
+```
+$ make
+$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+More usage examples:
+```
+$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+Pmatch documentation:
+<https://github.com/hfst/hfst/wiki/HfstPmatch>
+
+Characters which have analyses in the lexicon, but can appear without spaces
+before/after, that is, with no context conditions, and adjacent to words:
+* Punct contains ASCII punctuation marks
+* The symbol after m-dash is soft-hyphen `U+00AD`
+* The symbol following {•} is byte-order-mark / zero-width no-break space
+`U+FEFF`.
+
+Whitespace contains ASCII white space and
+the List contains some unicode white space characters
+* En Quad U+2000 to Zero-Width Joiner U+200d'
+* Narrow No-Break Space U+202F
+* Medium Mathematical Space U+205F
+* Word joiner U+2060
+
+Apart from what's in our morphology, there are
+1) unknown word-like forms, and
+2) unmatched strings
+We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
+* select extended latin symbols
+* select symbols
+* various symbols from Private area (probably Microsoft),
+so far:
+* U+F0B7 for "x in box"
+
+TODO: Could use something like this, but built-in's don't include šžđčŋ:
+
+Simply give an empty reading when something is unknown:
+hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
+remove empty analyses from other readings. Empty readings are also
+legal in CG, they get a default baseform equal to the wordform, but
+no tag to check, so it's safer to let hfst-tokenise handle them.
+
+Finally we mark as a token any sequence making up a:
+* known word in context
+* unknown (OOV) token in context
+* sequence of word and punctuation
+* URL in context
+
+* * *
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-ciw/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
 
 ---
 
