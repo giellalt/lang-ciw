@@ -1,0 +1,1898 @@
+gookook'oo+NA	gookookohoo
+
+1+gookook'oo+NA	nigookookohoo
+
+2+gookook'oo+NA	gigookookohoo
+
+X+gookook'oo+NA	igookookohoo
+
+gookook'oo+NA+Con	gookookohooenh
+
+gookook'oo+NA+Dim	gookookohooens
+
+gookook'oo+NA+Pej	gookookohoosh
+
+gookook'oo+NA+Prt	gookookohoobani1
+
+gookook'oo+NA+Voc+Pl	gookookohoodig
+
+gookook'oo+NA+4	gookookohooan
+
+gookook'oo+NA+Loc	gookookohoong
+
+gookook'oo+NA+Pl	gookookohooag
+
+1+gookook'oo+NA+Con	nigookookohooenh
+
+1+gookook'oo+NA+Dim	nigookookohooens
+
+2+gookook'oo+NA+Con	gigookookohooenh
+
+2+gookook'oo+NA+Dim	gigookookohooens
+
+X+gookook'oo+NA+Con	igookookohooenh
+
+X+gookook'oo+NA+Dim	igookookohooens
+
+1+gookook'oo+NA+ThmPos	nigookookohoom
+
+2+gookook'oo+NA+ThmPos	gigookookohoom
+
+X+gookook'oo+NA+ThmPos	igookookohoom
+
+1+gookook'oo+NA+Pej	nigookookohoosh
+
+2+gookook'oo+NA+Pej	gigookookohoosh
+
+X+gookook'oo+NA+Pej	igookookohoosh
+
+1+gookook'oo+NA+1+Pl	nigookookohoonaan
+1+gookook'oo+NA+1+Pl	nigookookohoonaa
+
+2+gookook'oo+NA+1+Pl	gigookookohoonaan
+2+gookook'oo+NA+1+Pl	gigookookohoonaa
+
+2+gookook'oo+NA+2+Pl	gigookookohoowaa
+
+3+gookook'oo+NA+3+4	ogookookohooniw
+
+1+gookook'oo+NA+Prt	nigookookohoobani1
+
+1+gookook'oo+NA+Voc+Pl	nigookookohoodig
+
+2+gookook'oo+NA+Prt	gigookookohoobani1
+
+2+gookook'oo+NA+Voc+Pl	gigookookohoodig
+
+X+gookook'oo+NA+Prt	igookookohoobani1
+
+X+gookook'oo+NA+Voc+Pl	igookookohoodig
+
+1+gookook'oo+NA+4	nigookookohooan
+
+1+gookook'oo+NA+Loc	nigookookohoong
+
+1+gookook'oo+NA+Pl	nigookookohooag
+
+2+gookook'oo+NA+4	gigookookohooan
+
+2+gookook'oo+NA+Loc	gigookookohoong
+
+2+gookook'oo+NA+Pl	gigookookohooag
+
+3+gookook'oo+NA+4	ogookookohooan
+
+3+gookook'oo+NA+Loc	ogookookohoong
+
+X+gookook'oo+NA+4	igookookohooan
+
+X+gookook'oo+NA+Loc	igookookohoong
+
+X+gookook'oo+NA+Pl	igookookohooag
+
+gookook'oo+NA+Con+Pej	gookookohooenyish
+
+gookook'oo+NA+Dim+Pej	gookookohooensish
+
+gookook'oo+NA+Con+Prt	gookookohooenyiban
+gookook'oo+NA+Con+Prt	gookookohooenyiba
+
+gookook'oo+NA+Con+Voc+Pl	gookookohooenydig
+
+gookook'oo+NA+Dim+Prt	gookookohooensiban
+gookook'oo+NA+Dim+Prt	gookookohooensiba
+
+gookook'oo+NA+Dim+Voc+Pl	gookookohooensdig
+
+gookook'oo+NA+Con+4	gookookohooenyin
+
+gookook'oo+NA+Con+Loc	gookookohooenying
+
+gookook'oo+NA+Con+Pl	gookookohooenyag
+
+gookook'oo+NA+Dim+4	gookookohooensan
+
+gookook'oo+NA+Dim+Loc	gookookohooensing
+
+gookook'oo+NA+Dim+Pl	gookookohooensag
+
+gookook'oo+NA+Pej+Prt	gookookohooshiban
+gookook'oo+NA+Pej+Prt	gookookohooshiba
+
+gookook'oo+NA+Pej+Voc+Pl	gookookohooshdig
+
+gookook'oo+NA+Pej+4	gookookohooshan
+
+gookook'oo+NA+Pej+Loc	gookookohooshing
+
+gookook'oo+NA+Pej+Pl	gookookohooshag
+
+gookook'oo+NA+Prt+4	gookookohoobaniin
+
+gookook'oo+NA+Prt+Loc	gookookohoobaniing
+
+gookook'oo+NA+Prt+Pl	gookookohoobani1ag
+
+1+gookook'oo+NA+Con+ThmPos	nigookookohooenym
+
+1+gookook'oo+NA+Dim+ThmPos	nigookookohooensm
+
+2+gookook'oo+NA+Con+ThmPos	gigookookohooenym
+
+2+gookook'oo+NA+Dim+ThmPos	gigookookohooensm
+
+X+gookook'oo+NA+Con+ThmPos	igookookohooenym
+
+X+gookook'oo+NA+Dim+ThmPos	igookookohooensm
+
+1+gookook'oo+NA+Con+Pej	nigookookohooenyish
+
+1+gookook'oo+NA+Dim+Pej	nigookookohooensish
+
+2+gookook'oo+NA+Con+Pej	gigookookohooenyish
+
+2+gookook'oo+NA+Dim+Pej	gigookookohooensish
+
+X+gookook'oo+NA+Con+Pej	igookookohooenyish
+
+X+gookook'oo+NA+Dim+Pej	igookookohooensish
+
+1+gookook'oo+NA+Con+1+Pl	nigookookohooenynaan
+1+gookook'oo+NA+Con+1+Pl	nigookookohooenynaa
+
+1+gookook'oo+NA+Dim+1+Pl	nigookookohooensnaan
+1+gookook'oo+NA+Dim+1+Pl	nigookookohooensnaa
+
+2+gookook'oo+NA+Con+1+Pl	gigookookohooenynaan
+2+gookook'oo+NA+Con+1+Pl	gigookookohooenynaa
+
+2+gookook'oo+NA+Con+2+Pl	gigookookohooenywaa
+
+2+gookook'oo+NA+Dim+1+Pl	gigookookohooensnaan
+2+gookook'oo+NA+Dim+1+Pl	gigookookohooensnaa
+
+2+gookook'oo+NA+Dim+2+Pl	gigookookohooenswaa
+
+3+gookook'oo+NA+Con+3+4	ogookookohooenyniw
+
+3+gookook'oo+NA+Dim+3+4	ogookookohooensniw
+
+1+gookook'oo+NA+Con+Prt	nigookookohooenyiban
+1+gookook'oo+NA+Con+Prt	nigookookohooenyiba
+
+1+gookook'oo+NA+Con+Voc+Pl	nigookookohooenydig
+
+1+gookook'oo+NA+Dim+Prt	nigookookohooensiban
+1+gookook'oo+NA+Dim+Prt	nigookookohooensiba
+
+1+gookook'oo+NA+Dim+Voc+Pl	nigookookohooensdig
+
+2+gookook'oo+NA+Con+Prt	gigookookohooenyiban
+2+gookook'oo+NA+Con+Prt	gigookookohooenyiba
+
+2+gookook'oo+NA+Con+Voc+Pl	gigookookohooenydig
+
+2+gookook'oo+NA+Dim+Prt	gigookookohooensiban
+2+gookook'oo+NA+Dim+Prt	gigookookohooensiba
+
+2+gookook'oo+NA+Dim+Voc+Pl	gigookookohooensdig
+
+X+gookook'oo+NA+Con+Prt	igookookohooenyiban
+X+gookook'oo+NA+Con+Prt	igookookohooenyiba
+
+X+gookook'oo+NA+Con+Voc+Pl	igookookohooenydig
+
+X+gookook'oo+NA+Dim+Prt	igookookohooensiban
+X+gookook'oo+NA+Dim+Prt	igookookohooensiba
+
+X+gookook'oo+NA+Dim+Voc+Pl	igookookohooensdig
+
+1+gookook'oo+NA+Con+4	nigookookohooenyin
+
+1+gookook'oo+NA+Con+Loc	nigookookohooenying
+
+1+gookook'oo+NA+Con+Pl	nigookookohooenyag
+
+1+gookook'oo+NA+Dim+4	nigookookohooensan
+
+1+gookook'oo+NA+Dim+Loc	nigookookohooensing
+
+1+gookook'oo+NA+Dim+Pl	nigookookohooensag
+
+2+gookook'oo+NA+Con+4	gigookookohooenyin
+
+2+gookook'oo+NA+Con+Loc	gigookookohooenying
+
+2+gookook'oo+NA+Con+Pl	gigookookohooenyag
+
+2+gookook'oo+NA+Dim+4	gigookookohooensan
+
+2+gookook'oo+NA+Dim+Loc	gigookookohooensing
+
+2+gookook'oo+NA+Dim+Pl	gigookookohooensag
+
+3+gookook'oo+NA+Con+4	ogookookohooenyin
+
+3+gookook'oo+NA+Con+Loc	ogookookohooenying
+
+3+gookook'oo+NA+Dim+4	ogookookohooensan
+
+3+gookook'oo+NA+Dim+Loc	ogookookohooensing
+
+X+gookook'oo+NA+Con+4	igookookohooenyin
+
+X+gookook'oo+NA+Con+Loc	igookookohooenying
+
+X+gookook'oo+NA+Con+Pl	igookookohooenyag
+
+X+gookook'oo+NA+Dim+4	igookookohooensan
+
+X+gookook'oo+NA+Dim+Loc	igookookohooensing
+
+X+gookook'oo+NA+Dim+Pl	igookookohooensag
+
+1+gookook'oo+NA+ThmPos+Pej	nigookookohoomish
+
+2+gookook'oo+NA+ThmPos+Pej	gigookookohoomish
+
+X+gookook'oo+NA+ThmPos+Pej	igookookohoomish
+
+1+gookook'oo+NA+ThmPos+1+Pl	nigookookohoomnaan
+1+gookook'oo+NA+ThmPos+1+Pl	nigookookohoomnaa
+
+2+gookook'oo+NA+ThmPos+1+Pl	gigookookohoomnaan
+2+gookook'oo+NA+ThmPos+1+Pl	gigookookohoomnaa
+
+2+gookook'oo+NA+ThmPos+2+Pl	gigookookohoomwaa
+
+3+gookook'oo+NA+ThmPos+3+4	ogookookohoomniw
+
+1+gookook'oo+NA+ThmPos+Prt	nigookookohoomiban
+1+gookook'oo+NA+ThmPos+Prt	nigookookohoomiba
+
+1+gookook'oo+NA+ThmPos+Voc+Pl	nigookookohoomdig
+
+2+gookook'oo+NA+ThmPos+Prt	gigookookohoomiban
+2+gookook'oo+NA+ThmPos+Prt	gigookookohoomiba
+
+2+gookook'oo+NA+ThmPos+Voc+Pl	gigookookohoomdig
+
+X+gookook'oo+NA+ThmPos+Prt	igookookohoomiban
+X+gookook'oo+NA+ThmPos+Prt	igookookohoomiba
+
+X+gookook'oo+NA+ThmPos+Voc+Pl	igookookohoomdig
+
+1+gookook'oo+NA+ThmPos+4	nigookookohooman
+
+1+gookook'oo+NA+ThmPos+Loc	nigookookohooming
+
+1+gookook'oo+NA+ThmPos+Pl	nigookookohoomag
+
+2+gookook'oo+NA+ThmPos+4	gigookookohooman
+
+2+gookook'oo+NA+ThmPos+Loc	gigookookohooming
+
+2+gookook'oo+NA+ThmPos+Pl	gigookookohoomag
+
+3+gookook'oo+NA+ThmPos+4	ogookookohooman
+
+3+gookook'oo+NA+ThmPos+Loc	ogookookohooming
+
+X+gookook'oo+NA+ThmPos+4	igookookohooman
+
+X+gookook'oo+NA+ThmPos+Loc	igookookohooming
+
+X+gookook'oo+NA+ThmPos+Pl	igookookohoomag
+
+1+gookook'oo+NA+Pej+1+Pl	nigookookohooshnaan
+1+gookook'oo+NA+Pej+1+Pl	nigookookohooshnaa
+
+2+gookook'oo+NA+Pej+1+Pl	gigookookohooshnaan
+2+gookook'oo+NA+Pej+1+Pl	gigookookohooshnaa
+
+2+gookook'oo+NA+Pej+2+Pl	gigookookohooshwaa
+
+3+gookook'oo+NA+Pej+3+4	ogookookohooshniw
+
+1+gookook'oo+NA+Pej+Prt	nigookookohooshiban
+1+gookook'oo+NA+Pej+Prt	nigookookohooshiba
+
+1+gookook'oo+NA+Pej+Voc+Pl	nigookookohooshdig
+
+2+gookook'oo+NA+Pej+Prt	gigookookohooshiban
+2+gookook'oo+NA+Pej+Prt	gigookookohooshiba
+
+2+gookook'oo+NA+Pej+Voc+Pl	gigookookohooshdig
+
+X+gookook'oo+NA+Pej+Prt	igookookohooshiban
+X+gookook'oo+NA+Pej+Prt	igookookohooshiba
+
+X+gookook'oo+NA+Pej+Voc+Pl	igookookohooshdig
+
+1+gookook'oo+NA+Pej+4	nigookookohooshan
+
+1+gookook'oo+NA+Pej+Loc	nigookookohooshing
+
+1+gookook'oo+NA+Pej+Pl	nigookookohooshag
+
+2+gookook'oo+NA+Pej+4	gigookookohooshan
+
+2+gookook'oo+NA+Pej+Loc	gigookookohooshing
+
+2+gookook'oo+NA+Pej+Pl	gigookookohooshag
+
+3+gookook'oo+NA+Pej+4	ogookookohooshan
+
+3+gookook'oo+NA+Pej+Loc	ogookookohooshing
+
+X+gookook'oo+NA+Pej+4	igookookohooshan
+
+X+gookook'oo+NA+Pej+Loc	igookookohooshing
+
+X+gookook'oo+NA+Pej+Pl	igookookohooshag
+
+1+gookook'oo+NA+1+Pl+Prt	nigookookohoonaaniban
+1+gookook'oo+NA+1+Pl+Prt	nigookookohoonaaniba
+
+1+gookook'oo+NA+1+Pl+Voc+Pl	nigookookohoonaany1dig
+
+2+gookook'oo+NA+1+Pl+Prt	gigookookohoonaaniban
+2+gookook'oo+NA+1+Pl+Prt	gigookookohoonaaniba
+
+2+gookook'oo+NA+1+Pl+Voc+Pl	gigookookohoonaany1dig
+
+2+gookook'oo+NA+2+Pl+Prt	gigookookohoowaaban
+2+gookook'oo+NA+2+Pl+Prt	gigookookohoowaaba
+
+2+gookook'oo+NA+2+Pl+Voc+Pl	gigookookohoowaadig
+
+3+gookook'oo+NA+3+4+Prt	ogookookohooniwiban
+3+gookook'oo+NA+3+4+Prt	ogookookohooniwiba
+3+gookook'oo+NA+3+4+Prt	ogookookohooniiban
+3+gookook'oo+NA+3+4+Prt	ogookookohooniiba
+
+1+gookook'oo+NA+1+Pl+4	nigookookohoonaanin
+
+1+gookook'oo+NA+1+Pl+Loc	nigookookohoonaaning
+
+1+gookook'oo+NA+1+Pl+Pl	nigookookohoonaany1ag
+
+2+gookook'oo+NA+1+Pl+4	gigookookohoonaanin
+
+2+gookook'oo+NA+1+Pl+Loc	gigookookohoonaaning
+
+2+gookook'oo+NA+1+Pl+Pl	gigookookohoonaany1ag
+
+2+gookook'oo+NA+2+Pl+4	gigookookohoowaan
+
+2+gookook'oo+NA+2+Pl+Loc	gigookookohoowaang
+
+2+gookook'oo+NA+2+Pl+Pl	gigookookohoowaaag
+
+3+gookook'oo+NA+2+Pl+4	ogookookohoowaan
+
+3+gookook'oo+NA+2+Pl+Loc	ogookookohoowaang
+
+3+gookook'oo+NA+3+4+4	ogookookohooniwan
+
+3+gookook'oo+NA+3+4+Loc	ogookookohooniing
+
+1+gookook'oo+NA+Prt+4	nigookookohoobaniin
+
+1+gookook'oo+NA+Prt+Loc	nigookookohoobaniing
+
+1+gookook'oo+NA+Prt+Pl	nigookookohoobani1ag
+
+2+gookook'oo+NA+Prt+4	gigookookohoobaniin
+
+2+gookook'oo+NA+Prt+Loc	gigookookohoobaniing
+
+2+gookook'oo+NA+Prt+Pl	gigookookohoobani1ag
+
+3+gookook'oo+NA+Prt+4	ogookookohoobaniin
+
+3+gookook'oo+NA+Prt+Loc	ogookookohoobaniing
+
+X+gookook'oo+NA+Prt+4	igookookohoobaniin
+
+X+gookook'oo+NA+Prt+Loc	igookookohoobaniing
+
+X+gookook'oo+NA+Prt+Pl	igookookohoobani1ag
+
+gookook'oo+NA+Con+Pej+Prt	gookookohooenyishiban
+gookook'oo+NA+Con+Pej+Prt	gookookohooenyishiba
+
+gookook'oo+NA+Con+Pej+Voc+Pl	gookookohooenyishdig
+
+gookook'oo+NA+Dim+Pej+Prt	gookookohooensishiban
+gookook'oo+NA+Dim+Pej+Prt	gookookohooensishiba
+
+gookook'oo+NA+Dim+Pej+Voc+Pl	gookookohooensishdig
+
+gookook'oo+NA+Con+Pej+4	gookookohooenyishan
+
+gookook'oo+NA+Con+Pej+Loc	gookookohooenyishing
+
+gookook'oo+NA+Con+Pej+Pl	gookookohooenyishag
+
+gookook'oo+NA+Dim+Pej+4	gookookohooensishan
+
+gookook'oo+NA+Dim+Pej+Loc	gookookohooensishing
+
+gookook'oo+NA+Dim+Pej+Pl	gookookohooensishag
+
+gookook'oo+NA+Con+Prt+4	gookookohooenyibaniin
+
+gookook'oo+NA+Con+Prt+Loc	gookookohooenyibaniing
+
+gookook'oo+NA+Con+Prt+Pl	gookookohooenyibani1ag
+
+gookook'oo+NA+Dim+Prt+4	gookookohooensibaniin
+
+gookook'oo+NA+Dim+Prt+Loc	gookookohooensibaniing
+
+gookook'oo+NA+Dim+Prt+Pl	gookookohooensibani1ag
+
+gookook'oo+NA+Pej+Prt+4	gookookohooshibaniin
+
+gookook'oo+NA+Pej+Prt+Loc	gookookohooshibaniing
+
+gookook'oo+NA+Pej+Prt+Pl	gookookohooshibani1ag
+
+1+gookook'oo+NA+Con+ThmPos+Pej	nigookookohooenymish
+
+1+gookook'oo+NA+Dim+ThmPos+Pej	nigookookohooensmish
+
+2+gookook'oo+NA+Con+ThmPos+Pej	gigookookohooenymish
+
+2+gookook'oo+NA+Dim+ThmPos+Pej	gigookookohooensmish
+
+X+gookook'oo+NA+Con+ThmPos+Pej	igookookohooenymish
+
+X+gookook'oo+NA+Dim+ThmPos+Pej	igookookohooensmish
+
+1+gookook'oo+NA+Con+ThmPos+1+Pl	nigookookohooenymnaan
+1+gookook'oo+NA+Con+ThmPos+1+Pl	nigookookohooenymnaa
+
+1+gookook'oo+NA+Dim+ThmPos+1+Pl	nigookookohooensmnaan
+1+gookook'oo+NA+Dim+ThmPos+1+Pl	nigookookohooensmnaa
+
+2+gookook'oo+NA+Con+ThmPos+1+Pl	gigookookohooenymnaan
+2+gookook'oo+NA+Con+ThmPos+1+Pl	gigookookohooenymnaa
+
+2+gookook'oo+NA+Con+ThmPos+2+Pl	gigookookohooenymwaa
+
+2+gookook'oo+NA+Dim+ThmPos+1+Pl	gigookookohooensmnaan
+2+gookook'oo+NA+Dim+ThmPos+1+Pl	gigookookohooensmnaa
+
+2+gookook'oo+NA+Dim+ThmPos+2+Pl	gigookookohooensmwaa
+
+3+gookook'oo+NA+Con+ThmPos+3+4	ogookookohooenymniw
+
+3+gookook'oo+NA+Dim+ThmPos+3+4	ogookookohooensmniw
+
+1+gookook'oo+NA+Con+ThmPos+Prt	nigookookohooenymiban
+1+gookook'oo+NA+Con+ThmPos+Prt	nigookookohooenymiba
+
+1+gookook'oo+NA+Con+ThmPos+Voc+Pl	nigookookohooenymdig
+
+1+gookook'oo+NA+Dim+ThmPos+Prt	nigookookohooensmiban
+1+gookook'oo+NA+Dim+ThmPos+Prt	nigookookohooensmiba
+
+1+gookook'oo+NA+Dim+ThmPos+Voc+Pl	nigookookohooensmdig
+
+2+gookook'oo+NA+Con+ThmPos+Prt	gigookookohooenymiban
+2+gookook'oo+NA+Con+ThmPos+Prt	gigookookohooenymiba
+
+2+gookook'oo+NA+Con+ThmPos+Voc+Pl	gigookookohooenymdig
+
+2+gookook'oo+NA+Dim+ThmPos+Prt	gigookookohooensmiban
+2+gookook'oo+NA+Dim+ThmPos+Prt	gigookookohooensmiba
+
+2+gookook'oo+NA+Dim+ThmPos+Voc+Pl	gigookookohooensmdig
+
+X+gookook'oo+NA+Con+ThmPos+Prt	igookookohooenymiban
+X+gookook'oo+NA+Con+ThmPos+Prt	igookookohooenymiba
+
+X+gookook'oo+NA+Con+ThmPos+Voc+Pl	igookookohooenymdig
+
+X+gookook'oo+NA+Dim+ThmPos+Prt	igookookohooensmiban
+X+gookook'oo+NA+Dim+ThmPos+Prt	igookookohooensmiba
+
+X+gookook'oo+NA+Dim+ThmPos+Voc+Pl	igookookohooensmdig
+
+1+gookook'oo+NA+Con+ThmPos+4	nigookookohooenyman
+
+1+gookook'oo+NA+Con+ThmPos+Loc	nigookookohooenyming
+
+1+gookook'oo+NA+Con+ThmPos+Pl	nigookookohooenymag
+
+1+gookook'oo+NA+Dim+ThmPos+4	nigookookohooensman
+
+1+gookook'oo+NA+Dim+ThmPos+Loc	nigookookohooensming
+
+1+gookook'oo+NA+Dim+ThmPos+Pl	nigookookohooensmag
+
+2+gookook'oo+NA+Con+ThmPos+4	gigookookohooenyman
+
+2+gookook'oo+NA+Con+ThmPos+Loc	gigookookohooenyming
+
+2+gookook'oo+NA+Con+ThmPos+Pl	gigookookohooenymag
+
+2+gookook'oo+NA+Dim+ThmPos+4	gigookookohooensman
+
+2+gookook'oo+NA+Dim+ThmPos+Loc	gigookookohooensming
+
+2+gookook'oo+NA+Dim+ThmPos+Pl	gigookookohooensmag
+
+3+gookook'oo+NA+Con+ThmPos+4	ogookookohooenyman
+
+3+gookook'oo+NA+Con+ThmPos+Loc	ogookookohooenyming
+
+3+gookook'oo+NA+Dim+ThmPos+4	ogookookohooensman
+
+3+gookook'oo+NA+Dim+ThmPos+Loc	ogookookohooensming
+
+X+gookook'oo+NA+Con+ThmPos+4	igookookohooenyman
+
+X+gookook'oo+NA+Con+ThmPos+Loc	igookookohooenyming
+
+X+gookook'oo+NA+Con+ThmPos+Pl	igookookohooenymag
+
+X+gookook'oo+NA+Dim+ThmPos+4	igookookohooensman
+
+X+gookook'oo+NA+Dim+ThmPos+Loc	igookookohooensming
+
+X+gookook'oo+NA+Dim+ThmPos+Pl	igookookohooensmag
+
+1+gookook'oo+NA+Con+Pej+1+Pl	nigookookohooenyishnaan
+1+gookook'oo+NA+Con+Pej+1+Pl	nigookookohooenyishnaa
+
+1+gookook'oo+NA+Dim+Pej+1+Pl	nigookookohooensishnaan
+1+gookook'oo+NA+Dim+Pej+1+Pl	nigookookohooensishnaa
+
+2+gookook'oo+NA+Con+Pej+1+Pl	gigookookohooenyishnaan
+2+gookook'oo+NA+Con+Pej+1+Pl	gigookookohooenyishnaa
+
+2+gookook'oo+NA+Con+Pej+2+Pl	gigookookohooenyishwaa
+
+2+gookook'oo+NA+Dim+Pej+1+Pl	gigookookohooensishnaan
+2+gookook'oo+NA+Dim+Pej+1+Pl	gigookookohooensishnaa
+
+2+gookook'oo+NA+Dim+Pej+2+Pl	gigookookohooensishwaa
+
+3+gookook'oo+NA+Con+Pej+3+4	ogookookohooenyishniw
+
+3+gookook'oo+NA+Dim+Pej+3+4	ogookookohooensishniw
+
+1+gookook'oo+NA+Con+Pej+Prt	nigookookohooenyishiban
+1+gookook'oo+NA+Con+Pej+Prt	nigookookohooenyishiba
+
+1+gookook'oo+NA+Con+Pej+Voc+Pl	nigookookohooenyishdig
+
+1+gookook'oo+NA+Dim+Pej+Prt	nigookookohooensishiban
+1+gookook'oo+NA+Dim+Pej+Prt	nigookookohooensishiba
+
+1+gookook'oo+NA+Dim+Pej+Voc+Pl	nigookookohooensishdig
+
+2+gookook'oo+NA+Con+Pej+Prt	gigookookohooenyishiban
+2+gookook'oo+NA+Con+Pej+Prt	gigookookohooenyishiba
+
+2+gookook'oo+NA+Con+Pej+Voc+Pl	gigookookohooenyishdig
+
+2+gookook'oo+NA+Dim+Pej+Prt	gigookookohooensishiban
+2+gookook'oo+NA+Dim+Pej+Prt	gigookookohooensishiba
+
+2+gookook'oo+NA+Dim+Pej+Voc+Pl	gigookookohooensishdig
+
+X+gookook'oo+NA+Con+Pej+Prt	igookookohooenyishiban
+X+gookook'oo+NA+Con+Pej+Prt	igookookohooenyishiba
+
+X+gookook'oo+NA+Con+Pej+Voc+Pl	igookookohooenyishdig
+
+X+gookook'oo+NA+Dim+Pej+Prt	igookookohooensishiban
+X+gookook'oo+NA+Dim+Pej+Prt	igookookohooensishiba
+
+X+gookook'oo+NA+Dim+Pej+Voc+Pl	igookookohooensishdig
+
+1+gookook'oo+NA+Con+Pej+4	nigookookohooenyishan
+
+1+gookook'oo+NA+Con+Pej+Loc	nigookookohooenyishing
+
+1+gookook'oo+NA+Con+Pej+Pl	nigookookohooenyishag
+
+1+gookook'oo+NA+Dim+Pej+4	nigookookohooensishan
+
+1+gookook'oo+NA+Dim+Pej+Loc	nigookookohooensishing
+
+1+gookook'oo+NA+Dim+Pej+Pl	nigookookohooensishag
+
+2+gookook'oo+NA+Con+Pej+4	gigookookohooenyishan
+
+2+gookook'oo+NA+Con+Pej+Loc	gigookookohooenyishing
+
+2+gookook'oo+NA+Con+Pej+Pl	gigookookohooenyishag
+
+2+gookook'oo+NA+Dim+Pej+4	gigookookohooensishan
+
+2+gookook'oo+NA+Dim+Pej+Loc	gigookookohooensishing
+
+2+gookook'oo+NA+Dim+Pej+Pl	gigookookohooensishag
+
+3+gookook'oo+NA+Con+Pej+4	ogookookohooenyishan
+
+3+gookook'oo+NA+Con+Pej+Loc	ogookookohooenyishing
+
+3+gookook'oo+NA+Dim+Pej+4	ogookookohooensishan
+
+3+gookook'oo+NA+Dim+Pej+Loc	ogookookohooensishing
+
+X+gookook'oo+NA+Con+Pej+4	igookookohooenyishan
+
+X+gookook'oo+NA+Con+Pej+Loc	igookookohooenyishing
+
+X+gookook'oo+NA+Con+Pej+Pl	igookookohooenyishag
+
+X+gookook'oo+NA+Dim+Pej+4	igookookohooensishan
+
+X+gookook'oo+NA+Dim+Pej+Loc	igookookohooensishing
+
+X+gookook'oo+NA+Dim+Pej+Pl	igookookohooensishag
+
+1+gookook'oo+NA+Con+1+Pl+Prt	nigookookohooenynaaniban
+1+gookook'oo+NA+Con+1+Pl+Prt	nigookookohooenynaaniba
+
+1+gookook'oo+NA+Con+1+Pl+Voc+Pl	nigookookohooenynaany1dig
+
+1+gookook'oo+NA+Dim+1+Pl+Prt	nigookookohooensnaaniban
+1+gookook'oo+NA+Dim+1+Pl+Prt	nigookookohooensnaaniba
+
+1+gookook'oo+NA+Dim+1+Pl+Voc+Pl	nigookookohooensnaany1dig
+
+2+gookook'oo+NA+Con+1+Pl+Prt	gigookookohooenynaaniban
+2+gookook'oo+NA+Con+1+Pl+Prt	gigookookohooenynaaniba
+
+2+gookook'oo+NA+Con+1+Pl+Voc+Pl	gigookookohooenynaany1dig
+
+2+gookook'oo+NA+Con+2+Pl+Prt	gigookookohooenywaaban
+2+gookook'oo+NA+Con+2+Pl+Prt	gigookookohooenywaaba
+
+2+gookook'oo+NA+Con+2+Pl+Voc+Pl	gigookookohooenywaadig
+
+2+gookook'oo+NA+Dim+1+Pl+Prt	gigookookohooensnaaniban
+2+gookook'oo+NA+Dim+1+Pl+Prt	gigookookohooensnaaniba
+
+2+gookook'oo+NA+Dim+1+Pl+Voc+Pl	gigookookohooensnaany1dig
+
+2+gookook'oo+NA+Dim+2+Pl+Prt	gigookookohooenswaaban
+2+gookook'oo+NA+Dim+2+Pl+Prt	gigookookohooenswaaba
+
+2+gookook'oo+NA+Dim+2+Pl+Voc+Pl	gigookookohooenswaadig
+
+3+gookook'oo+NA+Con+3+4+Prt	ogookookohooenyniwiban
+3+gookook'oo+NA+Con+3+4+Prt	ogookookohooenyniwiba
+3+gookook'oo+NA+Con+3+4+Prt	ogookookohooenyniiban
+3+gookook'oo+NA+Con+3+4+Prt	ogookookohooenyniiba
+
+3+gookook'oo+NA+Dim+3+4+Prt	ogookookohooensniwiban
+3+gookook'oo+NA+Dim+3+4+Prt	ogookookohooensniwiba
+3+gookook'oo+NA+Dim+3+4+Prt	ogookookohooensniiban
+3+gookook'oo+NA+Dim+3+4+Prt	ogookookohooensniiba
+
+1+gookook'oo+NA+Con+1+Pl+4	nigookookohooenynaanin
+
+1+gookook'oo+NA+Con+1+Pl+Loc	nigookookohooenynaaning
+
+1+gookook'oo+NA+Con+1+Pl+Pl	nigookookohooenynaany1ag
+
+1+gookook'oo+NA+Dim+1+Pl+4	nigookookohooensnaanin
+
+1+gookook'oo+NA+Dim+1+Pl+Loc	nigookookohooensnaaning
+
+1+gookook'oo+NA+Dim+1+Pl+Pl	nigookookohooensnaany1ag
+
+2+gookook'oo+NA+Con+1+Pl+4	gigookookohooenynaanin
+
+2+gookook'oo+NA+Con+1+Pl+Loc	gigookookohooenynaaning
+
+2+gookook'oo+NA+Con+1+Pl+Pl	gigookookohooenynaany1ag
+
+2+gookook'oo+NA+Con+2+Pl+4	gigookookohooenywaan
+
+2+gookook'oo+NA+Con+2+Pl+Loc	gigookookohooenywaang
+
+2+gookook'oo+NA+Con+2+Pl+Pl	gigookookohooenywaaag
+
+2+gookook'oo+NA+Dim+1+Pl+4	gigookookohooensnaanin
+
+2+gookook'oo+NA+Dim+1+Pl+Loc	gigookookohooensnaaning
+
+2+gookook'oo+NA+Dim+1+Pl+Pl	gigookookohooensnaany1ag
+
+2+gookook'oo+NA+Dim+2+Pl+4	gigookookohooenswaan
+
+2+gookook'oo+NA+Dim+2+Pl+Loc	gigookookohooenswaang
+
+2+gookook'oo+NA+Dim+2+Pl+Pl	gigookookohooenswaaag
+
+3+gookook'oo+NA+Con+2+Pl+4	ogookookohooenywaan
+
+3+gookook'oo+NA+Con+2+Pl+Loc	ogookookohooenywaang
+
+3+gookook'oo+NA+Con+3+4+4	ogookookohooenyniwan
+
+3+gookook'oo+NA+Con+3+4+Loc	ogookookohooenyniing
+
+3+gookook'oo+NA+Dim+2+Pl+4	ogookookohooenswaan
+
+3+gookook'oo+NA+Dim+2+Pl+Loc	ogookookohooenswaang
+
+3+gookook'oo+NA+Dim+3+4+4	ogookookohooensniwan
+
+3+gookook'oo+NA+Dim+3+4+Loc	ogookookohooensniing
+
+1+gookook'oo+NA+Con+Prt+4	nigookookohooenyibaniin
+
+1+gookook'oo+NA+Con+Prt+Loc	nigookookohooenyibaniing
+
+1+gookook'oo+NA+Con+Prt+Pl	nigookookohooenyibani1ag
+
+1+gookook'oo+NA+Dim+Prt+4	nigookookohooensibaniin
+
+1+gookook'oo+NA+Dim+Prt+Loc	nigookookohooensibaniing
+
+1+gookook'oo+NA+Dim+Prt+Pl	nigookookohooensibani1ag
+
+2+gookook'oo+NA+Con+Prt+4	gigookookohooenyibaniin
+
+2+gookook'oo+NA+Con+Prt+Loc	gigookookohooenyibaniing
+
+2+gookook'oo+NA+Con+Prt+Pl	gigookookohooenyibani1ag
+
+2+gookook'oo+NA+Dim+Prt+4	gigookookohooensibaniin
+
+2+gookook'oo+NA+Dim+Prt+Loc	gigookookohooensibaniing
+
+2+gookook'oo+NA+Dim+Prt+Pl	gigookookohooensibani1ag
+
+3+gookook'oo+NA+Con+Prt+4	ogookookohooenyibaniin
+
+3+gookook'oo+NA+Con+Prt+Loc	ogookookohooenyibaniing
+
+3+gookook'oo+NA+Dim+Prt+4	ogookookohooensibaniin
+
+3+gookook'oo+NA+Dim+Prt+Loc	ogookookohooensibaniing
+
+X+gookook'oo+NA+Con+Prt+4	igookookohooenyibaniin
+
+X+gookook'oo+NA+Con+Prt+Loc	igookookohooenyibaniing
+
+X+gookook'oo+NA+Con+Prt+Pl	igookookohooenyibani1ag
+
+X+gookook'oo+NA+Dim+Prt+4	igookookohooensibaniin
+
+X+gookook'oo+NA+Dim+Prt+Loc	igookookohooensibaniing
+
+X+gookook'oo+NA+Dim+Prt+Pl	igookookohooensibani1ag
+
+1+gookook'oo+NA+ThmPos+Pej+1+Pl	nigookookohoomishnaan
+1+gookook'oo+NA+ThmPos+Pej+1+Pl	nigookookohoomishnaa
+
+2+gookook'oo+NA+ThmPos+Pej+1+Pl	gigookookohoomishnaan
+2+gookook'oo+NA+ThmPos+Pej+1+Pl	gigookookohoomishnaa
+
+2+gookook'oo+NA+ThmPos+Pej+2+Pl	gigookookohoomishwaa
+
+3+gookook'oo+NA+ThmPos+Pej+3+4	ogookookohoomishniw
+
+1+gookook'oo+NA+ThmPos+Pej+Prt	nigookookohoomishiban
+1+gookook'oo+NA+ThmPos+Pej+Prt	nigookookohoomishiba
+
+1+gookook'oo+NA+ThmPos+Pej+Voc+Pl	nigookookohoomishdig
+
+2+gookook'oo+NA+ThmPos+Pej+Prt	gigookookohoomishiban
+2+gookook'oo+NA+ThmPos+Pej+Prt	gigookookohoomishiba
+
+2+gookook'oo+NA+ThmPos+Pej+Voc+Pl	gigookookohoomishdig
+
+X+gookook'oo+NA+ThmPos+Pej+Prt	igookookohoomishiban
+X+gookook'oo+NA+ThmPos+Pej+Prt	igookookohoomishiba
+
+X+gookook'oo+NA+ThmPos+Pej+Voc+Pl	igookookohoomishdig
+
+1+gookook'oo+NA+ThmPos+Pej+4	nigookookohoomishan
+
+1+gookook'oo+NA+ThmPos+Pej+Loc	nigookookohoomishing
+
+1+gookook'oo+NA+ThmPos+Pej+Pl	nigookookohoomishag
+
+2+gookook'oo+NA+ThmPos+Pej+4	gigookookohoomishan
+
+2+gookook'oo+NA+ThmPos+Pej+Loc	gigookookohoomishing
+
+2+gookook'oo+NA+ThmPos+Pej+Pl	gigookookohoomishag
+
+3+gookook'oo+NA+ThmPos+Pej+4	ogookookohoomishan
+
+3+gookook'oo+NA+ThmPos+Pej+Loc	ogookookohoomishing
+
+X+gookook'oo+NA+ThmPos+Pej+4	igookookohoomishan
+
+X+gookook'oo+NA+ThmPos+Pej+Loc	igookookohoomishing
+
+X+gookook'oo+NA+ThmPos+Pej+Pl	igookookohoomishag
+
+1+gookook'oo+NA+ThmPos+1+Pl+Prt	nigookookohoomnaaniban
+1+gookook'oo+NA+ThmPos+1+Pl+Prt	nigookookohoomnaaniba
+
+1+gookook'oo+NA+ThmPos+1+Pl+Voc+Pl	nigookookohoomnaany1dig
+
+2+gookook'oo+NA+ThmPos+1+Pl+Prt	gigookookohoomnaaniban
+2+gookook'oo+NA+ThmPos+1+Pl+Prt	gigookookohoomnaaniba
+
+2+gookook'oo+NA+ThmPos+1+Pl+Voc+Pl	gigookookohoomnaany1dig
+
+2+gookook'oo+NA+ThmPos+2+Pl+Prt	gigookookohoomwaaban
+2+gookook'oo+NA+ThmPos+2+Pl+Prt	gigookookohoomwaaba
+
+2+gookook'oo+NA+ThmPos+2+Pl+Voc+Pl	gigookookohoomwaadig
+
+3+gookook'oo+NA+ThmPos+3+4+Prt	ogookookohoomniwiban
+3+gookook'oo+NA+ThmPos+3+4+Prt	ogookookohoomniwiba
+3+gookook'oo+NA+ThmPos+3+4+Prt	ogookookohoomniiban
+3+gookook'oo+NA+ThmPos+3+4+Prt	ogookookohoomniiba
+
+1+gookook'oo+NA+ThmPos+1+Pl+4	nigookookohoomnaanin
+
+1+gookook'oo+NA+ThmPos+1+Pl+Loc	nigookookohoomnaaning
+
+1+gookook'oo+NA+ThmPos+1+Pl+Pl	nigookookohoomnaany1ag
+
+2+gookook'oo+NA+ThmPos+1+Pl+4	gigookookohoomnaanin
+
+2+gookook'oo+NA+ThmPos+1+Pl+Loc	gigookookohoomnaaning
+
+2+gookook'oo+NA+ThmPos+1+Pl+Pl	gigookookohoomnaany1ag
+
+2+gookook'oo+NA+ThmPos+2+Pl+4	gigookookohoomwaan
+
+2+gookook'oo+NA+ThmPos+2+Pl+Loc	gigookookohoomwaang
+
+2+gookook'oo+NA+ThmPos+2+Pl+Pl	gigookookohoomwaaag
+
+3+gookook'oo+NA+ThmPos+2+Pl+4	ogookookohoomwaan
+
+3+gookook'oo+NA+ThmPos+2+Pl+Loc	ogookookohoomwaang
+
+3+gookook'oo+NA+ThmPos+3+4+4	ogookookohoomniwan
+
+3+gookook'oo+NA+ThmPos+3+4+Loc	ogookookohoomniing
+
+1+gookook'oo+NA+ThmPos+Prt+4	nigookookohoomibaniin
+
+1+gookook'oo+NA+ThmPos+Prt+Loc	nigookookohoomibaniing
+
+1+gookook'oo+NA+ThmPos+Prt+Pl	nigookookohoomibani1ag
+
+2+gookook'oo+NA+ThmPos+Prt+4	gigookookohoomibaniin
+
+2+gookook'oo+NA+ThmPos+Prt+Loc	gigookookohoomibaniing
+
+2+gookook'oo+NA+ThmPos+Prt+Pl	gigookookohoomibani1ag
+
+3+gookook'oo+NA+ThmPos+Prt+4	ogookookohoomibaniin
+
+3+gookook'oo+NA+ThmPos+Prt+Loc	ogookookohoomibaniing
+
+X+gookook'oo+NA+ThmPos+Prt+4	igookookohoomibaniin
+
+X+gookook'oo+NA+ThmPos+Prt+Loc	igookookohoomibaniing
+
+X+gookook'oo+NA+ThmPos+Prt+Pl	igookookohoomibani1ag
+
+1+gookook'oo+NA+Pej+1+Pl+Prt	nigookookohooshnaaniban
+1+gookook'oo+NA+Pej+1+Pl+Prt	nigookookohooshnaaniba
+
+1+gookook'oo+NA+Pej+1+Pl+Voc+Pl	nigookookohooshnaany1dig
+
+2+gookook'oo+NA+Pej+1+Pl+Prt	gigookookohooshnaaniban
+2+gookook'oo+NA+Pej+1+Pl+Prt	gigookookohooshnaaniba
+
+2+gookook'oo+NA+Pej+1+Pl+Voc+Pl	gigookookohooshnaany1dig
+
+2+gookook'oo+NA+Pej+2+Pl+Prt	gigookookohooshwaaban
+2+gookook'oo+NA+Pej+2+Pl+Prt	gigookookohooshwaaba
+
+2+gookook'oo+NA+Pej+2+Pl+Voc+Pl	gigookookohooshwaadig
+
+3+gookook'oo+NA+Pej+3+4+Prt	ogookookohooshniwiban
+3+gookook'oo+NA+Pej+3+4+Prt	ogookookohooshniwiba
+3+gookook'oo+NA+Pej+3+4+Prt	ogookookohooshniiban
+3+gookook'oo+NA+Pej+3+4+Prt	ogookookohooshniiba
+
+1+gookook'oo+NA+Pej+1+Pl+4	nigookookohooshnaanin
+
+1+gookook'oo+NA+Pej+1+Pl+Loc	nigookookohooshnaaning
+
+1+gookook'oo+NA+Pej+1+Pl+Pl	nigookookohooshnaany1ag
+
+2+gookook'oo+NA+Pej+1+Pl+4	gigookookohooshnaanin
+
+2+gookook'oo+NA+Pej+1+Pl+Loc	gigookookohooshnaaning
+
+2+gookook'oo+NA+Pej+1+Pl+Pl	gigookookohooshnaany1ag
+
+2+gookook'oo+NA+Pej+2+Pl+4	gigookookohooshwaan
+
+2+gookook'oo+NA+Pej+2+Pl+Loc	gigookookohooshwaang
+
+2+gookook'oo+NA+Pej+2+Pl+Pl	gigookookohooshwaaag
+
+3+gookook'oo+NA+Pej+2+Pl+4	ogookookohooshwaan
+
+3+gookook'oo+NA+Pej+2+Pl+Loc	ogookookohooshwaang
+
+3+gookook'oo+NA+Pej+3+4+4	ogookookohooshniwan
+
+3+gookook'oo+NA+Pej+3+4+Loc	ogookookohooshniing
+
+1+gookook'oo+NA+Pej+Prt+4	nigookookohooshibaniin
+
+1+gookook'oo+NA+Pej+Prt+Loc	nigookookohooshibaniing
+
+1+gookook'oo+NA+Pej+Prt+Pl	nigookookohooshibani1ag
+
+2+gookook'oo+NA+Pej+Prt+4	gigookookohooshibaniin
+
+2+gookook'oo+NA+Pej+Prt+Loc	gigookookohooshibaniing
+
+2+gookook'oo+NA+Pej+Prt+Pl	gigookookohooshibani1ag
+
+3+gookook'oo+NA+Pej+Prt+4	ogookookohooshibaniin
+
+3+gookook'oo+NA+Pej+Prt+Loc	ogookookohooshibaniing
+
+X+gookook'oo+NA+Pej+Prt+4	igookookohooshibaniin
+
+X+gookook'oo+NA+Pej+Prt+Loc	igookookohooshibaniing
+
+X+gookook'oo+NA+Pej+Prt+Pl	igookookohooshibani1ag
+
+1+gookook'oo+NA+1+Pl+Prt+4	nigookookohoonaanibaniin
+
+1+gookook'oo+NA+1+Pl+Prt+Loc	nigookookohoonaanibaniing
+
+1+gookook'oo+NA+1+Pl+Prt+Pl	nigookookohoonaanibani1ag
+
+2+gookook'oo+NA+1+Pl+Prt+4	gigookookohoonaanibaniin
+
+2+gookook'oo+NA+1+Pl+Prt+Loc	gigookookohoonaanibaniing
+
+2+gookook'oo+NA+1+Pl+Prt+Pl	gigookookohoonaanibani1ag
+
+2+gookook'oo+NA+2+Pl+Prt+4	gigookookohoowaabaniin
+
+2+gookook'oo+NA+2+Pl+Prt+Loc	gigookookohoowaabaniing
+
+2+gookook'oo+NA+2+Pl+Prt+Pl	gigookookohoowaabani1ag
+
+3+gookook'oo+NA+2+Pl+Prt+4	ogookookohoowaabaniin
+
+3+gookook'oo+NA+2+Pl+Prt+Loc	ogookookohoowaabaniing
+
+3+gookook'oo+NA+3+4+Prt+4	ogookookohooniwibaniin
+3+gookook'oo+NA+3+4+Prt+4	ogookookohooniibaniin
+
+3+gookook'oo+NA+3+4+Prt+Loc	ogookookohooniwibaniing
+3+gookook'oo+NA+3+4+Prt+Loc	ogookookohooniibaniing
+
+gookook'oo+NA+Con+Pej+Prt+4	gookookohooenyishibaniin
+
+gookook'oo+NA+Con+Pej+Prt+Loc	gookookohooenyishibaniing
+
+gookook'oo+NA+Con+Pej+Prt+Pl	gookookohooenyishibani1ag
+
+gookook'oo+NA+Dim+Pej+Prt+4	gookookohooensishibaniin
+
+gookook'oo+NA+Dim+Pej+Prt+Loc	gookookohooensishibaniing
+
+gookook'oo+NA+Dim+Pej+Prt+Pl	gookookohooensishibani1ag
+
+1+gookook'oo+NA+Con+ThmPos+Pej+1+Pl	nigookookohooenymishnaan
+1+gookook'oo+NA+Con+ThmPos+Pej+1+Pl	nigookookohooenymishnaa
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl	nigookookohooensmishnaan
+1+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl	nigookookohooensmishnaa
+
+2+gookook'oo+NA+Con+ThmPos+Pej+1+Pl	gigookookohooenymishnaan
+2+gookook'oo+NA+Con+ThmPos+Pej+1+Pl	gigookookohooenymishnaa
+
+2+gookook'oo+NA+Con+ThmPos+Pej+2+Pl	gigookookohooenymishwaa
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl	gigookookohooensmishnaan
+2+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl	gigookookohooensmishnaa
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl	gigookookohooensmishwaa
+
+3+gookook'oo+NA+Con+ThmPos+Pej+3+4	ogookookohooenymishniw
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+3+4	ogookookohooensmishniw
+
+1+gookook'oo+NA+Con+ThmPos+Pej+Prt	nigookookohooenymishiban
+1+gookook'oo+NA+Con+ThmPos+Pej+Prt	nigookookohooenymishiba
+
+1+gookook'oo+NA+Con+ThmPos+Pej+Voc+Pl	nigookookohooenymishdig
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+Prt	nigookookohooensmishiban
+1+gookook'oo+NA+Dim+ThmPos+Pej+Prt	nigookookohooensmishiba
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+Voc+Pl	nigookookohooensmishdig
+
+2+gookook'oo+NA+Con+ThmPos+Pej+Prt	gigookookohooenymishiban
+2+gookook'oo+NA+Con+ThmPos+Pej+Prt	gigookookohooenymishiba
+
+2+gookook'oo+NA+Con+ThmPos+Pej+Voc+Pl	gigookookohooenymishdig
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+Prt	gigookookohooensmishiban
+2+gookook'oo+NA+Dim+ThmPos+Pej+Prt	gigookookohooensmishiba
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+Voc+Pl	gigookookohooensmishdig
+
+X+gookook'oo+NA+Con+ThmPos+Pej+Prt	igookookohooenymishiban
+X+gookook'oo+NA+Con+ThmPos+Pej+Prt	igookookohooenymishiba
+
+X+gookook'oo+NA+Con+ThmPos+Pej+Voc+Pl	igookookohooenymishdig
+
+X+gookook'oo+NA+Dim+ThmPos+Pej+Prt	igookookohooensmishiban
+X+gookook'oo+NA+Dim+ThmPos+Pej+Prt	igookookohooensmishiba
+
+X+gookook'oo+NA+Dim+ThmPos+Pej+Voc+Pl	igookookohooensmishdig
+
+1+gookook'oo+NA+Con+ThmPos+Pej+4	nigookookohooenymishan
+
+1+gookook'oo+NA+Con+ThmPos+Pej+Loc	nigookookohooenymishing
+
+1+gookook'oo+NA+Con+ThmPos+Pej+Pl	nigookookohooenymishag
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+4	nigookookohooensmishan
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+Loc	nigookookohooensmishing
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+Pl	nigookookohooensmishag
+
+2+gookook'oo+NA+Con+ThmPos+Pej+4	gigookookohooenymishan
+
+2+gookook'oo+NA+Con+ThmPos+Pej+Loc	gigookookohooenymishing
+
+2+gookook'oo+NA+Con+ThmPos+Pej+Pl	gigookookohooenymishag
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+4	gigookookohooensmishan
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+Loc	gigookookohooensmishing
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+Pl	gigookookohooensmishag
+
+3+gookook'oo+NA+Con+ThmPos+Pej+4	ogookookohooenymishan
+
+3+gookook'oo+NA+Con+ThmPos+Pej+Loc	ogookookohooenymishing
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+4	ogookookohooensmishan
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+Loc	ogookookohooensmishing
+
+X+gookook'oo+NA+Con+ThmPos+Pej+4	igookookohooenymishan
+
+X+gookook'oo+NA+Con+ThmPos+Pej+Loc	igookookohooenymishing
+
+X+gookook'oo+NA+Con+ThmPos+Pej+Pl	igookookohooenymishag
+
+X+gookook'oo+NA+Dim+ThmPos+Pej+4	igookookohooensmishan
+
+X+gookook'oo+NA+Dim+ThmPos+Pej+Loc	igookookohooensmishing
+
+X+gookook'oo+NA+Dim+ThmPos+Pej+Pl	igookookohooensmishag
+
+1+gookook'oo+NA+Con+ThmPos+1+Pl+Prt	nigookookohooenymnaaniban
+1+gookook'oo+NA+Con+ThmPos+1+Pl+Prt	nigookookohooenymnaaniba
+
+1+gookook'oo+NA+Con+ThmPos+1+Pl+Voc+Pl	nigookookohooenymnaany1dig
+
+1+gookook'oo+NA+Dim+ThmPos+1+Pl+Prt	nigookookohooensmnaaniban
+1+gookook'oo+NA+Dim+ThmPos+1+Pl+Prt	nigookookohooensmnaaniba
+
+1+gookook'oo+NA+Dim+ThmPos+1+Pl+Voc+Pl	nigookookohooensmnaany1dig
+
+2+gookook'oo+NA+Con+ThmPos+1+Pl+Prt	gigookookohooenymnaaniban
+2+gookook'oo+NA+Con+ThmPos+1+Pl+Prt	gigookookohooenymnaaniba
+
+2+gookook'oo+NA+Con+ThmPos+1+Pl+Voc+Pl	gigookookohooenymnaany1dig
+
+2+gookook'oo+NA+Con+ThmPos+2+Pl+Prt	gigookookohooenymwaaban
+2+gookook'oo+NA+Con+ThmPos+2+Pl+Prt	gigookookohooenymwaaba
+
+2+gookook'oo+NA+Con+ThmPos+2+Pl+Voc+Pl	gigookookohooenymwaadig
+
+2+gookook'oo+NA+Dim+ThmPos+1+Pl+Prt	gigookookohooensmnaaniban
+2+gookook'oo+NA+Dim+ThmPos+1+Pl+Prt	gigookookohooensmnaaniba
+
+2+gookook'oo+NA+Dim+ThmPos+1+Pl+Voc+Pl	gigookookohooensmnaany1dig
+
+2+gookook'oo+NA+Dim+ThmPos+2+Pl+Prt	gigookookohooensmwaaban
+2+gookook'oo+NA+Dim+ThmPos+2+Pl+Prt	gigookookohooensmwaaba
+
+2+gookook'oo+NA+Dim+ThmPos+2+Pl+Voc+Pl	gigookookohooensmwaadig
+
+3+gookook'oo+NA+Con+ThmPos+3+4+Prt	ogookookohooenymniwiban
+3+gookook'oo+NA+Con+ThmPos+3+4+Prt	ogookookohooenymniwiba
+3+gookook'oo+NA+Con+ThmPos+3+4+Prt	ogookookohooenymniiban
+3+gookook'oo+NA+Con+ThmPos+3+4+Prt	ogookookohooenymniiba
+
+3+gookook'oo+NA+Dim+ThmPos+3+4+Prt	ogookookohooensmniwiban
+3+gookook'oo+NA+Dim+ThmPos+3+4+Prt	ogookookohooensmniwiba
+3+gookook'oo+NA+Dim+ThmPos+3+4+Prt	ogookookohooensmniiban
+3+gookook'oo+NA+Dim+ThmPos+3+4+Prt	ogookookohooensmniiba
+
+1+gookook'oo+NA+Con+ThmPos+1+Pl+4	nigookookohooenymnaanin
+
+1+gookook'oo+NA+Con+ThmPos+1+Pl+Loc	nigookookohooenymnaaning
+
+1+gookook'oo+NA+Con+ThmPos+1+Pl+Pl	nigookookohooenymnaany1ag
+
+1+gookook'oo+NA+Dim+ThmPos+1+Pl+4	nigookookohooensmnaanin
+
+1+gookook'oo+NA+Dim+ThmPos+1+Pl+Loc	nigookookohooensmnaaning
+
+1+gookook'oo+NA+Dim+ThmPos+1+Pl+Pl	nigookookohooensmnaany1ag
+
+2+gookook'oo+NA+Con+ThmPos+1+Pl+4	gigookookohooenymnaanin
+
+2+gookook'oo+NA+Con+ThmPos+1+Pl+Loc	gigookookohooenymnaaning
+
+2+gookook'oo+NA+Con+ThmPos+1+Pl+Pl	gigookookohooenymnaany1ag
+
+2+gookook'oo+NA+Con+ThmPos+2+Pl+4	gigookookohooenymwaan
+
+2+gookook'oo+NA+Con+ThmPos+2+Pl+Loc	gigookookohooenymwaang
+
+2+gookook'oo+NA+Con+ThmPos+2+Pl+Pl	gigookookohooenymwaaag
+
+2+gookook'oo+NA+Dim+ThmPos+1+Pl+4	gigookookohooensmnaanin
+
+2+gookook'oo+NA+Dim+ThmPos+1+Pl+Loc	gigookookohooensmnaaning
+
+2+gookook'oo+NA+Dim+ThmPos+1+Pl+Pl	gigookookohooensmnaany1ag
+
+2+gookook'oo+NA+Dim+ThmPos+2+Pl+4	gigookookohooensmwaan
+
+2+gookook'oo+NA+Dim+ThmPos+2+Pl+Loc	gigookookohooensmwaang
+
+2+gookook'oo+NA+Dim+ThmPos+2+Pl+Pl	gigookookohooensmwaaag
+
+3+gookook'oo+NA+Con+ThmPos+2+Pl+4	ogookookohooenymwaan
+
+3+gookook'oo+NA+Con+ThmPos+2+Pl+Loc	ogookookohooenymwaang
+
+3+gookook'oo+NA+Con+ThmPos+3+4+4	ogookookohooenymniwan
+
+3+gookook'oo+NA+Con+ThmPos+3+4+Loc	ogookookohooenymniing
+
+3+gookook'oo+NA+Dim+ThmPos+2+Pl+4	ogookookohooensmwaan
+
+3+gookook'oo+NA+Dim+ThmPos+2+Pl+Loc	ogookookohooensmwaang
+
+3+gookook'oo+NA+Dim+ThmPos+3+4+4	ogookookohooensmniwan
+
+3+gookook'oo+NA+Dim+ThmPos+3+4+Loc	ogookookohooensmniing
+
+1+gookook'oo+NA+Con+ThmPos+Prt+4	nigookookohooenymibaniin
+
+1+gookook'oo+NA+Con+ThmPos+Prt+Loc	nigookookohooenymibaniing
+
+1+gookook'oo+NA+Con+ThmPos+Prt+Pl	nigookookohooenymibani1ag
+
+1+gookook'oo+NA+Dim+ThmPos+Prt+4	nigookookohooensmibaniin
+
+1+gookook'oo+NA+Dim+ThmPos+Prt+Loc	nigookookohooensmibaniing
+
+1+gookook'oo+NA+Dim+ThmPos+Prt+Pl	nigookookohooensmibani1ag
+
+2+gookook'oo+NA+Con+ThmPos+Prt+4	gigookookohooenymibaniin
+
+2+gookook'oo+NA+Con+ThmPos+Prt+Loc	gigookookohooenymibaniing
+
+2+gookook'oo+NA+Con+ThmPos+Prt+Pl	gigookookohooenymibani1ag
+
+2+gookook'oo+NA+Dim+ThmPos+Prt+4	gigookookohooensmibaniin
+
+2+gookook'oo+NA+Dim+ThmPos+Prt+Loc	gigookookohooensmibaniing
+
+2+gookook'oo+NA+Dim+ThmPos+Prt+Pl	gigookookohooensmibani1ag
+
+3+gookook'oo+NA+Con+ThmPos+Prt+4	ogookookohooenymibaniin
+
+3+gookook'oo+NA+Con+ThmPos+Prt+Loc	ogookookohooenymibaniing
+
+3+gookook'oo+NA+Dim+ThmPos+Prt+4	ogookookohooensmibaniin
+
+3+gookook'oo+NA+Dim+ThmPos+Prt+Loc	ogookookohooensmibaniing
+
+X+gookook'oo+NA+Con+ThmPos+Prt+4	igookookohooenymibaniin
+
+X+gookook'oo+NA+Con+ThmPos+Prt+Loc	igookookohooenymibaniing
+
+X+gookook'oo+NA+Con+ThmPos+Prt+Pl	igookookohooenymibani1ag
+
+X+gookook'oo+NA+Dim+ThmPos+Prt+4	igookookohooensmibaniin
+
+X+gookook'oo+NA+Dim+ThmPos+Prt+Loc	igookookohooensmibaniing
+
+X+gookook'oo+NA+Dim+ThmPos+Prt+Pl	igookookohooensmibani1ag
+
+1+gookook'oo+NA+Con+Pej+1+Pl+Prt	nigookookohooenyishnaaniban
+1+gookook'oo+NA+Con+Pej+1+Pl+Prt	nigookookohooenyishnaaniba
+
+1+gookook'oo+NA+Con+Pej+1+Pl+Voc+Pl	nigookookohooenyishnaany1dig
+
+1+gookook'oo+NA+Dim+Pej+1+Pl+Prt	nigookookohooensishnaaniban
+1+gookook'oo+NA+Dim+Pej+1+Pl+Prt	nigookookohooensishnaaniba
+
+1+gookook'oo+NA+Dim+Pej+1+Pl+Voc+Pl	nigookookohooensishnaany1dig
+
+2+gookook'oo+NA+Con+Pej+1+Pl+Prt	gigookookohooenyishnaaniban
+2+gookook'oo+NA+Con+Pej+1+Pl+Prt	gigookookohooenyishnaaniba
+
+2+gookook'oo+NA+Con+Pej+1+Pl+Voc+Pl	gigookookohooenyishnaany1dig
+
+2+gookook'oo+NA+Con+Pej+2+Pl+Prt	gigookookohooenyishwaaban
+2+gookook'oo+NA+Con+Pej+2+Pl+Prt	gigookookohooenyishwaaba
+
+2+gookook'oo+NA+Con+Pej+2+Pl+Voc+Pl	gigookookohooenyishwaadig
+
+2+gookook'oo+NA+Dim+Pej+1+Pl+Prt	gigookookohooensishnaaniban
+2+gookook'oo+NA+Dim+Pej+1+Pl+Prt	gigookookohooensishnaaniba
+
+2+gookook'oo+NA+Dim+Pej+1+Pl+Voc+Pl	gigookookohooensishnaany1dig
+
+2+gookook'oo+NA+Dim+Pej+2+Pl+Prt	gigookookohooensishwaaban
+2+gookook'oo+NA+Dim+Pej+2+Pl+Prt	gigookookohooensishwaaba
+
+2+gookook'oo+NA+Dim+Pej+2+Pl+Voc+Pl	gigookookohooensishwaadig
+
+3+gookook'oo+NA+Con+Pej+3+4+Prt	ogookookohooenyishniwiban
+3+gookook'oo+NA+Con+Pej+3+4+Prt	ogookookohooenyishniwiba
+3+gookook'oo+NA+Con+Pej+3+4+Prt	ogookookohooenyishniiban
+3+gookook'oo+NA+Con+Pej+3+4+Prt	ogookookohooenyishniiba
+
+3+gookook'oo+NA+Dim+Pej+3+4+Prt	ogookookohooensishniwiban
+3+gookook'oo+NA+Dim+Pej+3+4+Prt	ogookookohooensishniwiba
+3+gookook'oo+NA+Dim+Pej+3+4+Prt	ogookookohooensishniiban
+3+gookook'oo+NA+Dim+Pej+3+4+Prt	ogookookohooensishniiba
+
+1+gookook'oo+NA+Con+Pej+1+Pl+4	nigookookohooenyishnaanin
+
+1+gookook'oo+NA+Con+Pej+1+Pl+Loc	nigookookohooenyishnaaning
+
+1+gookook'oo+NA+Con+Pej+1+Pl+Pl	nigookookohooenyishnaany1ag
+
+1+gookook'oo+NA+Dim+Pej+1+Pl+4	nigookookohooensishnaanin
+
+1+gookook'oo+NA+Dim+Pej+1+Pl+Loc	nigookookohooensishnaaning
+
+1+gookook'oo+NA+Dim+Pej+1+Pl+Pl	nigookookohooensishnaany1ag
+
+2+gookook'oo+NA+Con+Pej+1+Pl+4	gigookookohooenyishnaanin
+
+2+gookook'oo+NA+Con+Pej+1+Pl+Loc	gigookookohooenyishnaaning
+
+2+gookook'oo+NA+Con+Pej+1+Pl+Pl	gigookookohooenyishnaany1ag
+
+2+gookook'oo+NA+Con+Pej+2+Pl+4	gigookookohooenyishwaan
+
+2+gookook'oo+NA+Con+Pej+2+Pl+Loc	gigookookohooenyishwaang
+
+2+gookook'oo+NA+Con+Pej+2+Pl+Pl	gigookookohooenyishwaaag
+
+2+gookook'oo+NA+Dim+Pej+1+Pl+4	gigookookohooensishnaanin
+
+2+gookook'oo+NA+Dim+Pej+1+Pl+Loc	gigookookohooensishnaaning
+
+2+gookook'oo+NA+Dim+Pej+1+Pl+Pl	gigookookohooensishnaany1ag
+
+2+gookook'oo+NA+Dim+Pej+2+Pl+4	gigookookohooensishwaan
+
+2+gookook'oo+NA+Dim+Pej+2+Pl+Loc	gigookookohooensishwaang
+
+2+gookook'oo+NA+Dim+Pej+2+Pl+Pl	gigookookohooensishwaaag
+
+3+gookook'oo+NA+Con+Pej+2+Pl+4	ogookookohooenyishwaan
+
+3+gookook'oo+NA+Con+Pej+2+Pl+Loc	ogookookohooenyishwaang
+
+3+gookook'oo+NA+Con+Pej+3+4+4	ogookookohooenyishniwan
+
+3+gookook'oo+NA+Con+Pej+3+4+Loc	ogookookohooenyishniing
+
+3+gookook'oo+NA+Dim+Pej+2+Pl+4	ogookookohooensishwaan
+
+3+gookook'oo+NA+Dim+Pej+2+Pl+Loc	ogookookohooensishwaang
+
+3+gookook'oo+NA+Dim+Pej+3+4+4	ogookookohooensishniwan
+
+3+gookook'oo+NA+Dim+Pej+3+4+Loc	ogookookohooensishniing
+
+1+gookook'oo+NA+Con+Pej+Prt+4	nigookookohooenyishibaniin
+
+1+gookook'oo+NA+Con+Pej+Prt+Loc	nigookookohooenyishibaniing
+
+1+gookook'oo+NA+Con+Pej+Prt+Pl	nigookookohooenyishibani1ag
+
+1+gookook'oo+NA+Dim+Pej+Prt+4	nigookookohooensishibaniin
+
+1+gookook'oo+NA+Dim+Pej+Prt+Loc	nigookookohooensishibaniing
+
+1+gookook'oo+NA+Dim+Pej+Prt+Pl	nigookookohooensishibani1ag
+
+2+gookook'oo+NA+Con+Pej+Prt+4	gigookookohooenyishibaniin
+
+2+gookook'oo+NA+Con+Pej+Prt+Loc	gigookookohooenyishibaniing
+
+2+gookook'oo+NA+Con+Pej+Prt+Pl	gigookookohooenyishibani1ag
+
+2+gookook'oo+NA+Dim+Pej+Prt+4	gigookookohooensishibaniin
+
+2+gookook'oo+NA+Dim+Pej+Prt+Loc	gigookookohooensishibaniing
+
+2+gookook'oo+NA+Dim+Pej+Prt+Pl	gigookookohooensishibani1ag
+
+3+gookook'oo+NA+Con+Pej+Prt+4	ogookookohooenyishibaniin
+
+3+gookook'oo+NA+Con+Pej+Prt+Loc	ogookookohooenyishibaniing
+
+3+gookook'oo+NA+Dim+Pej+Prt+4	ogookookohooensishibaniin
+
+3+gookook'oo+NA+Dim+Pej+Prt+Loc	ogookookohooensishibaniing
+
+X+gookook'oo+NA+Con+Pej+Prt+4	igookookohooenyishibaniin
+
+X+gookook'oo+NA+Con+Pej+Prt+Loc	igookookohooenyishibaniing
+
+X+gookook'oo+NA+Con+Pej+Prt+Pl	igookookohooenyishibani1ag
+
+X+gookook'oo+NA+Dim+Pej+Prt+4	igookookohooensishibaniin
+
+X+gookook'oo+NA+Dim+Pej+Prt+Loc	igookookohooensishibaniing
+
+X+gookook'oo+NA+Dim+Pej+Prt+Pl	igookookohooensishibani1ag
+
+1+gookook'oo+NA+Con+1+Pl+Prt+4	nigookookohooenynaanibaniin
+
+1+gookook'oo+NA+Con+1+Pl+Prt+Loc	nigookookohooenynaanibaniing
+
+1+gookook'oo+NA+Con+1+Pl+Prt+Pl	nigookookohooenynaanibani1ag
+
+1+gookook'oo+NA+Dim+1+Pl+Prt+4	nigookookohooensnaanibaniin
+
+1+gookook'oo+NA+Dim+1+Pl+Prt+Loc	nigookookohooensnaanibaniing
+
+1+gookook'oo+NA+Dim+1+Pl+Prt+Pl	nigookookohooensnaanibani1ag
+
+2+gookook'oo+NA+Con+1+Pl+Prt+4	gigookookohooenynaanibaniin
+
+2+gookook'oo+NA+Con+1+Pl+Prt+Loc	gigookookohooenynaanibaniing
+
+2+gookook'oo+NA+Con+1+Pl+Prt+Pl	gigookookohooenynaanibani1ag
+
+2+gookook'oo+NA+Con+2+Pl+Prt+4	gigookookohooenywaabaniin
+
+2+gookook'oo+NA+Con+2+Pl+Prt+Loc	gigookookohooenywaabaniing
+
+2+gookook'oo+NA+Con+2+Pl+Prt+Pl	gigookookohooenywaabani1ag
+
+2+gookook'oo+NA+Dim+1+Pl+Prt+4	gigookookohooensnaanibaniin
+
+2+gookook'oo+NA+Dim+1+Pl+Prt+Loc	gigookookohooensnaanibaniing
+
+2+gookook'oo+NA+Dim+1+Pl+Prt+Pl	gigookookohooensnaanibani1ag
+
+2+gookook'oo+NA+Dim+2+Pl+Prt+4	gigookookohooenswaabaniin
+
+2+gookook'oo+NA+Dim+2+Pl+Prt+Loc	gigookookohooenswaabaniing
+
+2+gookook'oo+NA+Dim+2+Pl+Prt+Pl	gigookookohooenswaabani1ag
+
+3+gookook'oo+NA+Con+2+Pl+Prt+4	ogookookohooenywaabaniin
+
+3+gookook'oo+NA+Con+2+Pl+Prt+Loc	ogookookohooenywaabaniing
+
+3+gookook'oo+NA+Con+3+4+Prt+4	ogookookohooenyniwibaniin
+3+gookook'oo+NA+Con+3+4+Prt+4	ogookookohooenyniibaniin
+
+3+gookook'oo+NA+Con+3+4+Prt+Loc	ogookookohooenyniwibaniing
+3+gookook'oo+NA+Con+3+4+Prt+Loc	ogookookohooenyniibaniing
+
+3+gookook'oo+NA+Dim+2+Pl+Prt+4	ogookookohooenswaabaniin
+
+3+gookook'oo+NA+Dim+2+Pl+Prt+Loc	ogookookohooenswaabaniing
+
+3+gookook'oo+NA+Dim+3+4+Prt+4	ogookookohooensniwibaniin
+3+gookook'oo+NA+Dim+3+4+Prt+4	ogookookohooensniibaniin
+
+3+gookook'oo+NA+Dim+3+4+Prt+Loc	ogookookohooensniwibaniing
+3+gookook'oo+NA+Dim+3+4+Prt+Loc	ogookookohooensniibaniing
+
+1+gookook'oo+NA+ThmPos+Pej+1+Pl+Prt	nigookookohoomishnaaniban
+1+gookook'oo+NA+ThmPos+Pej+1+Pl+Prt	nigookookohoomishnaaniba
+
+1+gookook'oo+NA+ThmPos+Pej+1+Pl+Voc+Pl	nigookookohoomishnaany1dig
+
+2+gookook'oo+NA+ThmPos+Pej+1+Pl+Prt	gigookookohoomishnaaniban
+2+gookook'oo+NA+ThmPos+Pej+1+Pl+Prt	gigookookohoomishnaaniba
+
+2+gookook'oo+NA+ThmPos+Pej+1+Pl+Voc+Pl	gigookookohoomishnaany1dig
+
+2+gookook'oo+NA+ThmPos+Pej+2+Pl+Prt	gigookookohoomishwaaban
+2+gookook'oo+NA+ThmPos+Pej+2+Pl+Prt	gigookookohoomishwaaba
+
+2+gookook'oo+NA+ThmPos+Pej+2+Pl+Voc+Pl	gigookookohoomishwaadig
+
+3+gookook'oo+NA+ThmPos+Pej+3+4+Prt	ogookookohoomishniwiban
+3+gookook'oo+NA+ThmPos+Pej+3+4+Prt	ogookookohoomishniwiba
+3+gookook'oo+NA+ThmPos+Pej+3+4+Prt	ogookookohoomishniiban
+3+gookook'oo+NA+ThmPos+Pej+3+4+Prt	ogookookohoomishniiba
+
+1+gookook'oo+NA+ThmPos+Pej+1+Pl+4	nigookookohoomishnaanin
+
+1+gookook'oo+NA+ThmPos+Pej+1+Pl+Loc	nigookookohoomishnaaning
+
+1+gookook'oo+NA+ThmPos+Pej+1+Pl+Pl	nigookookohoomishnaany1ag
+
+2+gookook'oo+NA+ThmPos+Pej+1+Pl+4	gigookookohoomishnaanin
+
+2+gookook'oo+NA+ThmPos+Pej+1+Pl+Loc	gigookookohoomishnaaning
+
+2+gookook'oo+NA+ThmPos+Pej+1+Pl+Pl	gigookookohoomishnaany1ag
+
+2+gookook'oo+NA+ThmPos+Pej+2+Pl+4	gigookookohoomishwaan
+
+2+gookook'oo+NA+ThmPos+Pej+2+Pl+Loc	gigookookohoomishwaang
+
+2+gookook'oo+NA+ThmPos+Pej+2+Pl+Pl	gigookookohoomishwaaag
+
+3+gookook'oo+NA+ThmPos+Pej+2+Pl+4	ogookookohoomishwaan
+
+3+gookook'oo+NA+ThmPos+Pej+2+Pl+Loc	ogookookohoomishwaang
+
+3+gookook'oo+NA+ThmPos+Pej+3+4+4	ogookookohoomishniwan
+
+3+gookook'oo+NA+ThmPos+Pej+3+4+Loc	ogookookohoomishniing
+
+1+gookook'oo+NA+ThmPos+Pej+Prt+4	nigookookohoomishibaniin
+
+1+gookook'oo+NA+ThmPos+Pej+Prt+Loc	nigookookohoomishibaniing
+
+1+gookook'oo+NA+ThmPos+Pej+Prt+Pl	nigookookohoomishibani1ag
+
+2+gookook'oo+NA+ThmPos+Pej+Prt+4	gigookookohoomishibaniin
+
+2+gookook'oo+NA+ThmPos+Pej+Prt+Loc	gigookookohoomishibaniing
+
+2+gookook'oo+NA+ThmPos+Pej+Prt+Pl	gigookookohoomishibani1ag
+
+3+gookook'oo+NA+ThmPos+Pej+Prt+4	ogookookohoomishibaniin
+
+3+gookook'oo+NA+ThmPos+Pej+Prt+Loc	ogookookohoomishibaniing
+
+X+gookook'oo+NA+ThmPos+Pej+Prt+4	igookookohoomishibaniin
+
+X+gookook'oo+NA+ThmPos+Pej+Prt+Loc	igookookohoomishibaniing
+
+X+gookook'oo+NA+ThmPos+Pej+Prt+Pl	igookookohoomishibani1ag
+
+1+gookook'oo+NA+ThmPos+1+Pl+Prt+4	nigookookohoomnaanibaniin
+
+1+gookook'oo+NA+ThmPos+1+Pl+Prt+Loc	nigookookohoomnaanibaniing
+
+1+gookook'oo+NA+ThmPos+1+Pl+Prt+Pl	nigookookohoomnaanibani1ag
+
+2+gookook'oo+NA+ThmPos+1+Pl+Prt+4	gigookookohoomnaanibaniin
+
+2+gookook'oo+NA+ThmPos+1+Pl+Prt+Loc	gigookookohoomnaanibaniing
+
+2+gookook'oo+NA+ThmPos+1+Pl+Prt+Pl	gigookookohoomnaanibani1ag
+
+2+gookook'oo+NA+ThmPos+2+Pl+Prt+4	gigookookohoomwaabaniin
+
+2+gookook'oo+NA+ThmPos+2+Pl+Prt+Loc	gigookookohoomwaabaniing
+
+2+gookook'oo+NA+ThmPos+2+Pl+Prt+Pl	gigookookohoomwaabani1ag
+
+3+gookook'oo+NA+ThmPos+2+Pl+Prt+4	ogookookohoomwaabaniin
+
+3+gookook'oo+NA+ThmPos+2+Pl+Prt+Loc	ogookookohoomwaabaniing
+
+3+gookook'oo+NA+ThmPos+3+4+Prt+4	ogookookohoomniwibaniin
+3+gookook'oo+NA+ThmPos+3+4+Prt+4	ogookookohoomniibaniin
+
+3+gookook'oo+NA+ThmPos+3+4+Prt+Loc	ogookookohoomniwibaniing
+3+gookook'oo+NA+ThmPos+3+4+Prt+Loc	ogookookohoomniibaniing
+
+1+gookook'oo+NA+Pej+1+Pl+Prt+4	nigookookohooshnaanibaniin
+
+1+gookook'oo+NA+Pej+1+Pl+Prt+Loc	nigookookohooshnaanibaniing
+
+1+gookook'oo+NA+Pej+1+Pl+Prt+Pl	nigookookohooshnaanibani1ag
+
+2+gookook'oo+NA+Pej+1+Pl+Prt+4	gigookookohooshnaanibaniin
+
+2+gookook'oo+NA+Pej+1+Pl+Prt+Loc	gigookookohooshnaanibaniing
+
+2+gookook'oo+NA+Pej+1+Pl+Prt+Pl	gigookookohooshnaanibani1ag
+
+2+gookook'oo+NA+Pej+2+Pl+Prt+4	gigookookohooshwaabaniin
+
+2+gookook'oo+NA+Pej+2+Pl+Prt+Loc	gigookookohooshwaabaniing
+
+2+gookook'oo+NA+Pej+2+Pl+Prt+Pl	gigookookohooshwaabani1ag
+
+3+gookook'oo+NA+Pej+2+Pl+Prt+4	ogookookohooshwaabaniin
+
+3+gookook'oo+NA+Pej+2+Pl+Prt+Loc	ogookookohooshwaabaniing
+
+3+gookook'oo+NA+Pej+3+4+Prt+4	ogookookohooshniwibaniin
+3+gookook'oo+NA+Pej+3+4+Prt+4	ogookookohooshniibaniin
+
+3+gookook'oo+NA+Pej+3+4+Prt+Loc	ogookookohooshniwibaniing
+3+gookook'oo+NA+Pej+3+4+Prt+Loc	ogookookohooshniibaniing
+
+1+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Prt	nigookookohooenymishnaaniban
+1+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Prt	nigookookohooenymishnaaniba
+
+1+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl	nigookookohooenymishnaany1dig
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Prt	nigookookohooensmishnaaniban
+1+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Prt	nigookookohooensmishnaaniba
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl	nigookookohooensmishnaany1dig
+
+2+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Prt	gigookookohooenymishnaaniban
+2+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Prt	gigookookohooenymishnaaniba
+
+2+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl	gigookookohooenymishnaany1dig
+
+2+gookook'oo+NA+Con+ThmPos+Pej+2+Pl+Prt	gigookookohooenymishwaaban
+2+gookook'oo+NA+Con+ThmPos+Pej+2+Pl+Prt	gigookookohooenymishwaaba
+
+2+gookook'oo+NA+Con+ThmPos+Pej+2+Pl+Voc+Pl	gigookookohooenymishwaadig
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Prt	gigookookohooensmishnaaniban
+2+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Prt	gigookookohooensmishnaaniba
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl	gigookookohooensmishnaany1dig
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl+Prt	gigookookohooensmishwaaban
+2+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl+Prt	gigookookohooensmishwaaba
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl+Voc+Pl	gigookookohooensmishwaadig
+
+3+gookook'oo+NA+Con+ThmPos+Pej+3+4+Prt	ogookookohooenymishniwiban
+3+gookook'oo+NA+Con+ThmPos+Pej+3+4+Prt	ogookookohooenymishniwiba
+3+gookook'oo+NA+Con+ThmPos+Pej+3+4+Prt	ogookookohooenymishniiban
+3+gookook'oo+NA+Con+ThmPos+Pej+3+4+Prt	ogookookohooenymishniiba
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+3+4+Prt	ogookookohooensmishniwiban
+3+gookook'oo+NA+Dim+ThmPos+Pej+3+4+Prt	ogookookohooensmishniwiba
+3+gookook'oo+NA+Dim+ThmPos+Pej+3+4+Prt	ogookookohooensmishniiban
+3+gookook'oo+NA+Dim+ThmPos+Pej+3+4+Prt	ogookookohooensmishniiba
+
+1+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+4	nigookookohooenymishnaanin
+
+1+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Loc	nigookookohooenymishnaaning
+
+1+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Pl	nigookookohooenymishnaany1ag
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+4	nigookookohooensmishnaanin
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Loc	nigookookohooensmishnaaning
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Pl	nigookookohooensmishnaany1ag
+
+2+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+4	gigookookohooenymishnaanin
+
+2+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Loc	gigookookohooenymishnaaning
+
+2+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Pl	gigookookohooenymishnaany1ag
+
+2+gookook'oo+NA+Con+ThmPos+Pej+2+Pl+4	gigookookohooenymishwaan
+
+2+gookook'oo+NA+Con+ThmPos+Pej+2+Pl+Loc	gigookookohooenymishwaang
+
+2+gookook'oo+NA+Con+ThmPos+Pej+2+Pl+Pl	gigookookohooenymishwaaag
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+4	gigookookohooensmishnaanin
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Loc	gigookookohooensmishnaaning
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Pl	gigookookohooensmishnaany1ag
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl+4	gigookookohooensmishwaan
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl+Loc	gigookookohooensmishwaang
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl+Pl	gigookookohooensmishwaaag
+
+3+gookook'oo+NA+Con+ThmPos+Pej+2+Pl+4	ogookookohooenymishwaan
+
+3+gookook'oo+NA+Con+ThmPos+Pej+2+Pl+Loc	ogookookohooenymishwaang
+
+3+gookook'oo+NA+Con+ThmPos+Pej+3+4+4	ogookookohooenymishniwan
+
+3+gookook'oo+NA+Con+ThmPos+Pej+3+4+Loc	ogookookohooenymishniing
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl+4	ogookookohooensmishwaan
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl+Loc	ogookookohooensmishwaang
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+3+4+4	ogookookohooensmishniwan
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+3+4+Loc	ogookookohooensmishniing
+
+1+gookook'oo+NA+Con+ThmPos+Pej+Prt+4	nigookookohooenymishibaniin
+
+1+gookook'oo+NA+Con+ThmPos+Pej+Prt+Loc	nigookookohooenymishibaniing
+
+1+gookook'oo+NA+Con+ThmPos+Pej+Prt+Pl	nigookookohooenymishibani1ag
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+Prt+4	nigookookohooensmishibaniin
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+Prt+Loc	nigookookohooensmishibaniing
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+Prt+Pl	nigookookohooensmishibani1ag
+
+2+gookook'oo+NA+Con+ThmPos+Pej+Prt+4	gigookookohooenymishibaniin
+
+2+gookook'oo+NA+Con+ThmPos+Pej+Prt+Loc	gigookookohooenymishibaniing
+
+2+gookook'oo+NA+Con+ThmPos+Pej+Prt+Pl	gigookookohooenymishibani1ag
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+Prt+4	gigookookohooensmishibaniin
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+Prt+Loc	gigookookohooensmishibaniing
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+Prt+Pl	gigookookohooensmishibani1ag
+
+3+gookook'oo+NA+Con+ThmPos+Pej+Prt+4	ogookookohooenymishibaniin
+
+3+gookook'oo+NA+Con+ThmPos+Pej+Prt+Loc	ogookookohooenymishibaniing
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+Prt+4	ogookookohooensmishibaniin
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+Prt+Loc	ogookookohooensmishibaniing
+
+X+gookook'oo+NA+Con+ThmPos+Pej+Prt+4	igookookohooenymishibaniin
+
+X+gookook'oo+NA+Con+ThmPos+Pej+Prt+Loc	igookookohooenymishibaniing
+
+X+gookook'oo+NA+Con+ThmPos+Pej+Prt+Pl	igookookohooenymishibani1ag
+
+X+gookook'oo+NA+Dim+ThmPos+Pej+Prt+4	igookookohooensmishibaniin
+
+X+gookook'oo+NA+Dim+ThmPos+Pej+Prt+Loc	igookookohooensmishibaniing
+
+X+gookook'oo+NA+Dim+ThmPos+Pej+Prt+Pl	igookookohooensmishibani1ag
+
+1+gookook'oo+NA+Con+ThmPos+1+Pl+Prt+4	nigookookohooenymnaanibaniin
+
+1+gookook'oo+NA+Con+ThmPos+1+Pl+Prt+Loc	nigookookohooenymnaanibaniing
+
+1+gookook'oo+NA+Con+ThmPos+1+Pl+Prt+Pl	nigookookohooenymnaanibani1ag
+
+1+gookook'oo+NA+Dim+ThmPos+1+Pl+Prt+4	nigookookohooensmnaanibaniin
+
+1+gookook'oo+NA+Dim+ThmPos+1+Pl+Prt+Loc	nigookookohooensmnaanibaniing
+
+1+gookook'oo+NA+Dim+ThmPos+1+Pl+Prt+Pl	nigookookohooensmnaanibani1ag
+
+2+gookook'oo+NA+Con+ThmPos+1+Pl+Prt+4	gigookookohooenymnaanibaniin
+
+2+gookook'oo+NA+Con+ThmPos+1+Pl+Prt+Loc	gigookookohooenymnaanibaniing
+
+2+gookook'oo+NA+Con+ThmPos+1+Pl+Prt+Pl	gigookookohooenymnaanibani1ag
+
+2+gookook'oo+NA+Con+ThmPos+2+Pl+Prt+4	gigookookohooenymwaabaniin
+
+2+gookook'oo+NA+Con+ThmPos+2+Pl+Prt+Loc	gigookookohooenymwaabaniing
+
+2+gookook'oo+NA+Con+ThmPos+2+Pl+Prt+Pl	gigookookohooenymwaabani1ag
+
+2+gookook'oo+NA+Dim+ThmPos+1+Pl+Prt+4	gigookookohooensmnaanibaniin
+
+2+gookook'oo+NA+Dim+ThmPos+1+Pl+Prt+Loc	gigookookohooensmnaanibaniing
+
+2+gookook'oo+NA+Dim+ThmPos+1+Pl+Prt+Pl	gigookookohooensmnaanibani1ag
+
+2+gookook'oo+NA+Dim+ThmPos+2+Pl+Prt+4	gigookookohooensmwaabaniin
+
+2+gookook'oo+NA+Dim+ThmPos+2+Pl+Prt+Loc	gigookookohooensmwaabaniing
+
+2+gookook'oo+NA+Dim+ThmPos+2+Pl+Prt+Pl	gigookookohooensmwaabani1ag
+
+3+gookook'oo+NA+Con+ThmPos+2+Pl+Prt+4	ogookookohooenymwaabaniin
+
+3+gookook'oo+NA+Con+ThmPos+2+Pl+Prt+Loc	ogookookohooenymwaabaniing
+
+3+gookook'oo+NA+Con+ThmPos+3+4+Prt+4	ogookookohooenymniwibaniin
+3+gookook'oo+NA+Con+ThmPos+3+4+Prt+4	ogookookohooenymniibaniin
+
+3+gookook'oo+NA+Con+ThmPos+3+4+Prt+Loc	ogookookohooenymniwibaniing
+3+gookook'oo+NA+Con+ThmPos+3+4+Prt+Loc	ogookookohooenymniibaniing
+
+3+gookook'oo+NA+Dim+ThmPos+2+Pl+Prt+4	ogookookohooensmwaabaniin
+
+3+gookook'oo+NA+Dim+ThmPos+2+Pl+Prt+Loc	ogookookohooensmwaabaniing
+
+3+gookook'oo+NA+Dim+ThmPos+3+4+Prt+4	ogookookohooensmniwibaniin
+3+gookook'oo+NA+Dim+ThmPos+3+4+Prt+4	ogookookohooensmniibaniin
+
+3+gookook'oo+NA+Dim+ThmPos+3+4+Prt+Loc	ogookookohooensmniwibaniing
+3+gookook'oo+NA+Dim+ThmPos+3+4+Prt+Loc	ogookookohooensmniibaniing
+
+1+gookook'oo+NA+Con+Pej+1+Pl+Prt+4	nigookookohooenyishnaanibaniin
+
+1+gookook'oo+NA+Con+Pej+1+Pl+Prt+Loc	nigookookohooenyishnaanibaniing
+
+1+gookook'oo+NA+Con+Pej+1+Pl+Prt+Pl	nigookookohooenyishnaanibani1ag
+
+1+gookook'oo+NA+Dim+Pej+1+Pl+Prt+4	nigookookohooensishnaanibaniin
+
+1+gookook'oo+NA+Dim+Pej+1+Pl+Prt+Loc	nigookookohooensishnaanibaniing
+
+1+gookook'oo+NA+Dim+Pej+1+Pl+Prt+Pl	nigookookohooensishnaanibani1ag
+
+2+gookook'oo+NA+Con+Pej+1+Pl+Prt+4	gigookookohooenyishnaanibaniin
+
+2+gookook'oo+NA+Con+Pej+1+Pl+Prt+Loc	gigookookohooenyishnaanibaniing
+
+2+gookook'oo+NA+Con+Pej+1+Pl+Prt+Pl	gigookookohooenyishnaanibani1ag
+
+2+gookook'oo+NA+Con+Pej+2+Pl+Prt+4	gigookookohooenyishwaabaniin
+
+2+gookook'oo+NA+Con+Pej+2+Pl+Prt+Loc	gigookookohooenyishwaabaniing
+
+2+gookook'oo+NA+Con+Pej+2+Pl+Prt+Pl	gigookookohooenyishwaabani1ag
+
+2+gookook'oo+NA+Dim+Pej+1+Pl+Prt+4	gigookookohooensishnaanibaniin
+
+2+gookook'oo+NA+Dim+Pej+1+Pl+Prt+Loc	gigookookohooensishnaanibaniing
+
+2+gookook'oo+NA+Dim+Pej+1+Pl+Prt+Pl	gigookookohooensishnaanibani1ag
+
+2+gookook'oo+NA+Dim+Pej+2+Pl+Prt+4	gigookookohooensishwaabaniin
+
+2+gookook'oo+NA+Dim+Pej+2+Pl+Prt+Loc	gigookookohooensishwaabaniing
+
+2+gookook'oo+NA+Dim+Pej+2+Pl+Prt+Pl	gigookookohooensishwaabani1ag
+
+3+gookook'oo+NA+Con+Pej+2+Pl+Prt+4	ogookookohooenyishwaabaniin
+
+3+gookook'oo+NA+Con+Pej+2+Pl+Prt+Loc	ogookookohooenyishwaabaniing
+
+3+gookook'oo+NA+Con+Pej+3+4+Prt+4	ogookookohooenyishniwibaniin
+3+gookook'oo+NA+Con+Pej+3+4+Prt+4	ogookookohooenyishniibaniin
+
+3+gookook'oo+NA+Con+Pej+3+4+Prt+Loc	ogookookohooenyishniwibaniing
+3+gookook'oo+NA+Con+Pej+3+4+Prt+Loc	ogookookohooenyishniibaniing
+
+3+gookook'oo+NA+Dim+Pej+2+Pl+Prt+4	ogookookohooensishwaabaniin
+
+3+gookook'oo+NA+Dim+Pej+2+Pl+Prt+Loc	ogookookohooensishwaabaniing
+
+3+gookook'oo+NA+Dim+Pej+3+4+Prt+4	ogookookohooensishniwibaniin
+3+gookook'oo+NA+Dim+Pej+3+4+Prt+4	ogookookohooensishniibaniin
+
+3+gookook'oo+NA+Dim+Pej+3+4+Prt+Loc	ogookookohooensishniwibaniing
+3+gookook'oo+NA+Dim+Pej+3+4+Prt+Loc	ogookookohooensishniibaniing
+
+1+gookook'oo+NA+ThmPos+Pej+1+Pl+Prt+4	nigookookohoomishnaanibaniin
+
+1+gookook'oo+NA+ThmPos+Pej+1+Pl+Prt+Loc	nigookookohoomishnaanibaniing
+
+1+gookook'oo+NA+ThmPos+Pej+1+Pl+Prt+Pl	nigookookohoomishnaanibani1ag
+
+2+gookook'oo+NA+ThmPos+Pej+1+Pl+Prt+4	gigookookohoomishnaanibaniin
+
+2+gookook'oo+NA+ThmPos+Pej+1+Pl+Prt+Loc	gigookookohoomishnaanibaniing
+
+2+gookook'oo+NA+ThmPos+Pej+1+Pl+Prt+Pl	gigookookohoomishnaanibani1ag
+
+2+gookook'oo+NA+ThmPos+Pej+2+Pl+Prt+4	gigookookohoomishwaabaniin
+
+2+gookook'oo+NA+ThmPos+Pej+2+Pl+Prt+Loc	gigookookohoomishwaabaniing
+
+2+gookook'oo+NA+ThmPos+Pej+2+Pl+Prt+Pl	gigookookohoomishwaabani1ag
+
+3+gookook'oo+NA+ThmPos+Pej+2+Pl+Prt+4	ogookookohoomishwaabaniin
+
+3+gookook'oo+NA+ThmPos+Pej+2+Pl+Prt+Loc	ogookookohoomishwaabaniing
+
+3+gookook'oo+NA+ThmPos+Pej+3+4+Prt+4	ogookookohoomishniwibaniin
+3+gookook'oo+NA+ThmPos+Pej+3+4+Prt+4	ogookookohoomishniibaniin
+
+3+gookook'oo+NA+ThmPos+Pej+3+4+Prt+Loc	ogookookohoomishniwibaniing
+3+gookook'oo+NA+ThmPos+Pej+3+4+Prt+Loc	ogookookohoomishniibaniing
+
+1+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Prt+4	nigookookohooenymishnaanibaniin
+
+1+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc	nigookookohooenymishnaanibaniing
+
+1+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl	nigookookohooenymishnaanibani1ag
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Prt+4	nigookookohooensmishnaanibaniin
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc	nigookookohooensmishnaanibaniing
+
+1+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl	nigookookohooensmishnaanibani1ag
+
+2+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Prt+4	gigookookohooenymishnaanibaniin
+
+2+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc	gigookookohooenymishnaanibaniing
+
+2+gookook'oo+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl	gigookookohooenymishnaanibani1ag
+
+2+gookook'oo+NA+Con+ThmPos+Pej+2+Pl+Prt+4	gigookookohooenymishwaabaniin
+
+2+gookook'oo+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc	gigookookohooenymishwaabaniing
+
+2+gookook'oo+NA+Con+ThmPos+Pej+2+Pl+Prt+Pl	gigookookohooenymishwaabani1ag
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Prt+4	gigookookohooensmishnaanibaniin
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc	gigookookohooensmishnaanibaniing
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl	gigookookohooensmishnaanibani1ag
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl+Prt+4	gigookookohooensmishwaabaniin
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc	gigookookohooensmishwaabaniing
+
+2+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl+Prt+Pl	gigookookohooensmishwaabani1ag
+
+3+gookook'oo+NA+Con+ThmPos+Pej+2+Pl+Prt+4	ogookookohooenymishwaabaniin
+
+3+gookook'oo+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc	ogookookohooenymishwaabaniing
+
+3+gookook'oo+NA+Con+ThmPos+Pej+3+4+Prt+4	ogookookohooenymishniwibaniin
+3+gookook'oo+NA+Con+ThmPos+Pej+3+4+Prt+4	ogookookohooenymishniibaniin
+
+3+gookook'oo+NA+Con+ThmPos+Pej+3+4+Prt+Loc	ogookookohooenymishniwibaniing
+3+gookook'oo+NA+Con+ThmPos+Pej+3+4+Prt+Loc	ogookookohooenymishniibaniing
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl+Prt+4	ogookookohooensmishwaabaniin
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc	ogookookohooensmishwaabaniing
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+3+4+Prt+4	ogookookohooensmishniwibaniin
+3+gookook'oo+NA+Dim+ThmPos+Pej+3+4+Prt+4	ogookookohooensmishniibaniin
+
+3+gookook'oo+NA+Dim+ThmPos+Pej+3+4+Prt+Loc	ogookookohooensmishniwibaniing
+3+gookook'oo+NA+Dim+ThmPos+Pej+3+4+Prt+Loc	ogookookohooensmishniibaniing
+

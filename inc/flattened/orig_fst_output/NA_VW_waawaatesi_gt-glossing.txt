@@ -1,0 +1,1898 @@
+waawaatesi+NA	waawaatesiw
+
+1+waawaatesi+NA	niwaawaatesiw
+
+2+waawaatesi+NA	giwaawaatesiw
+
+X+waawaatesi+NA	iwaawaatesiw
+
+waawaatesi+NA+Con	waawaatesiwenh
+
+waawaatesi+NA+Dim	waawaatesiwens
+
+waawaatesi+NA+Pej	waawaatesiwsh
+
+waawaatesi+NA+Prt	waawaatesiwbani1
+
+waawaatesi+NA+Voc+Pl	waawaatesiwdig
+
+waawaatesi+NA+4	waawaatesiwan
+
+waawaatesi+NA+Loc	waawaatesiwng
+
+waawaatesi+NA+Pl	waawaatesiwag
+
+1+waawaatesi+NA+Con	niwaawaatesiwenh
+
+1+waawaatesi+NA+Dim	niwaawaatesiwens
+
+2+waawaatesi+NA+Con	giwaawaatesiwenh
+
+2+waawaatesi+NA+Dim	giwaawaatesiwens
+
+X+waawaatesi+NA+Con	iwaawaatesiwenh
+
+X+waawaatesi+NA+Dim	iwaawaatesiwens
+
+1+waawaatesi+NA+ThmPos	niwaawaatesiwm
+
+2+waawaatesi+NA+ThmPos	giwaawaatesiwm
+
+X+waawaatesi+NA+ThmPos	iwaawaatesiwm
+
+1+waawaatesi+NA+Pej	niwaawaatesiwsh
+
+2+waawaatesi+NA+Pej	giwaawaatesiwsh
+
+X+waawaatesi+NA+Pej	iwaawaatesiwsh
+
+1+waawaatesi+NA+1+Pl	niwaawaatesiwnaan
+1+waawaatesi+NA+1+Pl	niwaawaatesiwnaa
+
+2+waawaatesi+NA+1+Pl	giwaawaatesiwnaan
+2+waawaatesi+NA+1+Pl	giwaawaatesiwnaa
+
+2+waawaatesi+NA+2+Pl	giwaawaatesiwwaa
+
+3+waawaatesi+NA+3+4	owaawaatesiwniw
+
+1+waawaatesi+NA+Prt	niwaawaatesiwbani1
+
+1+waawaatesi+NA+Voc+Pl	niwaawaatesiwdig
+
+2+waawaatesi+NA+Prt	giwaawaatesiwbani1
+
+2+waawaatesi+NA+Voc+Pl	giwaawaatesiwdig
+
+X+waawaatesi+NA+Prt	iwaawaatesiwbani1
+
+X+waawaatesi+NA+Voc+Pl	iwaawaatesiwdig
+
+1+waawaatesi+NA+4	niwaawaatesiwan
+
+1+waawaatesi+NA+Loc	niwaawaatesiwng
+
+1+waawaatesi+NA+Pl	niwaawaatesiwag
+
+2+waawaatesi+NA+4	giwaawaatesiwan
+
+2+waawaatesi+NA+Loc	giwaawaatesiwng
+
+2+waawaatesi+NA+Pl	giwaawaatesiwag
+
+3+waawaatesi+NA+4	owaawaatesiwan
+
+3+waawaatesi+NA+Loc	owaawaatesiwng
+
+X+waawaatesi+NA+4	iwaawaatesiwan
+
+X+waawaatesi+NA+Loc	iwaawaatesiwng
+
+X+waawaatesi+NA+Pl	iwaawaatesiwag
+
+waawaatesi+NA+Con+Pej	waawaatesiwenyish
+
+waawaatesi+NA+Dim+Pej	waawaatesiwensish
+
+waawaatesi+NA+Con+Prt	waawaatesiwenyiban
+waawaatesi+NA+Con+Prt	waawaatesiwenyiba
+
+waawaatesi+NA+Con+Voc+Pl	waawaatesiwenydig
+
+waawaatesi+NA+Dim+Prt	waawaatesiwensiban
+waawaatesi+NA+Dim+Prt	waawaatesiwensiba
+
+waawaatesi+NA+Dim+Voc+Pl	waawaatesiwensdig
+
+waawaatesi+NA+Con+4	waawaatesiwenyin
+
+waawaatesi+NA+Con+Loc	waawaatesiwenying
+
+waawaatesi+NA+Con+Pl	waawaatesiwenyag
+
+waawaatesi+NA+Dim+4	waawaatesiwensan
+
+waawaatesi+NA+Dim+Loc	waawaatesiwensing
+
+waawaatesi+NA+Dim+Pl	waawaatesiwensag
+
+waawaatesi+NA+Pej+Prt	waawaatesiwshiban
+waawaatesi+NA+Pej+Prt	waawaatesiwshiba
+
+waawaatesi+NA+Pej+Voc+Pl	waawaatesiwshdig
+
+waawaatesi+NA+Pej+4	waawaatesiwshan
+
+waawaatesi+NA+Pej+Loc	waawaatesiwshing
+
+waawaatesi+NA+Pej+Pl	waawaatesiwshag
+
+waawaatesi+NA+Prt+4	waawaatesiwbaniin
+
+waawaatesi+NA+Prt+Loc	waawaatesiwbaniing
+
+waawaatesi+NA+Prt+Pl	waawaatesiwbani1ag
+
+1+waawaatesi+NA+Con+ThmPos	niwaawaatesiwenym
+
+1+waawaatesi+NA+Dim+ThmPos	niwaawaatesiwensm
+
+2+waawaatesi+NA+Con+ThmPos	giwaawaatesiwenym
+
+2+waawaatesi+NA+Dim+ThmPos	giwaawaatesiwensm
+
+X+waawaatesi+NA+Con+ThmPos	iwaawaatesiwenym
+
+X+waawaatesi+NA+Dim+ThmPos	iwaawaatesiwensm
+
+1+waawaatesi+NA+Con+Pej	niwaawaatesiwenyish
+
+1+waawaatesi+NA+Dim+Pej	niwaawaatesiwensish
+
+2+waawaatesi+NA+Con+Pej	giwaawaatesiwenyish
+
+2+waawaatesi+NA+Dim+Pej	giwaawaatesiwensish
+
+X+waawaatesi+NA+Con+Pej	iwaawaatesiwenyish
+
+X+waawaatesi+NA+Dim+Pej	iwaawaatesiwensish
+
+1+waawaatesi+NA+Con+1+Pl	niwaawaatesiwenynaan
+1+waawaatesi+NA+Con+1+Pl	niwaawaatesiwenynaa
+
+1+waawaatesi+NA+Dim+1+Pl	niwaawaatesiwensnaan
+1+waawaatesi+NA+Dim+1+Pl	niwaawaatesiwensnaa
+
+2+waawaatesi+NA+Con+1+Pl	giwaawaatesiwenynaan
+2+waawaatesi+NA+Con+1+Pl	giwaawaatesiwenynaa
+
+2+waawaatesi+NA+Con+2+Pl	giwaawaatesiwenywaa
+
+2+waawaatesi+NA+Dim+1+Pl	giwaawaatesiwensnaan
+2+waawaatesi+NA+Dim+1+Pl	giwaawaatesiwensnaa
+
+2+waawaatesi+NA+Dim+2+Pl	giwaawaatesiwenswaa
+
+3+waawaatesi+NA+Con+3+4	owaawaatesiwenyniw
+
+3+waawaatesi+NA+Dim+3+4	owaawaatesiwensniw
+
+1+waawaatesi+NA+Con+Prt	niwaawaatesiwenyiban
+1+waawaatesi+NA+Con+Prt	niwaawaatesiwenyiba
+
+1+waawaatesi+NA+Con+Voc+Pl	niwaawaatesiwenydig
+
+1+waawaatesi+NA+Dim+Prt	niwaawaatesiwensiban
+1+waawaatesi+NA+Dim+Prt	niwaawaatesiwensiba
+
+1+waawaatesi+NA+Dim+Voc+Pl	niwaawaatesiwensdig
+
+2+waawaatesi+NA+Con+Prt	giwaawaatesiwenyiban
+2+waawaatesi+NA+Con+Prt	giwaawaatesiwenyiba
+
+2+waawaatesi+NA+Con+Voc+Pl	giwaawaatesiwenydig
+
+2+waawaatesi+NA+Dim+Prt	giwaawaatesiwensiban
+2+waawaatesi+NA+Dim+Prt	giwaawaatesiwensiba
+
+2+waawaatesi+NA+Dim+Voc+Pl	giwaawaatesiwensdig
+
+X+waawaatesi+NA+Con+Prt	iwaawaatesiwenyiban
+X+waawaatesi+NA+Con+Prt	iwaawaatesiwenyiba
+
+X+waawaatesi+NA+Con+Voc+Pl	iwaawaatesiwenydig
+
+X+waawaatesi+NA+Dim+Prt	iwaawaatesiwensiban
+X+waawaatesi+NA+Dim+Prt	iwaawaatesiwensiba
+
+X+waawaatesi+NA+Dim+Voc+Pl	iwaawaatesiwensdig
+
+1+waawaatesi+NA+Con+4	niwaawaatesiwenyin
+
+1+waawaatesi+NA+Con+Loc	niwaawaatesiwenying
+
+1+waawaatesi+NA+Con+Pl	niwaawaatesiwenyag
+
+1+waawaatesi+NA+Dim+4	niwaawaatesiwensan
+
+1+waawaatesi+NA+Dim+Loc	niwaawaatesiwensing
+
+1+waawaatesi+NA+Dim+Pl	niwaawaatesiwensag
+
+2+waawaatesi+NA+Con+4	giwaawaatesiwenyin
+
+2+waawaatesi+NA+Con+Loc	giwaawaatesiwenying
+
+2+waawaatesi+NA+Con+Pl	giwaawaatesiwenyag
+
+2+waawaatesi+NA+Dim+4	giwaawaatesiwensan
+
+2+waawaatesi+NA+Dim+Loc	giwaawaatesiwensing
+
+2+waawaatesi+NA+Dim+Pl	giwaawaatesiwensag
+
+3+waawaatesi+NA+Con+4	owaawaatesiwenyin
+
+3+waawaatesi+NA+Con+Loc	owaawaatesiwenying
+
+3+waawaatesi+NA+Dim+4	owaawaatesiwensan
+
+3+waawaatesi+NA+Dim+Loc	owaawaatesiwensing
+
+X+waawaatesi+NA+Con+4	iwaawaatesiwenyin
+
+X+waawaatesi+NA+Con+Loc	iwaawaatesiwenying
+
+X+waawaatesi+NA+Con+Pl	iwaawaatesiwenyag
+
+X+waawaatesi+NA+Dim+4	iwaawaatesiwensan
+
+X+waawaatesi+NA+Dim+Loc	iwaawaatesiwensing
+
+X+waawaatesi+NA+Dim+Pl	iwaawaatesiwensag
+
+1+waawaatesi+NA+ThmPos+Pej	niwaawaatesiwmish
+
+2+waawaatesi+NA+ThmPos+Pej	giwaawaatesiwmish
+
+X+waawaatesi+NA+ThmPos+Pej	iwaawaatesiwmish
+
+1+waawaatesi+NA+ThmPos+1+Pl	niwaawaatesiwmnaan
+1+waawaatesi+NA+ThmPos+1+Pl	niwaawaatesiwmnaa
+
+2+waawaatesi+NA+ThmPos+1+Pl	giwaawaatesiwmnaan
+2+waawaatesi+NA+ThmPos+1+Pl	giwaawaatesiwmnaa
+
+2+waawaatesi+NA+ThmPos+2+Pl	giwaawaatesiwmwaa
+
+3+waawaatesi+NA+ThmPos+3+4	owaawaatesiwmniw
+
+1+waawaatesi+NA+ThmPos+Prt	niwaawaatesiwmiban
+1+waawaatesi+NA+ThmPos+Prt	niwaawaatesiwmiba
+
+1+waawaatesi+NA+ThmPos+Voc+Pl	niwaawaatesiwmdig
+
+2+waawaatesi+NA+ThmPos+Prt	giwaawaatesiwmiban
+2+waawaatesi+NA+ThmPos+Prt	giwaawaatesiwmiba
+
+2+waawaatesi+NA+ThmPos+Voc+Pl	giwaawaatesiwmdig
+
+X+waawaatesi+NA+ThmPos+Prt	iwaawaatesiwmiban
+X+waawaatesi+NA+ThmPos+Prt	iwaawaatesiwmiba
+
+X+waawaatesi+NA+ThmPos+Voc+Pl	iwaawaatesiwmdig
+
+1+waawaatesi+NA+ThmPos+4	niwaawaatesiwman
+
+1+waawaatesi+NA+ThmPos+Loc	niwaawaatesiwming
+
+1+waawaatesi+NA+ThmPos+Pl	niwaawaatesiwmag
+
+2+waawaatesi+NA+ThmPos+4	giwaawaatesiwman
+
+2+waawaatesi+NA+ThmPos+Loc	giwaawaatesiwming
+
+2+waawaatesi+NA+ThmPos+Pl	giwaawaatesiwmag
+
+3+waawaatesi+NA+ThmPos+4	owaawaatesiwman
+
+3+waawaatesi+NA+ThmPos+Loc	owaawaatesiwming
+
+X+waawaatesi+NA+ThmPos+4	iwaawaatesiwman
+
+X+waawaatesi+NA+ThmPos+Loc	iwaawaatesiwming
+
+X+waawaatesi+NA+ThmPos+Pl	iwaawaatesiwmag
+
+1+waawaatesi+NA+Pej+1+Pl	niwaawaatesiwshnaan
+1+waawaatesi+NA+Pej+1+Pl	niwaawaatesiwshnaa
+
+2+waawaatesi+NA+Pej+1+Pl	giwaawaatesiwshnaan
+2+waawaatesi+NA+Pej+1+Pl	giwaawaatesiwshnaa
+
+2+waawaatesi+NA+Pej+2+Pl	giwaawaatesiwshwaa
+
+3+waawaatesi+NA+Pej+3+4	owaawaatesiwshniw
+
+1+waawaatesi+NA+Pej+Prt	niwaawaatesiwshiban
+1+waawaatesi+NA+Pej+Prt	niwaawaatesiwshiba
+
+1+waawaatesi+NA+Pej+Voc+Pl	niwaawaatesiwshdig
+
+2+waawaatesi+NA+Pej+Prt	giwaawaatesiwshiban
+2+waawaatesi+NA+Pej+Prt	giwaawaatesiwshiba
+
+2+waawaatesi+NA+Pej+Voc+Pl	giwaawaatesiwshdig
+
+X+waawaatesi+NA+Pej+Prt	iwaawaatesiwshiban
+X+waawaatesi+NA+Pej+Prt	iwaawaatesiwshiba
+
+X+waawaatesi+NA+Pej+Voc+Pl	iwaawaatesiwshdig
+
+1+waawaatesi+NA+Pej+4	niwaawaatesiwshan
+
+1+waawaatesi+NA+Pej+Loc	niwaawaatesiwshing
+
+1+waawaatesi+NA+Pej+Pl	niwaawaatesiwshag
+
+2+waawaatesi+NA+Pej+4	giwaawaatesiwshan
+
+2+waawaatesi+NA+Pej+Loc	giwaawaatesiwshing
+
+2+waawaatesi+NA+Pej+Pl	giwaawaatesiwshag
+
+3+waawaatesi+NA+Pej+4	owaawaatesiwshan
+
+3+waawaatesi+NA+Pej+Loc	owaawaatesiwshing
+
+X+waawaatesi+NA+Pej+4	iwaawaatesiwshan
+
+X+waawaatesi+NA+Pej+Loc	iwaawaatesiwshing
+
+X+waawaatesi+NA+Pej+Pl	iwaawaatesiwshag
+
+1+waawaatesi+NA+1+Pl+Prt	niwaawaatesiwnaaniban
+1+waawaatesi+NA+1+Pl+Prt	niwaawaatesiwnaaniba
+
+1+waawaatesi+NA+1+Pl+Voc+Pl	niwaawaatesiwnaany1dig
+
+2+waawaatesi+NA+1+Pl+Prt	giwaawaatesiwnaaniban
+2+waawaatesi+NA+1+Pl+Prt	giwaawaatesiwnaaniba
+
+2+waawaatesi+NA+1+Pl+Voc+Pl	giwaawaatesiwnaany1dig
+
+2+waawaatesi+NA+2+Pl+Prt	giwaawaatesiwwaaban
+2+waawaatesi+NA+2+Pl+Prt	giwaawaatesiwwaaba
+
+2+waawaatesi+NA+2+Pl+Voc+Pl	giwaawaatesiwwaadig
+
+3+waawaatesi+NA+3+4+Prt	owaawaatesiwniwiban
+3+waawaatesi+NA+3+4+Prt	owaawaatesiwniwiba
+3+waawaatesi+NA+3+4+Prt	owaawaatesiwniiban
+3+waawaatesi+NA+3+4+Prt	owaawaatesiwniiba
+
+1+waawaatesi+NA+1+Pl+4	niwaawaatesiwnaanin
+
+1+waawaatesi+NA+1+Pl+Loc	niwaawaatesiwnaaning
+
+1+waawaatesi+NA+1+Pl+Pl	niwaawaatesiwnaany1ag
+
+2+waawaatesi+NA+1+Pl+4	giwaawaatesiwnaanin
+
+2+waawaatesi+NA+1+Pl+Loc	giwaawaatesiwnaaning
+
+2+waawaatesi+NA+1+Pl+Pl	giwaawaatesiwnaany1ag
+
+2+waawaatesi+NA+2+Pl+4	giwaawaatesiwwaan
+
+2+waawaatesi+NA+2+Pl+Loc	giwaawaatesiwwaang
+
+2+waawaatesi+NA+2+Pl+Pl	giwaawaatesiwwaaag
+
+3+waawaatesi+NA+2+Pl+4	owaawaatesiwwaan
+
+3+waawaatesi+NA+2+Pl+Loc	owaawaatesiwwaang
+
+3+waawaatesi+NA+3+4+4	owaawaatesiwniwan
+
+3+waawaatesi+NA+3+4+Loc	owaawaatesiwniing
+
+1+waawaatesi+NA+Prt+4	niwaawaatesiwbaniin
+
+1+waawaatesi+NA+Prt+Loc	niwaawaatesiwbaniing
+
+1+waawaatesi+NA+Prt+Pl	niwaawaatesiwbani1ag
+
+2+waawaatesi+NA+Prt+4	giwaawaatesiwbaniin
+
+2+waawaatesi+NA+Prt+Loc	giwaawaatesiwbaniing
+
+2+waawaatesi+NA+Prt+Pl	giwaawaatesiwbani1ag
+
+3+waawaatesi+NA+Prt+4	owaawaatesiwbaniin
+
+3+waawaatesi+NA+Prt+Loc	owaawaatesiwbaniing
+
+X+waawaatesi+NA+Prt+4	iwaawaatesiwbaniin
+
+X+waawaatesi+NA+Prt+Loc	iwaawaatesiwbaniing
+
+X+waawaatesi+NA+Prt+Pl	iwaawaatesiwbani1ag
+
+waawaatesi+NA+Con+Pej+Prt	waawaatesiwenyishiban
+waawaatesi+NA+Con+Pej+Prt	waawaatesiwenyishiba
+
+waawaatesi+NA+Con+Pej+Voc+Pl	waawaatesiwenyishdig
+
+waawaatesi+NA+Dim+Pej+Prt	waawaatesiwensishiban
+waawaatesi+NA+Dim+Pej+Prt	waawaatesiwensishiba
+
+waawaatesi+NA+Dim+Pej+Voc+Pl	waawaatesiwensishdig
+
+waawaatesi+NA+Con+Pej+4	waawaatesiwenyishan
+
+waawaatesi+NA+Con+Pej+Loc	waawaatesiwenyishing
+
+waawaatesi+NA+Con+Pej+Pl	waawaatesiwenyishag
+
+waawaatesi+NA+Dim+Pej+4	waawaatesiwensishan
+
+waawaatesi+NA+Dim+Pej+Loc	waawaatesiwensishing
+
+waawaatesi+NA+Dim+Pej+Pl	waawaatesiwensishag
+
+waawaatesi+NA+Con+Prt+4	waawaatesiwenyibaniin
+
+waawaatesi+NA+Con+Prt+Loc	waawaatesiwenyibaniing
+
+waawaatesi+NA+Con+Prt+Pl	waawaatesiwenyibani1ag
+
+waawaatesi+NA+Dim+Prt+4	waawaatesiwensibaniin
+
+waawaatesi+NA+Dim+Prt+Loc	waawaatesiwensibaniing
+
+waawaatesi+NA+Dim+Prt+Pl	waawaatesiwensibani1ag
+
+waawaatesi+NA+Pej+Prt+4	waawaatesiwshibaniin
+
+waawaatesi+NA+Pej+Prt+Loc	waawaatesiwshibaniing
+
+waawaatesi+NA+Pej+Prt+Pl	waawaatesiwshibani1ag
+
+1+waawaatesi+NA+Con+ThmPos+Pej	niwaawaatesiwenymish
+
+1+waawaatesi+NA+Dim+ThmPos+Pej	niwaawaatesiwensmish
+
+2+waawaatesi+NA+Con+ThmPos+Pej	giwaawaatesiwenymish
+
+2+waawaatesi+NA+Dim+ThmPos+Pej	giwaawaatesiwensmish
+
+X+waawaatesi+NA+Con+ThmPos+Pej	iwaawaatesiwenymish
+
+X+waawaatesi+NA+Dim+ThmPos+Pej	iwaawaatesiwensmish
+
+1+waawaatesi+NA+Con+ThmPos+1+Pl	niwaawaatesiwenymnaan
+1+waawaatesi+NA+Con+ThmPos+1+Pl	niwaawaatesiwenymnaa
+
+1+waawaatesi+NA+Dim+ThmPos+1+Pl	niwaawaatesiwensmnaan
+1+waawaatesi+NA+Dim+ThmPos+1+Pl	niwaawaatesiwensmnaa
+
+2+waawaatesi+NA+Con+ThmPos+1+Pl	giwaawaatesiwenymnaan
+2+waawaatesi+NA+Con+ThmPos+1+Pl	giwaawaatesiwenymnaa
+
+2+waawaatesi+NA+Con+ThmPos+2+Pl	giwaawaatesiwenymwaa
+
+2+waawaatesi+NA+Dim+ThmPos+1+Pl	giwaawaatesiwensmnaan
+2+waawaatesi+NA+Dim+ThmPos+1+Pl	giwaawaatesiwensmnaa
+
+2+waawaatesi+NA+Dim+ThmPos+2+Pl	giwaawaatesiwensmwaa
+
+3+waawaatesi+NA+Con+ThmPos+3+4	owaawaatesiwenymniw
+
+3+waawaatesi+NA+Dim+ThmPos+3+4	owaawaatesiwensmniw
+
+1+waawaatesi+NA+Con+ThmPos+Prt	niwaawaatesiwenymiban
+1+waawaatesi+NA+Con+ThmPos+Prt	niwaawaatesiwenymiba
+
+1+waawaatesi+NA+Con+ThmPos+Voc+Pl	niwaawaatesiwenymdig
+
+1+waawaatesi+NA+Dim+ThmPos+Prt	niwaawaatesiwensmiban
+1+waawaatesi+NA+Dim+ThmPos+Prt	niwaawaatesiwensmiba
+
+1+waawaatesi+NA+Dim+ThmPos+Voc+Pl	niwaawaatesiwensmdig
+
+2+waawaatesi+NA+Con+ThmPos+Prt	giwaawaatesiwenymiban
+2+waawaatesi+NA+Con+ThmPos+Prt	giwaawaatesiwenymiba
+
+2+waawaatesi+NA+Con+ThmPos+Voc+Pl	giwaawaatesiwenymdig
+
+2+waawaatesi+NA+Dim+ThmPos+Prt	giwaawaatesiwensmiban
+2+waawaatesi+NA+Dim+ThmPos+Prt	giwaawaatesiwensmiba
+
+2+waawaatesi+NA+Dim+ThmPos+Voc+Pl	giwaawaatesiwensmdig
+
+X+waawaatesi+NA+Con+ThmPos+Prt	iwaawaatesiwenymiban
+X+waawaatesi+NA+Con+ThmPos+Prt	iwaawaatesiwenymiba
+
+X+waawaatesi+NA+Con+ThmPos+Voc+Pl	iwaawaatesiwenymdig
+
+X+waawaatesi+NA+Dim+ThmPos+Prt	iwaawaatesiwensmiban
+X+waawaatesi+NA+Dim+ThmPos+Prt	iwaawaatesiwensmiba
+
+X+waawaatesi+NA+Dim+ThmPos+Voc+Pl	iwaawaatesiwensmdig
+
+1+waawaatesi+NA+Con+ThmPos+4	niwaawaatesiwenyman
+
+1+waawaatesi+NA+Con+ThmPos+Loc	niwaawaatesiwenyming
+
+1+waawaatesi+NA+Con+ThmPos+Pl	niwaawaatesiwenymag
+
+1+waawaatesi+NA+Dim+ThmPos+4	niwaawaatesiwensman
+
+1+waawaatesi+NA+Dim+ThmPos+Loc	niwaawaatesiwensming
+
+1+waawaatesi+NA+Dim+ThmPos+Pl	niwaawaatesiwensmag
+
+2+waawaatesi+NA+Con+ThmPos+4	giwaawaatesiwenyman
+
+2+waawaatesi+NA+Con+ThmPos+Loc	giwaawaatesiwenyming
+
+2+waawaatesi+NA+Con+ThmPos+Pl	giwaawaatesiwenymag
+
+2+waawaatesi+NA+Dim+ThmPos+4	giwaawaatesiwensman
+
+2+waawaatesi+NA+Dim+ThmPos+Loc	giwaawaatesiwensming
+
+2+waawaatesi+NA+Dim+ThmPos+Pl	giwaawaatesiwensmag
+
+3+waawaatesi+NA+Con+ThmPos+4	owaawaatesiwenyman
+
+3+waawaatesi+NA+Con+ThmPos+Loc	owaawaatesiwenyming
+
+3+waawaatesi+NA+Dim+ThmPos+4	owaawaatesiwensman
+
+3+waawaatesi+NA+Dim+ThmPos+Loc	owaawaatesiwensming
+
+X+waawaatesi+NA+Con+ThmPos+4	iwaawaatesiwenyman
+
+X+waawaatesi+NA+Con+ThmPos+Loc	iwaawaatesiwenyming
+
+X+waawaatesi+NA+Con+ThmPos+Pl	iwaawaatesiwenymag
+
+X+waawaatesi+NA+Dim+ThmPos+4	iwaawaatesiwensman
+
+X+waawaatesi+NA+Dim+ThmPos+Loc	iwaawaatesiwensming
+
+X+waawaatesi+NA+Dim+ThmPos+Pl	iwaawaatesiwensmag
+
+1+waawaatesi+NA+Con+Pej+1+Pl	niwaawaatesiwenyishnaan
+1+waawaatesi+NA+Con+Pej+1+Pl	niwaawaatesiwenyishnaa
+
+1+waawaatesi+NA+Dim+Pej+1+Pl	niwaawaatesiwensishnaan
+1+waawaatesi+NA+Dim+Pej+1+Pl	niwaawaatesiwensishnaa
+
+2+waawaatesi+NA+Con+Pej+1+Pl	giwaawaatesiwenyishnaan
+2+waawaatesi+NA+Con+Pej+1+Pl	giwaawaatesiwenyishnaa
+
+2+waawaatesi+NA+Con+Pej+2+Pl	giwaawaatesiwenyishwaa
+
+2+waawaatesi+NA+Dim+Pej+1+Pl	giwaawaatesiwensishnaan
+2+waawaatesi+NA+Dim+Pej+1+Pl	giwaawaatesiwensishnaa
+
+2+waawaatesi+NA+Dim+Pej+2+Pl	giwaawaatesiwensishwaa
+
+3+waawaatesi+NA+Con+Pej+3+4	owaawaatesiwenyishniw
+
+3+waawaatesi+NA+Dim+Pej+3+4	owaawaatesiwensishniw
+
+1+waawaatesi+NA+Con+Pej+Prt	niwaawaatesiwenyishiban
+1+waawaatesi+NA+Con+Pej+Prt	niwaawaatesiwenyishiba
+
+1+waawaatesi+NA+Con+Pej+Voc+Pl	niwaawaatesiwenyishdig
+
+1+waawaatesi+NA+Dim+Pej+Prt	niwaawaatesiwensishiban
+1+waawaatesi+NA+Dim+Pej+Prt	niwaawaatesiwensishiba
+
+1+waawaatesi+NA+Dim+Pej+Voc+Pl	niwaawaatesiwensishdig
+
+2+waawaatesi+NA+Con+Pej+Prt	giwaawaatesiwenyishiban
+2+waawaatesi+NA+Con+Pej+Prt	giwaawaatesiwenyishiba
+
+2+waawaatesi+NA+Con+Pej+Voc+Pl	giwaawaatesiwenyishdig
+
+2+waawaatesi+NA+Dim+Pej+Prt	giwaawaatesiwensishiban
+2+waawaatesi+NA+Dim+Pej+Prt	giwaawaatesiwensishiba
+
+2+waawaatesi+NA+Dim+Pej+Voc+Pl	giwaawaatesiwensishdig
+
+X+waawaatesi+NA+Con+Pej+Prt	iwaawaatesiwenyishiban
+X+waawaatesi+NA+Con+Pej+Prt	iwaawaatesiwenyishiba
+
+X+waawaatesi+NA+Con+Pej+Voc+Pl	iwaawaatesiwenyishdig
+
+X+waawaatesi+NA+Dim+Pej+Prt	iwaawaatesiwensishiban
+X+waawaatesi+NA+Dim+Pej+Prt	iwaawaatesiwensishiba
+
+X+waawaatesi+NA+Dim+Pej+Voc+Pl	iwaawaatesiwensishdig
+
+1+waawaatesi+NA+Con+Pej+4	niwaawaatesiwenyishan
+
+1+waawaatesi+NA+Con+Pej+Loc	niwaawaatesiwenyishing
+
+1+waawaatesi+NA+Con+Pej+Pl	niwaawaatesiwenyishag
+
+1+waawaatesi+NA+Dim+Pej+4	niwaawaatesiwensishan
+
+1+waawaatesi+NA+Dim+Pej+Loc	niwaawaatesiwensishing
+
+1+waawaatesi+NA+Dim+Pej+Pl	niwaawaatesiwensishag
+
+2+waawaatesi+NA+Con+Pej+4	giwaawaatesiwenyishan
+
+2+waawaatesi+NA+Con+Pej+Loc	giwaawaatesiwenyishing
+
+2+waawaatesi+NA+Con+Pej+Pl	giwaawaatesiwenyishag
+
+2+waawaatesi+NA+Dim+Pej+4	giwaawaatesiwensishan
+
+2+waawaatesi+NA+Dim+Pej+Loc	giwaawaatesiwensishing
+
+2+waawaatesi+NA+Dim+Pej+Pl	giwaawaatesiwensishag
+
+3+waawaatesi+NA+Con+Pej+4	owaawaatesiwenyishan
+
+3+waawaatesi+NA+Con+Pej+Loc	owaawaatesiwenyishing
+
+3+waawaatesi+NA+Dim+Pej+4	owaawaatesiwensishan
+
+3+waawaatesi+NA+Dim+Pej+Loc	owaawaatesiwensishing
+
+X+waawaatesi+NA+Con+Pej+4	iwaawaatesiwenyishan
+
+X+waawaatesi+NA+Con+Pej+Loc	iwaawaatesiwenyishing
+
+X+waawaatesi+NA+Con+Pej+Pl	iwaawaatesiwenyishag
+
+X+waawaatesi+NA+Dim+Pej+4	iwaawaatesiwensishan
+
+X+waawaatesi+NA+Dim+Pej+Loc	iwaawaatesiwensishing
+
+X+waawaatesi+NA+Dim+Pej+Pl	iwaawaatesiwensishag
+
+1+waawaatesi+NA+Con+1+Pl+Prt	niwaawaatesiwenynaaniban
+1+waawaatesi+NA+Con+1+Pl+Prt	niwaawaatesiwenynaaniba
+
+1+waawaatesi+NA+Con+1+Pl+Voc+Pl	niwaawaatesiwenynaany1dig
+
+1+waawaatesi+NA+Dim+1+Pl+Prt	niwaawaatesiwensnaaniban
+1+waawaatesi+NA+Dim+1+Pl+Prt	niwaawaatesiwensnaaniba
+
+1+waawaatesi+NA+Dim+1+Pl+Voc+Pl	niwaawaatesiwensnaany1dig
+
+2+waawaatesi+NA+Con+1+Pl+Prt	giwaawaatesiwenynaaniban
+2+waawaatesi+NA+Con+1+Pl+Prt	giwaawaatesiwenynaaniba
+
+2+waawaatesi+NA+Con+1+Pl+Voc+Pl	giwaawaatesiwenynaany1dig
+
+2+waawaatesi+NA+Con+2+Pl+Prt	giwaawaatesiwenywaaban
+2+waawaatesi+NA+Con+2+Pl+Prt	giwaawaatesiwenywaaba
+
+2+waawaatesi+NA+Con+2+Pl+Voc+Pl	giwaawaatesiwenywaadig
+
+2+waawaatesi+NA+Dim+1+Pl+Prt	giwaawaatesiwensnaaniban
+2+waawaatesi+NA+Dim+1+Pl+Prt	giwaawaatesiwensnaaniba
+
+2+waawaatesi+NA+Dim+1+Pl+Voc+Pl	giwaawaatesiwensnaany1dig
+
+2+waawaatesi+NA+Dim+2+Pl+Prt	giwaawaatesiwenswaaban
+2+waawaatesi+NA+Dim+2+Pl+Prt	giwaawaatesiwenswaaba
+
+2+waawaatesi+NA+Dim+2+Pl+Voc+Pl	giwaawaatesiwenswaadig
+
+3+waawaatesi+NA+Con+3+4+Prt	owaawaatesiwenyniwiban
+3+waawaatesi+NA+Con+3+4+Prt	owaawaatesiwenyniwiba
+3+waawaatesi+NA+Con+3+4+Prt	owaawaatesiwenyniiban
+3+waawaatesi+NA+Con+3+4+Prt	owaawaatesiwenyniiba
+
+3+waawaatesi+NA+Dim+3+4+Prt	owaawaatesiwensniwiban
+3+waawaatesi+NA+Dim+3+4+Prt	owaawaatesiwensniwiba
+3+waawaatesi+NA+Dim+3+4+Prt	owaawaatesiwensniiban
+3+waawaatesi+NA+Dim+3+4+Prt	owaawaatesiwensniiba
+
+1+waawaatesi+NA+Con+1+Pl+4	niwaawaatesiwenynaanin
+
+1+waawaatesi+NA+Con+1+Pl+Loc	niwaawaatesiwenynaaning
+
+1+waawaatesi+NA+Con+1+Pl+Pl	niwaawaatesiwenynaany1ag
+
+1+waawaatesi+NA+Dim+1+Pl+4	niwaawaatesiwensnaanin
+
+1+waawaatesi+NA+Dim+1+Pl+Loc	niwaawaatesiwensnaaning
+
+1+waawaatesi+NA+Dim+1+Pl+Pl	niwaawaatesiwensnaany1ag
+
+2+waawaatesi+NA+Con+1+Pl+4	giwaawaatesiwenynaanin
+
+2+waawaatesi+NA+Con+1+Pl+Loc	giwaawaatesiwenynaaning
+
+2+waawaatesi+NA+Con+1+Pl+Pl	giwaawaatesiwenynaany1ag
+
+2+waawaatesi+NA+Con+2+Pl+4	giwaawaatesiwenywaan
+
+2+waawaatesi+NA+Con+2+Pl+Loc	giwaawaatesiwenywaang
+
+2+waawaatesi+NA+Con+2+Pl+Pl	giwaawaatesiwenywaaag
+
+2+waawaatesi+NA+Dim+1+Pl+4	giwaawaatesiwensnaanin
+
+2+waawaatesi+NA+Dim+1+Pl+Loc	giwaawaatesiwensnaaning
+
+2+waawaatesi+NA+Dim+1+Pl+Pl	giwaawaatesiwensnaany1ag
+
+2+waawaatesi+NA+Dim+2+Pl+4	giwaawaatesiwenswaan
+
+2+waawaatesi+NA+Dim+2+Pl+Loc	giwaawaatesiwenswaang
+
+2+waawaatesi+NA+Dim+2+Pl+Pl	giwaawaatesiwenswaaag
+
+3+waawaatesi+NA+Con+2+Pl+4	owaawaatesiwenywaan
+
+3+waawaatesi+NA+Con+2+Pl+Loc	owaawaatesiwenywaang
+
+3+waawaatesi+NA+Con+3+4+4	owaawaatesiwenyniwan
+
+3+waawaatesi+NA+Con+3+4+Loc	owaawaatesiwenyniing
+
+3+waawaatesi+NA+Dim+2+Pl+4	owaawaatesiwenswaan
+
+3+waawaatesi+NA+Dim+2+Pl+Loc	owaawaatesiwenswaang
+
+3+waawaatesi+NA+Dim+3+4+4	owaawaatesiwensniwan
+
+3+waawaatesi+NA+Dim+3+4+Loc	owaawaatesiwensniing
+
+1+waawaatesi+NA+Con+Prt+4	niwaawaatesiwenyibaniin
+
+1+waawaatesi+NA+Con+Prt+Loc	niwaawaatesiwenyibaniing
+
+1+waawaatesi+NA+Con+Prt+Pl	niwaawaatesiwenyibani1ag
+
+1+waawaatesi+NA+Dim+Prt+4	niwaawaatesiwensibaniin
+
+1+waawaatesi+NA+Dim+Prt+Loc	niwaawaatesiwensibaniing
+
+1+waawaatesi+NA+Dim+Prt+Pl	niwaawaatesiwensibani1ag
+
+2+waawaatesi+NA+Con+Prt+4	giwaawaatesiwenyibaniin
+
+2+waawaatesi+NA+Con+Prt+Loc	giwaawaatesiwenyibaniing
+
+2+waawaatesi+NA+Con+Prt+Pl	giwaawaatesiwenyibani1ag
+
+2+waawaatesi+NA+Dim+Prt+4	giwaawaatesiwensibaniin
+
+2+waawaatesi+NA+Dim+Prt+Loc	giwaawaatesiwensibaniing
+
+2+waawaatesi+NA+Dim+Prt+Pl	giwaawaatesiwensibani1ag
+
+3+waawaatesi+NA+Con+Prt+4	owaawaatesiwenyibaniin
+
+3+waawaatesi+NA+Con+Prt+Loc	owaawaatesiwenyibaniing
+
+3+waawaatesi+NA+Dim+Prt+4	owaawaatesiwensibaniin
+
+3+waawaatesi+NA+Dim+Prt+Loc	owaawaatesiwensibaniing
+
+X+waawaatesi+NA+Con+Prt+4	iwaawaatesiwenyibaniin
+
+X+waawaatesi+NA+Con+Prt+Loc	iwaawaatesiwenyibaniing
+
+X+waawaatesi+NA+Con+Prt+Pl	iwaawaatesiwenyibani1ag
+
+X+waawaatesi+NA+Dim+Prt+4	iwaawaatesiwensibaniin
+
+X+waawaatesi+NA+Dim+Prt+Loc	iwaawaatesiwensibaniing
+
+X+waawaatesi+NA+Dim+Prt+Pl	iwaawaatesiwensibani1ag
+
+1+waawaatesi+NA+ThmPos+Pej+1+Pl	niwaawaatesiwmishnaan
+1+waawaatesi+NA+ThmPos+Pej+1+Pl	niwaawaatesiwmishnaa
+
+2+waawaatesi+NA+ThmPos+Pej+1+Pl	giwaawaatesiwmishnaan
+2+waawaatesi+NA+ThmPos+Pej+1+Pl	giwaawaatesiwmishnaa
+
+2+waawaatesi+NA+ThmPos+Pej+2+Pl	giwaawaatesiwmishwaa
+
+3+waawaatesi+NA+ThmPos+Pej+3+4	owaawaatesiwmishniw
+
+1+waawaatesi+NA+ThmPos+Pej+Prt	niwaawaatesiwmishiban
+1+waawaatesi+NA+ThmPos+Pej+Prt	niwaawaatesiwmishiba
+
+1+waawaatesi+NA+ThmPos+Pej+Voc+Pl	niwaawaatesiwmishdig
+
+2+waawaatesi+NA+ThmPos+Pej+Prt	giwaawaatesiwmishiban
+2+waawaatesi+NA+ThmPos+Pej+Prt	giwaawaatesiwmishiba
+
+2+waawaatesi+NA+ThmPos+Pej+Voc+Pl	giwaawaatesiwmishdig
+
+X+waawaatesi+NA+ThmPos+Pej+Prt	iwaawaatesiwmishiban
+X+waawaatesi+NA+ThmPos+Pej+Prt	iwaawaatesiwmishiba
+
+X+waawaatesi+NA+ThmPos+Pej+Voc+Pl	iwaawaatesiwmishdig
+
+1+waawaatesi+NA+ThmPos+Pej+4	niwaawaatesiwmishan
+
+1+waawaatesi+NA+ThmPos+Pej+Loc	niwaawaatesiwmishing
+
+1+waawaatesi+NA+ThmPos+Pej+Pl	niwaawaatesiwmishag
+
+2+waawaatesi+NA+ThmPos+Pej+4	giwaawaatesiwmishan
+
+2+waawaatesi+NA+ThmPos+Pej+Loc	giwaawaatesiwmishing
+
+2+waawaatesi+NA+ThmPos+Pej+Pl	giwaawaatesiwmishag
+
+3+waawaatesi+NA+ThmPos+Pej+4	owaawaatesiwmishan
+
+3+waawaatesi+NA+ThmPos+Pej+Loc	owaawaatesiwmishing
+
+X+waawaatesi+NA+ThmPos+Pej+4	iwaawaatesiwmishan
+
+X+waawaatesi+NA+ThmPos+Pej+Loc	iwaawaatesiwmishing
+
+X+waawaatesi+NA+ThmPos+Pej+Pl	iwaawaatesiwmishag
+
+1+waawaatesi+NA+ThmPos+1+Pl+Prt	niwaawaatesiwmnaaniban
+1+waawaatesi+NA+ThmPos+1+Pl+Prt	niwaawaatesiwmnaaniba
+
+1+waawaatesi+NA+ThmPos+1+Pl+Voc+Pl	niwaawaatesiwmnaany1dig
+
+2+waawaatesi+NA+ThmPos+1+Pl+Prt	giwaawaatesiwmnaaniban
+2+waawaatesi+NA+ThmPos+1+Pl+Prt	giwaawaatesiwmnaaniba
+
+2+waawaatesi+NA+ThmPos+1+Pl+Voc+Pl	giwaawaatesiwmnaany1dig
+
+2+waawaatesi+NA+ThmPos+2+Pl+Prt	giwaawaatesiwmwaaban
+2+waawaatesi+NA+ThmPos+2+Pl+Prt	giwaawaatesiwmwaaba
+
+2+waawaatesi+NA+ThmPos+2+Pl+Voc+Pl	giwaawaatesiwmwaadig
+
+3+waawaatesi+NA+ThmPos+3+4+Prt	owaawaatesiwmniwiban
+3+waawaatesi+NA+ThmPos+3+4+Prt	owaawaatesiwmniwiba
+3+waawaatesi+NA+ThmPos+3+4+Prt	owaawaatesiwmniiban
+3+waawaatesi+NA+ThmPos+3+4+Prt	owaawaatesiwmniiba
+
+1+waawaatesi+NA+ThmPos+1+Pl+4	niwaawaatesiwmnaanin
+
+1+waawaatesi+NA+ThmPos+1+Pl+Loc	niwaawaatesiwmnaaning
+
+1+waawaatesi+NA+ThmPos+1+Pl+Pl	niwaawaatesiwmnaany1ag
+
+2+waawaatesi+NA+ThmPos+1+Pl+4	giwaawaatesiwmnaanin
+
+2+waawaatesi+NA+ThmPos+1+Pl+Loc	giwaawaatesiwmnaaning
+
+2+waawaatesi+NA+ThmPos+1+Pl+Pl	giwaawaatesiwmnaany1ag
+
+2+waawaatesi+NA+ThmPos+2+Pl+4	giwaawaatesiwmwaan
+
+2+waawaatesi+NA+ThmPos+2+Pl+Loc	giwaawaatesiwmwaang
+
+2+waawaatesi+NA+ThmPos+2+Pl+Pl	giwaawaatesiwmwaaag
+
+3+waawaatesi+NA+ThmPos+2+Pl+4	owaawaatesiwmwaan
+
+3+waawaatesi+NA+ThmPos+2+Pl+Loc	owaawaatesiwmwaang
+
+3+waawaatesi+NA+ThmPos+3+4+4	owaawaatesiwmniwan
+
+3+waawaatesi+NA+ThmPos+3+4+Loc	owaawaatesiwmniing
+
+1+waawaatesi+NA+ThmPos+Prt+4	niwaawaatesiwmibaniin
+
+1+waawaatesi+NA+ThmPos+Prt+Loc	niwaawaatesiwmibaniing
+
+1+waawaatesi+NA+ThmPos+Prt+Pl	niwaawaatesiwmibani1ag
+
+2+waawaatesi+NA+ThmPos+Prt+4	giwaawaatesiwmibaniin
+
+2+waawaatesi+NA+ThmPos+Prt+Loc	giwaawaatesiwmibaniing
+
+2+waawaatesi+NA+ThmPos+Prt+Pl	giwaawaatesiwmibani1ag
+
+3+waawaatesi+NA+ThmPos+Prt+4	owaawaatesiwmibaniin
+
+3+waawaatesi+NA+ThmPos+Prt+Loc	owaawaatesiwmibaniing
+
+X+waawaatesi+NA+ThmPos+Prt+4	iwaawaatesiwmibaniin
+
+X+waawaatesi+NA+ThmPos+Prt+Loc	iwaawaatesiwmibaniing
+
+X+waawaatesi+NA+ThmPos+Prt+Pl	iwaawaatesiwmibani1ag
+
+1+waawaatesi+NA+Pej+1+Pl+Prt	niwaawaatesiwshnaaniban
+1+waawaatesi+NA+Pej+1+Pl+Prt	niwaawaatesiwshnaaniba
+
+1+waawaatesi+NA+Pej+1+Pl+Voc+Pl	niwaawaatesiwshnaany1dig
+
+2+waawaatesi+NA+Pej+1+Pl+Prt	giwaawaatesiwshnaaniban
+2+waawaatesi+NA+Pej+1+Pl+Prt	giwaawaatesiwshnaaniba
+
+2+waawaatesi+NA+Pej+1+Pl+Voc+Pl	giwaawaatesiwshnaany1dig
+
+2+waawaatesi+NA+Pej+2+Pl+Prt	giwaawaatesiwshwaaban
+2+waawaatesi+NA+Pej+2+Pl+Prt	giwaawaatesiwshwaaba
+
+2+waawaatesi+NA+Pej+2+Pl+Voc+Pl	giwaawaatesiwshwaadig
+
+3+waawaatesi+NA+Pej+3+4+Prt	owaawaatesiwshniwiban
+3+waawaatesi+NA+Pej+3+4+Prt	owaawaatesiwshniwiba
+3+waawaatesi+NA+Pej+3+4+Prt	owaawaatesiwshniiban
+3+waawaatesi+NA+Pej+3+4+Prt	owaawaatesiwshniiba
+
+1+waawaatesi+NA+Pej+1+Pl+4	niwaawaatesiwshnaanin
+
+1+waawaatesi+NA+Pej+1+Pl+Loc	niwaawaatesiwshnaaning
+
+1+waawaatesi+NA+Pej+1+Pl+Pl	niwaawaatesiwshnaany1ag
+
+2+waawaatesi+NA+Pej+1+Pl+4	giwaawaatesiwshnaanin
+
+2+waawaatesi+NA+Pej+1+Pl+Loc	giwaawaatesiwshnaaning
+
+2+waawaatesi+NA+Pej+1+Pl+Pl	giwaawaatesiwshnaany1ag
+
+2+waawaatesi+NA+Pej+2+Pl+4	giwaawaatesiwshwaan
+
+2+waawaatesi+NA+Pej+2+Pl+Loc	giwaawaatesiwshwaang
+
+2+waawaatesi+NA+Pej+2+Pl+Pl	giwaawaatesiwshwaaag
+
+3+waawaatesi+NA+Pej+2+Pl+4	owaawaatesiwshwaan
+
+3+waawaatesi+NA+Pej+2+Pl+Loc	owaawaatesiwshwaang
+
+3+waawaatesi+NA+Pej+3+4+4	owaawaatesiwshniwan
+
+3+waawaatesi+NA+Pej+3+4+Loc	owaawaatesiwshniing
+
+1+waawaatesi+NA+Pej+Prt+4	niwaawaatesiwshibaniin
+
+1+waawaatesi+NA+Pej+Prt+Loc	niwaawaatesiwshibaniing
+
+1+waawaatesi+NA+Pej+Prt+Pl	niwaawaatesiwshibani1ag
+
+2+waawaatesi+NA+Pej+Prt+4	giwaawaatesiwshibaniin
+
+2+waawaatesi+NA+Pej+Prt+Loc	giwaawaatesiwshibaniing
+
+2+waawaatesi+NA+Pej+Prt+Pl	giwaawaatesiwshibani1ag
+
+3+waawaatesi+NA+Pej+Prt+4	owaawaatesiwshibaniin
+
+3+waawaatesi+NA+Pej+Prt+Loc	owaawaatesiwshibaniing
+
+X+waawaatesi+NA+Pej+Prt+4	iwaawaatesiwshibaniin
+
+X+waawaatesi+NA+Pej+Prt+Loc	iwaawaatesiwshibaniing
+
+X+waawaatesi+NA+Pej+Prt+Pl	iwaawaatesiwshibani1ag
+
+1+waawaatesi+NA+1+Pl+Prt+4	niwaawaatesiwnaanibaniin
+
+1+waawaatesi+NA+1+Pl+Prt+Loc	niwaawaatesiwnaanibaniing
+
+1+waawaatesi+NA+1+Pl+Prt+Pl	niwaawaatesiwnaanibani1ag
+
+2+waawaatesi+NA+1+Pl+Prt+4	giwaawaatesiwnaanibaniin
+
+2+waawaatesi+NA+1+Pl+Prt+Loc	giwaawaatesiwnaanibaniing
+
+2+waawaatesi+NA+1+Pl+Prt+Pl	giwaawaatesiwnaanibani1ag
+
+2+waawaatesi+NA+2+Pl+Prt+4	giwaawaatesiwwaabaniin
+
+2+waawaatesi+NA+2+Pl+Prt+Loc	giwaawaatesiwwaabaniing
+
+2+waawaatesi+NA+2+Pl+Prt+Pl	giwaawaatesiwwaabani1ag
+
+3+waawaatesi+NA+2+Pl+Prt+4	owaawaatesiwwaabaniin
+
+3+waawaatesi+NA+2+Pl+Prt+Loc	owaawaatesiwwaabaniing
+
+3+waawaatesi+NA+3+4+Prt+4	owaawaatesiwniwibaniin
+3+waawaatesi+NA+3+4+Prt+4	owaawaatesiwniibaniin
+
+3+waawaatesi+NA+3+4+Prt+Loc	owaawaatesiwniwibaniing
+3+waawaatesi+NA+3+4+Prt+Loc	owaawaatesiwniibaniing
+
+waawaatesi+NA+Con+Pej+Prt+4	waawaatesiwenyishibaniin
+
+waawaatesi+NA+Con+Pej+Prt+Loc	waawaatesiwenyishibaniing
+
+waawaatesi+NA+Con+Pej+Prt+Pl	waawaatesiwenyishibani1ag
+
+waawaatesi+NA+Dim+Pej+Prt+4	waawaatesiwensishibaniin
+
+waawaatesi+NA+Dim+Pej+Prt+Loc	waawaatesiwensishibaniing
+
+waawaatesi+NA+Dim+Pej+Prt+Pl	waawaatesiwensishibani1ag
+
+1+waawaatesi+NA+Con+ThmPos+Pej+1+Pl	niwaawaatesiwenymishnaan
+1+waawaatesi+NA+Con+ThmPos+Pej+1+Pl	niwaawaatesiwenymishnaa
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl	niwaawaatesiwensmishnaan
+1+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl	niwaawaatesiwensmishnaa
+
+2+waawaatesi+NA+Con+ThmPos+Pej+1+Pl	giwaawaatesiwenymishnaan
+2+waawaatesi+NA+Con+ThmPos+Pej+1+Pl	giwaawaatesiwenymishnaa
+
+2+waawaatesi+NA+Con+ThmPos+Pej+2+Pl	giwaawaatesiwenymishwaa
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl	giwaawaatesiwensmishnaan
+2+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl	giwaawaatesiwensmishnaa
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl	giwaawaatesiwensmishwaa
+
+3+waawaatesi+NA+Con+ThmPos+Pej+3+4	owaawaatesiwenymishniw
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+3+4	owaawaatesiwensmishniw
+
+1+waawaatesi+NA+Con+ThmPos+Pej+Prt	niwaawaatesiwenymishiban
+1+waawaatesi+NA+Con+ThmPos+Pej+Prt	niwaawaatesiwenymishiba
+
+1+waawaatesi+NA+Con+ThmPos+Pej+Voc+Pl	niwaawaatesiwenymishdig
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+Prt	niwaawaatesiwensmishiban
+1+waawaatesi+NA+Dim+ThmPos+Pej+Prt	niwaawaatesiwensmishiba
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+Voc+Pl	niwaawaatesiwensmishdig
+
+2+waawaatesi+NA+Con+ThmPos+Pej+Prt	giwaawaatesiwenymishiban
+2+waawaatesi+NA+Con+ThmPos+Pej+Prt	giwaawaatesiwenymishiba
+
+2+waawaatesi+NA+Con+ThmPos+Pej+Voc+Pl	giwaawaatesiwenymishdig
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+Prt	giwaawaatesiwensmishiban
+2+waawaatesi+NA+Dim+ThmPos+Pej+Prt	giwaawaatesiwensmishiba
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+Voc+Pl	giwaawaatesiwensmishdig
+
+X+waawaatesi+NA+Con+ThmPos+Pej+Prt	iwaawaatesiwenymishiban
+X+waawaatesi+NA+Con+ThmPos+Pej+Prt	iwaawaatesiwenymishiba
+
+X+waawaatesi+NA+Con+ThmPos+Pej+Voc+Pl	iwaawaatesiwenymishdig
+
+X+waawaatesi+NA+Dim+ThmPos+Pej+Prt	iwaawaatesiwensmishiban
+X+waawaatesi+NA+Dim+ThmPos+Pej+Prt	iwaawaatesiwensmishiba
+
+X+waawaatesi+NA+Dim+ThmPos+Pej+Voc+Pl	iwaawaatesiwensmishdig
+
+1+waawaatesi+NA+Con+ThmPos+Pej+4	niwaawaatesiwenymishan
+
+1+waawaatesi+NA+Con+ThmPos+Pej+Loc	niwaawaatesiwenymishing
+
+1+waawaatesi+NA+Con+ThmPos+Pej+Pl	niwaawaatesiwenymishag
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+4	niwaawaatesiwensmishan
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+Loc	niwaawaatesiwensmishing
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+Pl	niwaawaatesiwensmishag
+
+2+waawaatesi+NA+Con+ThmPos+Pej+4	giwaawaatesiwenymishan
+
+2+waawaatesi+NA+Con+ThmPos+Pej+Loc	giwaawaatesiwenymishing
+
+2+waawaatesi+NA+Con+ThmPos+Pej+Pl	giwaawaatesiwenymishag
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+4	giwaawaatesiwensmishan
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+Loc	giwaawaatesiwensmishing
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+Pl	giwaawaatesiwensmishag
+
+3+waawaatesi+NA+Con+ThmPos+Pej+4	owaawaatesiwenymishan
+
+3+waawaatesi+NA+Con+ThmPos+Pej+Loc	owaawaatesiwenymishing
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+4	owaawaatesiwensmishan
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+Loc	owaawaatesiwensmishing
+
+X+waawaatesi+NA+Con+ThmPos+Pej+4	iwaawaatesiwenymishan
+
+X+waawaatesi+NA+Con+ThmPos+Pej+Loc	iwaawaatesiwenymishing
+
+X+waawaatesi+NA+Con+ThmPos+Pej+Pl	iwaawaatesiwenymishag
+
+X+waawaatesi+NA+Dim+ThmPos+Pej+4	iwaawaatesiwensmishan
+
+X+waawaatesi+NA+Dim+ThmPos+Pej+Loc	iwaawaatesiwensmishing
+
+X+waawaatesi+NA+Dim+ThmPos+Pej+Pl	iwaawaatesiwensmishag
+
+1+waawaatesi+NA+Con+ThmPos+1+Pl+Prt	niwaawaatesiwenymnaaniban
+1+waawaatesi+NA+Con+ThmPos+1+Pl+Prt	niwaawaatesiwenymnaaniba
+
+1+waawaatesi+NA+Con+ThmPos+1+Pl+Voc+Pl	niwaawaatesiwenymnaany1dig
+
+1+waawaatesi+NA+Dim+ThmPos+1+Pl+Prt	niwaawaatesiwensmnaaniban
+1+waawaatesi+NA+Dim+ThmPos+1+Pl+Prt	niwaawaatesiwensmnaaniba
+
+1+waawaatesi+NA+Dim+ThmPos+1+Pl+Voc+Pl	niwaawaatesiwensmnaany1dig
+
+2+waawaatesi+NA+Con+ThmPos+1+Pl+Prt	giwaawaatesiwenymnaaniban
+2+waawaatesi+NA+Con+ThmPos+1+Pl+Prt	giwaawaatesiwenymnaaniba
+
+2+waawaatesi+NA+Con+ThmPos+1+Pl+Voc+Pl	giwaawaatesiwenymnaany1dig
+
+2+waawaatesi+NA+Con+ThmPos+2+Pl+Prt	giwaawaatesiwenymwaaban
+2+waawaatesi+NA+Con+ThmPos+2+Pl+Prt	giwaawaatesiwenymwaaba
+
+2+waawaatesi+NA+Con+ThmPos+2+Pl+Voc+Pl	giwaawaatesiwenymwaadig
+
+2+waawaatesi+NA+Dim+ThmPos+1+Pl+Prt	giwaawaatesiwensmnaaniban
+2+waawaatesi+NA+Dim+ThmPos+1+Pl+Prt	giwaawaatesiwensmnaaniba
+
+2+waawaatesi+NA+Dim+ThmPos+1+Pl+Voc+Pl	giwaawaatesiwensmnaany1dig
+
+2+waawaatesi+NA+Dim+ThmPos+2+Pl+Prt	giwaawaatesiwensmwaaban
+2+waawaatesi+NA+Dim+ThmPos+2+Pl+Prt	giwaawaatesiwensmwaaba
+
+2+waawaatesi+NA+Dim+ThmPos+2+Pl+Voc+Pl	giwaawaatesiwensmwaadig
+
+3+waawaatesi+NA+Con+ThmPos+3+4+Prt	owaawaatesiwenymniwiban
+3+waawaatesi+NA+Con+ThmPos+3+4+Prt	owaawaatesiwenymniwiba
+3+waawaatesi+NA+Con+ThmPos+3+4+Prt	owaawaatesiwenymniiban
+3+waawaatesi+NA+Con+ThmPos+3+4+Prt	owaawaatesiwenymniiba
+
+3+waawaatesi+NA+Dim+ThmPos+3+4+Prt	owaawaatesiwensmniwiban
+3+waawaatesi+NA+Dim+ThmPos+3+4+Prt	owaawaatesiwensmniwiba
+3+waawaatesi+NA+Dim+ThmPos+3+4+Prt	owaawaatesiwensmniiban
+3+waawaatesi+NA+Dim+ThmPos+3+4+Prt	owaawaatesiwensmniiba
+
+1+waawaatesi+NA+Con+ThmPos+1+Pl+4	niwaawaatesiwenymnaanin
+
+1+waawaatesi+NA+Con+ThmPos+1+Pl+Loc	niwaawaatesiwenymnaaning
+
+1+waawaatesi+NA+Con+ThmPos+1+Pl+Pl	niwaawaatesiwenymnaany1ag
+
+1+waawaatesi+NA+Dim+ThmPos+1+Pl+4	niwaawaatesiwensmnaanin
+
+1+waawaatesi+NA+Dim+ThmPos+1+Pl+Loc	niwaawaatesiwensmnaaning
+
+1+waawaatesi+NA+Dim+ThmPos+1+Pl+Pl	niwaawaatesiwensmnaany1ag
+
+2+waawaatesi+NA+Con+ThmPos+1+Pl+4	giwaawaatesiwenymnaanin
+
+2+waawaatesi+NA+Con+ThmPos+1+Pl+Loc	giwaawaatesiwenymnaaning
+
+2+waawaatesi+NA+Con+ThmPos+1+Pl+Pl	giwaawaatesiwenymnaany1ag
+
+2+waawaatesi+NA+Con+ThmPos+2+Pl+4	giwaawaatesiwenymwaan
+
+2+waawaatesi+NA+Con+ThmPos+2+Pl+Loc	giwaawaatesiwenymwaang
+
+2+waawaatesi+NA+Con+ThmPos+2+Pl+Pl	giwaawaatesiwenymwaaag
+
+2+waawaatesi+NA+Dim+ThmPos+1+Pl+4	giwaawaatesiwensmnaanin
+
+2+waawaatesi+NA+Dim+ThmPos+1+Pl+Loc	giwaawaatesiwensmnaaning
+
+2+waawaatesi+NA+Dim+ThmPos+1+Pl+Pl	giwaawaatesiwensmnaany1ag
+
+2+waawaatesi+NA+Dim+ThmPos+2+Pl+4	giwaawaatesiwensmwaan
+
+2+waawaatesi+NA+Dim+ThmPos+2+Pl+Loc	giwaawaatesiwensmwaang
+
+2+waawaatesi+NA+Dim+ThmPos+2+Pl+Pl	giwaawaatesiwensmwaaag
+
+3+waawaatesi+NA+Con+ThmPos+2+Pl+4	owaawaatesiwenymwaan
+
+3+waawaatesi+NA+Con+ThmPos+2+Pl+Loc	owaawaatesiwenymwaang
+
+3+waawaatesi+NA+Con+ThmPos+3+4+4	owaawaatesiwenymniwan
+
+3+waawaatesi+NA+Con+ThmPos+3+4+Loc	owaawaatesiwenymniing
+
+3+waawaatesi+NA+Dim+ThmPos+2+Pl+4	owaawaatesiwensmwaan
+
+3+waawaatesi+NA+Dim+ThmPos+2+Pl+Loc	owaawaatesiwensmwaang
+
+3+waawaatesi+NA+Dim+ThmPos+3+4+4	owaawaatesiwensmniwan
+
+3+waawaatesi+NA+Dim+ThmPos+3+4+Loc	owaawaatesiwensmniing
+
+1+waawaatesi+NA+Con+ThmPos+Prt+4	niwaawaatesiwenymibaniin
+
+1+waawaatesi+NA+Con+ThmPos+Prt+Loc	niwaawaatesiwenymibaniing
+
+1+waawaatesi+NA+Con+ThmPos+Prt+Pl	niwaawaatesiwenymibani1ag
+
+1+waawaatesi+NA+Dim+ThmPos+Prt+4	niwaawaatesiwensmibaniin
+
+1+waawaatesi+NA+Dim+ThmPos+Prt+Loc	niwaawaatesiwensmibaniing
+
+1+waawaatesi+NA+Dim+ThmPos+Prt+Pl	niwaawaatesiwensmibani1ag
+
+2+waawaatesi+NA+Con+ThmPos+Prt+4	giwaawaatesiwenymibaniin
+
+2+waawaatesi+NA+Con+ThmPos+Prt+Loc	giwaawaatesiwenymibaniing
+
+2+waawaatesi+NA+Con+ThmPos+Prt+Pl	giwaawaatesiwenymibani1ag
+
+2+waawaatesi+NA+Dim+ThmPos+Prt+4	giwaawaatesiwensmibaniin
+
+2+waawaatesi+NA+Dim+ThmPos+Prt+Loc	giwaawaatesiwensmibaniing
+
+2+waawaatesi+NA+Dim+ThmPos+Prt+Pl	giwaawaatesiwensmibani1ag
+
+3+waawaatesi+NA+Con+ThmPos+Prt+4	owaawaatesiwenymibaniin
+
+3+waawaatesi+NA+Con+ThmPos+Prt+Loc	owaawaatesiwenymibaniing
+
+3+waawaatesi+NA+Dim+ThmPos+Prt+4	owaawaatesiwensmibaniin
+
+3+waawaatesi+NA+Dim+ThmPos+Prt+Loc	owaawaatesiwensmibaniing
+
+X+waawaatesi+NA+Con+ThmPos+Prt+4	iwaawaatesiwenymibaniin
+
+X+waawaatesi+NA+Con+ThmPos+Prt+Loc	iwaawaatesiwenymibaniing
+
+X+waawaatesi+NA+Con+ThmPos+Prt+Pl	iwaawaatesiwenymibani1ag
+
+X+waawaatesi+NA+Dim+ThmPos+Prt+4	iwaawaatesiwensmibaniin
+
+X+waawaatesi+NA+Dim+ThmPos+Prt+Loc	iwaawaatesiwensmibaniing
+
+X+waawaatesi+NA+Dim+ThmPos+Prt+Pl	iwaawaatesiwensmibani1ag
+
+1+waawaatesi+NA+Con+Pej+1+Pl+Prt	niwaawaatesiwenyishnaaniban
+1+waawaatesi+NA+Con+Pej+1+Pl+Prt	niwaawaatesiwenyishnaaniba
+
+1+waawaatesi+NA+Con+Pej+1+Pl+Voc+Pl	niwaawaatesiwenyishnaany1dig
+
+1+waawaatesi+NA+Dim+Pej+1+Pl+Prt	niwaawaatesiwensishnaaniban
+1+waawaatesi+NA+Dim+Pej+1+Pl+Prt	niwaawaatesiwensishnaaniba
+
+1+waawaatesi+NA+Dim+Pej+1+Pl+Voc+Pl	niwaawaatesiwensishnaany1dig
+
+2+waawaatesi+NA+Con+Pej+1+Pl+Prt	giwaawaatesiwenyishnaaniban
+2+waawaatesi+NA+Con+Pej+1+Pl+Prt	giwaawaatesiwenyishnaaniba
+
+2+waawaatesi+NA+Con+Pej+1+Pl+Voc+Pl	giwaawaatesiwenyishnaany1dig
+
+2+waawaatesi+NA+Con+Pej+2+Pl+Prt	giwaawaatesiwenyishwaaban
+2+waawaatesi+NA+Con+Pej+2+Pl+Prt	giwaawaatesiwenyishwaaba
+
+2+waawaatesi+NA+Con+Pej+2+Pl+Voc+Pl	giwaawaatesiwenyishwaadig
+
+2+waawaatesi+NA+Dim+Pej+1+Pl+Prt	giwaawaatesiwensishnaaniban
+2+waawaatesi+NA+Dim+Pej+1+Pl+Prt	giwaawaatesiwensishnaaniba
+
+2+waawaatesi+NA+Dim+Pej+1+Pl+Voc+Pl	giwaawaatesiwensishnaany1dig
+
+2+waawaatesi+NA+Dim+Pej+2+Pl+Prt	giwaawaatesiwensishwaaban
+2+waawaatesi+NA+Dim+Pej+2+Pl+Prt	giwaawaatesiwensishwaaba
+
+2+waawaatesi+NA+Dim+Pej+2+Pl+Voc+Pl	giwaawaatesiwensishwaadig
+
+3+waawaatesi+NA+Con+Pej+3+4+Prt	owaawaatesiwenyishniwiban
+3+waawaatesi+NA+Con+Pej+3+4+Prt	owaawaatesiwenyishniwiba
+3+waawaatesi+NA+Con+Pej+3+4+Prt	owaawaatesiwenyishniiban
+3+waawaatesi+NA+Con+Pej+3+4+Prt	owaawaatesiwenyishniiba
+
+3+waawaatesi+NA+Dim+Pej+3+4+Prt	owaawaatesiwensishniwiban
+3+waawaatesi+NA+Dim+Pej+3+4+Prt	owaawaatesiwensishniwiba
+3+waawaatesi+NA+Dim+Pej+3+4+Prt	owaawaatesiwensishniiban
+3+waawaatesi+NA+Dim+Pej+3+4+Prt	owaawaatesiwensishniiba
+
+1+waawaatesi+NA+Con+Pej+1+Pl+4	niwaawaatesiwenyishnaanin
+
+1+waawaatesi+NA+Con+Pej+1+Pl+Loc	niwaawaatesiwenyishnaaning
+
+1+waawaatesi+NA+Con+Pej+1+Pl+Pl	niwaawaatesiwenyishnaany1ag
+
+1+waawaatesi+NA+Dim+Pej+1+Pl+4	niwaawaatesiwensishnaanin
+
+1+waawaatesi+NA+Dim+Pej+1+Pl+Loc	niwaawaatesiwensishnaaning
+
+1+waawaatesi+NA+Dim+Pej+1+Pl+Pl	niwaawaatesiwensishnaany1ag
+
+2+waawaatesi+NA+Con+Pej+1+Pl+4	giwaawaatesiwenyishnaanin
+
+2+waawaatesi+NA+Con+Pej+1+Pl+Loc	giwaawaatesiwenyishnaaning
+
+2+waawaatesi+NA+Con+Pej+1+Pl+Pl	giwaawaatesiwenyishnaany1ag
+
+2+waawaatesi+NA+Con+Pej+2+Pl+4	giwaawaatesiwenyishwaan
+
+2+waawaatesi+NA+Con+Pej+2+Pl+Loc	giwaawaatesiwenyishwaang
+
+2+waawaatesi+NA+Con+Pej+2+Pl+Pl	giwaawaatesiwenyishwaaag
+
+2+waawaatesi+NA+Dim+Pej+1+Pl+4	giwaawaatesiwensishnaanin
+
+2+waawaatesi+NA+Dim+Pej+1+Pl+Loc	giwaawaatesiwensishnaaning
+
+2+waawaatesi+NA+Dim+Pej+1+Pl+Pl	giwaawaatesiwensishnaany1ag
+
+2+waawaatesi+NA+Dim+Pej+2+Pl+4	giwaawaatesiwensishwaan
+
+2+waawaatesi+NA+Dim+Pej+2+Pl+Loc	giwaawaatesiwensishwaang
+
+2+waawaatesi+NA+Dim+Pej+2+Pl+Pl	giwaawaatesiwensishwaaag
+
+3+waawaatesi+NA+Con+Pej+2+Pl+4	owaawaatesiwenyishwaan
+
+3+waawaatesi+NA+Con+Pej+2+Pl+Loc	owaawaatesiwenyishwaang
+
+3+waawaatesi+NA+Con+Pej+3+4+4	owaawaatesiwenyishniwan
+
+3+waawaatesi+NA+Con+Pej+3+4+Loc	owaawaatesiwenyishniing
+
+3+waawaatesi+NA+Dim+Pej+2+Pl+4	owaawaatesiwensishwaan
+
+3+waawaatesi+NA+Dim+Pej+2+Pl+Loc	owaawaatesiwensishwaang
+
+3+waawaatesi+NA+Dim+Pej+3+4+4	owaawaatesiwensishniwan
+
+3+waawaatesi+NA+Dim+Pej+3+4+Loc	owaawaatesiwensishniing
+
+1+waawaatesi+NA+Con+Pej+Prt+4	niwaawaatesiwenyishibaniin
+
+1+waawaatesi+NA+Con+Pej+Prt+Loc	niwaawaatesiwenyishibaniing
+
+1+waawaatesi+NA+Con+Pej+Prt+Pl	niwaawaatesiwenyishibani1ag
+
+1+waawaatesi+NA+Dim+Pej+Prt+4	niwaawaatesiwensishibaniin
+
+1+waawaatesi+NA+Dim+Pej+Prt+Loc	niwaawaatesiwensishibaniing
+
+1+waawaatesi+NA+Dim+Pej+Prt+Pl	niwaawaatesiwensishibani1ag
+
+2+waawaatesi+NA+Con+Pej+Prt+4	giwaawaatesiwenyishibaniin
+
+2+waawaatesi+NA+Con+Pej+Prt+Loc	giwaawaatesiwenyishibaniing
+
+2+waawaatesi+NA+Con+Pej+Prt+Pl	giwaawaatesiwenyishibani1ag
+
+2+waawaatesi+NA+Dim+Pej+Prt+4	giwaawaatesiwensishibaniin
+
+2+waawaatesi+NA+Dim+Pej+Prt+Loc	giwaawaatesiwensishibaniing
+
+2+waawaatesi+NA+Dim+Pej+Prt+Pl	giwaawaatesiwensishibani1ag
+
+3+waawaatesi+NA+Con+Pej+Prt+4	owaawaatesiwenyishibaniin
+
+3+waawaatesi+NA+Con+Pej+Prt+Loc	owaawaatesiwenyishibaniing
+
+3+waawaatesi+NA+Dim+Pej+Prt+4	owaawaatesiwensishibaniin
+
+3+waawaatesi+NA+Dim+Pej+Prt+Loc	owaawaatesiwensishibaniing
+
+X+waawaatesi+NA+Con+Pej+Prt+4	iwaawaatesiwenyishibaniin
+
+X+waawaatesi+NA+Con+Pej+Prt+Loc	iwaawaatesiwenyishibaniing
+
+X+waawaatesi+NA+Con+Pej+Prt+Pl	iwaawaatesiwenyishibani1ag
+
+X+waawaatesi+NA+Dim+Pej+Prt+4	iwaawaatesiwensishibaniin
+
+X+waawaatesi+NA+Dim+Pej+Prt+Loc	iwaawaatesiwensishibaniing
+
+X+waawaatesi+NA+Dim+Pej+Prt+Pl	iwaawaatesiwensishibani1ag
+
+1+waawaatesi+NA+Con+1+Pl+Prt+4	niwaawaatesiwenynaanibaniin
+
+1+waawaatesi+NA+Con+1+Pl+Prt+Loc	niwaawaatesiwenynaanibaniing
+
+1+waawaatesi+NA+Con+1+Pl+Prt+Pl	niwaawaatesiwenynaanibani1ag
+
+1+waawaatesi+NA+Dim+1+Pl+Prt+4	niwaawaatesiwensnaanibaniin
+
+1+waawaatesi+NA+Dim+1+Pl+Prt+Loc	niwaawaatesiwensnaanibaniing
+
+1+waawaatesi+NA+Dim+1+Pl+Prt+Pl	niwaawaatesiwensnaanibani1ag
+
+2+waawaatesi+NA+Con+1+Pl+Prt+4	giwaawaatesiwenynaanibaniin
+
+2+waawaatesi+NA+Con+1+Pl+Prt+Loc	giwaawaatesiwenynaanibaniing
+
+2+waawaatesi+NA+Con+1+Pl+Prt+Pl	giwaawaatesiwenynaanibani1ag
+
+2+waawaatesi+NA+Con+2+Pl+Prt+4	giwaawaatesiwenywaabaniin
+
+2+waawaatesi+NA+Con+2+Pl+Prt+Loc	giwaawaatesiwenywaabaniing
+
+2+waawaatesi+NA+Con+2+Pl+Prt+Pl	giwaawaatesiwenywaabani1ag
+
+2+waawaatesi+NA+Dim+1+Pl+Prt+4	giwaawaatesiwensnaanibaniin
+
+2+waawaatesi+NA+Dim+1+Pl+Prt+Loc	giwaawaatesiwensnaanibaniing
+
+2+waawaatesi+NA+Dim+1+Pl+Prt+Pl	giwaawaatesiwensnaanibani1ag
+
+2+waawaatesi+NA+Dim+2+Pl+Prt+4	giwaawaatesiwenswaabaniin
+
+2+waawaatesi+NA+Dim+2+Pl+Prt+Loc	giwaawaatesiwenswaabaniing
+
+2+waawaatesi+NA+Dim+2+Pl+Prt+Pl	giwaawaatesiwenswaabani1ag
+
+3+waawaatesi+NA+Con+2+Pl+Prt+4	owaawaatesiwenywaabaniin
+
+3+waawaatesi+NA+Con+2+Pl+Prt+Loc	owaawaatesiwenywaabaniing
+
+3+waawaatesi+NA+Con+3+4+Prt+4	owaawaatesiwenyniwibaniin
+3+waawaatesi+NA+Con+3+4+Prt+4	owaawaatesiwenyniibaniin
+
+3+waawaatesi+NA+Con+3+4+Prt+Loc	owaawaatesiwenyniwibaniing
+3+waawaatesi+NA+Con+3+4+Prt+Loc	owaawaatesiwenyniibaniing
+
+3+waawaatesi+NA+Dim+2+Pl+Prt+4	owaawaatesiwenswaabaniin
+
+3+waawaatesi+NA+Dim+2+Pl+Prt+Loc	owaawaatesiwenswaabaniing
+
+3+waawaatesi+NA+Dim+3+4+Prt+4	owaawaatesiwensniwibaniin
+3+waawaatesi+NA+Dim+3+4+Prt+4	owaawaatesiwensniibaniin
+
+3+waawaatesi+NA+Dim+3+4+Prt+Loc	owaawaatesiwensniwibaniing
+3+waawaatesi+NA+Dim+3+4+Prt+Loc	owaawaatesiwensniibaniing
+
+1+waawaatesi+NA+ThmPos+Pej+1+Pl+Prt	niwaawaatesiwmishnaaniban
+1+waawaatesi+NA+ThmPos+Pej+1+Pl+Prt	niwaawaatesiwmishnaaniba
+
+1+waawaatesi+NA+ThmPos+Pej+1+Pl+Voc+Pl	niwaawaatesiwmishnaany1dig
+
+2+waawaatesi+NA+ThmPos+Pej+1+Pl+Prt	giwaawaatesiwmishnaaniban
+2+waawaatesi+NA+ThmPos+Pej+1+Pl+Prt	giwaawaatesiwmishnaaniba
+
+2+waawaatesi+NA+ThmPos+Pej+1+Pl+Voc+Pl	giwaawaatesiwmishnaany1dig
+
+2+waawaatesi+NA+ThmPos+Pej+2+Pl+Prt	giwaawaatesiwmishwaaban
+2+waawaatesi+NA+ThmPos+Pej+2+Pl+Prt	giwaawaatesiwmishwaaba
+
+2+waawaatesi+NA+ThmPos+Pej+2+Pl+Voc+Pl	giwaawaatesiwmishwaadig
+
+3+waawaatesi+NA+ThmPos+Pej+3+4+Prt	owaawaatesiwmishniwiban
+3+waawaatesi+NA+ThmPos+Pej+3+4+Prt	owaawaatesiwmishniwiba
+3+waawaatesi+NA+ThmPos+Pej+3+4+Prt	owaawaatesiwmishniiban
+3+waawaatesi+NA+ThmPos+Pej+3+4+Prt	owaawaatesiwmishniiba
+
+1+waawaatesi+NA+ThmPos+Pej+1+Pl+4	niwaawaatesiwmishnaanin
+
+1+waawaatesi+NA+ThmPos+Pej+1+Pl+Loc	niwaawaatesiwmishnaaning
+
+1+waawaatesi+NA+ThmPos+Pej+1+Pl+Pl	niwaawaatesiwmishnaany1ag
+
+2+waawaatesi+NA+ThmPos+Pej+1+Pl+4	giwaawaatesiwmishnaanin
+
+2+waawaatesi+NA+ThmPos+Pej+1+Pl+Loc	giwaawaatesiwmishnaaning
+
+2+waawaatesi+NA+ThmPos+Pej+1+Pl+Pl	giwaawaatesiwmishnaany1ag
+
+2+waawaatesi+NA+ThmPos+Pej+2+Pl+4	giwaawaatesiwmishwaan
+
+2+waawaatesi+NA+ThmPos+Pej+2+Pl+Loc	giwaawaatesiwmishwaang
+
+2+waawaatesi+NA+ThmPos+Pej+2+Pl+Pl	giwaawaatesiwmishwaaag
+
+3+waawaatesi+NA+ThmPos+Pej+2+Pl+4	owaawaatesiwmishwaan
+
+3+waawaatesi+NA+ThmPos+Pej+2+Pl+Loc	owaawaatesiwmishwaang
+
+3+waawaatesi+NA+ThmPos+Pej+3+4+4	owaawaatesiwmishniwan
+
+3+waawaatesi+NA+ThmPos+Pej+3+4+Loc	owaawaatesiwmishniing
+
+1+waawaatesi+NA+ThmPos+Pej+Prt+4	niwaawaatesiwmishibaniin
+
+1+waawaatesi+NA+ThmPos+Pej+Prt+Loc	niwaawaatesiwmishibaniing
+
+1+waawaatesi+NA+ThmPos+Pej+Prt+Pl	niwaawaatesiwmishibani1ag
+
+2+waawaatesi+NA+ThmPos+Pej+Prt+4	giwaawaatesiwmishibaniin
+
+2+waawaatesi+NA+ThmPos+Pej+Prt+Loc	giwaawaatesiwmishibaniing
+
+2+waawaatesi+NA+ThmPos+Pej+Prt+Pl	giwaawaatesiwmishibani1ag
+
+3+waawaatesi+NA+ThmPos+Pej+Prt+4	owaawaatesiwmishibaniin
+
+3+waawaatesi+NA+ThmPos+Pej+Prt+Loc	owaawaatesiwmishibaniing
+
+X+waawaatesi+NA+ThmPos+Pej+Prt+4	iwaawaatesiwmishibaniin
+
+X+waawaatesi+NA+ThmPos+Pej+Prt+Loc	iwaawaatesiwmishibaniing
+
+X+waawaatesi+NA+ThmPos+Pej+Prt+Pl	iwaawaatesiwmishibani1ag
+
+1+waawaatesi+NA+ThmPos+1+Pl+Prt+4	niwaawaatesiwmnaanibaniin
+
+1+waawaatesi+NA+ThmPos+1+Pl+Prt+Loc	niwaawaatesiwmnaanibaniing
+
+1+waawaatesi+NA+ThmPos+1+Pl+Prt+Pl	niwaawaatesiwmnaanibani1ag
+
+2+waawaatesi+NA+ThmPos+1+Pl+Prt+4	giwaawaatesiwmnaanibaniin
+
+2+waawaatesi+NA+ThmPos+1+Pl+Prt+Loc	giwaawaatesiwmnaanibaniing
+
+2+waawaatesi+NA+ThmPos+1+Pl+Prt+Pl	giwaawaatesiwmnaanibani1ag
+
+2+waawaatesi+NA+ThmPos+2+Pl+Prt+4	giwaawaatesiwmwaabaniin
+
+2+waawaatesi+NA+ThmPos+2+Pl+Prt+Loc	giwaawaatesiwmwaabaniing
+
+2+waawaatesi+NA+ThmPos+2+Pl+Prt+Pl	giwaawaatesiwmwaabani1ag
+
+3+waawaatesi+NA+ThmPos+2+Pl+Prt+4	owaawaatesiwmwaabaniin
+
+3+waawaatesi+NA+ThmPos+2+Pl+Prt+Loc	owaawaatesiwmwaabaniing
+
+3+waawaatesi+NA+ThmPos+3+4+Prt+4	owaawaatesiwmniwibaniin
+3+waawaatesi+NA+ThmPos+3+4+Prt+4	owaawaatesiwmniibaniin
+
+3+waawaatesi+NA+ThmPos+3+4+Prt+Loc	owaawaatesiwmniwibaniing
+3+waawaatesi+NA+ThmPos+3+4+Prt+Loc	owaawaatesiwmniibaniing
+
+1+waawaatesi+NA+Pej+1+Pl+Prt+4	niwaawaatesiwshnaanibaniin
+
+1+waawaatesi+NA+Pej+1+Pl+Prt+Loc	niwaawaatesiwshnaanibaniing
+
+1+waawaatesi+NA+Pej+1+Pl+Prt+Pl	niwaawaatesiwshnaanibani1ag
+
+2+waawaatesi+NA+Pej+1+Pl+Prt+4	giwaawaatesiwshnaanibaniin
+
+2+waawaatesi+NA+Pej+1+Pl+Prt+Loc	giwaawaatesiwshnaanibaniing
+
+2+waawaatesi+NA+Pej+1+Pl+Prt+Pl	giwaawaatesiwshnaanibani1ag
+
+2+waawaatesi+NA+Pej+2+Pl+Prt+4	giwaawaatesiwshwaabaniin
+
+2+waawaatesi+NA+Pej+2+Pl+Prt+Loc	giwaawaatesiwshwaabaniing
+
+2+waawaatesi+NA+Pej+2+Pl+Prt+Pl	giwaawaatesiwshwaabani1ag
+
+3+waawaatesi+NA+Pej+2+Pl+Prt+4	owaawaatesiwshwaabaniin
+
+3+waawaatesi+NA+Pej+2+Pl+Prt+Loc	owaawaatesiwshwaabaniing
+
+3+waawaatesi+NA+Pej+3+4+Prt+4	owaawaatesiwshniwibaniin
+3+waawaatesi+NA+Pej+3+4+Prt+4	owaawaatesiwshniibaniin
+
+3+waawaatesi+NA+Pej+3+4+Prt+Loc	owaawaatesiwshniwibaniing
+3+waawaatesi+NA+Pej+3+4+Prt+Loc	owaawaatesiwshniibaniing
+
+1+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Prt	niwaawaatesiwenymishnaaniban
+1+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Prt	niwaawaatesiwenymishnaaniba
+
+1+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl	niwaawaatesiwenymishnaany1dig
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Prt	niwaawaatesiwensmishnaaniban
+1+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Prt	niwaawaatesiwensmishnaaniba
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl	niwaawaatesiwensmishnaany1dig
+
+2+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Prt	giwaawaatesiwenymishnaaniban
+2+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Prt	giwaawaatesiwenymishnaaniba
+
+2+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl	giwaawaatesiwenymishnaany1dig
+
+2+waawaatesi+NA+Con+ThmPos+Pej+2+Pl+Prt	giwaawaatesiwenymishwaaban
+2+waawaatesi+NA+Con+ThmPos+Pej+2+Pl+Prt	giwaawaatesiwenymishwaaba
+
+2+waawaatesi+NA+Con+ThmPos+Pej+2+Pl+Voc+Pl	giwaawaatesiwenymishwaadig
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Prt	giwaawaatesiwensmishnaaniban
+2+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Prt	giwaawaatesiwensmishnaaniba
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl	giwaawaatesiwensmishnaany1dig
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl+Prt	giwaawaatesiwensmishwaaban
+2+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl+Prt	giwaawaatesiwensmishwaaba
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl+Voc+Pl	giwaawaatesiwensmishwaadig
+
+3+waawaatesi+NA+Con+ThmPos+Pej+3+4+Prt	owaawaatesiwenymishniwiban
+3+waawaatesi+NA+Con+ThmPos+Pej+3+4+Prt	owaawaatesiwenymishniwiba
+3+waawaatesi+NA+Con+ThmPos+Pej+3+4+Prt	owaawaatesiwenymishniiban
+3+waawaatesi+NA+Con+ThmPos+Pej+3+4+Prt	owaawaatesiwenymishniiba
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+3+4+Prt	owaawaatesiwensmishniwiban
+3+waawaatesi+NA+Dim+ThmPos+Pej+3+4+Prt	owaawaatesiwensmishniwiba
+3+waawaatesi+NA+Dim+ThmPos+Pej+3+4+Prt	owaawaatesiwensmishniiban
+3+waawaatesi+NA+Dim+ThmPos+Pej+3+4+Prt	owaawaatesiwensmishniiba
+
+1+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+4	niwaawaatesiwenymishnaanin
+
+1+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Loc	niwaawaatesiwenymishnaaning
+
+1+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Pl	niwaawaatesiwenymishnaany1ag
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+4	niwaawaatesiwensmishnaanin
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Loc	niwaawaatesiwensmishnaaning
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Pl	niwaawaatesiwensmishnaany1ag
+
+2+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+4	giwaawaatesiwenymishnaanin
+
+2+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Loc	giwaawaatesiwenymishnaaning
+
+2+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Pl	giwaawaatesiwenymishnaany1ag
+
+2+waawaatesi+NA+Con+ThmPos+Pej+2+Pl+4	giwaawaatesiwenymishwaan
+
+2+waawaatesi+NA+Con+ThmPos+Pej+2+Pl+Loc	giwaawaatesiwenymishwaang
+
+2+waawaatesi+NA+Con+ThmPos+Pej+2+Pl+Pl	giwaawaatesiwenymishwaaag
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+4	giwaawaatesiwensmishnaanin
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Loc	giwaawaatesiwensmishnaaning
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Pl	giwaawaatesiwensmishnaany1ag
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl+4	giwaawaatesiwensmishwaan
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl+Loc	giwaawaatesiwensmishwaang
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl+Pl	giwaawaatesiwensmishwaaag
+
+3+waawaatesi+NA+Con+ThmPos+Pej+2+Pl+4	owaawaatesiwenymishwaan
+
+3+waawaatesi+NA+Con+ThmPos+Pej+2+Pl+Loc	owaawaatesiwenymishwaang
+
+3+waawaatesi+NA+Con+ThmPos+Pej+3+4+4	owaawaatesiwenymishniwan
+
+3+waawaatesi+NA+Con+ThmPos+Pej+3+4+Loc	owaawaatesiwenymishniing
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl+4	owaawaatesiwensmishwaan
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl+Loc	owaawaatesiwensmishwaang
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+3+4+4	owaawaatesiwensmishniwan
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+3+4+Loc	owaawaatesiwensmishniing
+
+1+waawaatesi+NA+Con+ThmPos+Pej+Prt+4	niwaawaatesiwenymishibaniin
+
+1+waawaatesi+NA+Con+ThmPos+Pej+Prt+Loc	niwaawaatesiwenymishibaniing
+
+1+waawaatesi+NA+Con+ThmPos+Pej+Prt+Pl	niwaawaatesiwenymishibani1ag
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+Prt+4	niwaawaatesiwensmishibaniin
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+Prt+Loc	niwaawaatesiwensmishibaniing
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+Prt+Pl	niwaawaatesiwensmishibani1ag
+
+2+waawaatesi+NA+Con+ThmPos+Pej+Prt+4	giwaawaatesiwenymishibaniin
+
+2+waawaatesi+NA+Con+ThmPos+Pej+Prt+Loc	giwaawaatesiwenymishibaniing
+
+2+waawaatesi+NA+Con+ThmPos+Pej+Prt+Pl	giwaawaatesiwenymishibani1ag
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+Prt+4	giwaawaatesiwensmishibaniin
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+Prt+Loc	giwaawaatesiwensmishibaniing
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+Prt+Pl	giwaawaatesiwensmishibani1ag
+
+3+waawaatesi+NA+Con+ThmPos+Pej+Prt+4	owaawaatesiwenymishibaniin
+
+3+waawaatesi+NA+Con+ThmPos+Pej+Prt+Loc	owaawaatesiwenymishibaniing
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+Prt+4	owaawaatesiwensmishibaniin
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+Prt+Loc	owaawaatesiwensmishibaniing
+
+X+waawaatesi+NA+Con+ThmPos+Pej+Prt+4	iwaawaatesiwenymishibaniin
+
+X+waawaatesi+NA+Con+ThmPos+Pej+Prt+Loc	iwaawaatesiwenymishibaniing
+
+X+waawaatesi+NA+Con+ThmPos+Pej+Prt+Pl	iwaawaatesiwenymishibani1ag
+
+X+waawaatesi+NA+Dim+ThmPos+Pej+Prt+4	iwaawaatesiwensmishibaniin
+
+X+waawaatesi+NA+Dim+ThmPos+Pej+Prt+Loc	iwaawaatesiwensmishibaniing
+
+X+waawaatesi+NA+Dim+ThmPos+Pej+Prt+Pl	iwaawaatesiwensmishibani1ag
+
+1+waawaatesi+NA+Con+ThmPos+1+Pl+Prt+4	niwaawaatesiwenymnaanibaniin
+
+1+waawaatesi+NA+Con+ThmPos+1+Pl+Prt+Loc	niwaawaatesiwenymnaanibaniing
+
+1+waawaatesi+NA+Con+ThmPos+1+Pl+Prt+Pl	niwaawaatesiwenymnaanibani1ag
+
+1+waawaatesi+NA+Dim+ThmPos+1+Pl+Prt+4	niwaawaatesiwensmnaanibaniin
+
+1+waawaatesi+NA+Dim+ThmPos+1+Pl+Prt+Loc	niwaawaatesiwensmnaanibaniing
+
+1+waawaatesi+NA+Dim+ThmPos+1+Pl+Prt+Pl	niwaawaatesiwensmnaanibani1ag
+
+2+waawaatesi+NA+Con+ThmPos+1+Pl+Prt+4	giwaawaatesiwenymnaanibaniin
+
+2+waawaatesi+NA+Con+ThmPos+1+Pl+Prt+Loc	giwaawaatesiwenymnaanibaniing
+
+2+waawaatesi+NA+Con+ThmPos+1+Pl+Prt+Pl	giwaawaatesiwenymnaanibani1ag
+
+2+waawaatesi+NA+Con+ThmPos+2+Pl+Prt+4	giwaawaatesiwenymwaabaniin
+
+2+waawaatesi+NA+Con+ThmPos+2+Pl+Prt+Loc	giwaawaatesiwenymwaabaniing
+
+2+waawaatesi+NA+Con+ThmPos+2+Pl+Prt+Pl	giwaawaatesiwenymwaabani1ag
+
+2+waawaatesi+NA+Dim+ThmPos+1+Pl+Prt+4	giwaawaatesiwensmnaanibaniin
+
+2+waawaatesi+NA+Dim+ThmPos+1+Pl+Prt+Loc	giwaawaatesiwensmnaanibaniing
+
+2+waawaatesi+NA+Dim+ThmPos+1+Pl+Prt+Pl	giwaawaatesiwensmnaanibani1ag
+
+2+waawaatesi+NA+Dim+ThmPos+2+Pl+Prt+4	giwaawaatesiwensmwaabaniin
+
+2+waawaatesi+NA+Dim+ThmPos+2+Pl+Prt+Loc	giwaawaatesiwensmwaabaniing
+
+2+waawaatesi+NA+Dim+ThmPos+2+Pl+Prt+Pl	giwaawaatesiwensmwaabani1ag
+
+3+waawaatesi+NA+Con+ThmPos+2+Pl+Prt+4	owaawaatesiwenymwaabaniin
+
+3+waawaatesi+NA+Con+ThmPos+2+Pl+Prt+Loc	owaawaatesiwenymwaabaniing
+
+3+waawaatesi+NA+Con+ThmPos+3+4+Prt+4	owaawaatesiwenymniwibaniin
+3+waawaatesi+NA+Con+ThmPos+3+4+Prt+4	owaawaatesiwenymniibaniin
+
+3+waawaatesi+NA+Con+ThmPos+3+4+Prt+Loc	owaawaatesiwenymniwibaniing
+3+waawaatesi+NA+Con+ThmPos+3+4+Prt+Loc	owaawaatesiwenymniibaniing
+
+3+waawaatesi+NA+Dim+ThmPos+2+Pl+Prt+4	owaawaatesiwensmwaabaniin
+
+3+waawaatesi+NA+Dim+ThmPos+2+Pl+Prt+Loc	owaawaatesiwensmwaabaniing
+
+3+waawaatesi+NA+Dim+ThmPos+3+4+Prt+4	owaawaatesiwensmniwibaniin
+3+waawaatesi+NA+Dim+ThmPos+3+4+Prt+4	owaawaatesiwensmniibaniin
+
+3+waawaatesi+NA+Dim+ThmPos+3+4+Prt+Loc	owaawaatesiwensmniwibaniing
+3+waawaatesi+NA+Dim+ThmPos+3+4+Prt+Loc	owaawaatesiwensmniibaniing
+
+1+waawaatesi+NA+Con+Pej+1+Pl+Prt+4	niwaawaatesiwenyishnaanibaniin
+
+1+waawaatesi+NA+Con+Pej+1+Pl+Prt+Loc	niwaawaatesiwenyishnaanibaniing
+
+1+waawaatesi+NA+Con+Pej+1+Pl+Prt+Pl	niwaawaatesiwenyishnaanibani1ag
+
+1+waawaatesi+NA+Dim+Pej+1+Pl+Prt+4	niwaawaatesiwensishnaanibaniin
+
+1+waawaatesi+NA+Dim+Pej+1+Pl+Prt+Loc	niwaawaatesiwensishnaanibaniing
+
+1+waawaatesi+NA+Dim+Pej+1+Pl+Prt+Pl	niwaawaatesiwensishnaanibani1ag
+
+2+waawaatesi+NA+Con+Pej+1+Pl+Prt+4	giwaawaatesiwenyishnaanibaniin
+
+2+waawaatesi+NA+Con+Pej+1+Pl+Prt+Loc	giwaawaatesiwenyishnaanibaniing
+
+2+waawaatesi+NA+Con+Pej+1+Pl+Prt+Pl	giwaawaatesiwenyishnaanibani1ag
+
+2+waawaatesi+NA+Con+Pej+2+Pl+Prt+4	giwaawaatesiwenyishwaabaniin
+
+2+waawaatesi+NA+Con+Pej+2+Pl+Prt+Loc	giwaawaatesiwenyishwaabaniing
+
+2+waawaatesi+NA+Con+Pej+2+Pl+Prt+Pl	giwaawaatesiwenyishwaabani1ag
+
+2+waawaatesi+NA+Dim+Pej+1+Pl+Prt+4	giwaawaatesiwensishnaanibaniin
+
+2+waawaatesi+NA+Dim+Pej+1+Pl+Prt+Loc	giwaawaatesiwensishnaanibaniing
+
+2+waawaatesi+NA+Dim+Pej+1+Pl+Prt+Pl	giwaawaatesiwensishnaanibani1ag
+
+2+waawaatesi+NA+Dim+Pej+2+Pl+Prt+4	giwaawaatesiwensishwaabaniin
+
+2+waawaatesi+NA+Dim+Pej+2+Pl+Prt+Loc	giwaawaatesiwensishwaabaniing
+
+2+waawaatesi+NA+Dim+Pej+2+Pl+Prt+Pl	giwaawaatesiwensishwaabani1ag
+
+3+waawaatesi+NA+Con+Pej+2+Pl+Prt+4	owaawaatesiwenyishwaabaniin
+
+3+waawaatesi+NA+Con+Pej+2+Pl+Prt+Loc	owaawaatesiwenyishwaabaniing
+
+3+waawaatesi+NA+Con+Pej+3+4+Prt+4	owaawaatesiwenyishniwibaniin
+3+waawaatesi+NA+Con+Pej+3+4+Prt+4	owaawaatesiwenyishniibaniin
+
+3+waawaatesi+NA+Con+Pej+3+4+Prt+Loc	owaawaatesiwenyishniwibaniing
+3+waawaatesi+NA+Con+Pej+3+4+Prt+Loc	owaawaatesiwenyishniibaniing
+
+3+waawaatesi+NA+Dim+Pej+2+Pl+Prt+4	owaawaatesiwensishwaabaniin
+
+3+waawaatesi+NA+Dim+Pej+2+Pl+Prt+Loc	owaawaatesiwensishwaabaniing
+
+3+waawaatesi+NA+Dim+Pej+3+4+Prt+4	owaawaatesiwensishniwibaniin
+3+waawaatesi+NA+Dim+Pej+3+4+Prt+4	owaawaatesiwensishniibaniin
+
+3+waawaatesi+NA+Dim+Pej+3+4+Prt+Loc	owaawaatesiwensishniwibaniing
+3+waawaatesi+NA+Dim+Pej+3+4+Prt+Loc	owaawaatesiwensishniibaniing
+
+1+waawaatesi+NA+ThmPos+Pej+1+Pl+Prt+4	niwaawaatesiwmishnaanibaniin
+
+1+waawaatesi+NA+ThmPos+Pej+1+Pl+Prt+Loc	niwaawaatesiwmishnaanibaniing
+
+1+waawaatesi+NA+ThmPos+Pej+1+Pl+Prt+Pl	niwaawaatesiwmishnaanibani1ag
+
+2+waawaatesi+NA+ThmPos+Pej+1+Pl+Prt+4	giwaawaatesiwmishnaanibaniin
+
+2+waawaatesi+NA+ThmPos+Pej+1+Pl+Prt+Loc	giwaawaatesiwmishnaanibaniing
+
+2+waawaatesi+NA+ThmPos+Pej+1+Pl+Prt+Pl	giwaawaatesiwmishnaanibani1ag
+
+2+waawaatesi+NA+ThmPos+Pej+2+Pl+Prt+4	giwaawaatesiwmishwaabaniin
+
+2+waawaatesi+NA+ThmPos+Pej+2+Pl+Prt+Loc	giwaawaatesiwmishwaabaniing
+
+2+waawaatesi+NA+ThmPos+Pej+2+Pl+Prt+Pl	giwaawaatesiwmishwaabani1ag
+
+3+waawaatesi+NA+ThmPos+Pej+2+Pl+Prt+4	owaawaatesiwmishwaabaniin
+
+3+waawaatesi+NA+ThmPos+Pej+2+Pl+Prt+Loc	owaawaatesiwmishwaabaniing
+
+3+waawaatesi+NA+ThmPos+Pej+3+4+Prt+4	owaawaatesiwmishniwibaniin
+3+waawaatesi+NA+ThmPos+Pej+3+4+Prt+4	owaawaatesiwmishniibaniin
+
+3+waawaatesi+NA+ThmPos+Pej+3+4+Prt+Loc	owaawaatesiwmishniwibaniing
+3+waawaatesi+NA+ThmPos+Pej+3+4+Prt+Loc	owaawaatesiwmishniibaniing
+
+1+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Prt+4	niwaawaatesiwenymishnaanibaniin
+
+1+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc	niwaawaatesiwenymishnaanibaniing
+
+1+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl	niwaawaatesiwenymishnaanibani1ag
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Prt+4	niwaawaatesiwensmishnaanibaniin
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc	niwaawaatesiwensmishnaanibaniing
+
+1+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl	niwaawaatesiwensmishnaanibani1ag
+
+2+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Prt+4	giwaawaatesiwenymishnaanibaniin
+
+2+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc	giwaawaatesiwenymishnaanibaniing
+
+2+waawaatesi+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl	giwaawaatesiwenymishnaanibani1ag
+
+2+waawaatesi+NA+Con+ThmPos+Pej+2+Pl+Prt+4	giwaawaatesiwenymishwaabaniin
+
+2+waawaatesi+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc	giwaawaatesiwenymishwaabaniing
+
+2+waawaatesi+NA+Con+ThmPos+Pej+2+Pl+Prt+Pl	giwaawaatesiwenymishwaabani1ag
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Prt+4	giwaawaatesiwensmishnaanibaniin
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc	giwaawaatesiwensmishnaanibaniing
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl	giwaawaatesiwensmishnaanibani1ag
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl+Prt+4	giwaawaatesiwensmishwaabaniin
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc	giwaawaatesiwensmishwaabaniing
+
+2+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl+Prt+Pl	giwaawaatesiwensmishwaabani1ag
+
+3+waawaatesi+NA+Con+ThmPos+Pej+2+Pl+Prt+4	owaawaatesiwenymishwaabaniin
+
+3+waawaatesi+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc	owaawaatesiwenymishwaabaniing
+
+3+waawaatesi+NA+Con+ThmPos+Pej+3+4+Prt+4	owaawaatesiwenymishniwibaniin
+3+waawaatesi+NA+Con+ThmPos+Pej+3+4+Prt+4	owaawaatesiwenymishniibaniin
+
+3+waawaatesi+NA+Con+ThmPos+Pej+3+4+Prt+Loc	owaawaatesiwenymishniwibaniing
+3+waawaatesi+NA+Con+ThmPos+Pej+3+4+Prt+Loc	owaawaatesiwenymishniibaniing
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl+Prt+4	owaawaatesiwensmishwaabaniin
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc	owaawaatesiwensmishwaabaniing
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+3+4+Prt+4	owaawaatesiwensmishniwibaniin
+3+waawaatesi+NA+Dim+ThmPos+Pej+3+4+Prt+4	owaawaatesiwensmishniibaniin
+
+3+waawaatesi+NA+Dim+ThmPos+Pej+3+4+Prt+Loc	owaawaatesiwensmishniwibaniing
+3+waawaatesi+NA+Dim+ThmPos+Pej+3+4+Prt+Loc	owaawaatesiwensmishniibaniing
+

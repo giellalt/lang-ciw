@@ -1,0 +1,39 @@
+LEXICON VERBS  ! this is looking like a gateway, but not so labeled, affixes will need to be edited too
+@D.Person@     VII ;
+@D.Person.3@   VAI ; !VAIs never take third person prefix
+               VAIO ; 
+               VTI ;
+               VTA ;
+
+! VII
+LEXICON VII
+mchaa:michaa            VII_TAG ;
+znagat:zanagad2         VII_TAG ; ! it is difficult
+niim'idim:niimihidim    VII_TAG ; ! there is a dance
+maajiigin:maajiigin     VII_TAG ;
+
+! VAI
+LEXICON VAI
+boodwe:boodawe       VAI_TAG ; ! VAIs never take third person prefix
+debwetam:debwetam    VAI_TAG ; !VAIs never take third person prefix
+gwekshin:gwekVv1shid VAI_TAG ; !VAIs never take third person prefix
+
+! VAIO
+LEXICON VAIO
+mnikwen:minikwe         VAIO_TAG ; ! Remove stem-final -n (study if lemmas should always end in -n)
+
+! VTI
+LEXICON VTI
+aabjitoon:aabajitoo     VTI_TAG ; ! Remove stem-final -n (if any)
+waabndaan:waabandam1    VTI_TAG ;
+myaawnaan:mayaawinan1   VTI_TAG ;
+bgonebdoon:bagonebidoon VTI_TAG ;
+
+! VTA
+LEXICON VTA
+noondwaa:noondaw    VTA_TAG;
+aabnaa:aabin1       VTA_TAG ;
+madsaa:mawadis1     VTA_TAG ;
+waabmaa:waabam      VTA_TAG ;
+negnaa:negon        VTA_TAG ;
+

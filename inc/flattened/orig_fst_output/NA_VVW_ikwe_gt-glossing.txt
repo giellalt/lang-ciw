@@ -1,0 +1,2926 @@
+kwe+NA	akwew
+kwe+NA	ikwew
+
+1+kwe+NA	niakwew
+1+kwe+NA	niikwew
+
+2+kwe+NA	giakwew
+2+kwe+NA	giikwew
+
+X+kwe+NA	iakwew
+X+kwe+NA	iikwew
+
+kwe+NA+Con	akwewenh
+kwe+NA+Con	ikwewenh
+
+kwe+NA+Dim	akwewens
+kwe+NA+Dim	ikwewens
+
+kwe+NA+Pej	akwewsh
+kwe+NA+Pej	ikwewsh
+
+kwe+NA+Prt	akwewbani1
+kwe+NA+Prt	ikwewbani1
+
+kwe+NA+Voc+Pl	akwewdig
+kwe+NA+Voc+Pl	ikwewdig
+
+kwe+NA+4	akwewan
+kwe+NA+4	ikwewan
+
+kwe+NA+Loc	akwewng
+kwe+NA+Loc	ikwewng
+
+kwe+NA+Pl	akwewag
+kwe+NA+Pl	ikwewag
+
+1+kwe+NA+Con	niakwewenh
+1+kwe+NA+Con	niikwewenh
+
+1+kwe+NA+Dim	niakwewens
+1+kwe+NA+Dim	niikwewens
+
+2+kwe+NA+Con	giakwewenh
+2+kwe+NA+Con	giikwewenh
+
+2+kwe+NA+Dim	giakwewens
+2+kwe+NA+Dim	giikwewens
+
+X+kwe+NA+Con	iakwewenh
+X+kwe+NA+Con	iikwewenh
+
+X+kwe+NA+Dim	iakwewens
+X+kwe+NA+Dim	iikwewens
+
+1+kwe+NA+ThmPos	niakwewm
+1+kwe+NA+ThmPos	niikwewm
+
+2+kwe+NA+ThmPos	giakwewm
+2+kwe+NA+ThmPos	giikwewm
+
+X+kwe+NA+ThmPos	iakwewm
+X+kwe+NA+ThmPos	iikwewm
+
+1+kwe+NA+Pej	niakwewsh
+1+kwe+NA+Pej	niikwewsh
+
+2+kwe+NA+Pej	giakwewsh
+2+kwe+NA+Pej	giikwewsh
+
+X+kwe+NA+Pej	iakwewsh
+X+kwe+NA+Pej	iikwewsh
+
+1+kwe+NA+1+Pl	niakwewnaan
+1+kwe+NA+1+Pl	niakwewnaa
+1+kwe+NA+1+Pl	niikwewnaan
+1+kwe+NA+1+Pl	niikwewnaa
+
+2+kwe+NA+1+Pl	giakwewnaan
+2+kwe+NA+1+Pl	giakwewnaa
+2+kwe+NA+1+Pl	giikwewnaan
+2+kwe+NA+1+Pl	giikwewnaa
+
+2+kwe+NA+2+Pl	giakwewwaa
+2+kwe+NA+2+Pl	giikwewwaa
+
+3+kwe+NA+3+4	oakwewniw
+3+kwe+NA+3+4	oikwewniw
+
+1+kwe+NA+Prt	niakwewbani1
+1+kwe+NA+Prt	niikwewbani1
+
+1+kwe+NA+Voc+Pl	niakwewdig
+1+kwe+NA+Voc+Pl	niikwewdig
+
+2+kwe+NA+Prt	giakwewbani1
+2+kwe+NA+Prt	giikwewbani1
+
+2+kwe+NA+Voc+Pl	giakwewdig
+2+kwe+NA+Voc+Pl	giikwewdig
+
+X+kwe+NA+Prt	iakwewbani1
+X+kwe+NA+Prt	iikwewbani1
+
+X+kwe+NA+Voc+Pl	iakwewdig
+X+kwe+NA+Voc+Pl	iikwewdig
+
+1+kwe+NA+4	niakwewan
+1+kwe+NA+4	niikwewan
+
+1+kwe+NA+Loc	niakwewng
+1+kwe+NA+Loc	niikwewng
+
+1+kwe+NA+Pl	niakwewag
+1+kwe+NA+Pl	niikwewag
+
+2+kwe+NA+4	giakwewan
+2+kwe+NA+4	giikwewan
+
+2+kwe+NA+Loc	giakwewng
+2+kwe+NA+Loc	giikwewng
+
+2+kwe+NA+Pl	giakwewag
+2+kwe+NA+Pl	giikwewag
+
+3+kwe+NA+4	oakwewan
+3+kwe+NA+4	oikwewan
+
+3+kwe+NA+Loc	oakwewng
+3+kwe+NA+Loc	oikwewng
+
+X+kwe+NA+4	iakwewan
+X+kwe+NA+4	iikwewan
+
+X+kwe+NA+Loc	iakwewng
+X+kwe+NA+Loc	iikwewng
+
+X+kwe+NA+Pl	iakwewag
+X+kwe+NA+Pl	iikwewag
+
+kwe+NA+Con+Pej	akwewenyish
+kwe+NA+Con+Pej	ikwewenyish
+
+kwe+NA+Dim+Pej	akwewensish
+kwe+NA+Dim+Pej	ikwewensish
+
+kwe+NA+Con+Prt	akwewenyiban
+kwe+NA+Con+Prt	akwewenyiba
+kwe+NA+Con+Prt	ikwewenyiban
+kwe+NA+Con+Prt	ikwewenyiba
+
+kwe+NA+Con+Voc+Pl	akwewenydig
+kwe+NA+Con+Voc+Pl	ikwewenydig
+
+kwe+NA+Dim+Prt	akwewensiban
+kwe+NA+Dim+Prt	akwewensiba
+kwe+NA+Dim+Prt	ikwewensiban
+kwe+NA+Dim+Prt	ikwewensiba
+
+kwe+NA+Dim+Voc+Pl	akwewensdig
+kwe+NA+Dim+Voc+Pl	ikwewensdig
+
+kwe+NA+Con+4	akwewenyin
+kwe+NA+Con+4	ikwewenyin
+
+kwe+NA+Con+Loc	akwewenying
+kwe+NA+Con+Loc	ikwewenying
+
+kwe+NA+Con+Pl	akwewenyag
+kwe+NA+Con+Pl	ikwewenyag
+
+kwe+NA+Dim+4	akwewensan
+kwe+NA+Dim+4	ikwewensan
+
+kwe+NA+Dim+Loc	akwewensing
+kwe+NA+Dim+Loc	ikwewensing
+
+kwe+NA+Dim+Pl	akwewensag
+kwe+NA+Dim+Pl	ikwewensag
+
+kwe+NA+Pej+Prt	akwewshiban
+kwe+NA+Pej+Prt	akwewshiba
+kwe+NA+Pej+Prt	ikwewshiban
+kwe+NA+Pej+Prt	ikwewshiba
+
+kwe+NA+Pej+Voc+Pl	akwewshdig
+kwe+NA+Pej+Voc+Pl	ikwewshdig
+
+kwe+NA+Pej+4	akwewshan
+kwe+NA+Pej+4	ikwewshan
+
+kwe+NA+Pej+Loc	akwewshing
+kwe+NA+Pej+Loc	ikwewshing
+
+kwe+NA+Pej+Pl	akwewshag
+kwe+NA+Pej+Pl	ikwewshag
+
+kwe+NA+Prt+4	akwewbaniin
+kwe+NA+Prt+4	ikwewbaniin
+
+kwe+NA+Prt+Loc	akwewbaniing
+kwe+NA+Prt+Loc	ikwewbaniing
+
+kwe+NA+Prt+Pl	akwewbani1ag
+kwe+NA+Prt+Pl	ikwewbani1ag
+
+1+kwe+NA+Con+ThmPos	niakwewenym
+1+kwe+NA+Con+ThmPos	niikwewenym
+
+1+kwe+NA+Dim+ThmPos	niakwewensm
+1+kwe+NA+Dim+ThmPos	niikwewensm
+
+2+kwe+NA+Con+ThmPos	giakwewenym
+2+kwe+NA+Con+ThmPos	giikwewenym
+
+2+kwe+NA+Dim+ThmPos	giakwewensm
+2+kwe+NA+Dim+ThmPos	giikwewensm
+
+X+kwe+NA+Con+ThmPos	iakwewenym
+X+kwe+NA+Con+ThmPos	iikwewenym
+
+X+kwe+NA+Dim+ThmPos	iakwewensm
+X+kwe+NA+Dim+ThmPos	iikwewensm
+
+1+kwe+NA+Con+Pej	niakwewenyish
+1+kwe+NA+Con+Pej	niikwewenyish
+
+1+kwe+NA+Dim+Pej	niakwewensish
+1+kwe+NA+Dim+Pej	niikwewensish
+
+2+kwe+NA+Con+Pej	giakwewenyish
+2+kwe+NA+Con+Pej	giikwewenyish
+
+2+kwe+NA+Dim+Pej	giakwewensish
+2+kwe+NA+Dim+Pej	giikwewensish
+
+X+kwe+NA+Con+Pej	iakwewenyish
+X+kwe+NA+Con+Pej	iikwewenyish
+
+X+kwe+NA+Dim+Pej	iakwewensish
+X+kwe+NA+Dim+Pej	iikwewensish
+
+1+kwe+NA+Con+1+Pl	niakwewenynaan
+1+kwe+NA+Con+1+Pl	niakwewenynaa
+1+kwe+NA+Con+1+Pl	niikwewenynaan
+1+kwe+NA+Con+1+Pl	niikwewenynaa
+
+1+kwe+NA+Dim+1+Pl	niakwewensnaan
+1+kwe+NA+Dim+1+Pl	niakwewensnaa
+1+kwe+NA+Dim+1+Pl	niikwewensnaan
+1+kwe+NA+Dim+1+Pl	niikwewensnaa
+
+2+kwe+NA+Con+1+Pl	giakwewenynaan
+2+kwe+NA+Con+1+Pl	giakwewenynaa
+2+kwe+NA+Con+1+Pl	giikwewenynaan
+2+kwe+NA+Con+1+Pl	giikwewenynaa
+
+2+kwe+NA+Con+2+Pl	giakwewenywaa
+2+kwe+NA+Con+2+Pl	giikwewenywaa
+
+2+kwe+NA+Dim+1+Pl	giakwewensnaan
+2+kwe+NA+Dim+1+Pl	giakwewensnaa
+2+kwe+NA+Dim+1+Pl	giikwewensnaan
+2+kwe+NA+Dim+1+Pl	giikwewensnaa
+
+2+kwe+NA+Dim+2+Pl	giakwewenswaa
+2+kwe+NA+Dim+2+Pl	giikwewenswaa
+
+3+kwe+NA+Con+3+4	oakwewenyniw
+3+kwe+NA+Con+3+4	oikwewenyniw
+
+3+kwe+NA+Dim+3+4	oakwewensniw
+3+kwe+NA+Dim+3+4	oikwewensniw
+
+1+kwe+NA+Con+Prt	niakwewenyiban
+1+kwe+NA+Con+Prt	niakwewenyiba
+1+kwe+NA+Con+Prt	niikwewenyiban
+1+kwe+NA+Con+Prt	niikwewenyiba
+
+1+kwe+NA+Con+Voc+Pl	niakwewenydig
+1+kwe+NA+Con+Voc+Pl	niikwewenydig
+
+1+kwe+NA+Dim+Prt	niakwewensiban
+1+kwe+NA+Dim+Prt	niakwewensiba
+1+kwe+NA+Dim+Prt	niikwewensiban
+1+kwe+NA+Dim+Prt	niikwewensiba
+
+1+kwe+NA+Dim+Voc+Pl	niakwewensdig
+1+kwe+NA+Dim+Voc+Pl	niikwewensdig
+
+2+kwe+NA+Con+Prt	giakwewenyiban
+2+kwe+NA+Con+Prt	giakwewenyiba
+2+kwe+NA+Con+Prt	giikwewenyiban
+2+kwe+NA+Con+Prt	giikwewenyiba
+
+2+kwe+NA+Con+Voc+Pl	giakwewenydig
+2+kwe+NA+Con+Voc+Pl	giikwewenydig
+
+2+kwe+NA+Dim+Prt	giakwewensiban
+2+kwe+NA+Dim+Prt	giakwewensiba
+2+kwe+NA+Dim+Prt	giikwewensiban
+2+kwe+NA+Dim+Prt	giikwewensiba
+
+2+kwe+NA+Dim+Voc+Pl	giakwewensdig
+2+kwe+NA+Dim+Voc+Pl	giikwewensdig
+
+X+kwe+NA+Con+Prt	iakwewenyiban
+X+kwe+NA+Con+Prt	iakwewenyiba
+X+kwe+NA+Con+Prt	iikwewenyiban
+X+kwe+NA+Con+Prt	iikwewenyiba
+
+X+kwe+NA+Con+Voc+Pl	iakwewenydig
+X+kwe+NA+Con+Voc+Pl	iikwewenydig
+
+X+kwe+NA+Dim+Prt	iakwewensiban
+X+kwe+NA+Dim+Prt	iakwewensiba
+X+kwe+NA+Dim+Prt	iikwewensiban
+X+kwe+NA+Dim+Prt	iikwewensiba
+
+X+kwe+NA+Dim+Voc+Pl	iakwewensdig
+X+kwe+NA+Dim+Voc+Pl	iikwewensdig
+
+1+kwe+NA+Con+4	niakwewenyin
+1+kwe+NA+Con+4	niikwewenyin
+
+1+kwe+NA+Con+Loc	niakwewenying
+1+kwe+NA+Con+Loc	niikwewenying
+
+1+kwe+NA+Con+Pl	niakwewenyag
+1+kwe+NA+Con+Pl	niikwewenyag
+
+1+kwe+NA+Dim+4	niakwewensan
+1+kwe+NA+Dim+4	niikwewensan
+
+1+kwe+NA+Dim+Loc	niakwewensing
+1+kwe+NA+Dim+Loc	niikwewensing
+
+1+kwe+NA+Dim+Pl	niakwewensag
+1+kwe+NA+Dim+Pl	niikwewensag
+
+2+kwe+NA+Con+4	giakwewenyin
+2+kwe+NA+Con+4	giikwewenyin
+
+2+kwe+NA+Con+Loc	giakwewenying
+2+kwe+NA+Con+Loc	giikwewenying
+
+2+kwe+NA+Con+Pl	giakwewenyag
+2+kwe+NA+Con+Pl	giikwewenyag
+
+2+kwe+NA+Dim+4	giakwewensan
+2+kwe+NA+Dim+4	giikwewensan
+
+2+kwe+NA+Dim+Loc	giakwewensing
+2+kwe+NA+Dim+Loc	giikwewensing
+
+2+kwe+NA+Dim+Pl	giakwewensag
+2+kwe+NA+Dim+Pl	giikwewensag
+
+3+kwe+NA+Con+4	oakwewenyin
+3+kwe+NA+Con+4	oikwewenyin
+
+3+kwe+NA+Con+Loc	oakwewenying
+3+kwe+NA+Con+Loc	oikwewenying
+
+3+kwe+NA+Dim+4	oakwewensan
+3+kwe+NA+Dim+4	oikwewensan
+
+3+kwe+NA+Dim+Loc	oakwewensing
+3+kwe+NA+Dim+Loc	oikwewensing
+
+X+kwe+NA+Con+4	iakwewenyin
+X+kwe+NA+Con+4	iikwewenyin
+
+X+kwe+NA+Con+Loc	iakwewenying
+X+kwe+NA+Con+Loc	iikwewenying
+
+X+kwe+NA+Con+Pl	iakwewenyag
+X+kwe+NA+Con+Pl	iikwewenyag
+
+X+kwe+NA+Dim+4	iakwewensan
+X+kwe+NA+Dim+4	iikwewensan
+
+X+kwe+NA+Dim+Loc	iakwewensing
+X+kwe+NA+Dim+Loc	iikwewensing
+
+X+kwe+NA+Dim+Pl	iakwewensag
+X+kwe+NA+Dim+Pl	iikwewensag
+
+1+kwe+NA+ThmPos+Pej	niakwewmish
+1+kwe+NA+ThmPos+Pej	niikwewmish
+
+2+kwe+NA+ThmPos+Pej	giakwewmish
+2+kwe+NA+ThmPos+Pej	giikwewmish
+
+X+kwe+NA+ThmPos+Pej	iakwewmish
+X+kwe+NA+ThmPos+Pej	iikwewmish
+
+1+kwe+NA+ThmPos+1+Pl	niakwewmnaan
+1+kwe+NA+ThmPos+1+Pl	niakwewmnaa
+1+kwe+NA+ThmPos+1+Pl	niikwewmnaan
+1+kwe+NA+ThmPos+1+Pl	niikwewmnaa
+
+2+kwe+NA+ThmPos+1+Pl	giakwewmnaan
+2+kwe+NA+ThmPos+1+Pl	giakwewmnaa
+2+kwe+NA+ThmPos+1+Pl	giikwewmnaan
+2+kwe+NA+ThmPos+1+Pl	giikwewmnaa
+
+2+kwe+NA+ThmPos+2+Pl	giakwewmwaa
+2+kwe+NA+ThmPos+2+Pl	giikwewmwaa
+
+3+kwe+NA+ThmPos+3+4	oakwewmniw
+3+kwe+NA+ThmPos+3+4	oikwewmniw
+
+1+kwe+NA+ThmPos+Prt	niakwewmiban
+1+kwe+NA+ThmPos+Prt	niakwewmiba
+1+kwe+NA+ThmPos+Prt	niikwewmiban
+1+kwe+NA+ThmPos+Prt	niikwewmiba
+
+1+kwe+NA+ThmPos+Voc+Pl	niakwewmdig
+1+kwe+NA+ThmPos+Voc+Pl	niikwewmdig
+
+2+kwe+NA+ThmPos+Prt	giakwewmiban
+2+kwe+NA+ThmPos+Prt	giakwewmiba
+2+kwe+NA+ThmPos+Prt	giikwewmiban
+2+kwe+NA+ThmPos+Prt	giikwewmiba
+
+2+kwe+NA+ThmPos+Voc+Pl	giakwewmdig
+2+kwe+NA+ThmPos+Voc+Pl	giikwewmdig
+
+X+kwe+NA+ThmPos+Prt	iakwewmiban
+X+kwe+NA+ThmPos+Prt	iakwewmiba
+X+kwe+NA+ThmPos+Prt	iikwewmiban
+X+kwe+NA+ThmPos+Prt	iikwewmiba
+
+X+kwe+NA+ThmPos+Voc+Pl	iakwewmdig
+X+kwe+NA+ThmPos+Voc+Pl	iikwewmdig
+
+1+kwe+NA+ThmPos+4	niakwewman
+1+kwe+NA+ThmPos+4	niikwewman
+
+1+kwe+NA+ThmPos+Loc	niakwewming
+1+kwe+NA+ThmPos+Loc	niikwewming
+
+1+kwe+NA+ThmPos+Pl	niakwewmag
+1+kwe+NA+ThmPos+Pl	niikwewmag
+
+2+kwe+NA+ThmPos+4	giakwewman
+2+kwe+NA+ThmPos+4	giikwewman
+
+2+kwe+NA+ThmPos+Loc	giakwewming
+2+kwe+NA+ThmPos+Loc	giikwewming
+
+2+kwe+NA+ThmPos+Pl	giakwewmag
+2+kwe+NA+ThmPos+Pl	giikwewmag
+
+3+kwe+NA+ThmPos+4	oakwewman
+3+kwe+NA+ThmPos+4	oikwewman
+
+3+kwe+NA+ThmPos+Loc	oakwewming
+3+kwe+NA+ThmPos+Loc	oikwewming
+
+X+kwe+NA+ThmPos+4	iakwewman
+X+kwe+NA+ThmPos+4	iikwewman
+
+X+kwe+NA+ThmPos+Loc	iakwewming
+X+kwe+NA+ThmPos+Loc	iikwewming
+
+X+kwe+NA+ThmPos+Pl	iakwewmag
+X+kwe+NA+ThmPos+Pl	iikwewmag
+
+1+kwe+NA+Pej+1+Pl	niakwewshnaan
+1+kwe+NA+Pej+1+Pl	niakwewshnaa
+1+kwe+NA+Pej+1+Pl	niikwewshnaan
+1+kwe+NA+Pej+1+Pl	niikwewshnaa
+
+2+kwe+NA+Pej+1+Pl	giakwewshnaan
+2+kwe+NA+Pej+1+Pl	giakwewshnaa
+2+kwe+NA+Pej+1+Pl	giikwewshnaan
+2+kwe+NA+Pej+1+Pl	giikwewshnaa
+
+2+kwe+NA+Pej+2+Pl	giakwewshwaa
+2+kwe+NA+Pej+2+Pl	giikwewshwaa
+
+3+kwe+NA+Pej+3+4	oakwewshniw
+3+kwe+NA+Pej+3+4	oikwewshniw
+
+1+kwe+NA+Pej+Prt	niakwewshiban
+1+kwe+NA+Pej+Prt	niakwewshiba
+1+kwe+NA+Pej+Prt	niikwewshiban
+1+kwe+NA+Pej+Prt	niikwewshiba
+
+1+kwe+NA+Pej+Voc+Pl	niakwewshdig
+1+kwe+NA+Pej+Voc+Pl	niikwewshdig
+
+2+kwe+NA+Pej+Prt	giakwewshiban
+2+kwe+NA+Pej+Prt	giakwewshiba
+2+kwe+NA+Pej+Prt	giikwewshiban
+2+kwe+NA+Pej+Prt	giikwewshiba
+
+2+kwe+NA+Pej+Voc+Pl	giakwewshdig
+2+kwe+NA+Pej+Voc+Pl	giikwewshdig
+
+X+kwe+NA+Pej+Prt	iakwewshiban
+X+kwe+NA+Pej+Prt	iakwewshiba
+X+kwe+NA+Pej+Prt	iikwewshiban
+X+kwe+NA+Pej+Prt	iikwewshiba
+
+X+kwe+NA+Pej+Voc+Pl	iakwewshdig
+X+kwe+NA+Pej+Voc+Pl	iikwewshdig
+
+1+kwe+NA+Pej+4	niakwewshan
+1+kwe+NA+Pej+4	niikwewshan
+
+1+kwe+NA+Pej+Loc	niakwewshing
+1+kwe+NA+Pej+Loc	niikwewshing
+
+1+kwe+NA+Pej+Pl	niakwewshag
+1+kwe+NA+Pej+Pl	niikwewshag
+
+2+kwe+NA+Pej+4	giakwewshan
+2+kwe+NA+Pej+4	giikwewshan
+
+2+kwe+NA+Pej+Loc	giakwewshing
+2+kwe+NA+Pej+Loc	giikwewshing
+
+2+kwe+NA+Pej+Pl	giakwewshag
+2+kwe+NA+Pej+Pl	giikwewshag
+
+3+kwe+NA+Pej+4	oakwewshan
+3+kwe+NA+Pej+4	oikwewshan
+
+3+kwe+NA+Pej+Loc	oakwewshing
+3+kwe+NA+Pej+Loc	oikwewshing
+
+X+kwe+NA+Pej+4	iakwewshan
+X+kwe+NA+Pej+4	iikwewshan
+
+X+kwe+NA+Pej+Loc	iakwewshing
+X+kwe+NA+Pej+Loc	iikwewshing
+
+X+kwe+NA+Pej+Pl	iakwewshag
+X+kwe+NA+Pej+Pl	iikwewshag
+
+1+kwe+NA+1+Pl+Prt	niakwewnaaniban
+1+kwe+NA+1+Pl+Prt	niakwewnaaniba
+1+kwe+NA+1+Pl+Prt	niikwewnaaniban
+1+kwe+NA+1+Pl+Prt	niikwewnaaniba
+
+1+kwe+NA+1+Pl+Voc+Pl	niakwewnaany1dig
+1+kwe+NA+1+Pl+Voc+Pl	niikwewnaany1dig
+
+2+kwe+NA+1+Pl+Prt	giakwewnaaniban
+2+kwe+NA+1+Pl+Prt	giakwewnaaniba
+2+kwe+NA+1+Pl+Prt	giikwewnaaniban
+2+kwe+NA+1+Pl+Prt	giikwewnaaniba
+
+2+kwe+NA+1+Pl+Voc+Pl	giakwewnaany1dig
+2+kwe+NA+1+Pl+Voc+Pl	giikwewnaany1dig
+
+2+kwe+NA+2+Pl+Prt	giakwewwaaban
+2+kwe+NA+2+Pl+Prt	giakwewwaaba
+2+kwe+NA+2+Pl+Prt	giikwewwaaban
+2+kwe+NA+2+Pl+Prt	giikwewwaaba
+
+2+kwe+NA+2+Pl+Voc+Pl	giakwewwaadig
+2+kwe+NA+2+Pl+Voc+Pl	giikwewwaadig
+
+3+kwe+NA+3+4+Prt	oakwewniwiban
+3+kwe+NA+3+4+Prt	oakwewniwiba
+3+kwe+NA+3+4+Prt	oakwewniiban
+3+kwe+NA+3+4+Prt	oakwewniiba
+3+kwe+NA+3+4+Prt	oikwewniwiban
+3+kwe+NA+3+4+Prt	oikwewniwiba
+3+kwe+NA+3+4+Prt	oikwewniiban
+3+kwe+NA+3+4+Prt	oikwewniiba
+
+1+kwe+NA+1+Pl+4	niakwewnaanin
+1+kwe+NA+1+Pl+4	niikwewnaanin
+
+1+kwe+NA+1+Pl+Loc	niakwewnaaning
+1+kwe+NA+1+Pl+Loc	niikwewnaaning
+
+1+kwe+NA+1+Pl+Pl	niakwewnaany1ag
+1+kwe+NA+1+Pl+Pl	niikwewnaany1ag
+
+2+kwe+NA+1+Pl+4	giakwewnaanin
+2+kwe+NA+1+Pl+4	giikwewnaanin
+
+2+kwe+NA+1+Pl+Loc	giakwewnaaning
+2+kwe+NA+1+Pl+Loc	giikwewnaaning
+
+2+kwe+NA+1+Pl+Pl	giakwewnaany1ag
+2+kwe+NA+1+Pl+Pl	giikwewnaany1ag
+
+2+kwe+NA+2+Pl+4	giakwewwaan
+2+kwe+NA+2+Pl+4	giikwewwaan
+
+2+kwe+NA+2+Pl+Loc	giakwewwaang
+2+kwe+NA+2+Pl+Loc	giikwewwaang
+
+2+kwe+NA+2+Pl+Pl	giakwewwaaag
+2+kwe+NA+2+Pl+Pl	giikwewwaaag
+
+3+kwe+NA+2+Pl+4	oakwewwaan
+3+kwe+NA+2+Pl+4	oikwewwaan
+
+3+kwe+NA+2+Pl+Loc	oakwewwaang
+3+kwe+NA+2+Pl+Loc	oikwewwaang
+
+3+kwe+NA+3+4+4	oakwewniwan
+3+kwe+NA+3+4+4	oikwewniwan
+
+3+kwe+NA+3+4+Loc	oakwewniing
+3+kwe+NA+3+4+Loc	oikwewniing
+
+1+kwe+NA+Prt+4	niakwewbaniin
+1+kwe+NA+Prt+4	niikwewbaniin
+
+1+kwe+NA+Prt+Loc	niakwewbaniing
+1+kwe+NA+Prt+Loc	niikwewbaniing
+
+1+kwe+NA+Prt+Pl	niakwewbani1ag
+1+kwe+NA+Prt+Pl	niikwewbani1ag
+
+2+kwe+NA+Prt+4	giakwewbaniin
+2+kwe+NA+Prt+4	giikwewbaniin
+
+2+kwe+NA+Prt+Loc	giakwewbaniing
+2+kwe+NA+Prt+Loc	giikwewbaniing
+
+2+kwe+NA+Prt+Pl	giakwewbani1ag
+2+kwe+NA+Prt+Pl	giikwewbani1ag
+
+3+kwe+NA+Prt+4	oakwewbaniin
+3+kwe+NA+Prt+4	oikwewbaniin
+
+3+kwe+NA+Prt+Loc	oakwewbaniing
+3+kwe+NA+Prt+Loc	oikwewbaniing
+
+X+kwe+NA+Prt+4	iakwewbaniin
+X+kwe+NA+Prt+4	iikwewbaniin
+
+X+kwe+NA+Prt+Loc	iakwewbaniing
+X+kwe+NA+Prt+Loc	iikwewbaniing
+
+X+kwe+NA+Prt+Pl	iakwewbani1ag
+X+kwe+NA+Prt+Pl	iikwewbani1ag
+
+kwe+NA+Con+Pej+Prt	akwewenyishiban
+kwe+NA+Con+Pej+Prt	akwewenyishiba
+kwe+NA+Con+Pej+Prt	ikwewenyishiban
+kwe+NA+Con+Pej+Prt	ikwewenyishiba
+
+kwe+NA+Con+Pej+Voc+Pl	akwewenyishdig
+kwe+NA+Con+Pej+Voc+Pl	ikwewenyishdig
+
+kwe+NA+Dim+Pej+Prt	akwewensishiban
+kwe+NA+Dim+Pej+Prt	akwewensishiba
+kwe+NA+Dim+Pej+Prt	ikwewensishiban
+kwe+NA+Dim+Pej+Prt	ikwewensishiba
+
+kwe+NA+Dim+Pej+Voc+Pl	akwewensishdig
+kwe+NA+Dim+Pej+Voc+Pl	ikwewensishdig
+
+kwe+NA+Con+Pej+4	akwewenyishan
+kwe+NA+Con+Pej+4	ikwewenyishan
+
+kwe+NA+Con+Pej+Loc	akwewenyishing
+kwe+NA+Con+Pej+Loc	ikwewenyishing
+
+kwe+NA+Con+Pej+Pl	akwewenyishag
+kwe+NA+Con+Pej+Pl	ikwewenyishag
+
+kwe+NA+Dim+Pej+4	akwewensishan
+kwe+NA+Dim+Pej+4	ikwewensishan
+
+kwe+NA+Dim+Pej+Loc	akwewensishing
+kwe+NA+Dim+Pej+Loc	ikwewensishing
+
+kwe+NA+Dim+Pej+Pl	akwewensishag
+kwe+NA+Dim+Pej+Pl	ikwewensishag
+
+kwe+NA+Con+Prt+4	akwewenyibaniin
+kwe+NA+Con+Prt+4	ikwewenyibaniin
+
+kwe+NA+Con+Prt+Loc	akwewenyibaniing
+kwe+NA+Con+Prt+Loc	ikwewenyibaniing
+
+kwe+NA+Con+Prt+Pl	akwewenyibani1ag
+kwe+NA+Con+Prt+Pl	ikwewenyibani1ag
+
+kwe+NA+Dim+Prt+4	akwewensibaniin
+kwe+NA+Dim+Prt+4	ikwewensibaniin
+
+kwe+NA+Dim+Prt+Loc	akwewensibaniing
+kwe+NA+Dim+Prt+Loc	ikwewensibaniing
+
+kwe+NA+Dim+Prt+Pl	akwewensibani1ag
+kwe+NA+Dim+Prt+Pl	ikwewensibani1ag
+
+kwe+NA+Pej+Prt+4	akwewshibaniin
+kwe+NA+Pej+Prt+4	ikwewshibaniin
+
+kwe+NA+Pej+Prt+Loc	akwewshibaniing
+kwe+NA+Pej+Prt+Loc	ikwewshibaniing
+
+kwe+NA+Pej+Prt+Pl	akwewshibani1ag
+kwe+NA+Pej+Prt+Pl	ikwewshibani1ag
+
+1+kwe+NA+Con+ThmPos+Pej	niakwewenymish
+1+kwe+NA+Con+ThmPos+Pej	niikwewenymish
+
+1+kwe+NA+Dim+ThmPos+Pej	niakwewensmish
+1+kwe+NA+Dim+ThmPos+Pej	niikwewensmish
+
+2+kwe+NA+Con+ThmPos+Pej	giakwewenymish
+2+kwe+NA+Con+ThmPos+Pej	giikwewenymish
+
+2+kwe+NA+Dim+ThmPos+Pej	giakwewensmish
+2+kwe+NA+Dim+ThmPos+Pej	giikwewensmish
+
+X+kwe+NA+Con+ThmPos+Pej	iakwewenymish
+X+kwe+NA+Con+ThmPos+Pej	iikwewenymish
+
+X+kwe+NA+Dim+ThmPos+Pej	iakwewensmish
+X+kwe+NA+Dim+ThmPos+Pej	iikwewensmish
+
+1+kwe+NA+Con+ThmPos+1+Pl	niakwewenymnaan
+1+kwe+NA+Con+ThmPos+1+Pl	niakwewenymnaa
+1+kwe+NA+Con+ThmPos+1+Pl	niikwewenymnaan
+1+kwe+NA+Con+ThmPos+1+Pl	niikwewenymnaa
+
+1+kwe+NA+Dim+ThmPos+1+Pl	niakwewensmnaan
+1+kwe+NA+Dim+ThmPos+1+Pl	niakwewensmnaa
+1+kwe+NA+Dim+ThmPos+1+Pl	niikwewensmnaan
+1+kwe+NA+Dim+ThmPos+1+Pl	niikwewensmnaa
+
+2+kwe+NA+Con+ThmPos+1+Pl	giakwewenymnaan
+2+kwe+NA+Con+ThmPos+1+Pl	giakwewenymnaa
+2+kwe+NA+Con+ThmPos+1+Pl	giikwewenymnaan
+2+kwe+NA+Con+ThmPos+1+Pl	giikwewenymnaa
+
+2+kwe+NA+Con+ThmPos+2+Pl	giakwewenymwaa
+2+kwe+NA+Con+ThmPos+2+Pl	giikwewenymwaa
+
+2+kwe+NA+Dim+ThmPos+1+Pl	giakwewensmnaan
+2+kwe+NA+Dim+ThmPos+1+Pl	giakwewensmnaa
+2+kwe+NA+Dim+ThmPos+1+Pl	giikwewensmnaan
+2+kwe+NA+Dim+ThmPos+1+Pl	giikwewensmnaa
+
+2+kwe+NA+Dim+ThmPos+2+Pl	giakwewensmwaa
+2+kwe+NA+Dim+ThmPos+2+Pl	giikwewensmwaa
+
+3+kwe+NA+Con+ThmPos+3+4	oakwewenymniw
+3+kwe+NA+Con+ThmPos+3+4	oikwewenymniw
+
+3+kwe+NA+Dim+ThmPos+3+4	oakwewensmniw
+3+kwe+NA+Dim+ThmPos+3+4	oikwewensmniw
+
+1+kwe+NA+Con+ThmPos+Prt	niakwewenymiban
+1+kwe+NA+Con+ThmPos+Prt	niakwewenymiba
+1+kwe+NA+Con+ThmPos+Prt	niikwewenymiban
+1+kwe+NA+Con+ThmPos+Prt	niikwewenymiba
+
+1+kwe+NA+Con+ThmPos+Voc+Pl	niakwewenymdig
+1+kwe+NA+Con+ThmPos+Voc+Pl	niikwewenymdig
+
+1+kwe+NA+Dim+ThmPos+Prt	niakwewensmiban
+1+kwe+NA+Dim+ThmPos+Prt	niakwewensmiba
+1+kwe+NA+Dim+ThmPos+Prt	niikwewensmiban
+1+kwe+NA+Dim+ThmPos+Prt	niikwewensmiba
+
+1+kwe+NA+Dim+ThmPos+Voc+Pl	niakwewensmdig
+1+kwe+NA+Dim+ThmPos+Voc+Pl	niikwewensmdig
+
+2+kwe+NA+Con+ThmPos+Prt	giakwewenymiban
+2+kwe+NA+Con+ThmPos+Prt	giakwewenymiba
+2+kwe+NA+Con+ThmPos+Prt	giikwewenymiban
+2+kwe+NA+Con+ThmPos+Prt	giikwewenymiba
+
+2+kwe+NA+Con+ThmPos+Voc+Pl	giakwewenymdig
+2+kwe+NA+Con+ThmPos+Voc+Pl	giikwewenymdig
+
+2+kwe+NA+Dim+ThmPos+Prt	giakwewensmiban
+2+kwe+NA+Dim+ThmPos+Prt	giakwewensmiba
+2+kwe+NA+Dim+ThmPos+Prt	giikwewensmiban
+2+kwe+NA+Dim+ThmPos+Prt	giikwewensmiba
+
+2+kwe+NA+Dim+ThmPos+Voc+Pl	giakwewensmdig
+2+kwe+NA+Dim+ThmPos+Voc+Pl	giikwewensmdig
+
+X+kwe+NA+Con+ThmPos+Prt	iakwewenymiban
+X+kwe+NA+Con+ThmPos+Prt	iakwewenymiba
+X+kwe+NA+Con+ThmPos+Prt	iikwewenymiban
+X+kwe+NA+Con+ThmPos+Prt	iikwewenymiba
+
+X+kwe+NA+Con+ThmPos+Voc+Pl	iakwewenymdig
+X+kwe+NA+Con+ThmPos+Voc+Pl	iikwewenymdig
+
+X+kwe+NA+Dim+ThmPos+Prt	iakwewensmiban
+X+kwe+NA+Dim+ThmPos+Prt	iakwewensmiba
+X+kwe+NA+Dim+ThmPos+Prt	iikwewensmiban
+X+kwe+NA+Dim+ThmPos+Prt	iikwewensmiba
+
+X+kwe+NA+Dim+ThmPos+Voc+Pl	iakwewensmdig
+X+kwe+NA+Dim+ThmPos+Voc+Pl	iikwewensmdig
+
+1+kwe+NA+Con+ThmPos+4	niakwewenyman
+1+kwe+NA+Con+ThmPos+4	niikwewenyman
+
+1+kwe+NA+Con+ThmPos+Loc	niakwewenyming
+1+kwe+NA+Con+ThmPos+Loc	niikwewenyming
+
+1+kwe+NA+Con+ThmPos+Pl	niakwewenymag
+1+kwe+NA+Con+ThmPos+Pl	niikwewenymag
+
+1+kwe+NA+Dim+ThmPos+4	niakwewensman
+1+kwe+NA+Dim+ThmPos+4	niikwewensman
+
+1+kwe+NA+Dim+ThmPos+Loc	niakwewensming
+1+kwe+NA+Dim+ThmPos+Loc	niikwewensming
+
+1+kwe+NA+Dim+ThmPos+Pl	niakwewensmag
+1+kwe+NA+Dim+ThmPos+Pl	niikwewensmag
+
+2+kwe+NA+Con+ThmPos+4	giakwewenyman
+2+kwe+NA+Con+ThmPos+4	giikwewenyman
+
+2+kwe+NA+Con+ThmPos+Loc	giakwewenyming
+2+kwe+NA+Con+ThmPos+Loc	giikwewenyming
+
+2+kwe+NA+Con+ThmPos+Pl	giakwewenymag
+2+kwe+NA+Con+ThmPos+Pl	giikwewenymag
+
+2+kwe+NA+Dim+ThmPos+4	giakwewensman
+2+kwe+NA+Dim+ThmPos+4	giikwewensman
+
+2+kwe+NA+Dim+ThmPos+Loc	giakwewensming
+2+kwe+NA+Dim+ThmPos+Loc	giikwewensming
+
+2+kwe+NA+Dim+ThmPos+Pl	giakwewensmag
+2+kwe+NA+Dim+ThmPos+Pl	giikwewensmag
+
+3+kwe+NA+Con+ThmPos+4	oakwewenyman
+3+kwe+NA+Con+ThmPos+4	oikwewenyman
+
+3+kwe+NA+Con+ThmPos+Loc	oakwewenyming
+3+kwe+NA+Con+ThmPos+Loc	oikwewenyming
+
+3+kwe+NA+Dim+ThmPos+4	oakwewensman
+3+kwe+NA+Dim+ThmPos+4	oikwewensman
+
+3+kwe+NA+Dim+ThmPos+Loc	oakwewensming
+3+kwe+NA+Dim+ThmPos+Loc	oikwewensming
+
+X+kwe+NA+Con+ThmPos+4	iakwewenyman
+X+kwe+NA+Con+ThmPos+4	iikwewenyman
+
+X+kwe+NA+Con+ThmPos+Loc	iakwewenyming
+X+kwe+NA+Con+ThmPos+Loc	iikwewenyming
+
+X+kwe+NA+Con+ThmPos+Pl	iakwewenymag
+X+kwe+NA+Con+ThmPos+Pl	iikwewenymag
+
+X+kwe+NA+Dim+ThmPos+4	iakwewensman
+X+kwe+NA+Dim+ThmPos+4	iikwewensman
+
+X+kwe+NA+Dim+ThmPos+Loc	iakwewensming
+X+kwe+NA+Dim+ThmPos+Loc	iikwewensming
+
+X+kwe+NA+Dim+ThmPos+Pl	iakwewensmag
+X+kwe+NA+Dim+ThmPos+Pl	iikwewensmag
+
+1+kwe+NA+Con+Pej+1+Pl	niakwewenyishnaan
+1+kwe+NA+Con+Pej+1+Pl	niakwewenyishnaa
+1+kwe+NA+Con+Pej+1+Pl	niikwewenyishnaan
+1+kwe+NA+Con+Pej+1+Pl	niikwewenyishnaa
+
+1+kwe+NA+Dim+Pej+1+Pl	niakwewensishnaan
+1+kwe+NA+Dim+Pej+1+Pl	niakwewensishnaa
+1+kwe+NA+Dim+Pej+1+Pl	niikwewensishnaan
+1+kwe+NA+Dim+Pej+1+Pl	niikwewensishnaa
+
+2+kwe+NA+Con+Pej+1+Pl	giakwewenyishnaan
+2+kwe+NA+Con+Pej+1+Pl	giakwewenyishnaa
+2+kwe+NA+Con+Pej+1+Pl	giikwewenyishnaan
+2+kwe+NA+Con+Pej+1+Pl	giikwewenyishnaa
+
+2+kwe+NA+Con+Pej+2+Pl	giakwewenyishwaa
+2+kwe+NA+Con+Pej+2+Pl	giikwewenyishwaa
+
+2+kwe+NA+Dim+Pej+1+Pl	giakwewensishnaan
+2+kwe+NA+Dim+Pej+1+Pl	giakwewensishnaa
+2+kwe+NA+Dim+Pej+1+Pl	giikwewensishnaan
+2+kwe+NA+Dim+Pej+1+Pl	giikwewensishnaa
+
+2+kwe+NA+Dim+Pej+2+Pl	giakwewensishwaa
+2+kwe+NA+Dim+Pej+2+Pl	giikwewensishwaa
+
+3+kwe+NA+Con+Pej+3+4	oakwewenyishniw
+3+kwe+NA+Con+Pej+3+4	oikwewenyishniw
+
+3+kwe+NA+Dim+Pej+3+4	oakwewensishniw
+3+kwe+NA+Dim+Pej+3+4	oikwewensishniw
+
+1+kwe+NA+Con+Pej+Prt	niakwewenyishiban
+1+kwe+NA+Con+Pej+Prt	niakwewenyishiba
+1+kwe+NA+Con+Pej+Prt	niikwewenyishiban
+1+kwe+NA+Con+Pej+Prt	niikwewenyishiba
+
+1+kwe+NA+Con+Pej+Voc+Pl	niakwewenyishdig
+1+kwe+NA+Con+Pej+Voc+Pl	niikwewenyishdig
+
+1+kwe+NA+Dim+Pej+Prt	niakwewensishiban
+1+kwe+NA+Dim+Pej+Prt	niakwewensishiba
+1+kwe+NA+Dim+Pej+Prt	niikwewensishiban
+1+kwe+NA+Dim+Pej+Prt	niikwewensishiba
+
+1+kwe+NA+Dim+Pej+Voc+Pl	niakwewensishdig
+1+kwe+NA+Dim+Pej+Voc+Pl	niikwewensishdig
+
+2+kwe+NA+Con+Pej+Prt	giakwewenyishiban
+2+kwe+NA+Con+Pej+Prt	giakwewenyishiba
+2+kwe+NA+Con+Pej+Prt	giikwewenyishiban
+2+kwe+NA+Con+Pej+Prt	giikwewenyishiba
+
+2+kwe+NA+Con+Pej+Voc+Pl	giakwewenyishdig
+2+kwe+NA+Con+Pej+Voc+Pl	giikwewenyishdig
+
+2+kwe+NA+Dim+Pej+Prt	giakwewensishiban
+2+kwe+NA+Dim+Pej+Prt	giakwewensishiba
+2+kwe+NA+Dim+Pej+Prt	giikwewensishiban
+2+kwe+NA+Dim+Pej+Prt	giikwewensishiba
+
+2+kwe+NA+Dim+Pej+Voc+Pl	giakwewensishdig
+2+kwe+NA+Dim+Pej+Voc+Pl	giikwewensishdig
+
+X+kwe+NA+Con+Pej+Prt	iakwewenyishiban
+X+kwe+NA+Con+Pej+Prt	iakwewenyishiba
+X+kwe+NA+Con+Pej+Prt	iikwewenyishiban
+X+kwe+NA+Con+Pej+Prt	iikwewenyishiba
+
+X+kwe+NA+Con+Pej+Voc+Pl	iakwewenyishdig
+X+kwe+NA+Con+Pej+Voc+Pl	iikwewenyishdig
+
+X+kwe+NA+Dim+Pej+Prt	iakwewensishiban
+X+kwe+NA+Dim+Pej+Prt	iakwewensishiba
+X+kwe+NA+Dim+Pej+Prt	iikwewensishiban
+X+kwe+NA+Dim+Pej+Prt	iikwewensishiba
+
+X+kwe+NA+Dim+Pej+Voc+Pl	iakwewensishdig
+X+kwe+NA+Dim+Pej+Voc+Pl	iikwewensishdig
+
+1+kwe+NA+Con+Pej+4	niakwewenyishan
+1+kwe+NA+Con+Pej+4	niikwewenyishan
+
+1+kwe+NA+Con+Pej+Loc	niakwewenyishing
+1+kwe+NA+Con+Pej+Loc	niikwewenyishing
+
+1+kwe+NA+Con+Pej+Pl	niakwewenyishag
+1+kwe+NA+Con+Pej+Pl	niikwewenyishag
+
+1+kwe+NA+Dim+Pej+4	niakwewensishan
+1+kwe+NA+Dim+Pej+4	niikwewensishan
+
+1+kwe+NA+Dim+Pej+Loc	niakwewensishing
+1+kwe+NA+Dim+Pej+Loc	niikwewensishing
+
+1+kwe+NA+Dim+Pej+Pl	niakwewensishag
+1+kwe+NA+Dim+Pej+Pl	niikwewensishag
+
+2+kwe+NA+Con+Pej+4	giakwewenyishan
+2+kwe+NA+Con+Pej+4	giikwewenyishan
+
+2+kwe+NA+Con+Pej+Loc	giakwewenyishing
+2+kwe+NA+Con+Pej+Loc	giikwewenyishing
+
+2+kwe+NA+Con+Pej+Pl	giakwewenyishag
+2+kwe+NA+Con+Pej+Pl	giikwewenyishag
+
+2+kwe+NA+Dim+Pej+4	giakwewensishan
+2+kwe+NA+Dim+Pej+4	giikwewensishan
+
+2+kwe+NA+Dim+Pej+Loc	giakwewensishing
+2+kwe+NA+Dim+Pej+Loc	giikwewensishing
+
+2+kwe+NA+Dim+Pej+Pl	giakwewensishag
+2+kwe+NA+Dim+Pej+Pl	giikwewensishag
+
+3+kwe+NA+Con+Pej+4	oakwewenyishan
+3+kwe+NA+Con+Pej+4	oikwewenyishan
+
+3+kwe+NA+Con+Pej+Loc	oakwewenyishing
+3+kwe+NA+Con+Pej+Loc	oikwewenyishing
+
+3+kwe+NA+Dim+Pej+4	oakwewensishan
+3+kwe+NA+Dim+Pej+4	oikwewensishan
+
+3+kwe+NA+Dim+Pej+Loc	oakwewensishing
+3+kwe+NA+Dim+Pej+Loc	oikwewensishing
+
+X+kwe+NA+Con+Pej+4	iakwewenyishan
+X+kwe+NA+Con+Pej+4	iikwewenyishan
+
+X+kwe+NA+Con+Pej+Loc	iakwewenyishing
+X+kwe+NA+Con+Pej+Loc	iikwewenyishing
+
+X+kwe+NA+Con+Pej+Pl	iakwewenyishag
+X+kwe+NA+Con+Pej+Pl	iikwewenyishag
+
+X+kwe+NA+Dim+Pej+4	iakwewensishan
+X+kwe+NA+Dim+Pej+4	iikwewensishan
+
+X+kwe+NA+Dim+Pej+Loc	iakwewensishing
+X+kwe+NA+Dim+Pej+Loc	iikwewensishing
+
+X+kwe+NA+Dim+Pej+Pl	iakwewensishag
+X+kwe+NA+Dim+Pej+Pl	iikwewensishag
+
+1+kwe+NA+Con+1+Pl+Prt	niakwewenynaaniban
+1+kwe+NA+Con+1+Pl+Prt	niakwewenynaaniba
+1+kwe+NA+Con+1+Pl+Prt	niikwewenynaaniban
+1+kwe+NA+Con+1+Pl+Prt	niikwewenynaaniba
+
+1+kwe+NA+Con+1+Pl+Voc+Pl	niakwewenynaany1dig
+1+kwe+NA+Con+1+Pl+Voc+Pl	niikwewenynaany1dig
+
+1+kwe+NA+Dim+1+Pl+Prt	niakwewensnaaniban
+1+kwe+NA+Dim+1+Pl+Prt	niakwewensnaaniba
+1+kwe+NA+Dim+1+Pl+Prt	niikwewensnaaniban
+1+kwe+NA+Dim+1+Pl+Prt	niikwewensnaaniba
+
+1+kwe+NA+Dim+1+Pl+Voc+Pl	niakwewensnaany1dig
+1+kwe+NA+Dim+1+Pl+Voc+Pl	niikwewensnaany1dig
+
+2+kwe+NA+Con+1+Pl+Prt	giakwewenynaaniban
+2+kwe+NA+Con+1+Pl+Prt	giakwewenynaaniba
+2+kwe+NA+Con+1+Pl+Prt	giikwewenynaaniban
+2+kwe+NA+Con+1+Pl+Prt	giikwewenynaaniba
+
+2+kwe+NA+Con+1+Pl+Voc+Pl	giakwewenynaany1dig
+2+kwe+NA+Con+1+Pl+Voc+Pl	giikwewenynaany1dig
+
+2+kwe+NA+Con+2+Pl+Prt	giakwewenywaaban
+2+kwe+NA+Con+2+Pl+Prt	giakwewenywaaba
+2+kwe+NA+Con+2+Pl+Prt	giikwewenywaaban
+2+kwe+NA+Con+2+Pl+Prt	giikwewenywaaba
+
+2+kwe+NA+Con+2+Pl+Voc+Pl	giakwewenywaadig
+2+kwe+NA+Con+2+Pl+Voc+Pl	giikwewenywaadig
+
+2+kwe+NA+Dim+1+Pl+Prt	giakwewensnaaniban
+2+kwe+NA+Dim+1+Pl+Prt	giakwewensnaaniba
+2+kwe+NA+Dim+1+Pl+Prt	giikwewensnaaniban
+2+kwe+NA+Dim+1+Pl+Prt	giikwewensnaaniba
+
+2+kwe+NA+Dim+1+Pl+Voc+Pl	giakwewensnaany1dig
+2+kwe+NA+Dim+1+Pl+Voc+Pl	giikwewensnaany1dig
+
+2+kwe+NA+Dim+2+Pl+Prt	giakwewenswaaban
+2+kwe+NA+Dim+2+Pl+Prt	giakwewenswaaba
+2+kwe+NA+Dim+2+Pl+Prt	giikwewenswaaban
+2+kwe+NA+Dim+2+Pl+Prt	giikwewenswaaba
+
+2+kwe+NA+Dim+2+Pl+Voc+Pl	giakwewenswaadig
+2+kwe+NA+Dim+2+Pl+Voc+Pl	giikwewenswaadig
+
+3+kwe+NA+Con+3+4+Prt	oakwewenyniwiban
+3+kwe+NA+Con+3+4+Prt	oakwewenyniwiba
+3+kwe+NA+Con+3+4+Prt	oakwewenyniiban
+3+kwe+NA+Con+3+4+Prt	oakwewenyniiba
+3+kwe+NA+Con+3+4+Prt	oikwewenyniwiban
+3+kwe+NA+Con+3+4+Prt	oikwewenyniwiba
+3+kwe+NA+Con+3+4+Prt	oikwewenyniiban
+3+kwe+NA+Con+3+4+Prt	oikwewenyniiba
+
+3+kwe+NA+Dim+3+4+Prt	oakwewensniwiban
+3+kwe+NA+Dim+3+4+Prt	oakwewensniwiba
+3+kwe+NA+Dim+3+4+Prt	oakwewensniiban
+3+kwe+NA+Dim+3+4+Prt	oakwewensniiba
+3+kwe+NA+Dim+3+4+Prt	oikwewensniwiban
+3+kwe+NA+Dim+3+4+Prt	oikwewensniwiba
+3+kwe+NA+Dim+3+4+Prt	oikwewensniiban
+3+kwe+NA+Dim+3+4+Prt	oikwewensniiba
+
+1+kwe+NA+Con+1+Pl+4	niakwewenynaanin
+1+kwe+NA+Con+1+Pl+4	niikwewenynaanin
+
+1+kwe+NA+Con+1+Pl+Loc	niakwewenynaaning
+1+kwe+NA+Con+1+Pl+Loc	niikwewenynaaning
+
+1+kwe+NA+Con+1+Pl+Pl	niakwewenynaany1ag
+1+kwe+NA+Con+1+Pl+Pl	niikwewenynaany1ag
+
+1+kwe+NA+Dim+1+Pl+4	niakwewensnaanin
+1+kwe+NA+Dim+1+Pl+4	niikwewensnaanin
+
+1+kwe+NA+Dim+1+Pl+Loc	niakwewensnaaning
+1+kwe+NA+Dim+1+Pl+Loc	niikwewensnaaning
+
+1+kwe+NA+Dim+1+Pl+Pl	niakwewensnaany1ag
+1+kwe+NA+Dim+1+Pl+Pl	niikwewensnaany1ag
+
+2+kwe+NA+Con+1+Pl+4	giakwewenynaanin
+2+kwe+NA+Con+1+Pl+4	giikwewenynaanin
+
+2+kwe+NA+Con+1+Pl+Loc	giakwewenynaaning
+2+kwe+NA+Con+1+Pl+Loc	giikwewenynaaning
+
+2+kwe+NA+Con+1+Pl+Pl	giakwewenynaany1ag
+2+kwe+NA+Con+1+Pl+Pl	giikwewenynaany1ag
+
+2+kwe+NA+Con+2+Pl+4	giakwewenywaan
+2+kwe+NA+Con+2+Pl+4	giikwewenywaan
+
+2+kwe+NA+Con+2+Pl+Loc	giakwewenywaang
+2+kwe+NA+Con+2+Pl+Loc	giikwewenywaang
+
+2+kwe+NA+Con+2+Pl+Pl	giakwewenywaaag
+2+kwe+NA+Con+2+Pl+Pl	giikwewenywaaag
+
+2+kwe+NA+Dim+1+Pl+4	giakwewensnaanin
+2+kwe+NA+Dim+1+Pl+4	giikwewensnaanin
+
+2+kwe+NA+Dim+1+Pl+Loc	giakwewensnaaning
+2+kwe+NA+Dim+1+Pl+Loc	giikwewensnaaning
+
+2+kwe+NA+Dim+1+Pl+Pl	giakwewensnaany1ag
+2+kwe+NA+Dim+1+Pl+Pl	giikwewensnaany1ag
+
+2+kwe+NA+Dim+2+Pl+4	giakwewenswaan
+2+kwe+NA+Dim+2+Pl+4	giikwewenswaan
+
+2+kwe+NA+Dim+2+Pl+Loc	giakwewenswaang
+2+kwe+NA+Dim+2+Pl+Loc	giikwewenswaang
+
+2+kwe+NA+Dim+2+Pl+Pl	giakwewenswaaag
+2+kwe+NA+Dim+2+Pl+Pl	giikwewenswaaag
+
+3+kwe+NA+Con+2+Pl+4	oakwewenywaan
+3+kwe+NA+Con+2+Pl+4	oikwewenywaan
+
+3+kwe+NA+Con+2+Pl+Loc	oakwewenywaang
+3+kwe+NA+Con+2+Pl+Loc	oikwewenywaang
+
+3+kwe+NA+Con+3+4+4	oakwewenyniwan
+3+kwe+NA+Con+3+4+4	oikwewenyniwan
+
+3+kwe+NA+Con+3+4+Loc	oakwewenyniing
+3+kwe+NA+Con+3+4+Loc	oikwewenyniing
+
+3+kwe+NA+Dim+2+Pl+4	oakwewenswaan
+3+kwe+NA+Dim+2+Pl+4	oikwewenswaan
+
+3+kwe+NA+Dim+2+Pl+Loc	oakwewenswaang
+3+kwe+NA+Dim+2+Pl+Loc	oikwewenswaang
+
+3+kwe+NA+Dim+3+4+4	oakwewensniwan
+3+kwe+NA+Dim+3+4+4	oikwewensniwan
+
+3+kwe+NA+Dim+3+4+Loc	oakwewensniing
+3+kwe+NA+Dim+3+4+Loc	oikwewensniing
+
+1+kwe+NA+Con+Prt+4	niakwewenyibaniin
+1+kwe+NA+Con+Prt+4	niikwewenyibaniin
+
+1+kwe+NA+Con+Prt+Loc	niakwewenyibaniing
+1+kwe+NA+Con+Prt+Loc	niikwewenyibaniing
+
+1+kwe+NA+Con+Prt+Pl	niakwewenyibani1ag
+1+kwe+NA+Con+Prt+Pl	niikwewenyibani1ag
+
+1+kwe+NA+Dim+Prt+4	niakwewensibaniin
+1+kwe+NA+Dim+Prt+4	niikwewensibaniin
+
+1+kwe+NA+Dim+Prt+Loc	niakwewensibaniing
+1+kwe+NA+Dim+Prt+Loc	niikwewensibaniing
+
+1+kwe+NA+Dim+Prt+Pl	niakwewensibani1ag
+1+kwe+NA+Dim+Prt+Pl	niikwewensibani1ag
+
+2+kwe+NA+Con+Prt+4	giakwewenyibaniin
+2+kwe+NA+Con+Prt+4	giikwewenyibaniin
+
+2+kwe+NA+Con+Prt+Loc	giakwewenyibaniing
+2+kwe+NA+Con+Prt+Loc	giikwewenyibaniing
+
+2+kwe+NA+Con+Prt+Pl	giakwewenyibani1ag
+2+kwe+NA+Con+Prt+Pl	giikwewenyibani1ag
+
+2+kwe+NA+Dim+Prt+4	giakwewensibaniin
+2+kwe+NA+Dim+Prt+4	giikwewensibaniin
+
+2+kwe+NA+Dim+Prt+Loc	giakwewensibaniing
+2+kwe+NA+Dim+Prt+Loc	giikwewensibaniing
+
+2+kwe+NA+Dim+Prt+Pl	giakwewensibani1ag
+2+kwe+NA+Dim+Prt+Pl	giikwewensibani1ag
+
+3+kwe+NA+Con+Prt+4	oakwewenyibaniin
+3+kwe+NA+Con+Prt+4	oikwewenyibaniin
+
+3+kwe+NA+Con+Prt+Loc	oakwewenyibaniing
+3+kwe+NA+Con+Prt+Loc	oikwewenyibaniing
+
+3+kwe+NA+Dim+Prt+4	oakwewensibaniin
+3+kwe+NA+Dim+Prt+4	oikwewensibaniin
+
+3+kwe+NA+Dim+Prt+Loc	oakwewensibaniing
+3+kwe+NA+Dim+Prt+Loc	oikwewensibaniing
+
+X+kwe+NA+Con+Prt+4	iakwewenyibaniin
+X+kwe+NA+Con+Prt+4	iikwewenyibaniin
+
+X+kwe+NA+Con+Prt+Loc	iakwewenyibaniing
+X+kwe+NA+Con+Prt+Loc	iikwewenyibaniing
+
+X+kwe+NA+Con+Prt+Pl	iakwewenyibani1ag
+X+kwe+NA+Con+Prt+Pl	iikwewenyibani1ag
+
+X+kwe+NA+Dim+Prt+4	iakwewensibaniin
+X+kwe+NA+Dim+Prt+4	iikwewensibaniin
+
+X+kwe+NA+Dim+Prt+Loc	iakwewensibaniing
+X+kwe+NA+Dim+Prt+Loc	iikwewensibaniing
+
+X+kwe+NA+Dim+Prt+Pl	iakwewensibani1ag
+X+kwe+NA+Dim+Prt+Pl	iikwewensibani1ag
+
+1+kwe+NA+ThmPos+Pej+1+Pl	niakwewmishnaan
+1+kwe+NA+ThmPos+Pej+1+Pl	niakwewmishnaa
+1+kwe+NA+ThmPos+Pej+1+Pl	niikwewmishnaan
+1+kwe+NA+ThmPos+Pej+1+Pl	niikwewmishnaa
+
+2+kwe+NA+ThmPos+Pej+1+Pl	giakwewmishnaan
+2+kwe+NA+ThmPos+Pej+1+Pl	giakwewmishnaa
+2+kwe+NA+ThmPos+Pej+1+Pl	giikwewmishnaan
+2+kwe+NA+ThmPos+Pej+1+Pl	giikwewmishnaa
+
+2+kwe+NA+ThmPos+Pej+2+Pl	giakwewmishwaa
+2+kwe+NA+ThmPos+Pej+2+Pl	giikwewmishwaa
+
+3+kwe+NA+ThmPos+Pej+3+4	oakwewmishniw
+3+kwe+NA+ThmPos+Pej+3+4	oikwewmishniw
+
+1+kwe+NA+ThmPos+Pej+Prt	niakwewmishiban
+1+kwe+NA+ThmPos+Pej+Prt	niakwewmishiba
+1+kwe+NA+ThmPos+Pej+Prt	niikwewmishiban
+1+kwe+NA+ThmPos+Pej+Prt	niikwewmishiba
+
+1+kwe+NA+ThmPos+Pej+Voc+Pl	niakwewmishdig
+1+kwe+NA+ThmPos+Pej+Voc+Pl	niikwewmishdig
+
+2+kwe+NA+ThmPos+Pej+Prt	giakwewmishiban
+2+kwe+NA+ThmPos+Pej+Prt	giakwewmishiba
+2+kwe+NA+ThmPos+Pej+Prt	giikwewmishiban
+2+kwe+NA+ThmPos+Pej+Prt	giikwewmishiba
+
+2+kwe+NA+ThmPos+Pej+Voc+Pl	giakwewmishdig
+2+kwe+NA+ThmPos+Pej+Voc+Pl	giikwewmishdig
+
+X+kwe+NA+ThmPos+Pej+Prt	iakwewmishiban
+X+kwe+NA+ThmPos+Pej+Prt	iakwewmishiba
+X+kwe+NA+ThmPos+Pej+Prt	iikwewmishiban
+X+kwe+NA+ThmPos+Pej+Prt	iikwewmishiba
+
+X+kwe+NA+ThmPos+Pej+Voc+Pl	iakwewmishdig
+X+kwe+NA+ThmPos+Pej+Voc+Pl	iikwewmishdig
+
+1+kwe+NA+ThmPos+Pej+4	niakwewmishan
+1+kwe+NA+ThmPos+Pej+4	niikwewmishan
+
+1+kwe+NA+ThmPos+Pej+Loc	niakwewmishing
+1+kwe+NA+ThmPos+Pej+Loc	niikwewmishing
+
+1+kwe+NA+ThmPos+Pej+Pl	niakwewmishag
+1+kwe+NA+ThmPos+Pej+Pl	niikwewmishag
+
+2+kwe+NA+ThmPos+Pej+4	giakwewmishan
+2+kwe+NA+ThmPos+Pej+4	giikwewmishan
+
+2+kwe+NA+ThmPos+Pej+Loc	giakwewmishing
+2+kwe+NA+ThmPos+Pej+Loc	giikwewmishing
+
+2+kwe+NA+ThmPos+Pej+Pl	giakwewmishag
+2+kwe+NA+ThmPos+Pej+Pl	giikwewmishag
+
+3+kwe+NA+ThmPos+Pej+4	oakwewmishan
+3+kwe+NA+ThmPos+Pej+4	oikwewmishan
+
+3+kwe+NA+ThmPos+Pej+Loc	oakwewmishing
+3+kwe+NA+ThmPos+Pej+Loc	oikwewmishing
+
+X+kwe+NA+ThmPos+Pej+4	iakwewmishan
+X+kwe+NA+ThmPos+Pej+4	iikwewmishan
+
+X+kwe+NA+ThmPos+Pej+Loc	iakwewmishing
+X+kwe+NA+ThmPos+Pej+Loc	iikwewmishing
+
+X+kwe+NA+ThmPos+Pej+Pl	iakwewmishag
+X+kwe+NA+ThmPos+Pej+Pl	iikwewmishag
+
+1+kwe+NA+ThmPos+1+Pl+Prt	niakwewmnaaniban
+1+kwe+NA+ThmPos+1+Pl+Prt	niakwewmnaaniba
+1+kwe+NA+ThmPos+1+Pl+Prt	niikwewmnaaniban
+1+kwe+NA+ThmPos+1+Pl+Prt	niikwewmnaaniba
+
+1+kwe+NA+ThmPos+1+Pl+Voc+Pl	niakwewmnaany1dig
+1+kwe+NA+ThmPos+1+Pl+Voc+Pl	niikwewmnaany1dig
+
+2+kwe+NA+ThmPos+1+Pl+Prt	giakwewmnaaniban
+2+kwe+NA+ThmPos+1+Pl+Prt	giakwewmnaaniba
+2+kwe+NA+ThmPos+1+Pl+Prt	giikwewmnaaniban
+2+kwe+NA+ThmPos+1+Pl+Prt	giikwewmnaaniba
+
+2+kwe+NA+ThmPos+1+Pl+Voc+Pl	giakwewmnaany1dig
+2+kwe+NA+ThmPos+1+Pl+Voc+Pl	giikwewmnaany1dig
+
+2+kwe+NA+ThmPos+2+Pl+Prt	giakwewmwaaban
+2+kwe+NA+ThmPos+2+Pl+Prt	giakwewmwaaba
+2+kwe+NA+ThmPos+2+Pl+Prt	giikwewmwaaban
+2+kwe+NA+ThmPos+2+Pl+Prt	giikwewmwaaba
+
+2+kwe+NA+ThmPos+2+Pl+Voc+Pl	giakwewmwaadig
+2+kwe+NA+ThmPos+2+Pl+Voc+Pl	giikwewmwaadig
+
+3+kwe+NA+ThmPos+3+4+Prt	oakwewmniwiban
+3+kwe+NA+ThmPos+3+4+Prt	oakwewmniwiba
+3+kwe+NA+ThmPos+3+4+Prt	oakwewmniiban
+3+kwe+NA+ThmPos+3+4+Prt	oakwewmniiba
+3+kwe+NA+ThmPos+3+4+Prt	oikwewmniwiban
+3+kwe+NA+ThmPos+3+4+Prt	oikwewmniwiba
+3+kwe+NA+ThmPos+3+4+Prt	oikwewmniiban
+3+kwe+NA+ThmPos+3+4+Prt	oikwewmniiba
+
+1+kwe+NA+ThmPos+1+Pl+4	niakwewmnaanin
+1+kwe+NA+ThmPos+1+Pl+4	niikwewmnaanin
+
+1+kwe+NA+ThmPos+1+Pl+Loc	niakwewmnaaning
+1+kwe+NA+ThmPos+1+Pl+Loc	niikwewmnaaning
+
+1+kwe+NA+ThmPos+1+Pl+Pl	niakwewmnaany1ag
+1+kwe+NA+ThmPos+1+Pl+Pl	niikwewmnaany1ag
+
+2+kwe+NA+ThmPos+1+Pl+4	giakwewmnaanin
+2+kwe+NA+ThmPos+1+Pl+4	giikwewmnaanin
+
+2+kwe+NA+ThmPos+1+Pl+Loc	giakwewmnaaning
+2+kwe+NA+ThmPos+1+Pl+Loc	giikwewmnaaning
+
+2+kwe+NA+ThmPos+1+Pl+Pl	giakwewmnaany1ag
+2+kwe+NA+ThmPos+1+Pl+Pl	giikwewmnaany1ag
+
+2+kwe+NA+ThmPos+2+Pl+4	giakwewmwaan
+2+kwe+NA+ThmPos+2+Pl+4	giikwewmwaan
+
+2+kwe+NA+ThmPos+2+Pl+Loc	giakwewmwaang
+2+kwe+NA+ThmPos+2+Pl+Loc	giikwewmwaang
+
+2+kwe+NA+ThmPos+2+Pl+Pl	giakwewmwaaag
+2+kwe+NA+ThmPos+2+Pl+Pl	giikwewmwaaag
+
+3+kwe+NA+ThmPos+2+Pl+4	oakwewmwaan
+3+kwe+NA+ThmPos+2+Pl+4	oikwewmwaan
+
+3+kwe+NA+ThmPos+2+Pl+Loc	oakwewmwaang
+3+kwe+NA+ThmPos+2+Pl+Loc	oikwewmwaang
+
+3+kwe+NA+ThmPos+3+4+4	oakwewmniwan
+3+kwe+NA+ThmPos+3+4+4	oikwewmniwan
+
+3+kwe+NA+ThmPos+3+4+Loc	oakwewmniing
+3+kwe+NA+ThmPos+3+4+Loc	oikwewmniing
+
+1+kwe+NA+ThmPos+Prt+4	niakwewmibaniin
+1+kwe+NA+ThmPos+Prt+4	niikwewmibaniin
+
+1+kwe+NA+ThmPos+Prt+Loc	niakwewmibaniing
+1+kwe+NA+ThmPos+Prt+Loc	niikwewmibaniing
+
+1+kwe+NA+ThmPos+Prt+Pl	niakwewmibani1ag
+1+kwe+NA+ThmPos+Prt+Pl	niikwewmibani1ag
+
+2+kwe+NA+ThmPos+Prt+4	giakwewmibaniin
+2+kwe+NA+ThmPos+Prt+4	giikwewmibaniin
+
+2+kwe+NA+ThmPos+Prt+Loc	giakwewmibaniing
+2+kwe+NA+ThmPos+Prt+Loc	giikwewmibaniing
+
+2+kwe+NA+ThmPos+Prt+Pl	giakwewmibani1ag
+2+kwe+NA+ThmPos+Prt+Pl	giikwewmibani1ag
+
+3+kwe+NA+ThmPos+Prt+4	oakwewmibaniin
+3+kwe+NA+ThmPos+Prt+4	oikwewmibaniin
+
+3+kwe+NA+ThmPos+Prt+Loc	oakwewmibaniing
+3+kwe+NA+ThmPos+Prt+Loc	oikwewmibaniing
+
+X+kwe+NA+ThmPos+Prt+4	iakwewmibaniin
+X+kwe+NA+ThmPos+Prt+4	iikwewmibaniin
+
+X+kwe+NA+ThmPos+Prt+Loc	iakwewmibaniing
+X+kwe+NA+ThmPos+Prt+Loc	iikwewmibaniing
+
+X+kwe+NA+ThmPos+Prt+Pl	iakwewmibani1ag
+X+kwe+NA+ThmPos+Prt+Pl	iikwewmibani1ag
+
+1+kwe+NA+Pej+1+Pl+Prt	niakwewshnaaniban
+1+kwe+NA+Pej+1+Pl+Prt	niakwewshnaaniba
+1+kwe+NA+Pej+1+Pl+Prt	niikwewshnaaniban
+1+kwe+NA+Pej+1+Pl+Prt	niikwewshnaaniba
+
+1+kwe+NA+Pej+1+Pl+Voc+Pl	niakwewshnaany1dig
+1+kwe+NA+Pej+1+Pl+Voc+Pl	niikwewshnaany1dig
+
+2+kwe+NA+Pej+1+Pl+Prt	giakwewshnaaniban
+2+kwe+NA+Pej+1+Pl+Prt	giakwewshnaaniba
+2+kwe+NA+Pej+1+Pl+Prt	giikwewshnaaniban
+2+kwe+NA+Pej+1+Pl+Prt	giikwewshnaaniba
+
+2+kwe+NA+Pej+1+Pl+Voc+Pl	giakwewshnaany1dig
+2+kwe+NA+Pej+1+Pl+Voc+Pl	giikwewshnaany1dig
+
+2+kwe+NA+Pej+2+Pl+Prt	giakwewshwaaban
+2+kwe+NA+Pej+2+Pl+Prt	giakwewshwaaba
+2+kwe+NA+Pej+2+Pl+Prt	giikwewshwaaban
+2+kwe+NA+Pej+2+Pl+Prt	giikwewshwaaba
+
+2+kwe+NA+Pej+2+Pl+Voc+Pl	giakwewshwaadig
+2+kwe+NA+Pej+2+Pl+Voc+Pl	giikwewshwaadig
+
+3+kwe+NA+Pej+3+4+Prt	oakwewshniwiban
+3+kwe+NA+Pej+3+4+Prt	oakwewshniwiba
+3+kwe+NA+Pej+3+4+Prt	oakwewshniiban
+3+kwe+NA+Pej+3+4+Prt	oakwewshniiba
+3+kwe+NA+Pej+3+4+Prt	oikwewshniwiban
+3+kwe+NA+Pej+3+4+Prt	oikwewshniwiba
+3+kwe+NA+Pej+3+4+Prt	oikwewshniiban
+3+kwe+NA+Pej+3+4+Prt	oikwewshniiba
+
+1+kwe+NA+Pej+1+Pl+4	niakwewshnaanin
+1+kwe+NA+Pej+1+Pl+4	niikwewshnaanin
+
+1+kwe+NA+Pej+1+Pl+Loc	niakwewshnaaning
+1+kwe+NA+Pej+1+Pl+Loc	niikwewshnaaning
+
+1+kwe+NA+Pej+1+Pl+Pl	niakwewshnaany1ag
+1+kwe+NA+Pej+1+Pl+Pl	niikwewshnaany1ag
+
+2+kwe+NA+Pej+1+Pl+4	giakwewshnaanin
+2+kwe+NA+Pej+1+Pl+4	giikwewshnaanin
+
+2+kwe+NA+Pej+1+Pl+Loc	giakwewshnaaning
+2+kwe+NA+Pej+1+Pl+Loc	giikwewshnaaning
+
+2+kwe+NA+Pej+1+Pl+Pl	giakwewshnaany1ag
+2+kwe+NA+Pej+1+Pl+Pl	giikwewshnaany1ag
+
+2+kwe+NA+Pej+2+Pl+4	giakwewshwaan
+2+kwe+NA+Pej+2+Pl+4	giikwewshwaan
+
+2+kwe+NA+Pej+2+Pl+Loc	giakwewshwaang
+2+kwe+NA+Pej+2+Pl+Loc	giikwewshwaang
+
+2+kwe+NA+Pej+2+Pl+Pl	giakwewshwaaag
+2+kwe+NA+Pej+2+Pl+Pl	giikwewshwaaag
+
+3+kwe+NA+Pej+2+Pl+4	oakwewshwaan
+3+kwe+NA+Pej+2+Pl+4	oikwewshwaan
+
+3+kwe+NA+Pej+2+Pl+Loc	oakwewshwaang
+3+kwe+NA+Pej+2+Pl+Loc	oikwewshwaang
+
+3+kwe+NA+Pej+3+4+4	oakwewshniwan
+3+kwe+NA+Pej+3+4+4	oikwewshniwan
+
+3+kwe+NA+Pej+3+4+Loc	oakwewshniing
+3+kwe+NA+Pej+3+4+Loc	oikwewshniing
+
+1+kwe+NA+Pej+Prt+4	niakwewshibaniin
+1+kwe+NA+Pej+Prt+4	niikwewshibaniin
+
+1+kwe+NA+Pej+Prt+Loc	niakwewshibaniing
+1+kwe+NA+Pej+Prt+Loc	niikwewshibaniing
+
+1+kwe+NA+Pej+Prt+Pl	niakwewshibani1ag
+1+kwe+NA+Pej+Prt+Pl	niikwewshibani1ag
+
+2+kwe+NA+Pej+Prt+4	giakwewshibaniin
+2+kwe+NA+Pej+Prt+4	giikwewshibaniin
+
+2+kwe+NA+Pej+Prt+Loc	giakwewshibaniing
+2+kwe+NA+Pej+Prt+Loc	giikwewshibaniing
+
+2+kwe+NA+Pej+Prt+Pl	giakwewshibani1ag
+2+kwe+NA+Pej+Prt+Pl	giikwewshibani1ag
+
+3+kwe+NA+Pej+Prt+4	oakwewshibaniin
+3+kwe+NA+Pej+Prt+4	oikwewshibaniin
+
+3+kwe+NA+Pej+Prt+Loc	oakwewshibaniing
+3+kwe+NA+Pej+Prt+Loc	oikwewshibaniing
+
+X+kwe+NA+Pej+Prt+4	iakwewshibaniin
+X+kwe+NA+Pej+Prt+4	iikwewshibaniin
+
+X+kwe+NA+Pej+Prt+Loc	iakwewshibaniing
+X+kwe+NA+Pej+Prt+Loc	iikwewshibaniing
+
+X+kwe+NA+Pej+Prt+Pl	iakwewshibani1ag
+X+kwe+NA+Pej+Prt+Pl	iikwewshibani1ag
+
+1+kwe+NA+1+Pl+Prt+4	niakwewnaanibaniin
+1+kwe+NA+1+Pl+Prt+4	niikwewnaanibaniin
+
+1+kwe+NA+1+Pl+Prt+Loc	niakwewnaanibaniing
+1+kwe+NA+1+Pl+Prt+Loc	niikwewnaanibaniing
+
+1+kwe+NA+1+Pl+Prt+Pl	niakwewnaanibani1ag
+1+kwe+NA+1+Pl+Prt+Pl	niikwewnaanibani1ag
+
+2+kwe+NA+1+Pl+Prt+4	giakwewnaanibaniin
+2+kwe+NA+1+Pl+Prt+4	giikwewnaanibaniin
+
+2+kwe+NA+1+Pl+Prt+Loc	giakwewnaanibaniing
+2+kwe+NA+1+Pl+Prt+Loc	giikwewnaanibaniing
+
+2+kwe+NA+1+Pl+Prt+Pl	giakwewnaanibani1ag
+2+kwe+NA+1+Pl+Prt+Pl	giikwewnaanibani1ag
+
+2+kwe+NA+2+Pl+Prt+4	giakwewwaabaniin
+2+kwe+NA+2+Pl+Prt+4	giikwewwaabaniin
+
+2+kwe+NA+2+Pl+Prt+Loc	giakwewwaabaniing
+2+kwe+NA+2+Pl+Prt+Loc	giikwewwaabaniing
+
+2+kwe+NA+2+Pl+Prt+Pl	giakwewwaabani1ag
+2+kwe+NA+2+Pl+Prt+Pl	giikwewwaabani1ag
+
+3+kwe+NA+2+Pl+Prt+4	oakwewwaabaniin
+3+kwe+NA+2+Pl+Prt+4	oikwewwaabaniin
+
+3+kwe+NA+2+Pl+Prt+Loc	oakwewwaabaniing
+3+kwe+NA+2+Pl+Prt+Loc	oikwewwaabaniing
+
+3+kwe+NA+3+4+Prt+4	oakwewniwibaniin
+3+kwe+NA+3+4+Prt+4	oakwewniibaniin
+3+kwe+NA+3+4+Prt+4	oikwewniwibaniin
+3+kwe+NA+3+4+Prt+4	oikwewniibaniin
+
+3+kwe+NA+3+4+Prt+Loc	oakwewniwibaniing
+3+kwe+NA+3+4+Prt+Loc	oakwewniibaniing
+3+kwe+NA+3+4+Prt+Loc	oikwewniwibaniing
+3+kwe+NA+3+4+Prt+Loc	oikwewniibaniing
+
+kwe+NA+Con+Pej+Prt+4	akwewenyishibaniin
+kwe+NA+Con+Pej+Prt+4	ikwewenyishibaniin
+
+kwe+NA+Con+Pej+Prt+Loc	akwewenyishibaniing
+kwe+NA+Con+Pej+Prt+Loc	ikwewenyishibaniing
+
+kwe+NA+Con+Pej+Prt+Pl	akwewenyishibani1ag
+kwe+NA+Con+Pej+Prt+Pl	ikwewenyishibani1ag
+
+kwe+NA+Dim+Pej+Prt+4	akwewensishibaniin
+kwe+NA+Dim+Pej+Prt+4	ikwewensishibaniin
+
+kwe+NA+Dim+Pej+Prt+Loc	akwewensishibaniing
+kwe+NA+Dim+Pej+Prt+Loc	ikwewensishibaniing
+
+kwe+NA+Dim+Pej+Prt+Pl	akwewensishibani1ag
+kwe+NA+Dim+Pej+Prt+Pl	ikwewensishibani1ag
+
+1+kwe+NA+Con+ThmPos+Pej+1+Pl	niakwewenymishnaan
+1+kwe+NA+Con+ThmPos+Pej+1+Pl	niakwewenymishnaa
+1+kwe+NA+Con+ThmPos+Pej+1+Pl	niikwewenymishnaan
+1+kwe+NA+Con+ThmPos+Pej+1+Pl	niikwewenymishnaa
+
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl	niakwewensmishnaan
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl	niakwewensmishnaa
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl	niikwewensmishnaan
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl	niikwewensmishnaa
+
+2+kwe+NA+Con+ThmPos+Pej+1+Pl	giakwewenymishnaan
+2+kwe+NA+Con+ThmPos+Pej+1+Pl	giakwewenymishnaa
+2+kwe+NA+Con+ThmPos+Pej+1+Pl	giikwewenymishnaan
+2+kwe+NA+Con+ThmPos+Pej+1+Pl	giikwewenymishnaa
+
+2+kwe+NA+Con+ThmPos+Pej+2+Pl	giakwewenymishwaa
+2+kwe+NA+Con+ThmPos+Pej+2+Pl	giikwewenymishwaa
+
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl	giakwewensmishnaan
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl	giakwewensmishnaa
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl	giikwewensmishnaan
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl	giikwewensmishnaa
+
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl	giakwewensmishwaa
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl	giikwewensmishwaa
+
+3+kwe+NA+Con+ThmPos+Pej+3+4	oakwewenymishniw
+3+kwe+NA+Con+ThmPos+Pej+3+4	oikwewenymishniw
+
+3+kwe+NA+Dim+ThmPos+Pej+3+4	oakwewensmishniw
+3+kwe+NA+Dim+ThmPos+Pej+3+4	oikwewensmishniw
+
+1+kwe+NA+Con+ThmPos+Pej+Prt	niakwewenymishiban
+1+kwe+NA+Con+ThmPos+Pej+Prt	niakwewenymishiba
+1+kwe+NA+Con+ThmPos+Pej+Prt	niikwewenymishiban
+1+kwe+NA+Con+ThmPos+Pej+Prt	niikwewenymishiba
+
+1+kwe+NA+Con+ThmPos+Pej+Voc+Pl	niakwewenymishdig
+1+kwe+NA+Con+ThmPos+Pej+Voc+Pl	niikwewenymishdig
+
+1+kwe+NA+Dim+ThmPos+Pej+Prt	niakwewensmishiban
+1+kwe+NA+Dim+ThmPos+Pej+Prt	niakwewensmishiba
+1+kwe+NA+Dim+ThmPos+Pej+Prt	niikwewensmishiban
+1+kwe+NA+Dim+ThmPos+Pej+Prt	niikwewensmishiba
+
+1+kwe+NA+Dim+ThmPos+Pej+Voc+Pl	niakwewensmishdig
+1+kwe+NA+Dim+ThmPos+Pej+Voc+Pl	niikwewensmishdig
+
+2+kwe+NA+Con+ThmPos+Pej+Prt	giakwewenymishiban
+2+kwe+NA+Con+ThmPos+Pej+Prt	giakwewenymishiba
+2+kwe+NA+Con+ThmPos+Pej+Prt	giikwewenymishiban
+2+kwe+NA+Con+ThmPos+Pej+Prt	giikwewenymishiba
+
+2+kwe+NA+Con+ThmPos+Pej+Voc+Pl	giakwewenymishdig
+2+kwe+NA+Con+ThmPos+Pej+Voc+Pl	giikwewenymishdig
+
+2+kwe+NA+Dim+ThmPos+Pej+Prt	giakwewensmishiban
+2+kwe+NA+Dim+ThmPos+Pej+Prt	giakwewensmishiba
+2+kwe+NA+Dim+ThmPos+Pej+Prt	giikwewensmishiban
+2+kwe+NA+Dim+ThmPos+Pej+Prt	giikwewensmishiba
+
+2+kwe+NA+Dim+ThmPos+Pej+Voc+Pl	giakwewensmishdig
+2+kwe+NA+Dim+ThmPos+Pej+Voc+Pl	giikwewensmishdig
+
+X+kwe+NA+Con+ThmPos+Pej+Prt	iakwewenymishiban
+X+kwe+NA+Con+ThmPos+Pej+Prt	iakwewenymishiba
+X+kwe+NA+Con+ThmPos+Pej+Prt	iikwewenymishiban
+X+kwe+NA+Con+ThmPos+Pej+Prt	iikwewenymishiba
+
+X+kwe+NA+Con+ThmPos+Pej+Voc+Pl	iakwewenymishdig
+X+kwe+NA+Con+ThmPos+Pej+Voc+Pl	iikwewenymishdig
+
+X+kwe+NA+Dim+ThmPos+Pej+Prt	iakwewensmishiban
+X+kwe+NA+Dim+ThmPos+Pej+Prt	iakwewensmishiba
+X+kwe+NA+Dim+ThmPos+Pej+Prt	iikwewensmishiban
+X+kwe+NA+Dim+ThmPos+Pej+Prt	iikwewensmishiba
+
+X+kwe+NA+Dim+ThmPos+Pej+Voc+Pl	iakwewensmishdig
+X+kwe+NA+Dim+ThmPos+Pej+Voc+Pl	iikwewensmishdig
+
+1+kwe+NA+Con+ThmPos+Pej+4	niakwewenymishan
+1+kwe+NA+Con+ThmPos+Pej+4	niikwewenymishan
+
+1+kwe+NA+Con+ThmPos+Pej+Loc	niakwewenymishing
+1+kwe+NA+Con+ThmPos+Pej+Loc	niikwewenymishing
+
+1+kwe+NA+Con+ThmPos+Pej+Pl	niakwewenymishag
+1+kwe+NA+Con+ThmPos+Pej+Pl	niikwewenymishag
+
+1+kwe+NA+Dim+ThmPos+Pej+4	niakwewensmishan
+1+kwe+NA+Dim+ThmPos+Pej+4	niikwewensmishan
+
+1+kwe+NA+Dim+ThmPos+Pej+Loc	niakwewensmishing
+1+kwe+NA+Dim+ThmPos+Pej+Loc	niikwewensmishing
+
+1+kwe+NA+Dim+ThmPos+Pej+Pl	niakwewensmishag
+1+kwe+NA+Dim+ThmPos+Pej+Pl	niikwewensmishag
+
+2+kwe+NA+Con+ThmPos+Pej+4	giakwewenymishan
+2+kwe+NA+Con+ThmPos+Pej+4	giikwewenymishan
+
+2+kwe+NA+Con+ThmPos+Pej+Loc	giakwewenymishing
+2+kwe+NA+Con+ThmPos+Pej+Loc	giikwewenymishing
+
+2+kwe+NA+Con+ThmPos+Pej+Pl	giakwewenymishag
+2+kwe+NA+Con+ThmPos+Pej+Pl	giikwewenymishag
+
+2+kwe+NA+Dim+ThmPos+Pej+4	giakwewensmishan
+2+kwe+NA+Dim+ThmPos+Pej+4	giikwewensmishan
+
+2+kwe+NA+Dim+ThmPos+Pej+Loc	giakwewensmishing
+2+kwe+NA+Dim+ThmPos+Pej+Loc	giikwewensmishing
+
+2+kwe+NA+Dim+ThmPos+Pej+Pl	giakwewensmishag
+2+kwe+NA+Dim+ThmPos+Pej+Pl	giikwewensmishag
+
+3+kwe+NA+Con+ThmPos+Pej+4	oakwewenymishan
+3+kwe+NA+Con+ThmPos+Pej+4	oikwewenymishan
+
+3+kwe+NA+Con+ThmPos+Pej+Loc	oakwewenymishing
+3+kwe+NA+Con+ThmPos+Pej+Loc	oikwewenymishing
+
+3+kwe+NA+Dim+ThmPos+Pej+4	oakwewensmishan
+3+kwe+NA+Dim+ThmPos+Pej+4	oikwewensmishan
+
+3+kwe+NA+Dim+ThmPos+Pej+Loc	oakwewensmishing
+3+kwe+NA+Dim+ThmPos+Pej+Loc	oikwewensmishing
+
+X+kwe+NA+Con+ThmPos+Pej+4	iakwewenymishan
+X+kwe+NA+Con+ThmPos+Pej+4	iikwewenymishan
+
+X+kwe+NA+Con+ThmPos+Pej+Loc	iakwewenymishing
+X+kwe+NA+Con+ThmPos+Pej+Loc	iikwewenymishing
+
+X+kwe+NA+Con+ThmPos+Pej+Pl	iakwewenymishag
+X+kwe+NA+Con+ThmPos+Pej+Pl	iikwewenymishag
+
+X+kwe+NA+Dim+ThmPos+Pej+4	iakwewensmishan
+X+kwe+NA+Dim+ThmPos+Pej+4	iikwewensmishan
+
+X+kwe+NA+Dim+ThmPos+Pej+Loc	iakwewensmishing
+X+kwe+NA+Dim+ThmPos+Pej+Loc	iikwewensmishing
+
+X+kwe+NA+Dim+ThmPos+Pej+Pl	iakwewensmishag
+X+kwe+NA+Dim+ThmPos+Pej+Pl	iikwewensmishag
+
+1+kwe+NA+Con+ThmPos+1+Pl+Prt	niakwewenymnaaniban
+1+kwe+NA+Con+ThmPos+1+Pl+Prt	niakwewenymnaaniba
+1+kwe+NA+Con+ThmPos+1+Pl+Prt	niikwewenymnaaniban
+1+kwe+NA+Con+ThmPos+1+Pl+Prt	niikwewenymnaaniba
+
+1+kwe+NA+Con+ThmPos+1+Pl+Voc+Pl	niakwewenymnaany1dig
+1+kwe+NA+Con+ThmPos+1+Pl+Voc+Pl	niikwewenymnaany1dig
+
+1+kwe+NA+Dim+ThmPos+1+Pl+Prt	niakwewensmnaaniban
+1+kwe+NA+Dim+ThmPos+1+Pl+Prt	niakwewensmnaaniba
+1+kwe+NA+Dim+ThmPos+1+Pl+Prt	niikwewensmnaaniban
+1+kwe+NA+Dim+ThmPos+1+Pl+Prt	niikwewensmnaaniba
+
+1+kwe+NA+Dim+ThmPos+1+Pl+Voc+Pl	niakwewensmnaany1dig
+1+kwe+NA+Dim+ThmPos+1+Pl+Voc+Pl	niikwewensmnaany1dig
+
+2+kwe+NA+Con+ThmPos+1+Pl+Prt	giakwewenymnaaniban
+2+kwe+NA+Con+ThmPos+1+Pl+Prt	giakwewenymnaaniba
+2+kwe+NA+Con+ThmPos+1+Pl+Prt	giikwewenymnaaniban
+2+kwe+NA+Con+ThmPos+1+Pl+Prt	giikwewenymnaaniba
+
+2+kwe+NA+Con+ThmPos+1+Pl+Voc+Pl	giakwewenymnaany1dig
+2+kwe+NA+Con+ThmPos+1+Pl+Voc+Pl	giikwewenymnaany1dig
+
+2+kwe+NA+Con+ThmPos+2+Pl+Prt	giakwewenymwaaban
+2+kwe+NA+Con+ThmPos+2+Pl+Prt	giakwewenymwaaba
+2+kwe+NA+Con+ThmPos+2+Pl+Prt	giikwewenymwaaban
+2+kwe+NA+Con+ThmPos+2+Pl+Prt	giikwewenymwaaba
+
+2+kwe+NA+Con+ThmPos+2+Pl+Voc+Pl	giakwewenymwaadig
+2+kwe+NA+Con+ThmPos+2+Pl+Voc+Pl	giikwewenymwaadig
+
+2+kwe+NA+Dim+ThmPos+1+Pl+Prt	giakwewensmnaaniban
+2+kwe+NA+Dim+ThmPos+1+Pl+Prt	giakwewensmnaaniba
+2+kwe+NA+Dim+ThmPos+1+Pl+Prt	giikwewensmnaaniban
+2+kwe+NA+Dim+ThmPos+1+Pl+Prt	giikwewensmnaaniba
+
+2+kwe+NA+Dim+ThmPos+1+Pl+Voc+Pl	giakwewensmnaany1dig
+2+kwe+NA+Dim+ThmPos+1+Pl+Voc+Pl	giikwewensmnaany1dig
+
+2+kwe+NA+Dim+ThmPos+2+Pl+Prt	giakwewensmwaaban
+2+kwe+NA+Dim+ThmPos+2+Pl+Prt	giakwewensmwaaba
+2+kwe+NA+Dim+ThmPos+2+Pl+Prt	giikwewensmwaaban
+2+kwe+NA+Dim+ThmPos+2+Pl+Prt	giikwewensmwaaba
+
+2+kwe+NA+Dim+ThmPos+2+Pl+Voc+Pl	giakwewensmwaadig
+2+kwe+NA+Dim+ThmPos+2+Pl+Voc+Pl	giikwewensmwaadig
+
+3+kwe+NA+Con+ThmPos+3+4+Prt	oakwewenymniwiban
+3+kwe+NA+Con+ThmPos+3+4+Prt	oakwewenymniwiba
+3+kwe+NA+Con+ThmPos+3+4+Prt	oakwewenymniiban
+3+kwe+NA+Con+ThmPos+3+4+Prt	oakwewenymniiba
+3+kwe+NA+Con+ThmPos+3+4+Prt	oikwewenymniwiban
+3+kwe+NA+Con+ThmPos+3+4+Prt	oikwewenymniwiba
+3+kwe+NA+Con+ThmPos+3+4+Prt	oikwewenymniiban
+3+kwe+NA+Con+ThmPos+3+4+Prt	oikwewenymniiba
+
+3+kwe+NA+Dim+ThmPos+3+4+Prt	oakwewensmniwiban
+3+kwe+NA+Dim+ThmPos+3+4+Prt	oakwewensmniwiba
+3+kwe+NA+Dim+ThmPos+3+4+Prt	oakwewensmniiban
+3+kwe+NA+Dim+ThmPos+3+4+Prt	oakwewensmniiba
+3+kwe+NA+Dim+ThmPos+3+4+Prt	oikwewensmniwiban
+3+kwe+NA+Dim+ThmPos+3+4+Prt	oikwewensmniwiba
+3+kwe+NA+Dim+ThmPos+3+4+Prt	oikwewensmniiban
+3+kwe+NA+Dim+ThmPos+3+4+Prt	oikwewensmniiba
+
+1+kwe+NA+Con+ThmPos+1+Pl+4	niakwewenymnaanin
+1+kwe+NA+Con+ThmPos+1+Pl+4	niikwewenymnaanin
+
+1+kwe+NA+Con+ThmPos+1+Pl+Loc	niakwewenymnaaning
+1+kwe+NA+Con+ThmPos+1+Pl+Loc	niikwewenymnaaning
+
+1+kwe+NA+Con+ThmPos+1+Pl+Pl	niakwewenymnaany1ag
+1+kwe+NA+Con+ThmPos+1+Pl+Pl	niikwewenymnaany1ag
+
+1+kwe+NA+Dim+ThmPos+1+Pl+4	niakwewensmnaanin
+1+kwe+NA+Dim+ThmPos+1+Pl+4	niikwewensmnaanin
+
+1+kwe+NA+Dim+ThmPos+1+Pl+Loc	niakwewensmnaaning
+1+kwe+NA+Dim+ThmPos+1+Pl+Loc	niikwewensmnaaning
+
+1+kwe+NA+Dim+ThmPos+1+Pl+Pl	niakwewensmnaany1ag
+1+kwe+NA+Dim+ThmPos+1+Pl+Pl	niikwewensmnaany1ag
+
+2+kwe+NA+Con+ThmPos+1+Pl+4	giakwewenymnaanin
+2+kwe+NA+Con+ThmPos+1+Pl+4	giikwewenymnaanin
+
+2+kwe+NA+Con+ThmPos+1+Pl+Loc	giakwewenymnaaning
+2+kwe+NA+Con+ThmPos+1+Pl+Loc	giikwewenymnaaning
+
+2+kwe+NA+Con+ThmPos+1+Pl+Pl	giakwewenymnaany1ag
+2+kwe+NA+Con+ThmPos+1+Pl+Pl	giikwewenymnaany1ag
+
+2+kwe+NA+Con+ThmPos+2+Pl+4	giakwewenymwaan
+2+kwe+NA+Con+ThmPos+2+Pl+4	giikwewenymwaan
+
+2+kwe+NA+Con+ThmPos+2+Pl+Loc	giakwewenymwaang
+2+kwe+NA+Con+ThmPos+2+Pl+Loc	giikwewenymwaang
+
+2+kwe+NA+Con+ThmPos+2+Pl+Pl	giakwewenymwaaag
+2+kwe+NA+Con+ThmPos+2+Pl+Pl	giikwewenymwaaag
+
+2+kwe+NA+Dim+ThmPos+1+Pl+4	giakwewensmnaanin
+2+kwe+NA+Dim+ThmPos+1+Pl+4	giikwewensmnaanin
+
+2+kwe+NA+Dim+ThmPos+1+Pl+Loc	giakwewensmnaaning
+2+kwe+NA+Dim+ThmPos+1+Pl+Loc	giikwewensmnaaning
+
+2+kwe+NA+Dim+ThmPos+1+Pl+Pl	giakwewensmnaany1ag
+2+kwe+NA+Dim+ThmPos+1+Pl+Pl	giikwewensmnaany1ag
+
+2+kwe+NA+Dim+ThmPos+2+Pl+4	giakwewensmwaan
+2+kwe+NA+Dim+ThmPos+2+Pl+4	giikwewensmwaan
+
+2+kwe+NA+Dim+ThmPos+2+Pl+Loc	giakwewensmwaang
+2+kwe+NA+Dim+ThmPos+2+Pl+Loc	giikwewensmwaang
+
+2+kwe+NA+Dim+ThmPos+2+Pl+Pl	giakwewensmwaaag
+2+kwe+NA+Dim+ThmPos+2+Pl+Pl	giikwewensmwaaag
+
+3+kwe+NA+Con+ThmPos+2+Pl+4	oakwewenymwaan
+3+kwe+NA+Con+ThmPos+2+Pl+4	oikwewenymwaan
+
+3+kwe+NA+Con+ThmPos+2+Pl+Loc	oakwewenymwaang
+3+kwe+NA+Con+ThmPos+2+Pl+Loc	oikwewenymwaang
+
+3+kwe+NA+Con+ThmPos+3+4+4	oakwewenymniwan
+3+kwe+NA+Con+ThmPos+3+4+4	oikwewenymniwan
+
+3+kwe+NA+Con+ThmPos+3+4+Loc	oakwewenymniing
+3+kwe+NA+Con+ThmPos+3+4+Loc	oikwewenymniing
+
+3+kwe+NA+Dim+ThmPos+2+Pl+4	oakwewensmwaan
+3+kwe+NA+Dim+ThmPos+2+Pl+4	oikwewensmwaan
+
+3+kwe+NA+Dim+ThmPos+2+Pl+Loc	oakwewensmwaang
+3+kwe+NA+Dim+ThmPos+2+Pl+Loc	oikwewensmwaang
+
+3+kwe+NA+Dim+ThmPos+3+4+4	oakwewensmniwan
+3+kwe+NA+Dim+ThmPos+3+4+4	oikwewensmniwan
+
+3+kwe+NA+Dim+ThmPos+3+4+Loc	oakwewensmniing
+3+kwe+NA+Dim+ThmPos+3+4+Loc	oikwewensmniing
+
+1+kwe+NA+Con+ThmPos+Prt+4	niakwewenymibaniin
+1+kwe+NA+Con+ThmPos+Prt+4	niikwewenymibaniin
+
+1+kwe+NA+Con+ThmPos+Prt+Loc	niakwewenymibaniing
+1+kwe+NA+Con+ThmPos+Prt+Loc	niikwewenymibaniing
+
+1+kwe+NA+Con+ThmPos+Prt+Pl	niakwewenymibani1ag
+1+kwe+NA+Con+ThmPos+Prt+Pl	niikwewenymibani1ag
+
+1+kwe+NA+Dim+ThmPos+Prt+4	niakwewensmibaniin
+1+kwe+NA+Dim+ThmPos+Prt+4	niikwewensmibaniin
+
+1+kwe+NA+Dim+ThmPos+Prt+Loc	niakwewensmibaniing
+1+kwe+NA+Dim+ThmPos+Prt+Loc	niikwewensmibaniing
+
+1+kwe+NA+Dim+ThmPos+Prt+Pl	niakwewensmibani1ag
+1+kwe+NA+Dim+ThmPos+Prt+Pl	niikwewensmibani1ag
+
+2+kwe+NA+Con+ThmPos+Prt+4	giakwewenymibaniin
+2+kwe+NA+Con+ThmPos+Prt+4	giikwewenymibaniin
+
+2+kwe+NA+Con+ThmPos+Prt+Loc	giakwewenymibaniing
+2+kwe+NA+Con+ThmPos+Prt+Loc	giikwewenymibaniing
+
+2+kwe+NA+Con+ThmPos+Prt+Pl	giakwewenymibani1ag
+2+kwe+NA+Con+ThmPos+Prt+Pl	giikwewenymibani1ag
+
+2+kwe+NA+Dim+ThmPos+Prt+4	giakwewensmibaniin
+2+kwe+NA+Dim+ThmPos+Prt+4	giikwewensmibaniin
+
+2+kwe+NA+Dim+ThmPos+Prt+Loc	giakwewensmibaniing
+2+kwe+NA+Dim+ThmPos+Prt+Loc	giikwewensmibaniing
+
+2+kwe+NA+Dim+ThmPos+Prt+Pl	giakwewensmibani1ag
+2+kwe+NA+Dim+ThmPos+Prt+Pl	giikwewensmibani1ag
+
+3+kwe+NA+Con+ThmPos+Prt+4	oakwewenymibaniin
+3+kwe+NA+Con+ThmPos+Prt+4	oikwewenymibaniin
+
+3+kwe+NA+Con+ThmPos+Prt+Loc	oakwewenymibaniing
+3+kwe+NA+Con+ThmPos+Prt+Loc	oikwewenymibaniing
+
+3+kwe+NA+Dim+ThmPos+Prt+4	oakwewensmibaniin
+3+kwe+NA+Dim+ThmPos+Prt+4	oikwewensmibaniin
+
+3+kwe+NA+Dim+ThmPos+Prt+Loc	oakwewensmibaniing
+3+kwe+NA+Dim+ThmPos+Prt+Loc	oikwewensmibaniing
+
+X+kwe+NA+Con+ThmPos+Prt+4	iakwewenymibaniin
+X+kwe+NA+Con+ThmPos+Prt+4	iikwewenymibaniin
+
+X+kwe+NA+Con+ThmPos+Prt+Loc	iakwewenymibaniing
+X+kwe+NA+Con+ThmPos+Prt+Loc	iikwewenymibaniing
+
+X+kwe+NA+Con+ThmPos+Prt+Pl	iakwewenymibani1ag
+X+kwe+NA+Con+ThmPos+Prt+Pl	iikwewenymibani1ag
+
+X+kwe+NA+Dim+ThmPos+Prt+4	iakwewensmibaniin
+X+kwe+NA+Dim+ThmPos+Prt+4	iikwewensmibaniin
+
+X+kwe+NA+Dim+ThmPos+Prt+Loc	iakwewensmibaniing
+X+kwe+NA+Dim+ThmPos+Prt+Loc	iikwewensmibaniing
+
+X+kwe+NA+Dim+ThmPos+Prt+Pl	iakwewensmibani1ag
+X+kwe+NA+Dim+ThmPos+Prt+Pl	iikwewensmibani1ag
+
+1+kwe+NA+Con+Pej+1+Pl+Prt	niakwewenyishnaaniban
+1+kwe+NA+Con+Pej+1+Pl+Prt	niakwewenyishnaaniba
+1+kwe+NA+Con+Pej+1+Pl+Prt	niikwewenyishnaaniban
+1+kwe+NA+Con+Pej+1+Pl+Prt	niikwewenyishnaaniba
+
+1+kwe+NA+Con+Pej+1+Pl+Voc+Pl	niakwewenyishnaany1dig
+1+kwe+NA+Con+Pej+1+Pl+Voc+Pl	niikwewenyishnaany1dig
+
+1+kwe+NA+Dim+Pej+1+Pl+Prt	niakwewensishnaaniban
+1+kwe+NA+Dim+Pej+1+Pl+Prt	niakwewensishnaaniba
+1+kwe+NA+Dim+Pej+1+Pl+Prt	niikwewensishnaaniban
+1+kwe+NA+Dim+Pej+1+Pl+Prt	niikwewensishnaaniba
+
+1+kwe+NA+Dim+Pej+1+Pl+Voc+Pl	niakwewensishnaany1dig
+1+kwe+NA+Dim+Pej+1+Pl+Voc+Pl	niikwewensishnaany1dig
+
+2+kwe+NA+Con+Pej+1+Pl+Prt	giakwewenyishnaaniban
+2+kwe+NA+Con+Pej+1+Pl+Prt	giakwewenyishnaaniba
+2+kwe+NA+Con+Pej+1+Pl+Prt	giikwewenyishnaaniban
+2+kwe+NA+Con+Pej+1+Pl+Prt	giikwewenyishnaaniba
+
+2+kwe+NA+Con+Pej+1+Pl+Voc+Pl	giakwewenyishnaany1dig
+2+kwe+NA+Con+Pej+1+Pl+Voc+Pl	giikwewenyishnaany1dig
+
+2+kwe+NA+Con+Pej+2+Pl+Prt	giakwewenyishwaaban
+2+kwe+NA+Con+Pej+2+Pl+Prt	giakwewenyishwaaba
+2+kwe+NA+Con+Pej+2+Pl+Prt	giikwewenyishwaaban
+2+kwe+NA+Con+Pej+2+Pl+Prt	giikwewenyishwaaba
+
+2+kwe+NA+Con+Pej+2+Pl+Voc+Pl	giakwewenyishwaadig
+2+kwe+NA+Con+Pej+2+Pl+Voc+Pl	giikwewenyishwaadig
+
+2+kwe+NA+Dim+Pej+1+Pl+Prt	giakwewensishnaaniban
+2+kwe+NA+Dim+Pej+1+Pl+Prt	giakwewensishnaaniba
+2+kwe+NA+Dim+Pej+1+Pl+Prt	giikwewensishnaaniban
+2+kwe+NA+Dim+Pej+1+Pl+Prt	giikwewensishnaaniba
+
+2+kwe+NA+Dim+Pej+1+Pl+Voc+Pl	giakwewensishnaany1dig
+2+kwe+NA+Dim+Pej+1+Pl+Voc+Pl	giikwewensishnaany1dig
+
+2+kwe+NA+Dim+Pej+2+Pl+Prt	giakwewensishwaaban
+2+kwe+NA+Dim+Pej+2+Pl+Prt	giakwewensishwaaba
+2+kwe+NA+Dim+Pej+2+Pl+Prt	giikwewensishwaaban
+2+kwe+NA+Dim+Pej+2+Pl+Prt	giikwewensishwaaba
+
+2+kwe+NA+Dim+Pej+2+Pl+Voc+Pl	giakwewensishwaadig
+2+kwe+NA+Dim+Pej+2+Pl+Voc+Pl	giikwewensishwaadig
+
+3+kwe+NA+Con+Pej+3+4+Prt	oakwewenyishniwiban
+3+kwe+NA+Con+Pej+3+4+Prt	oakwewenyishniwiba
+3+kwe+NA+Con+Pej+3+4+Prt	oakwewenyishniiban
+3+kwe+NA+Con+Pej+3+4+Prt	oakwewenyishniiba
+3+kwe+NA+Con+Pej+3+4+Prt	oikwewenyishniwiban
+3+kwe+NA+Con+Pej+3+4+Prt	oikwewenyishniwiba
+3+kwe+NA+Con+Pej+3+4+Prt	oikwewenyishniiban
+3+kwe+NA+Con+Pej+3+4+Prt	oikwewenyishniiba
+
+3+kwe+NA+Dim+Pej+3+4+Prt	oakwewensishniwiban
+3+kwe+NA+Dim+Pej+3+4+Prt	oakwewensishniwiba
+3+kwe+NA+Dim+Pej+3+4+Prt	oakwewensishniiban
+3+kwe+NA+Dim+Pej+3+4+Prt	oakwewensishniiba
+3+kwe+NA+Dim+Pej+3+4+Prt	oikwewensishniwiban
+3+kwe+NA+Dim+Pej+3+4+Prt	oikwewensishniwiba
+3+kwe+NA+Dim+Pej+3+4+Prt	oikwewensishniiban
+3+kwe+NA+Dim+Pej+3+4+Prt	oikwewensishniiba
+
+1+kwe+NA+Con+Pej+1+Pl+4	niakwewenyishnaanin
+1+kwe+NA+Con+Pej+1+Pl+4	niikwewenyishnaanin
+
+1+kwe+NA+Con+Pej+1+Pl+Loc	niakwewenyishnaaning
+1+kwe+NA+Con+Pej+1+Pl+Loc	niikwewenyishnaaning
+
+1+kwe+NA+Con+Pej+1+Pl+Pl	niakwewenyishnaany1ag
+1+kwe+NA+Con+Pej+1+Pl+Pl	niikwewenyishnaany1ag
+
+1+kwe+NA+Dim+Pej+1+Pl+4	niakwewensishnaanin
+1+kwe+NA+Dim+Pej+1+Pl+4	niikwewensishnaanin
+
+1+kwe+NA+Dim+Pej+1+Pl+Loc	niakwewensishnaaning
+1+kwe+NA+Dim+Pej+1+Pl+Loc	niikwewensishnaaning
+
+1+kwe+NA+Dim+Pej+1+Pl+Pl	niakwewensishnaany1ag
+1+kwe+NA+Dim+Pej+1+Pl+Pl	niikwewensishnaany1ag
+
+2+kwe+NA+Con+Pej+1+Pl+4	giakwewenyishnaanin
+2+kwe+NA+Con+Pej+1+Pl+4	giikwewenyishnaanin
+
+2+kwe+NA+Con+Pej+1+Pl+Loc	giakwewenyishnaaning
+2+kwe+NA+Con+Pej+1+Pl+Loc	giikwewenyishnaaning
+
+2+kwe+NA+Con+Pej+1+Pl+Pl	giakwewenyishnaany1ag
+2+kwe+NA+Con+Pej+1+Pl+Pl	giikwewenyishnaany1ag
+
+2+kwe+NA+Con+Pej+2+Pl+4	giakwewenyishwaan
+2+kwe+NA+Con+Pej+2+Pl+4	giikwewenyishwaan
+
+2+kwe+NA+Con+Pej+2+Pl+Loc	giakwewenyishwaang
+2+kwe+NA+Con+Pej+2+Pl+Loc	giikwewenyishwaang
+
+2+kwe+NA+Con+Pej+2+Pl+Pl	giakwewenyishwaaag
+2+kwe+NA+Con+Pej+2+Pl+Pl	giikwewenyishwaaag
+
+2+kwe+NA+Dim+Pej+1+Pl+4	giakwewensishnaanin
+2+kwe+NA+Dim+Pej+1+Pl+4	giikwewensishnaanin
+
+2+kwe+NA+Dim+Pej+1+Pl+Loc	giakwewensishnaaning
+2+kwe+NA+Dim+Pej+1+Pl+Loc	giikwewensishnaaning
+
+2+kwe+NA+Dim+Pej+1+Pl+Pl	giakwewensishnaany1ag
+2+kwe+NA+Dim+Pej+1+Pl+Pl	giikwewensishnaany1ag
+
+2+kwe+NA+Dim+Pej+2+Pl+4	giakwewensishwaan
+2+kwe+NA+Dim+Pej+2+Pl+4	giikwewensishwaan
+
+2+kwe+NA+Dim+Pej+2+Pl+Loc	giakwewensishwaang
+2+kwe+NA+Dim+Pej+2+Pl+Loc	giikwewensishwaang
+
+2+kwe+NA+Dim+Pej+2+Pl+Pl	giakwewensishwaaag
+2+kwe+NA+Dim+Pej+2+Pl+Pl	giikwewensishwaaag
+
+3+kwe+NA+Con+Pej+2+Pl+4	oakwewenyishwaan
+3+kwe+NA+Con+Pej+2+Pl+4	oikwewenyishwaan
+
+3+kwe+NA+Con+Pej+2+Pl+Loc	oakwewenyishwaang
+3+kwe+NA+Con+Pej+2+Pl+Loc	oikwewenyishwaang
+
+3+kwe+NA+Con+Pej+3+4+4	oakwewenyishniwan
+3+kwe+NA+Con+Pej+3+4+4	oikwewenyishniwan
+
+3+kwe+NA+Con+Pej+3+4+Loc	oakwewenyishniing
+3+kwe+NA+Con+Pej+3+4+Loc	oikwewenyishniing
+
+3+kwe+NA+Dim+Pej+2+Pl+4	oakwewensishwaan
+3+kwe+NA+Dim+Pej+2+Pl+4	oikwewensishwaan
+
+3+kwe+NA+Dim+Pej+2+Pl+Loc	oakwewensishwaang
+3+kwe+NA+Dim+Pej+2+Pl+Loc	oikwewensishwaang
+
+3+kwe+NA+Dim+Pej+3+4+4	oakwewensishniwan
+3+kwe+NA+Dim+Pej+3+4+4	oikwewensishniwan
+
+3+kwe+NA+Dim+Pej+3+4+Loc	oakwewensishniing
+3+kwe+NA+Dim+Pej+3+4+Loc	oikwewensishniing
+
+1+kwe+NA+Con+Pej+Prt+4	niakwewenyishibaniin
+1+kwe+NA+Con+Pej+Prt+4	niikwewenyishibaniin
+
+1+kwe+NA+Con+Pej+Prt+Loc	niakwewenyishibaniing
+1+kwe+NA+Con+Pej+Prt+Loc	niikwewenyishibaniing
+
+1+kwe+NA+Con+Pej+Prt+Pl	niakwewenyishibani1ag
+1+kwe+NA+Con+Pej+Prt+Pl	niikwewenyishibani1ag
+
+1+kwe+NA+Dim+Pej+Prt+4	niakwewensishibaniin
+1+kwe+NA+Dim+Pej+Prt+4	niikwewensishibaniin
+
+1+kwe+NA+Dim+Pej+Prt+Loc	niakwewensishibaniing
+1+kwe+NA+Dim+Pej+Prt+Loc	niikwewensishibaniing
+
+1+kwe+NA+Dim+Pej+Prt+Pl	niakwewensishibani1ag
+1+kwe+NA+Dim+Pej+Prt+Pl	niikwewensishibani1ag
+
+2+kwe+NA+Con+Pej+Prt+4	giakwewenyishibaniin
+2+kwe+NA+Con+Pej+Prt+4	giikwewenyishibaniin
+
+2+kwe+NA+Con+Pej+Prt+Loc	giakwewenyishibaniing
+2+kwe+NA+Con+Pej+Prt+Loc	giikwewenyishibaniing
+
+2+kwe+NA+Con+Pej+Prt+Pl	giakwewenyishibani1ag
+2+kwe+NA+Con+Pej+Prt+Pl	giikwewenyishibani1ag
+
+2+kwe+NA+Dim+Pej+Prt+4	giakwewensishibaniin
+2+kwe+NA+Dim+Pej+Prt+4	giikwewensishibaniin
+
+2+kwe+NA+Dim+Pej+Prt+Loc	giakwewensishibaniing
+2+kwe+NA+Dim+Pej+Prt+Loc	giikwewensishibaniing
+
+2+kwe+NA+Dim+Pej+Prt+Pl	giakwewensishibani1ag
+2+kwe+NA+Dim+Pej+Prt+Pl	giikwewensishibani1ag
+
+3+kwe+NA+Con+Pej+Prt+4	oakwewenyishibaniin
+3+kwe+NA+Con+Pej+Prt+4	oikwewenyishibaniin
+
+3+kwe+NA+Con+Pej+Prt+Loc	oakwewenyishibaniing
+3+kwe+NA+Con+Pej+Prt+Loc	oikwewenyishibaniing
+
+3+kwe+NA+Dim+Pej+Prt+4	oakwewensishibaniin
+3+kwe+NA+Dim+Pej+Prt+4	oikwewensishibaniin
+
+3+kwe+NA+Dim+Pej+Prt+Loc	oakwewensishibaniing
+3+kwe+NA+Dim+Pej+Prt+Loc	oikwewensishibaniing
+
+X+kwe+NA+Con+Pej+Prt+4	iakwewenyishibaniin
+X+kwe+NA+Con+Pej+Prt+4	iikwewenyishibaniin
+
+X+kwe+NA+Con+Pej+Prt+Loc	iakwewenyishibaniing
+X+kwe+NA+Con+Pej+Prt+Loc	iikwewenyishibaniing
+
+X+kwe+NA+Con+Pej+Prt+Pl	iakwewenyishibani1ag
+X+kwe+NA+Con+Pej+Prt+Pl	iikwewenyishibani1ag
+
+X+kwe+NA+Dim+Pej+Prt+4	iakwewensishibaniin
+X+kwe+NA+Dim+Pej+Prt+4	iikwewensishibaniin
+
+X+kwe+NA+Dim+Pej+Prt+Loc	iakwewensishibaniing
+X+kwe+NA+Dim+Pej+Prt+Loc	iikwewensishibaniing
+
+X+kwe+NA+Dim+Pej+Prt+Pl	iakwewensishibani1ag
+X+kwe+NA+Dim+Pej+Prt+Pl	iikwewensishibani1ag
+
+1+kwe+NA+Con+1+Pl+Prt+4	niakwewenynaanibaniin
+1+kwe+NA+Con+1+Pl+Prt+4	niikwewenynaanibaniin
+
+1+kwe+NA+Con+1+Pl+Prt+Loc	niakwewenynaanibaniing
+1+kwe+NA+Con+1+Pl+Prt+Loc	niikwewenynaanibaniing
+
+1+kwe+NA+Con+1+Pl+Prt+Pl	niakwewenynaanibani1ag
+1+kwe+NA+Con+1+Pl+Prt+Pl	niikwewenynaanibani1ag
+
+1+kwe+NA+Dim+1+Pl+Prt+4	niakwewensnaanibaniin
+1+kwe+NA+Dim+1+Pl+Prt+4	niikwewensnaanibaniin
+
+1+kwe+NA+Dim+1+Pl+Prt+Loc	niakwewensnaanibaniing
+1+kwe+NA+Dim+1+Pl+Prt+Loc	niikwewensnaanibaniing
+
+1+kwe+NA+Dim+1+Pl+Prt+Pl	niakwewensnaanibani1ag
+1+kwe+NA+Dim+1+Pl+Prt+Pl	niikwewensnaanibani1ag
+
+2+kwe+NA+Con+1+Pl+Prt+4	giakwewenynaanibaniin
+2+kwe+NA+Con+1+Pl+Prt+4	giikwewenynaanibaniin
+
+2+kwe+NA+Con+1+Pl+Prt+Loc	giakwewenynaanibaniing
+2+kwe+NA+Con+1+Pl+Prt+Loc	giikwewenynaanibaniing
+
+2+kwe+NA+Con+1+Pl+Prt+Pl	giakwewenynaanibani1ag
+2+kwe+NA+Con+1+Pl+Prt+Pl	giikwewenynaanibani1ag
+
+2+kwe+NA+Con+2+Pl+Prt+4	giakwewenywaabaniin
+2+kwe+NA+Con+2+Pl+Prt+4	giikwewenywaabaniin
+
+2+kwe+NA+Con+2+Pl+Prt+Loc	giakwewenywaabaniing
+2+kwe+NA+Con+2+Pl+Prt+Loc	giikwewenywaabaniing
+
+2+kwe+NA+Con+2+Pl+Prt+Pl	giakwewenywaabani1ag
+2+kwe+NA+Con+2+Pl+Prt+Pl	giikwewenywaabani1ag
+
+2+kwe+NA+Dim+1+Pl+Prt+4	giakwewensnaanibaniin
+2+kwe+NA+Dim+1+Pl+Prt+4	giikwewensnaanibaniin
+
+2+kwe+NA+Dim+1+Pl+Prt+Loc	giakwewensnaanibaniing
+2+kwe+NA+Dim+1+Pl+Prt+Loc	giikwewensnaanibaniing
+
+2+kwe+NA+Dim+1+Pl+Prt+Pl	giakwewensnaanibani1ag
+2+kwe+NA+Dim+1+Pl+Prt+Pl	giikwewensnaanibani1ag
+
+2+kwe+NA+Dim+2+Pl+Prt+4	giakwewenswaabaniin
+2+kwe+NA+Dim+2+Pl+Prt+4	giikwewenswaabaniin
+
+2+kwe+NA+Dim+2+Pl+Prt+Loc	giakwewenswaabaniing
+2+kwe+NA+Dim+2+Pl+Prt+Loc	giikwewenswaabaniing
+
+2+kwe+NA+Dim+2+Pl+Prt+Pl	giakwewenswaabani1ag
+2+kwe+NA+Dim+2+Pl+Prt+Pl	giikwewenswaabani1ag
+
+3+kwe+NA+Con+2+Pl+Prt+4	oakwewenywaabaniin
+3+kwe+NA+Con+2+Pl+Prt+4	oikwewenywaabaniin
+
+3+kwe+NA+Con+2+Pl+Prt+Loc	oakwewenywaabaniing
+3+kwe+NA+Con+2+Pl+Prt+Loc	oikwewenywaabaniing
+
+3+kwe+NA+Con+3+4+Prt+4	oakwewenyniwibaniin
+3+kwe+NA+Con+3+4+Prt+4	oakwewenyniibaniin
+3+kwe+NA+Con+3+4+Prt+4	oikwewenyniwibaniin
+3+kwe+NA+Con+3+4+Prt+4	oikwewenyniibaniin
+
+3+kwe+NA+Con+3+4+Prt+Loc	oakwewenyniwibaniing
+3+kwe+NA+Con+3+4+Prt+Loc	oakwewenyniibaniing
+3+kwe+NA+Con+3+4+Prt+Loc	oikwewenyniwibaniing
+3+kwe+NA+Con+3+4+Prt+Loc	oikwewenyniibaniing
+
+3+kwe+NA+Dim+2+Pl+Prt+4	oakwewenswaabaniin
+3+kwe+NA+Dim+2+Pl+Prt+4	oikwewenswaabaniin
+
+3+kwe+NA+Dim+2+Pl+Prt+Loc	oakwewenswaabaniing
+3+kwe+NA+Dim+2+Pl+Prt+Loc	oikwewenswaabaniing
+
+3+kwe+NA+Dim+3+4+Prt+4	oakwewensniwibaniin
+3+kwe+NA+Dim+3+4+Prt+4	oakwewensniibaniin
+3+kwe+NA+Dim+3+4+Prt+4	oikwewensniwibaniin
+3+kwe+NA+Dim+3+4+Prt+4	oikwewensniibaniin
+
+3+kwe+NA+Dim+3+4+Prt+Loc	oakwewensniwibaniing
+3+kwe+NA+Dim+3+4+Prt+Loc	oakwewensniibaniing
+3+kwe+NA+Dim+3+4+Prt+Loc	oikwewensniwibaniing
+3+kwe+NA+Dim+3+4+Prt+Loc	oikwewensniibaniing
+
+1+kwe+NA+ThmPos+Pej+1+Pl+Prt	niakwewmishnaaniban
+1+kwe+NA+ThmPos+Pej+1+Pl+Prt	niakwewmishnaaniba
+1+kwe+NA+ThmPos+Pej+1+Pl+Prt	niikwewmishnaaniban
+1+kwe+NA+ThmPos+Pej+1+Pl+Prt	niikwewmishnaaniba
+
+1+kwe+NA+ThmPos+Pej+1+Pl+Voc+Pl	niakwewmishnaany1dig
+1+kwe+NA+ThmPos+Pej+1+Pl+Voc+Pl	niikwewmishnaany1dig
+
+2+kwe+NA+ThmPos+Pej+1+Pl+Prt	giakwewmishnaaniban
+2+kwe+NA+ThmPos+Pej+1+Pl+Prt	giakwewmishnaaniba
+2+kwe+NA+ThmPos+Pej+1+Pl+Prt	giikwewmishnaaniban
+2+kwe+NA+ThmPos+Pej+1+Pl+Prt	giikwewmishnaaniba
+
+2+kwe+NA+ThmPos+Pej+1+Pl+Voc+Pl	giakwewmishnaany1dig
+2+kwe+NA+ThmPos+Pej+1+Pl+Voc+Pl	giikwewmishnaany1dig
+
+2+kwe+NA+ThmPos+Pej+2+Pl+Prt	giakwewmishwaaban
+2+kwe+NA+ThmPos+Pej+2+Pl+Prt	giakwewmishwaaba
+2+kwe+NA+ThmPos+Pej+2+Pl+Prt	giikwewmishwaaban
+2+kwe+NA+ThmPos+Pej+2+Pl+Prt	giikwewmishwaaba
+
+2+kwe+NA+ThmPos+Pej+2+Pl+Voc+Pl	giakwewmishwaadig
+2+kwe+NA+ThmPos+Pej+2+Pl+Voc+Pl	giikwewmishwaadig
+
+3+kwe+NA+ThmPos+Pej+3+4+Prt	oakwewmishniwiban
+3+kwe+NA+ThmPos+Pej+3+4+Prt	oakwewmishniwiba
+3+kwe+NA+ThmPos+Pej+3+4+Prt	oakwewmishniiban
+3+kwe+NA+ThmPos+Pej+3+4+Prt	oakwewmishniiba
+3+kwe+NA+ThmPos+Pej+3+4+Prt	oikwewmishniwiban
+3+kwe+NA+ThmPos+Pej+3+4+Prt	oikwewmishniwiba
+3+kwe+NA+ThmPos+Pej+3+4+Prt	oikwewmishniiban
+3+kwe+NA+ThmPos+Pej+3+4+Prt	oikwewmishniiba
+
+1+kwe+NA+ThmPos+Pej+1+Pl+4	niakwewmishnaanin
+1+kwe+NA+ThmPos+Pej+1+Pl+4	niikwewmishnaanin
+
+1+kwe+NA+ThmPos+Pej+1+Pl+Loc	niakwewmishnaaning
+1+kwe+NA+ThmPos+Pej+1+Pl+Loc	niikwewmishnaaning
+
+1+kwe+NA+ThmPos+Pej+1+Pl+Pl	niakwewmishnaany1ag
+1+kwe+NA+ThmPos+Pej+1+Pl+Pl	niikwewmishnaany1ag
+
+2+kwe+NA+ThmPos+Pej+1+Pl+4	giakwewmishnaanin
+2+kwe+NA+ThmPos+Pej+1+Pl+4	giikwewmishnaanin
+
+2+kwe+NA+ThmPos+Pej+1+Pl+Loc	giakwewmishnaaning
+2+kwe+NA+ThmPos+Pej+1+Pl+Loc	giikwewmishnaaning
+
+2+kwe+NA+ThmPos+Pej+1+Pl+Pl	giakwewmishnaany1ag
+2+kwe+NA+ThmPos+Pej+1+Pl+Pl	giikwewmishnaany1ag
+
+2+kwe+NA+ThmPos+Pej+2+Pl+4	giakwewmishwaan
+2+kwe+NA+ThmPos+Pej+2+Pl+4	giikwewmishwaan
+
+2+kwe+NA+ThmPos+Pej+2+Pl+Loc	giakwewmishwaang
+2+kwe+NA+ThmPos+Pej+2+Pl+Loc	giikwewmishwaang
+
+2+kwe+NA+ThmPos+Pej+2+Pl+Pl	giakwewmishwaaag
+2+kwe+NA+ThmPos+Pej+2+Pl+Pl	giikwewmishwaaag
+
+3+kwe+NA+ThmPos+Pej+2+Pl+4	oakwewmishwaan
+3+kwe+NA+ThmPos+Pej+2+Pl+4	oikwewmishwaan
+
+3+kwe+NA+ThmPos+Pej+2+Pl+Loc	oakwewmishwaang
+3+kwe+NA+ThmPos+Pej+2+Pl+Loc	oikwewmishwaang
+
+3+kwe+NA+ThmPos+Pej+3+4+4	oakwewmishniwan
+3+kwe+NA+ThmPos+Pej+3+4+4	oikwewmishniwan
+
+3+kwe+NA+ThmPos+Pej+3+4+Loc	oakwewmishniing
+3+kwe+NA+ThmPos+Pej+3+4+Loc	oikwewmishniing
+
+1+kwe+NA+ThmPos+Pej+Prt+4	niakwewmishibaniin
+1+kwe+NA+ThmPos+Pej+Prt+4	niikwewmishibaniin
+
+1+kwe+NA+ThmPos+Pej+Prt+Loc	niakwewmishibaniing
+1+kwe+NA+ThmPos+Pej+Prt+Loc	niikwewmishibaniing
+
+1+kwe+NA+ThmPos+Pej+Prt+Pl	niakwewmishibani1ag
+1+kwe+NA+ThmPos+Pej+Prt+Pl	niikwewmishibani1ag
+
+2+kwe+NA+ThmPos+Pej+Prt+4	giakwewmishibaniin
+2+kwe+NA+ThmPos+Pej+Prt+4	giikwewmishibaniin
+
+2+kwe+NA+ThmPos+Pej+Prt+Loc	giakwewmishibaniing
+2+kwe+NA+ThmPos+Pej+Prt+Loc	giikwewmishibaniing
+
+2+kwe+NA+ThmPos+Pej+Prt+Pl	giakwewmishibani1ag
+2+kwe+NA+ThmPos+Pej+Prt+Pl	giikwewmishibani1ag
+
+3+kwe+NA+ThmPos+Pej+Prt+4	oakwewmishibaniin
+3+kwe+NA+ThmPos+Pej+Prt+4	oikwewmishibaniin
+
+3+kwe+NA+ThmPos+Pej+Prt+Loc	oakwewmishibaniing
+3+kwe+NA+ThmPos+Pej+Prt+Loc	oikwewmishibaniing
+
+X+kwe+NA+ThmPos+Pej+Prt+4	iakwewmishibaniin
+X+kwe+NA+ThmPos+Pej+Prt+4	iikwewmishibaniin
+
+X+kwe+NA+ThmPos+Pej+Prt+Loc	iakwewmishibaniing
+X+kwe+NA+ThmPos+Pej+Prt+Loc	iikwewmishibaniing
+
+X+kwe+NA+ThmPos+Pej+Prt+Pl	iakwewmishibani1ag
+X+kwe+NA+ThmPos+Pej+Prt+Pl	iikwewmishibani1ag
+
+1+kwe+NA+ThmPos+1+Pl+Prt+4	niakwewmnaanibaniin
+1+kwe+NA+ThmPos+1+Pl+Prt+4	niikwewmnaanibaniin
+
+1+kwe+NA+ThmPos+1+Pl+Prt+Loc	niakwewmnaanibaniing
+1+kwe+NA+ThmPos+1+Pl+Prt+Loc	niikwewmnaanibaniing
+
+1+kwe+NA+ThmPos+1+Pl+Prt+Pl	niakwewmnaanibani1ag
+1+kwe+NA+ThmPos+1+Pl+Prt+Pl	niikwewmnaanibani1ag
+
+2+kwe+NA+ThmPos+1+Pl+Prt+4	giakwewmnaanibaniin
+2+kwe+NA+ThmPos+1+Pl+Prt+4	giikwewmnaanibaniin
+
+2+kwe+NA+ThmPos+1+Pl+Prt+Loc	giakwewmnaanibaniing
+2+kwe+NA+ThmPos+1+Pl+Prt+Loc	giikwewmnaanibaniing
+
+2+kwe+NA+ThmPos+1+Pl+Prt+Pl	giakwewmnaanibani1ag
+2+kwe+NA+ThmPos+1+Pl+Prt+Pl	giikwewmnaanibani1ag
+
+2+kwe+NA+ThmPos+2+Pl+Prt+4	giakwewmwaabaniin
+2+kwe+NA+ThmPos+2+Pl+Prt+4	giikwewmwaabaniin
+
+2+kwe+NA+ThmPos+2+Pl+Prt+Loc	giakwewmwaabaniing
+2+kwe+NA+ThmPos+2+Pl+Prt+Loc	giikwewmwaabaniing
+
+2+kwe+NA+ThmPos+2+Pl+Prt+Pl	giakwewmwaabani1ag
+2+kwe+NA+ThmPos+2+Pl+Prt+Pl	giikwewmwaabani1ag
+
+3+kwe+NA+ThmPos+2+Pl+Prt+4	oakwewmwaabaniin
+3+kwe+NA+ThmPos+2+Pl+Prt+4	oikwewmwaabaniin
+
+3+kwe+NA+ThmPos+2+Pl+Prt+Loc	oakwewmwaabaniing
+3+kwe+NA+ThmPos+2+Pl+Prt+Loc	oikwewmwaabaniing
+
+3+kwe+NA+ThmPos+3+4+Prt+4	oakwewmniwibaniin
+3+kwe+NA+ThmPos+3+4+Prt+4	oakwewmniibaniin
+3+kwe+NA+ThmPos+3+4+Prt+4	oikwewmniwibaniin
+3+kwe+NA+ThmPos+3+4+Prt+4	oikwewmniibaniin
+
+3+kwe+NA+ThmPos+3+4+Prt+Loc	oakwewmniwibaniing
+3+kwe+NA+ThmPos+3+4+Prt+Loc	oakwewmniibaniing
+3+kwe+NA+ThmPos+3+4+Prt+Loc	oikwewmniwibaniing
+3+kwe+NA+ThmPos+3+4+Prt+Loc	oikwewmniibaniing
+
+1+kwe+NA+Pej+1+Pl+Prt+4	niakwewshnaanibaniin
+1+kwe+NA+Pej+1+Pl+Prt+4	niikwewshnaanibaniin
+
+1+kwe+NA+Pej+1+Pl+Prt+Loc	niakwewshnaanibaniing
+1+kwe+NA+Pej+1+Pl+Prt+Loc	niikwewshnaanibaniing
+
+1+kwe+NA+Pej+1+Pl+Prt+Pl	niakwewshnaanibani1ag
+1+kwe+NA+Pej+1+Pl+Prt+Pl	niikwewshnaanibani1ag
+
+2+kwe+NA+Pej+1+Pl+Prt+4	giakwewshnaanibaniin
+2+kwe+NA+Pej+1+Pl+Prt+4	giikwewshnaanibaniin
+
+2+kwe+NA+Pej+1+Pl+Prt+Loc	giakwewshnaanibaniing
+2+kwe+NA+Pej+1+Pl+Prt+Loc	giikwewshnaanibaniing
+
+2+kwe+NA+Pej+1+Pl+Prt+Pl	giakwewshnaanibani1ag
+2+kwe+NA+Pej+1+Pl+Prt+Pl	giikwewshnaanibani1ag
+
+2+kwe+NA+Pej+2+Pl+Prt+4	giakwewshwaabaniin
+2+kwe+NA+Pej+2+Pl+Prt+4	giikwewshwaabaniin
+
+2+kwe+NA+Pej+2+Pl+Prt+Loc	giakwewshwaabaniing
+2+kwe+NA+Pej+2+Pl+Prt+Loc	giikwewshwaabaniing
+
+2+kwe+NA+Pej+2+Pl+Prt+Pl	giakwewshwaabani1ag
+2+kwe+NA+Pej+2+Pl+Prt+Pl	giikwewshwaabani1ag
+
+3+kwe+NA+Pej+2+Pl+Prt+4	oakwewshwaabaniin
+3+kwe+NA+Pej+2+Pl+Prt+4	oikwewshwaabaniin
+
+3+kwe+NA+Pej+2+Pl+Prt+Loc	oakwewshwaabaniing
+3+kwe+NA+Pej+2+Pl+Prt+Loc	oikwewshwaabaniing
+
+3+kwe+NA+Pej+3+4+Prt+4	oakwewshniwibaniin
+3+kwe+NA+Pej+3+4+Prt+4	oakwewshniibaniin
+3+kwe+NA+Pej+3+4+Prt+4	oikwewshniwibaniin
+3+kwe+NA+Pej+3+4+Prt+4	oikwewshniibaniin
+
+3+kwe+NA+Pej+3+4+Prt+Loc	oakwewshniwibaniing
+3+kwe+NA+Pej+3+4+Prt+Loc	oakwewshniibaniing
+3+kwe+NA+Pej+3+4+Prt+Loc	oikwewshniwibaniing
+3+kwe+NA+Pej+3+4+Prt+Loc	oikwewshniibaniing
+
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt	niakwewenymishnaaniban
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt	niakwewenymishnaaniba
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt	niikwewenymishnaaniban
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt	niikwewenymishnaaniba
+
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl	niakwewenymishnaany1dig
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl	niikwewenymishnaany1dig
+
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt	niakwewensmishnaaniban
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt	niakwewensmishnaaniba
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt	niikwewensmishnaaniban
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt	niikwewensmishnaaniba
+
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl	niakwewensmishnaany1dig
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl	niikwewensmishnaany1dig
+
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt	giakwewenymishnaaniban
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt	giakwewenymishnaaniba
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt	giikwewenymishnaaniban
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt	giikwewenymishnaaniba
+
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl	giakwewenymishnaany1dig
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl	giikwewenymishnaany1dig
+
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt	giakwewenymishwaaban
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt	giakwewenymishwaaba
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt	giikwewenymishwaaban
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt	giikwewenymishwaaba
+
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Voc+Pl	giakwewenymishwaadig
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Voc+Pl	giikwewenymishwaadig
+
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt	giakwewensmishnaaniban
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt	giakwewensmishnaaniba
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt	giikwewensmishnaaniban
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt	giikwewensmishnaaniba
+
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl	giakwewensmishnaany1dig
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl	giikwewensmishnaany1dig
+
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt	giakwewensmishwaaban
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt	giakwewensmishwaaba
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt	giikwewensmishwaaban
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt	giikwewensmishwaaba
+
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Voc+Pl	giakwewensmishwaadig
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Voc+Pl	giikwewensmishwaadig
+
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt	oakwewenymishniwiban
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt	oakwewenymishniwiba
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt	oakwewenymishniiban
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt	oakwewenymishniiba
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt	oikwewenymishniwiban
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt	oikwewenymishniwiba
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt	oikwewenymishniiban
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt	oikwewenymishniiba
+
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt	oakwewensmishniwiban
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt	oakwewensmishniwiba
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt	oakwewensmishniiban
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt	oakwewensmishniiba
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt	oikwewensmishniwiban
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt	oikwewensmishniwiba
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt	oikwewensmishniiban
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt	oikwewensmishniiba
+
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+4	niakwewenymishnaanin
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+4	niikwewenymishnaanin
+
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Loc	niakwewenymishnaaning
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Loc	niikwewenymishnaaning
+
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Pl	niakwewenymishnaany1ag
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Pl	niikwewenymishnaany1ag
+
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+4	niakwewensmishnaanin
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+4	niikwewensmishnaanin
+
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Loc	niakwewensmishnaaning
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Loc	niikwewensmishnaaning
+
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Pl	niakwewensmishnaany1ag
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Pl	niikwewensmishnaany1ag
+
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+4	giakwewenymishnaanin
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+4	giikwewenymishnaanin
+
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Loc	giakwewenymishnaaning
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Loc	giikwewenymishnaaning
+
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Pl	giakwewenymishnaany1ag
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Pl	giikwewenymishnaany1ag
+
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+4	giakwewenymishwaan
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+4	giikwewenymishwaan
+
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Loc	giakwewenymishwaang
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Loc	giikwewenymishwaang
+
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Pl	giakwewenymishwaaag
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Pl	giikwewenymishwaaag
+
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+4	giakwewensmishnaanin
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+4	giikwewensmishnaanin
+
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Loc	giakwewensmishnaaning
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Loc	giikwewensmishnaaning
+
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Pl	giakwewensmishnaany1ag
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Pl	giikwewensmishnaany1ag
+
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+4	giakwewensmishwaan
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+4	giikwewensmishwaan
+
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Loc	giakwewensmishwaang
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Loc	giikwewensmishwaang
+
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Pl	giakwewensmishwaaag
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Pl	giikwewensmishwaaag
+
+3+kwe+NA+Con+ThmPos+Pej+2+Pl+4	oakwewenymishwaan
+3+kwe+NA+Con+ThmPos+Pej+2+Pl+4	oikwewenymishwaan
+
+3+kwe+NA+Con+ThmPos+Pej+2+Pl+Loc	oakwewenymishwaang
+3+kwe+NA+Con+ThmPos+Pej+2+Pl+Loc	oikwewenymishwaang
+
+3+kwe+NA+Con+ThmPos+Pej+3+4+4	oakwewenymishniwan
+3+kwe+NA+Con+ThmPos+Pej+3+4+4	oikwewenymishniwan
+
+3+kwe+NA+Con+ThmPos+Pej+3+4+Loc	oakwewenymishniing
+3+kwe+NA+Con+ThmPos+Pej+3+4+Loc	oikwewenymishniing
+
+3+kwe+NA+Dim+ThmPos+Pej+2+Pl+4	oakwewensmishwaan
+3+kwe+NA+Dim+ThmPos+Pej+2+Pl+4	oikwewensmishwaan
+
+3+kwe+NA+Dim+ThmPos+Pej+2+Pl+Loc	oakwewensmishwaang
+3+kwe+NA+Dim+ThmPos+Pej+2+Pl+Loc	oikwewensmishwaang
+
+3+kwe+NA+Dim+ThmPos+Pej+3+4+4	oakwewensmishniwan
+3+kwe+NA+Dim+ThmPos+Pej+3+4+4	oikwewensmishniwan
+
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Loc	oakwewensmishniing
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Loc	oikwewensmishniing
+
+1+kwe+NA+Con+ThmPos+Pej+Prt+4	niakwewenymishibaniin
+1+kwe+NA+Con+ThmPos+Pej+Prt+4	niikwewenymishibaniin
+
+1+kwe+NA+Con+ThmPos+Pej+Prt+Loc	niakwewenymishibaniing
+1+kwe+NA+Con+ThmPos+Pej+Prt+Loc	niikwewenymishibaniing
+
+1+kwe+NA+Con+ThmPos+Pej+Prt+Pl	niakwewenymishibani1ag
+1+kwe+NA+Con+ThmPos+Pej+Prt+Pl	niikwewenymishibani1ag
+
+1+kwe+NA+Dim+ThmPos+Pej+Prt+4	niakwewensmishibaniin
+1+kwe+NA+Dim+ThmPos+Pej+Prt+4	niikwewensmishibaniin
+
+1+kwe+NA+Dim+ThmPos+Pej+Prt+Loc	niakwewensmishibaniing
+1+kwe+NA+Dim+ThmPos+Pej+Prt+Loc	niikwewensmishibaniing
+
+1+kwe+NA+Dim+ThmPos+Pej+Prt+Pl	niakwewensmishibani1ag
+1+kwe+NA+Dim+ThmPos+Pej+Prt+Pl	niikwewensmishibani1ag
+
+2+kwe+NA+Con+ThmPos+Pej+Prt+4	giakwewenymishibaniin
+2+kwe+NA+Con+ThmPos+Pej+Prt+4	giikwewenymishibaniin
+
+2+kwe+NA+Con+ThmPos+Pej+Prt+Loc	giakwewenymishibaniing
+2+kwe+NA+Con+ThmPos+Pej+Prt+Loc	giikwewenymishibaniing
+
+2+kwe+NA+Con+ThmPos+Pej+Prt+Pl	giakwewenymishibani1ag
+2+kwe+NA+Con+ThmPos+Pej+Prt+Pl	giikwewenymishibani1ag
+
+2+kwe+NA+Dim+ThmPos+Pej+Prt+4	giakwewensmishibaniin
+2+kwe+NA+Dim+ThmPos+Pej+Prt+4	giikwewensmishibaniin
+
+2+kwe+NA+Dim+ThmPos+Pej+Prt+Loc	giakwewensmishibaniing
+2+kwe+NA+Dim+ThmPos+Pej+Prt+Loc	giikwewensmishibaniing
+
+2+kwe+NA+Dim+ThmPos+Pej+Prt+Pl	giakwewensmishibani1ag
+2+kwe+NA+Dim+ThmPos+Pej+Prt+Pl	giikwewensmishibani1ag
+
+3+kwe+NA+Con+ThmPos+Pej+Prt+4	oakwewenymishibaniin
+3+kwe+NA+Con+ThmPos+Pej+Prt+4	oikwewenymishibaniin
+
+3+kwe+NA+Con+ThmPos+Pej+Prt+Loc	oakwewenymishibaniing
+3+kwe+NA+Con+ThmPos+Pej+Prt+Loc	oikwewenymishibaniing
+
+3+kwe+NA+Dim+ThmPos+Pej+Prt+4	oakwewensmishibaniin
+3+kwe+NA+Dim+ThmPos+Pej+Prt+4	oikwewensmishibaniin
+
+3+kwe+NA+Dim+ThmPos+Pej+Prt+Loc	oakwewensmishibaniing
+3+kwe+NA+Dim+ThmPos+Pej+Prt+Loc	oikwewensmishibaniing
+
+X+kwe+NA+Con+ThmPos+Pej+Prt+4	iakwewenymishibaniin
+X+kwe+NA+Con+ThmPos+Pej+Prt+4	iikwewenymishibaniin
+
+X+kwe+NA+Con+ThmPos+Pej+Prt+Loc	iakwewenymishibaniing
+X+kwe+NA+Con+ThmPos+Pej+Prt+Loc	iikwewenymishibaniing
+
+X+kwe+NA+Con+ThmPos+Pej+Prt+Pl	iakwewenymishibani1ag
+X+kwe+NA+Con+ThmPos+Pej+Prt+Pl	iikwewenymishibani1ag
+
+X+kwe+NA+Dim+ThmPos+Pej+Prt+4	iakwewensmishibaniin
+X+kwe+NA+Dim+ThmPos+Pej+Prt+4	iikwewensmishibaniin
+
+X+kwe+NA+Dim+ThmPos+Pej+Prt+Loc	iakwewensmishibaniing
+X+kwe+NA+Dim+ThmPos+Pej+Prt+Loc	iikwewensmishibaniing
+
+X+kwe+NA+Dim+ThmPos+Pej+Prt+Pl	iakwewensmishibani1ag
+X+kwe+NA+Dim+ThmPos+Pej+Prt+Pl	iikwewensmishibani1ag
+
+1+kwe+NA+Con+ThmPos+1+Pl+Prt+4	niakwewenymnaanibaniin
+1+kwe+NA+Con+ThmPos+1+Pl+Prt+4	niikwewenymnaanibaniin
+
+1+kwe+NA+Con+ThmPos+1+Pl+Prt+Loc	niakwewenymnaanibaniing
+1+kwe+NA+Con+ThmPos+1+Pl+Prt+Loc	niikwewenymnaanibaniing
+
+1+kwe+NA+Con+ThmPos+1+Pl+Prt+Pl	niakwewenymnaanibani1ag
+1+kwe+NA+Con+ThmPos+1+Pl+Prt+Pl	niikwewenymnaanibani1ag
+
+1+kwe+NA+Dim+ThmPos+1+Pl+Prt+4	niakwewensmnaanibaniin
+1+kwe+NA+Dim+ThmPos+1+Pl+Prt+4	niikwewensmnaanibaniin
+
+1+kwe+NA+Dim+ThmPos+1+Pl+Prt+Loc	niakwewensmnaanibaniing
+1+kwe+NA+Dim+ThmPos+1+Pl+Prt+Loc	niikwewensmnaanibaniing
+
+1+kwe+NA+Dim+ThmPos+1+Pl+Prt+Pl	niakwewensmnaanibani1ag
+1+kwe+NA+Dim+ThmPos+1+Pl+Prt+Pl	niikwewensmnaanibani1ag
+
+2+kwe+NA+Con+ThmPos+1+Pl+Prt+4	giakwewenymnaanibaniin
+2+kwe+NA+Con+ThmPos+1+Pl+Prt+4	giikwewenymnaanibaniin
+
+2+kwe+NA+Con+ThmPos+1+Pl+Prt+Loc	giakwewenymnaanibaniing
+2+kwe+NA+Con+ThmPos+1+Pl+Prt+Loc	giikwewenymnaanibaniing
+
+2+kwe+NA+Con+ThmPos+1+Pl+Prt+Pl	giakwewenymnaanibani1ag
+2+kwe+NA+Con+ThmPos+1+Pl+Prt+Pl	giikwewenymnaanibani1ag
+
+2+kwe+NA+Con+ThmPos+2+Pl+Prt+4	giakwewenymwaabaniin
+2+kwe+NA+Con+ThmPos+2+Pl+Prt+4	giikwewenymwaabaniin
+
+2+kwe+NA+Con+ThmPos+2+Pl+Prt+Loc	giakwewenymwaabaniing
+2+kwe+NA+Con+ThmPos+2+Pl+Prt+Loc	giikwewenymwaabaniing
+
+2+kwe+NA+Con+ThmPos+2+Pl+Prt+Pl	giakwewenymwaabani1ag
+2+kwe+NA+Con+ThmPos+2+Pl+Prt+Pl	giikwewenymwaabani1ag
+
+2+kwe+NA+Dim+ThmPos+1+Pl+Prt+4	giakwewensmnaanibaniin
+2+kwe+NA+Dim+ThmPos+1+Pl+Prt+4	giikwewensmnaanibaniin
+
+2+kwe+NA+Dim+ThmPos+1+Pl+Prt+Loc	giakwewensmnaanibaniing
+2+kwe+NA+Dim+ThmPos+1+Pl+Prt+Loc	giikwewensmnaanibaniing
+
+2+kwe+NA+Dim+ThmPos+1+Pl+Prt+Pl	giakwewensmnaanibani1ag
+2+kwe+NA+Dim+ThmPos+1+Pl+Prt+Pl	giikwewensmnaanibani1ag
+
+2+kwe+NA+Dim+ThmPos+2+Pl+Prt+4	giakwewensmwaabaniin
+2+kwe+NA+Dim+ThmPos+2+Pl+Prt+4	giikwewensmwaabaniin
+
+2+kwe+NA+Dim+ThmPos+2+Pl+Prt+Loc	giakwewensmwaabaniing
+2+kwe+NA+Dim+ThmPos+2+Pl+Prt+Loc	giikwewensmwaabaniing
+
+2+kwe+NA+Dim+ThmPos+2+Pl+Prt+Pl	giakwewensmwaabani1ag
+2+kwe+NA+Dim+ThmPos+2+Pl+Prt+Pl	giikwewensmwaabani1ag
+
+3+kwe+NA+Con+ThmPos+2+Pl+Prt+4	oakwewenymwaabaniin
+3+kwe+NA+Con+ThmPos+2+Pl+Prt+4	oikwewenymwaabaniin
+
+3+kwe+NA+Con+ThmPos+2+Pl+Prt+Loc	oakwewenymwaabaniing
+3+kwe+NA+Con+ThmPos+2+Pl+Prt+Loc	oikwewenymwaabaniing
+
+3+kwe+NA+Con+ThmPos+3+4+Prt+4	oakwewenymniwibaniin
+3+kwe+NA+Con+ThmPos+3+4+Prt+4	oakwewenymniibaniin
+3+kwe+NA+Con+ThmPos+3+4+Prt+4	oikwewenymniwibaniin
+3+kwe+NA+Con+ThmPos+3+4+Prt+4	oikwewenymniibaniin
+
+3+kwe+NA+Con+ThmPos+3+4+Prt+Loc	oakwewenymniwibaniing
+3+kwe+NA+Con+ThmPos+3+4+Prt+Loc	oakwewenymniibaniing
+3+kwe+NA+Con+ThmPos+3+4+Prt+Loc	oikwewenymniwibaniing
+3+kwe+NA+Con+ThmPos+3+4+Prt+Loc	oikwewenymniibaniing
+
+3+kwe+NA+Dim+ThmPos+2+Pl+Prt+4	oakwewensmwaabaniin
+3+kwe+NA+Dim+ThmPos+2+Pl+Prt+4	oikwewensmwaabaniin
+
+3+kwe+NA+Dim+ThmPos+2+Pl+Prt+Loc	oakwewensmwaabaniing
+3+kwe+NA+Dim+ThmPos+2+Pl+Prt+Loc	oikwewensmwaabaniing
+
+3+kwe+NA+Dim+ThmPos+3+4+Prt+4	oakwewensmniwibaniin
+3+kwe+NA+Dim+ThmPos+3+4+Prt+4	oakwewensmniibaniin
+3+kwe+NA+Dim+ThmPos+3+4+Prt+4	oikwewensmniwibaniin
+3+kwe+NA+Dim+ThmPos+3+4+Prt+4	oikwewensmniibaniin
+
+3+kwe+NA+Dim+ThmPos+3+4+Prt+Loc	oakwewensmniwibaniing
+3+kwe+NA+Dim+ThmPos+3+4+Prt+Loc	oakwewensmniibaniing
+3+kwe+NA+Dim+ThmPos+3+4+Prt+Loc	oikwewensmniwibaniing
+3+kwe+NA+Dim+ThmPos+3+4+Prt+Loc	oikwewensmniibaniing
+
+1+kwe+NA+Con+Pej+1+Pl+Prt+4	niakwewenyishnaanibaniin
+1+kwe+NA+Con+Pej+1+Pl+Prt+4	niikwewenyishnaanibaniin
+
+1+kwe+NA+Con+Pej+1+Pl+Prt+Loc	niakwewenyishnaanibaniing
+1+kwe+NA+Con+Pej+1+Pl+Prt+Loc	niikwewenyishnaanibaniing
+
+1+kwe+NA+Con+Pej+1+Pl+Prt+Pl	niakwewenyishnaanibani1ag
+1+kwe+NA+Con+Pej+1+Pl+Prt+Pl	niikwewenyishnaanibani1ag
+
+1+kwe+NA+Dim+Pej+1+Pl+Prt+4	niakwewensishnaanibaniin
+1+kwe+NA+Dim+Pej+1+Pl+Prt+4	niikwewensishnaanibaniin
+
+1+kwe+NA+Dim+Pej+1+Pl+Prt+Loc	niakwewensishnaanibaniing
+1+kwe+NA+Dim+Pej+1+Pl+Prt+Loc	niikwewensishnaanibaniing
+
+1+kwe+NA+Dim+Pej+1+Pl+Prt+Pl	niakwewensishnaanibani1ag
+1+kwe+NA+Dim+Pej+1+Pl+Prt+Pl	niikwewensishnaanibani1ag
+
+2+kwe+NA+Con+Pej+1+Pl+Prt+4	giakwewenyishnaanibaniin
+2+kwe+NA+Con+Pej+1+Pl+Prt+4	giikwewenyishnaanibaniin
+
+2+kwe+NA+Con+Pej+1+Pl+Prt+Loc	giakwewenyishnaanibaniing
+2+kwe+NA+Con+Pej+1+Pl+Prt+Loc	giikwewenyishnaanibaniing
+
+2+kwe+NA+Con+Pej+1+Pl+Prt+Pl	giakwewenyishnaanibani1ag
+2+kwe+NA+Con+Pej+1+Pl+Prt+Pl	giikwewenyishnaanibani1ag
+
+2+kwe+NA+Con+Pej+2+Pl+Prt+4	giakwewenyishwaabaniin
+2+kwe+NA+Con+Pej+2+Pl+Prt+4	giikwewenyishwaabaniin
+
+2+kwe+NA+Con+Pej+2+Pl+Prt+Loc	giakwewenyishwaabaniing
+2+kwe+NA+Con+Pej+2+Pl+Prt+Loc	giikwewenyishwaabaniing
+
+2+kwe+NA+Con+Pej+2+Pl+Prt+Pl	giakwewenyishwaabani1ag
+2+kwe+NA+Con+Pej+2+Pl+Prt+Pl	giikwewenyishwaabani1ag
+
+2+kwe+NA+Dim+Pej+1+Pl+Prt+4	giakwewensishnaanibaniin
+2+kwe+NA+Dim+Pej+1+Pl+Prt+4	giikwewensishnaanibaniin
+
+2+kwe+NA+Dim+Pej+1+Pl+Prt+Loc	giakwewensishnaanibaniing
+2+kwe+NA+Dim+Pej+1+Pl+Prt+Loc	giikwewensishnaanibaniing
+
+2+kwe+NA+Dim+Pej+1+Pl+Prt+Pl	giakwewensishnaanibani1ag
+2+kwe+NA+Dim+Pej+1+Pl+Prt+Pl	giikwewensishnaanibani1ag
+
+2+kwe+NA+Dim+Pej+2+Pl+Prt+4	giakwewensishwaabaniin
+2+kwe+NA+Dim+Pej+2+Pl+Prt+4	giikwewensishwaabaniin
+
+2+kwe+NA+Dim+Pej+2+Pl+Prt+Loc	giakwewensishwaabaniing
+2+kwe+NA+Dim+Pej+2+Pl+Prt+Loc	giikwewensishwaabaniing
+
+2+kwe+NA+Dim+Pej+2+Pl+Prt+Pl	giakwewensishwaabani1ag
+2+kwe+NA+Dim+Pej+2+Pl+Prt+Pl	giikwewensishwaabani1ag
+
+3+kwe+NA+Con+Pej+2+Pl+Prt+4	oakwewenyishwaabaniin
+3+kwe+NA+Con+Pej+2+Pl+Prt+4	oikwewenyishwaabaniin
+
+3+kwe+NA+Con+Pej+2+Pl+Prt+Loc	oakwewenyishwaabaniing
+3+kwe+NA+Con+Pej+2+Pl+Prt+Loc	oikwewenyishwaabaniing
+
+3+kwe+NA+Con+Pej+3+4+Prt+4	oakwewenyishniwibaniin
+3+kwe+NA+Con+Pej+3+4+Prt+4	oakwewenyishniibaniin
+3+kwe+NA+Con+Pej+3+4+Prt+4	oikwewenyishniwibaniin
+3+kwe+NA+Con+Pej+3+4+Prt+4	oikwewenyishniibaniin
+
+3+kwe+NA+Con+Pej+3+4+Prt+Loc	oakwewenyishniwibaniing
+3+kwe+NA+Con+Pej+3+4+Prt+Loc	oakwewenyishniibaniing
+3+kwe+NA+Con+Pej+3+4+Prt+Loc	oikwewenyishniwibaniing
+3+kwe+NA+Con+Pej+3+4+Prt+Loc	oikwewenyishniibaniing
+
+3+kwe+NA+Dim+Pej+2+Pl+Prt+4	oakwewensishwaabaniin
+3+kwe+NA+Dim+Pej+2+Pl+Prt+4	oikwewensishwaabaniin
+
+3+kwe+NA+Dim+Pej+2+Pl+Prt+Loc	oakwewensishwaabaniing
+3+kwe+NA+Dim+Pej+2+Pl+Prt+Loc	oikwewensishwaabaniing
+
+3+kwe+NA+Dim+Pej+3+4+Prt+4	oakwewensishniwibaniin
+3+kwe+NA+Dim+Pej+3+4+Prt+4	oakwewensishniibaniin
+3+kwe+NA+Dim+Pej+3+4+Prt+4	oikwewensishniwibaniin
+3+kwe+NA+Dim+Pej+3+4+Prt+4	oikwewensishniibaniin
+
+3+kwe+NA+Dim+Pej+3+4+Prt+Loc	oakwewensishniwibaniing
+3+kwe+NA+Dim+Pej+3+4+Prt+Loc	oakwewensishniibaniing
+3+kwe+NA+Dim+Pej+3+4+Prt+Loc	oikwewensishniwibaniing
+3+kwe+NA+Dim+Pej+3+4+Prt+Loc	oikwewensishniibaniing
+
+1+kwe+NA+ThmPos+Pej+1+Pl+Prt+4	niakwewmishnaanibaniin
+1+kwe+NA+ThmPos+Pej+1+Pl+Prt+4	niikwewmishnaanibaniin
+
+1+kwe+NA+ThmPos+Pej+1+Pl+Prt+Loc	niakwewmishnaanibaniing
+1+kwe+NA+ThmPos+Pej+1+Pl+Prt+Loc	niikwewmishnaanibaniing
+
+1+kwe+NA+ThmPos+Pej+1+Pl+Prt+Pl	niakwewmishnaanibani1ag
+1+kwe+NA+ThmPos+Pej+1+Pl+Prt+Pl	niikwewmishnaanibani1ag
+
+2+kwe+NA+ThmPos+Pej+1+Pl+Prt+4	giakwewmishnaanibaniin
+2+kwe+NA+ThmPos+Pej+1+Pl+Prt+4	giikwewmishnaanibaniin
+
+2+kwe+NA+ThmPos+Pej+1+Pl+Prt+Loc	giakwewmishnaanibaniing
+2+kwe+NA+ThmPos+Pej+1+Pl+Prt+Loc	giikwewmishnaanibaniing
+
+2+kwe+NA+ThmPos+Pej+1+Pl+Prt+Pl	giakwewmishnaanibani1ag
+2+kwe+NA+ThmPos+Pej+1+Pl+Prt+Pl	giikwewmishnaanibani1ag
+
+2+kwe+NA+ThmPos+Pej+2+Pl+Prt+4	giakwewmishwaabaniin
+2+kwe+NA+ThmPos+Pej+2+Pl+Prt+4	giikwewmishwaabaniin
+
+2+kwe+NA+ThmPos+Pej+2+Pl+Prt+Loc	giakwewmishwaabaniing
+2+kwe+NA+ThmPos+Pej+2+Pl+Prt+Loc	giikwewmishwaabaniing
+
+2+kwe+NA+ThmPos+Pej+2+Pl+Prt+Pl	giakwewmishwaabani1ag
+2+kwe+NA+ThmPos+Pej+2+Pl+Prt+Pl	giikwewmishwaabani1ag
+
+3+kwe+NA+ThmPos+Pej+2+Pl+Prt+4	oakwewmishwaabaniin
+3+kwe+NA+ThmPos+Pej+2+Pl+Prt+4	oikwewmishwaabaniin
+
+3+kwe+NA+ThmPos+Pej+2+Pl+Prt+Loc	oakwewmishwaabaniing
+3+kwe+NA+ThmPos+Pej+2+Pl+Prt+Loc	oikwewmishwaabaniing
+
+3+kwe+NA+ThmPos+Pej+3+4+Prt+4	oakwewmishniwibaniin
+3+kwe+NA+ThmPos+Pej+3+4+Prt+4	oakwewmishniibaniin
+3+kwe+NA+ThmPos+Pej+3+4+Prt+4	oikwewmishniwibaniin
+3+kwe+NA+ThmPos+Pej+3+4+Prt+4	oikwewmishniibaniin
+
+3+kwe+NA+ThmPos+Pej+3+4+Prt+Loc	oakwewmishniwibaniing
+3+kwe+NA+ThmPos+Pej+3+4+Prt+Loc	oakwewmishniibaniing
+3+kwe+NA+ThmPos+Pej+3+4+Prt+Loc	oikwewmishniwibaniing
+3+kwe+NA+ThmPos+Pej+3+4+Prt+Loc	oikwewmishniibaniing
+
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt+4	niakwewenymishnaanibaniin
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt+4	niikwewenymishnaanibaniin
+
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc	niakwewenymishnaanibaniing
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc	niikwewenymishnaanibaniing
+
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl	niakwewenymishnaanibani1ag
+1+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl	niikwewenymishnaanibani1ag
+
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt+4	niakwewensmishnaanibaniin
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt+4	niikwewensmishnaanibaniin
+
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc	niakwewensmishnaanibaniing
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc	niikwewensmishnaanibaniing
+
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl	niakwewensmishnaanibani1ag
+1+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl	niikwewensmishnaanibani1ag
+
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt+4	giakwewenymishnaanibaniin
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt+4	giikwewenymishnaanibaniin
+
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc	giakwewenymishnaanibaniing
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc	giikwewenymishnaanibaniing
+
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl	giakwewenymishnaanibani1ag
+2+kwe+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl	giikwewenymishnaanibani1ag
+
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt+4	giakwewenymishwaabaniin
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt+4	giikwewenymishwaabaniin
+
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc	giakwewenymishwaabaniing
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc	giikwewenymishwaabaniing
+
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt+Pl	giakwewenymishwaabani1ag
+2+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt+Pl	giikwewenymishwaabani1ag
+
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt+4	giakwewensmishnaanibaniin
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt+4	giikwewensmishnaanibaniin
+
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc	giakwewensmishnaanibaniing
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc	giikwewensmishnaanibaniing
+
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl	giakwewensmishnaanibani1ag
+2+kwe+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl	giikwewensmishnaanibani1ag
+
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt+4	giakwewensmishwaabaniin
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt+4	giikwewensmishwaabaniin
+
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc	giakwewensmishwaabaniing
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc	giikwewensmishwaabaniing
+
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt+Pl	giakwewensmishwaabani1ag
+2+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt+Pl	giikwewensmishwaabani1ag
+
+3+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt+4	oakwewenymishwaabaniin
+3+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt+4	oikwewenymishwaabaniin
+
+3+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc	oakwewenymishwaabaniing
+3+kwe+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc	oikwewenymishwaabaniing
+
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt+4	oakwewenymishniwibaniin
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt+4	oakwewenymishniibaniin
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt+4	oikwewenymishniwibaniin
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt+4	oikwewenymishniibaniin
+
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt+Loc	oakwewenymishniwibaniing
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt+Loc	oakwewenymishniibaniing
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt+Loc	oikwewenymishniwibaniing
+3+kwe+NA+Con+ThmPos+Pej+3+4+Prt+Loc	oikwewenymishniibaniing
+
+3+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt+4	oakwewensmishwaabaniin
+3+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt+4	oikwewensmishwaabaniin
+
+3+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc	oakwewensmishwaabaniing
+3+kwe+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc	oikwewensmishwaabaniing
+
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt+4	oakwewensmishniwibaniin
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt+4	oakwewensmishniibaniin
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt+4	oikwewensmishniwibaniin
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt+4	oikwewensmishniibaniin
+
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt+Loc	oakwewensmishniwibaniing
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt+Loc	oakwewensmishniibaniing
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt+Loc	oikwewensmishniwibaniing
+3+kwe+NA+Dim+ThmPos+Pej+3+4+Prt+Loc	oikwewensmishniibaniing
+

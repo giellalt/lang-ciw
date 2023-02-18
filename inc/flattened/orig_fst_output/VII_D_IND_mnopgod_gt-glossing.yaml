@@ -1,0 +1,34 @@
+Tests:
+  VII_D_IND_mnopgod_gt-glossing:
+    mnopgot+VII+0: minopogodw
+    mnopgot+VII+0+4: minopogodini
+    mnopgot+VII+0+Prt: minopogodbani1
+    mnopgot+VII+0+4+Prt: [ minopogodiniwiban, minopogodiniwiba, minopogodiniiban, minopogodiniiba ]
+    mnopgot+VII+0+Dub: minopogoddig
+    mnopgot+VII+0+4+Dub: [ minopogodiniwidig, minopogodiniidig ]
+    mnopgot+VII+0+Prt+Dub: [ minopogodgoban, minopogodgoba ]
+    mnopgot+VII+0+4+Prt+Dub: [ minopogodiniwigoban, minopogodiniwigoba, minopogodiniigoban, minopogodiniigoba ]
+    mnopgot+VII+0+Prt+0+Pl: minopogodbaniin
+    mnopgot+VII+0+4+Prt+0+Pl: [ minopogodiniwibaniin, minopogodiniibaniin ]
+    mnopgot+VII+0+Dub+0+Pl: minopogoddigenan
+    mnopgot+VII+0+4+Dub+0+Pl: [ minopogodiniwidigenan, minopogodiniidigenan ]
+    mnopgot+VII+0+Prt+Dub+0+Pl: minopogodgobaniin
+    mnopgot+VII+0+4+Prt+Dub+0+Pl: [ minopogodiniwigobaniin, minopogodiniigobaniin, minopogodiniwigobaniin, minopogodiniigobaniin ]
+    mnopgot+VII+0+0+Pl: minopogodwan
+    mnopgot+VII+0+4+0+Pl: minopogodiniwan
+    mnopgot+VII+Neg+0: minopogodsinoo
+    mnopgot+VII+Neg+0+4: minopogodsinooni
+    mnopgot+VII+Neg+0+Prt: [ minopogodsinooban, minopogodsinooba ]
+    mnopgot+VII+Neg+0+4+Prt: [ minopogodsinooniwiban, minopogodsinooniwiba, minopogodsinooniiban, minopogodsinooniiba ]
+    mnopgot+VII+Neg+0+Dub: minopogodsinoodig
+    mnopgot+VII+Neg+0+4+Dub: [ minopogodsinooniwidig, minopogodsinooniidig ]
+    mnopgot+VII+Neg+0+Prt+Dub: [ minopogodsinoogoban, minopogodsinoogoba ]
+    mnopgot+VII+Neg+0+4+Prt+Dub: [ minopogodsinooniwigoban, minopogodsinooniwigoba, minopogodsinooniigoban, minopogodsinooniigoba ]
+    mnopgot+VII+Neg+0+Prt+0+Pl: minopogodsinoobaniin
+    mnopgot+VII+Neg+0+4+Prt+0+Pl: [ minopogodsinooniwibaniin, minopogodsinooniibaniin ]
+    mnopgot+VII+Neg+0+Dub+0+Pl: minopogodsinoodigenan
+    mnopgot+VII+Neg+0+4+Dub+0+Pl: [ minopogodsinooniwidigenan, minopogodsinooniidigenan ]
+    mnopgot+VII+Neg+0+Prt+Dub+0+Pl: minopogodsinoogobaniin
+    mnopgot+VII+Neg+0+4+Prt+Dub+0+Pl: [ minopogodsinooniwigobaniin, minopogodsinooniigobaniin ]
+    mnopgot+VII+Neg+0+0+Pl: minopogodsinoowan
+    mnopgot+VII+Neg+0+4+0+Pl: minopogodsinooniwan

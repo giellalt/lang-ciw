@@ -1,0 +1,1028 @@
+Tests:
+  NI_C_makizin_gt-glossing:
+    mkizin+NI: makizin
+    1+mkizin+NI: nimakizin
+    2+mkizin+NI: gimakizin
+    3+mkizin+NI: omakizin
+    X+mkizin+NI: imakizin
+    mkizin+NI+Con: makizinenh
+    mkizin+NI+Dim: makizinens
+    mkizin+NI+Pej: makizinsh
+    mkizin+NI+Prt: makizinbani1
+    mkizin+NI+Voc+Pl: makizindig
+    mkizin+NI+4: makizinan
+    mkizin+NI+Loc: makizinng
+    mkizin+NI+Pl: makizinan
+    1+mkizin+NI+Con: nimakizinenh
+    1+mkizin+NI+Dim: nimakizinens
+    2+mkizin+NI+Con: gimakizinenh
+    2+mkizin+NI+Dim: gimakizinens
+    3+mkizin+NI+Con: omakizinenh
+    3+mkizin+NI+Dim: omakizinens
+    X+mkizin+NI+Con: imakizinenh
+    X+mkizin+NI+Dim: imakizinens
+    1+mkizin+NI+ThmPos: nimakizinm
+    2+mkizin+NI+ThmPos: gimakizinm
+    3+mkizin+NI+ThmPos: omakizinm
+    X+mkizin+NI+ThmPos: imakizinm
+    1+mkizin+NI+Pej: nimakizinsh
+    2+mkizin+NI+Pej: gimakizinsh
+    3+mkizin+NI+Pej: omakizinsh
+    X+mkizin+NI+Pej: imakizinsh
+    1+mkizin+NI+1+Pl: [ nimakizinnaan, nimakizinnaa ]
+    2+mkizin+NI+1+Pl: [ gimakizinnaan, gimakizinnaa ]
+    2+mkizin+NI+2+Pl: gimakizinwaa
+    3+mkizin+NI+2+Pl: omakizinwaa
+    3+mkizin+NI+3+4: omakizinniw
+    1+mkizin+NI+Prt: nimakizinbani1
+    1+mkizin+NI+Voc+Pl: nimakizindig
+    2+mkizin+NI+Prt: gimakizinbani1
+    2+mkizin+NI+Voc+Pl: gimakizindig
+    3+mkizin+NI+Prt: omakizinbani1
+    3+mkizin+NI+Voc+Pl: omakizindig
+    X+mkizin+NI+Prt: imakizinbani1
+    X+mkizin+NI+Voc+Pl: imakizindig
+    1+mkizin+NI+4: nimakizinan
+    1+mkizin+NI+Loc: nimakizinng
+    1+mkizin+NI+Pl: nimakizinan
+    2+mkizin+NI+4: gimakizinan
+    2+mkizin+NI+Loc: gimakizinng
+    2+mkizin+NI+Pl: gimakizinan
+    3+mkizin+NI+4: omakizinan
+    3+mkizin+NI+Loc: omakizinng
+    3+mkizin+NI+Pl: omakizinan
+    X+mkizin+NI+4: imakizinan
+    X+mkizin+NI+Loc: imakizinng
+    X+mkizin+NI+Pl: imakizinan
+    mkizin+NI+Con+Pej: makizinenyish
+    mkizin+NI+Dim+Pej: makizinensish
+    mkizin+NI+Con+Prt: [ makizinenyiban, makizinenyiba ]
+    mkizin+NI+Con+Voc+Pl: makizinenydig
+    mkizin+NI+Dim+Prt: [ makizinensiban, makizinensiba ]
+    mkizin+NI+Dim+Voc+Pl: makizinensdig
+    mkizin+NI+Con+4: makizinenyin
+    mkizin+NI+Con+Loc: makizinenying
+    mkizin+NI+Con+Pl: makizinenyan
+    mkizin+NI+Dim+4: makizinensan
+    mkizin+NI+Dim+Loc: makizinensing
+    mkizin+NI+Dim+Pl: makizinensan
+    mkizin+NI+Pej+Prt: [ makizinshiban, makizinshiba ]
+    mkizin+NI+Pej+Voc+Pl: makizinshdig
+    mkizin+NI+Pej+4: makizinshan
+    mkizin+NI+Pej+Loc: makizinshing
+    mkizin+NI+Pej+Pl: makizinshan
+    mkizin+NI+Prt+4: makizinbaniin
+    mkizin+NI+Prt+Loc: makizinbaniing
+    mkizin+NI+Prt+Pl: makizinbani1an
+    1+mkizin+NI+Con+ThmPos: nimakizinenym
+    1+mkizin+NI+Dim+ThmPos: nimakizinensm
+    2+mkizin+NI+Con+ThmPos: gimakizinenym
+    2+mkizin+NI+Dim+ThmPos: gimakizinensm
+    3+mkizin+NI+Con+ThmPos: omakizinenym
+    3+mkizin+NI+Dim+ThmPos: omakizinensm
+    X+mkizin+NI+Con+ThmPos: imakizinenym
+    X+mkizin+NI+Dim+ThmPos: imakizinensm
+    1+mkizin+NI+Con+Pej: nimakizinenyish
+    1+mkizin+NI+Dim+Pej: nimakizinensish
+    2+mkizin+NI+Con+Pej: gimakizinenyish
+    2+mkizin+NI+Dim+Pej: gimakizinensish
+    3+mkizin+NI+Con+Pej: omakizinenyish
+    3+mkizin+NI+Dim+Pej: omakizinensish
+    X+mkizin+NI+Con+Pej: imakizinenyish
+    X+mkizin+NI+Dim+Pej: imakizinensish
+    1+mkizin+NI+Con+1+Pl: [ nimakizinenynaan, nimakizinenynaa ]
+    1+mkizin+NI+Dim+1+Pl: [ nimakizinensnaan, nimakizinensnaa ]
+    2+mkizin+NI+Con+1+Pl: [ gimakizinenynaan, gimakizinenynaa ]
+    2+mkizin+NI+Con+2+Pl: gimakizinenywaa
+    2+mkizin+NI+Dim+1+Pl: [ gimakizinensnaan, gimakizinensnaa ]
+    2+mkizin+NI+Dim+2+Pl: gimakizinenswaa
+    3+mkizin+NI+Con+2+Pl: omakizinenywaa
+    3+mkizin+NI+Con+3+4: omakizinenyniw
+    3+mkizin+NI+Dim+2+Pl: omakizinenswaa
+    3+mkizin+NI+Dim+3+4: omakizinensniw
+    1+mkizin+NI+Con+Prt: [ nimakizinenyiban, nimakizinenyiba ]
+    1+mkizin+NI+Con+Voc+Pl: nimakizinenydig
+    1+mkizin+NI+Dim+Prt: [ nimakizinensiban, nimakizinensiba ]
+    1+mkizin+NI+Dim+Voc+Pl: nimakizinensdig
+    2+mkizin+NI+Con+Prt: [ gimakizinenyiban, gimakizinenyiba ]
+    2+mkizin+NI+Con+Voc+Pl: gimakizinenydig
+    2+mkizin+NI+Dim+Prt: [ gimakizinensiban, gimakizinensiba ]
+    2+mkizin+NI+Dim+Voc+Pl: gimakizinensdig
+    3+mkizin+NI+Con+Prt: [ omakizinenyiban, omakizinenyiba ]
+    3+mkizin+NI+Con+Voc+Pl: omakizinenydig
+    3+mkizin+NI+Dim+Prt: [ omakizinensiban, omakizinensiba ]
+    3+mkizin+NI+Dim+Voc+Pl: omakizinensdig
+    X+mkizin+NI+Con+Prt: [ imakizinenyiban, imakizinenyiba ]
+    X+mkizin+NI+Con+Voc+Pl: imakizinenydig
+    X+mkizin+NI+Dim+Prt: [ imakizinensiban, imakizinensiba ]
+    X+mkizin+NI+Dim+Voc+Pl: imakizinensdig
+    1+mkizin+NI+Con+4: nimakizinenyin
+    1+mkizin+NI+Con+Loc: nimakizinenying
+    1+mkizin+NI+Con+Pl: nimakizinenyan
+    1+mkizin+NI+Dim+4: nimakizinensan
+    1+mkizin+NI+Dim+Loc: nimakizinensing
+    1+mkizin+NI+Dim+Pl: nimakizinensan
+    2+mkizin+NI+Con+4: gimakizinenyin
+    2+mkizin+NI+Con+Loc: gimakizinenying
+    2+mkizin+NI+Con+Pl: gimakizinenyan
+    2+mkizin+NI+Dim+4: gimakizinensan
+    2+mkizin+NI+Dim+Loc: gimakizinensing
+    2+mkizin+NI+Dim+Pl: gimakizinensan
+    3+mkizin+NI+Con+4: omakizinenyin
+    3+mkizin+NI+Con+Loc: omakizinenying
+    3+mkizin+NI+Con+Pl: omakizinenyan
+    3+mkizin+NI+Dim+4: omakizinensan
+    3+mkizin+NI+Dim+Loc: omakizinensing
+    3+mkizin+NI+Dim+Pl: omakizinensan
+    X+mkizin+NI+Con+4: imakizinenyin
+    X+mkizin+NI+Con+Loc: imakizinenying
+    X+mkizin+NI+Con+Pl: imakizinenyan
+    X+mkizin+NI+Dim+4: imakizinensan
+    X+mkizin+NI+Dim+Loc: imakizinensing
+    X+mkizin+NI+Dim+Pl: imakizinensan
+    1+mkizin+NI+ThmPos+Pej: nimakizinmish
+    2+mkizin+NI+ThmPos+Pej: gimakizinmish
+    3+mkizin+NI+ThmPos+Pej: omakizinmish
+    X+mkizin+NI+ThmPos+Pej: imakizinmish
+    1+mkizin+NI+ThmPos+1+Pl: [ nimakizinmnaan, nimakizinmnaa ]
+    2+mkizin+NI+ThmPos+1+Pl: [ gimakizinmnaan, gimakizinmnaa ]
+    2+mkizin+NI+ThmPos+2+Pl: gimakizinmwaa
+    3+mkizin+NI+ThmPos+2+Pl: omakizinmwaa
+    3+mkizin+NI+ThmPos+3+4: omakizinmniw
+    1+mkizin+NI+ThmPos+Prt: [ nimakizinmiban, nimakizinmiba ]
+    1+mkizin+NI+ThmPos+Voc+Pl: nimakizinmdig
+    2+mkizin+NI+ThmPos+Prt: [ gimakizinmiban, gimakizinmiba ]
+    2+mkizin+NI+ThmPos+Voc+Pl: gimakizinmdig
+    3+mkizin+NI+ThmPos+Prt: [ omakizinmiban, omakizinmiba ]
+    3+mkizin+NI+ThmPos+Voc+Pl: omakizinmdig
+    X+mkizin+NI+ThmPos+Prt: [ imakizinmiban, imakizinmiba ]
+    X+mkizin+NI+ThmPos+Voc+Pl: imakizinmdig
+    1+mkizin+NI+ThmPos+4: nimakizinman
+    1+mkizin+NI+ThmPos+Loc: nimakizinming
+    1+mkizin+NI+ThmPos+Pl: nimakizinman
+    2+mkizin+NI+ThmPos+4: gimakizinman
+    2+mkizin+NI+ThmPos+Loc: gimakizinming
+    2+mkizin+NI+ThmPos+Pl: gimakizinman
+    3+mkizin+NI+ThmPos+4: omakizinman
+    3+mkizin+NI+ThmPos+Loc: omakizinming
+    3+mkizin+NI+ThmPos+Pl: omakizinman
+    X+mkizin+NI+ThmPos+4: imakizinman
+    X+mkizin+NI+ThmPos+Loc: imakizinming
+    X+mkizin+NI+ThmPos+Pl: imakizinman
+    1+mkizin+NI+Pej+1+Pl: [ nimakizinshnaan, nimakizinshnaa ]
+    2+mkizin+NI+Pej+1+Pl: [ gimakizinshnaan, gimakizinshnaa ]
+    2+mkizin+NI+Pej+2+Pl: gimakizinshwaa
+    3+mkizin+NI+Pej+2+Pl: omakizinshwaa
+    3+mkizin+NI+Pej+3+4: omakizinshniw
+    1+mkizin+NI+Pej+Prt: [ nimakizinshiban, nimakizinshiba ]
+    1+mkizin+NI+Pej+Voc+Pl: nimakizinshdig
+    2+mkizin+NI+Pej+Prt: [ gimakizinshiban, gimakizinshiba ]
+    2+mkizin+NI+Pej+Voc+Pl: gimakizinshdig
+    3+mkizin+NI+Pej+Prt: [ omakizinshiban, omakizinshiba ]
+    3+mkizin+NI+Pej+Voc+Pl: omakizinshdig
+    X+mkizin+NI+Pej+Prt: [ imakizinshiban, imakizinshiba ]
+    X+mkizin+NI+Pej+Voc+Pl: imakizinshdig
+    1+mkizin+NI+Pej+4: nimakizinshan
+    1+mkizin+NI+Pej+Loc: nimakizinshing
+    1+mkizin+NI+Pej+Pl: nimakizinshan
+    2+mkizin+NI+Pej+4: gimakizinshan
+    2+mkizin+NI+Pej+Loc: gimakizinshing
+    2+mkizin+NI+Pej+Pl: gimakizinshan
+    3+mkizin+NI+Pej+4: omakizinshan
+    3+mkizin+NI+Pej+Loc: omakizinshing
+    3+mkizin+NI+Pej+Pl: omakizinshan
+    X+mkizin+NI+Pej+4: imakizinshan
+    X+mkizin+NI+Pej+Loc: imakizinshing
+    X+mkizin+NI+Pej+Pl: imakizinshan
+    1+mkizin+NI+1+Pl+Prt: [ nimakizinnaaniban, nimakizinnaaniba ]
+    1+mkizin+NI+1+Pl+Voc+Pl: nimakizinnaany1dig
+    2+mkizin+NI+1+Pl+Prt: [ gimakizinnaaniban, gimakizinnaaniba ]
+    2+mkizin+NI+1+Pl+Voc+Pl: gimakizinnaany1dig
+    2+mkizin+NI+2+Pl+Prt: [ gimakizinwaaban, gimakizinwaaba ]
+    2+mkizin+NI+2+Pl+Voc+Pl: gimakizinwaadig
+    3+mkizin+NI+2+Pl+Prt: [ omakizinwaaban, omakizinwaaba ]
+    3+mkizin+NI+2+Pl+Voc+Pl: omakizinwaadig
+    3+mkizin+NI+3+4+Prt: [ omakizinniwiban, omakizinniwiba, omakizinniiban, omakizinniiba ]
+    3+mkizin+NI+3+4+Voc+Pl: omakizinniwdig
+    1+mkizin+NI+1+Pl+4: nimakizinnaanin
+    1+mkizin+NI+1+Pl+Loc: nimakizinnaaning
+    1+mkizin+NI+1+Pl+Pl: nimakizinnaany1an
+    2+mkizin+NI+1+Pl+4: gimakizinnaanin
+    2+mkizin+NI+1+Pl+Loc: gimakizinnaaning
+    2+mkizin+NI+1+Pl+Pl: gimakizinnaany1an
+    2+mkizin+NI+2+Pl+4: gimakizinwaan
+    2+mkizin+NI+2+Pl+Loc: gimakizinwaang
+    2+mkizin+NI+2+Pl+Pl: gimakizinwaaan
+    3+mkizin+NI+2+Pl+4: omakizinwaan
+    3+mkizin+NI+2+Pl+Loc: omakizinwaang
+    3+mkizin+NI+2+Pl+Pl: omakizinwaaan
+    3+mkizin+NI+3+4+4: omakizinniwan
+    3+mkizin+NI+3+4+Loc: omakizinniing
+    3+mkizin+NI+3+4+Pl: omakizinniwan
+    1+mkizin+NI+Prt+4: nimakizinbaniin
+    1+mkizin+NI+Prt+Loc: nimakizinbaniing
+    1+mkizin+NI+Prt+Pl: nimakizinbani1an
+    2+mkizin+NI+Prt+4: gimakizinbaniin
+    2+mkizin+NI+Prt+Loc: gimakizinbaniing
+    2+mkizin+NI+Prt+Pl: gimakizinbani1an
+    3+mkizin+NI+Prt+4: omakizinbaniin
+    3+mkizin+NI+Prt+Loc: omakizinbaniing
+    3+mkizin+NI+Prt+Pl: omakizinbani1an
+    X+mkizin+NI+Prt+4: imakizinbaniin
+    X+mkizin+NI+Prt+Loc: imakizinbaniing
+    X+mkizin+NI+Prt+Pl: imakizinbani1an
+    mkizin+NI+Con+Pej+Prt: [ makizinenyishiban, makizinenyishiba ]
+    mkizin+NI+Con+Pej+Voc+Pl: makizinenyishdig
+    mkizin+NI+Dim+Pej+Prt: [ makizinensishiban, makizinensishiba ]
+    mkizin+NI+Dim+Pej+Voc+Pl: makizinensishdig
+    mkizin+NI+Con+Pej+4: makizinenyishan
+    mkizin+NI+Con+Pej+Loc: makizinenyishing
+    mkizin+NI+Con+Pej+Pl: makizinenyishan
+    mkizin+NI+Dim+Pej+4: makizinensishan
+    mkizin+NI+Dim+Pej+Loc: makizinensishing
+    mkizin+NI+Dim+Pej+Pl: makizinensishan
+    mkizin+NI+Con+Prt+4: makizinenyibaniin
+    mkizin+NI+Con+Prt+Loc: makizinenyibaniing
+    mkizin+NI+Con+Prt+Pl: makizinenyibani1an
+    mkizin+NI+Dim+Prt+4: makizinensibaniin
+    mkizin+NI+Dim+Prt+Loc: makizinensibaniing
+    mkizin+NI+Dim+Prt+Pl: makizinensibani1an
+    mkizin+NI+Pej+Prt+4: makizinshibaniin
+    mkizin+NI+Pej+Prt+Loc: makizinshibaniing
+    mkizin+NI+Pej+Prt+Pl: makizinshibani1an
+    1+mkizin+NI+Con+ThmPos+Pej: nimakizinenymish
+    1+mkizin+NI+Dim+ThmPos+Pej: nimakizinensmish
+    2+mkizin+NI+Con+ThmPos+Pej: gimakizinenymish
+    2+mkizin+NI+Dim+ThmPos+Pej: gimakizinensmish
+    3+mkizin+NI+Con+ThmPos+Pej: omakizinenymish
+    3+mkizin+NI+Dim+ThmPos+Pej: omakizinensmish
+    X+mkizin+NI+Con+ThmPos+Pej: imakizinenymish
+    X+mkizin+NI+Dim+ThmPos+Pej: imakizinensmish
+    1+mkizin+NI+Con+ThmPos+1+Pl: [ nimakizinenymnaan, nimakizinenymnaa ]
+    1+mkizin+NI+Dim+ThmPos+1+Pl: [ nimakizinensmnaan, nimakizinensmnaa ]
+    2+mkizin+NI+Con+ThmPos+1+Pl: [ gimakizinenymnaan, gimakizinenymnaa ]
+    2+mkizin+NI+Con+ThmPos+2+Pl: gimakizinenymwaa
+    2+mkizin+NI+Dim+ThmPos+1+Pl: [ gimakizinensmnaan, gimakizinensmnaa ]
+    2+mkizin+NI+Dim+ThmPos+2+Pl: gimakizinensmwaa
+    3+mkizin+NI+Con+ThmPos+2+Pl: omakizinenymwaa
+    3+mkizin+NI+Con+ThmPos+3+4: omakizinenymniw
+    3+mkizin+NI+Dim+ThmPos+2+Pl: omakizinensmwaa
+    3+mkizin+NI+Dim+ThmPos+3+4: omakizinensmniw
+    1+mkizin+NI+Con+ThmPos+Prt: [ nimakizinenymiban, nimakizinenymiba ]
+    1+mkizin+NI+Con+ThmPos+Voc+Pl: nimakizinenymdig
+    1+mkizin+NI+Dim+ThmPos+Prt: [ nimakizinensmiban, nimakizinensmiba ]
+    1+mkizin+NI+Dim+ThmPos+Voc+Pl: nimakizinensmdig
+    2+mkizin+NI+Con+ThmPos+Prt: [ gimakizinenymiban, gimakizinenymiba ]
+    2+mkizin+NI+Con+ThmPos+Voc+Pl: gimakizinenymdig
+    2+mkizin+NI+Dim+ThmPos+Prt: [ gimakizinensmiban, gimakizinensmiba ]
+    2+mkizin+NI+Dim+ThmPos+Voc+Pl: gimakizinensmdig
+    3+mkizin+NI+Con+ThmPos+Prt: [ omakizinenymiban, omakizinenymiba ]
+    3+mkizin+NI+Con+ThmPos+Voc+Pl: omakizinenymdig
+    3+mkizin+NI+Dim+ThmPos+Prt: [ omakizinensmiban, omakizinensmiba ]
+    3+mkizin+NI+Dim+ThmPos+Voc+Pl: omakizinensmdig
+    X+mkizin+NI+Con+ThmPos+Prt: [ imakizinenymiban, imakizinenymiba ]
+    X+mkizin+NI+Con+ThmPos+Voc+Pl: imakizinenymdig
+    X+mkizin+NI+Dim+ThmPos+Prt: [ imakizinensmiban, imakizinensmiba ]
+    X+mkizin+NI+Dim+ThmPos+Voc+Pl: imakizinensmdig
+    1+mkizin+NI+Con+ThmPos+4: nimakizinenyman
+    1+mkizin+NI+Con+ThmPos+Loc: nimakizinenyming
+    1+mkizin+NI+Con+ThmPos+Pl: nimakizinenyman
+    1+mkizin+NI+Dim+ThmPos+4: nimakizinensman
+    1+mkizin+NI+Dim+ThmPos+Loc: nimakizinensming
+    1+mkizin+NI+Dim+ThmPos+Pl: nimakizinensman
+    2+mkizin+NI+Con+ThmPos+4: gimakizinenyman
+    2+mkizin+NI+Con+ThmPos+Loc: gimakizinenyming
+    2+mkizin+NI+Con+ThmPos+Pl: gimakizinenyman
+    2+mkizin+NI+Dim+ThmPos+4: gimakizinensman
+    2+mkizin+NI+Dim+ThmPos+Loc: gimakizinensming
+    2+mkizin+NI+Dim+ThmPos+Pl: gimakizinensman
+    3+mkizin+NI+Con+ThmPos+4: omakizinenyman
+    3+mkizin+NI+Con+ThmPos+Loc: omakizinenyming
+    3+mkizin+NI+Con+ThmPos+Pl: omakizinenyman
+    3+mkizin+NI+Dim+ThmPos+4: omakizinensman
+    3+mkizin+NI+Dim+ThmPos+Loc: omakizinensming
+    3+mkizin+NI+Dim+ThmPos+Pl: omakizinensman
+    X+mkizin+NI+Con+ThmPos+4: imakizinenyman
+    X+mkizin+NI+Con+ThmPos+Loc: imakizinenyming
+    X+mkizin+NI+Con+ThmPos+Pl: imakizinenyman
+    X+mkizin+NI+Dim+ThmPos+4: imakizinensman
+    X+mkizin+NI+Dim+ThmPos+Loc: imakizinensming
+    X+mkizin+NI+Dim+ThmPos+Pl: imakizinensman
+    1+mkizin+NI+Con+Pej+1+Pl: [ nimakizinenyishnaan, nimakizinenyishnaa ]
+    1+mkizin+NI+Dim+Pej+1+Pl: [ nimakizinensishnaan, nimakizinensishnaa ]
+    2+mkizin+NI+Con+Pej+1+Pl: [ gimakizinenyishnaan, gimakizinenyishnaa ]
+    2+mkizin+NI+Con+Pej+2+Pl: gimakizinenyishwaa
+    2+mkizin+NI+Dim+Pej+1+Pl: [ gimakizinensishnaan, gimakizinensishnaa ]
+    2+mkizin+NI+Dim+Pej+2+Pl: gimakizinensishwaa
+    3+mkizin+NI+Con+Pej+2+Pl: omakizinenyishwaa
+    3+mkizin+NI+Con+Pej+3+4: omakizinenyishniw
+    3+mkizin+NI+Dim+Pej+2+Pl: omakizinensishwaa
+    3+mkizin+NI+Dim+Pej+3+4: omakizinensishniw
+    1+mkizin+NI+Con+Pej+Prt: [ nimakizinenyishiban, nimakizinenyishiba ]
+    1+mkizin+NI+Con+Pej+Voc+Pl: nimakizinenyishdig
+    1+mkizin+NI+Dim+Pej+Prt: [ nimakizinensishiban, nimakizinensishiba ]
+    1+mkizin+NI+Dim+Pej+Voc+Pl: nimakizinensishdig
+    2+mkizin+NI+Con+Pej+Prt: [ gimakizinenyishiban, gimakizinenyishiba ]
+    2+mkizin+NI+Con+Pej+Voc+Pl: gimakizinenyishdig
+    2+mkizin+NI+Dim+Pej+Prt: [ gimakizinensishiban, gimakizinensishiba ]
+    2+mkizin+NI+Dim+Pej+Voc+Pl: gimakizinensishdig
+    3+mkizin+NI+Con+Pej+Prt: [ omakizinenyishiban, omakizinenyishiba ]
+    3+mkizin+NI+Con+Pej+Voc+Pl: omakizinenyishdig
+    3+mkizin+NI+Dim+Pej+Prt: [ omakizinensishiban, omakizinensishiba ]
+    3+mkizin+NI+Dim+Pej+Voc+Pl: omakizinensishdig
+    X+mkizin+NI+Con+Pej+Prt: [ imakizinenyishiban, imakizinenyishiba ]
+    X+mkizin+NI+Con+Pej+Voc+Pl: imakizinenyishdig
+    X+mkizin+NI+Dim+Pej+Prt: [ imakizinensishiban, imakizinensishiba ]
+    X+mkizin+NI+Dim+Pej+Voc+Pl: imakizinensishdig
+    1+mkizin+NI+Con+Pej+4: nimakizinenyishan
+    1+mkizin+NI+Con+Pej+Loc: nimakizinenyishing
+    1+mkizin+NI+Con+Pej+Pl: nimakizinenyishan
+    1+mkizin+NI+Dim+Pej+4: nimakizinensishan
+    1+mkizin+NI+Dim+Pej+Loc: nimakizinensishing
+    1+mkizin+NI+Dim+Pej+Pl: nimakizinensishan
+    2+mkizin+NI+Con+Pej+4: gimakizinenyishan
+    2+mkizin+NI+Con+Pej+Loc: gimakizinenyishing
+    2+mkizin+NI+Con+Pej+Pl: gimakizinenyishan
+    2+mkizin+NI+Dim+Pej+4: gimakizinensishan
+    2+mkizin+NI+Dim+Pej+Loc: gimakizinensishing
+    2+mkizin+NI+Dim+Pej+Pl: gimakizinensishan
+    3+mkizin+NI+Con+Pej+4: omakizinenyishan
+    3+mkizin+NI+Con+Pej+Loc: omakizinenyishing
+    3+mkizin+NI+Con+Pej+Pl: omakizinenyishan
+    3+mkizin+NI+Dim+Pej+4: omakizinensishan
+    3+mkizin+NI+Dim+Pej+Loc: omakizinensishing
+    3+mkizin+NI+Dim+Pej+Pl: omakizinensishan
+    X+mkizin+NI+Con+Pej+4: imakizinenyishan
+    X+mkizin+NI+Con+Pej+Loc: imakizinenyishing
+    X+mkizin+NI+Con+Pej+Pl: imakizinenyishan
+    X+mkizin+NI+Dim+Pej+4: imakizinensishan
+    X+mkizin+NI+Dim+Pej+Loc: imakizinensishing
+    X+mkizin+NI+Dim+Pej+Pl: imakizinensishan
+    1+mkizin+NI+Con+1+Pl+Prt: [ nimakizinenynaaniban, nimakizinenynaaniba ]
+    1+mkizin+NI+Con+1+Pl+Voc+Pl: nimakizinenynaany1dig
+    1+mkizin+NI+Dim+1+Pl+Prt: [ nimakizinensnaaniban, nimakizinensnaaniba ]
+    1+mkizin+NI+Dim+1+Pl+Voc+Pl: nimakizinensnaany1dig
+    2+mkizin+NI+Con+1+Pl+Prt: [ gimakizinenynaaniban, gimakizinenynaaniba ]
+    2+mkizin+NI+Con+1+Pl+Voc+Pl: gimakizinenynaany1dig
+    2+mkizin+NI+Con+2+Pl+Prt: [ gimakizinenywaaban, gimakizinenywaaba ]
+    2+mkizin+NI+Con+2+Pl+Voc+Pl: gimakizinenywaadig
+    2+mkizin+NI+Dim+1+Pl+Prt: [ gimakizinensnaaniban, gimakizinensnaaniba ]
+    2+mkizin+NI+Dim+1+Pl+Voc+Pl: gimakizinensnaany1dig
+    2+mkizin+NI+Dim+2+Pl+Prt: [ gimakizinenswaaban, gimakizinenswaaba ]
+    2+mkizin+NI+Dim+2+Pl+Voc+Pl: gimakizinenswaadig
+    3+mkizin+NI+Con+2+Pl+Prt: [ omakizinenywaaban, omakizinenywaaba ]
+    3+mkizin+NI+Con+2+Pl+Voc+Pl: omakizinenywaadig
+    3+mkizin+NI+Con+3+4+Prt: [ omakizinenyniwiban, omakizinenyniwiba, omakizinenyniiban, omakizinenyniiba ]
+    3+mkizin+NI+Con+3+4+Voc+Pl: omakizinenyniwdig
+    3+mkizin+NI+Dim+2+Pl+Prt: [ omakizinenswaaban, omakizinenswaaba ]
+    3+mkizin+NI+Dim+2+Pl+Voc+Pl: omakizinenswaadig
+    3+mkizin+NI+Dim+3+4+Prt: [ omakizinensniwiban, omakizinensniwiba, omakizinensniiban, omakizinensniiba ]
+    3+mkizin+NI+Dim+3+4+Voc+Pl: omakizinensniwdig
+    1+mkizin+NI+Con+1+Pl+4: nimakizinenynaanin
+    1+mkizin+NI+Con+1+Pl+Loc: nimakizinenynaaning
+    1+mkizin+NI+Con+1+Pl+Pl: nimakizinenynaany1an
+    1+mkizin+NI+Dim+1+Pl+4: nimakizinensnaanin
+    1+mkizin+NI+Dim+1+Pl+Loc: nimakizinensnaaning
+    1+mkizin+NI+Dim+1+Pl+Pl: nimakizinensnaany1an
+    2+mkizin+NI+Con+1+Pl+4: gimakizinenynaanin
+    2+mkizin+NI+Con+1+Pl+Loc: gimakizinenynaaning
+    2+mkizin+NI+Con+1+Pl+Pl: gimakizinenynaany1an
+    2+mkizin+NI+Con+2+Pl+4: gimakizinenywaan
+    2+mkizin+NI+Con+2+Pl+Loc: gimakizinenywaang
+    2+mkizin+NI+Con+2+Pl+Pl: gimakizinenywaaan
+    2+mkizin+NI+Dim+1+Pl+4: gimakizinensnaanin
+    2+mkizin+NI+Dim+1+Pl+Loc: gimakizinensnaaning
+    2+mkizin+NI+Dim+1+Pl+Pl: gimakizinensnaany1an
+    2+mkizin+NI+Dim+2+Pl+4: gimakizinenswaan
+    2+mkizin+NI+Dim+2+Pl+Loc: gimakizinenswaang
+    2+mkizin+NI+Dim+2+Pl+Pl: gimakizinenswaaan
+    3+mkizin+NI+Con+2+Pl+4: omakizinenywaan
+    3+mkizin+NI+Con+2+Pl+Loc: omakizinenywaang
+    3+mkizin+NI+Con+2+Pl+Pl: omakizinenywaaan
+    3+mkizin+NI+Con+3+4+4: omakizinenyniwan
+    3+mkizin+NI+Con+3+4+Loc: omakizinenyniing
+    3+mkizin+NI+Con+3+4+Pl: omakizinenyniwan
+    3+mkizin+NI+Dim+2+Pl+4: omakizinenswaan
+    3+mkizin+NI+Dim+2+Pl+Loc: omakizinenswaang
+    3+mkizin+NI+Dim+2+Pl+Pl: omakizinenswaaan
+    3+mkizin+NI+Dim+3+4+4: omakizinensniwan
+    3+mkizin+NI+Dim+3+4+Loc: omakizinensniing
+    3+mkizin+NI+Dim+3+4+Pl: omakizinensniwan
+    1+mkizin+NI+Con+Prt+4: nimakizinenyibaniin
+    1+mkizin+NI+Con+Prt+Loc: nimakizinenyibaniing
+    1+mkizin+NI+Con+Prt+Pl: nimakizinenyibani1an
+    1+mkizin+NI+Dim+Prt+4: nimakizinensibaniin
+    1+mkizin+NI+Dim+Prt+Loc: nimakizinensibaniing
+    1+mkizin+NI+Dim+Prt+Pl: nimakizinensibani1an
+    2+mkizin+NI+Con+Prt+4: gimakizinenyibaniin
+    2+mkizin+NI+Con+Prt+Loc: gimakizinenyibaniing
+    2+mkizin+NI+Con+Prt+Pl: gimakizinenyibani1an
+    2+mkizin+NI+Dim+Prt+4: gimakizinensibaniin
+    2+mkizin+NI+Dim+Prt+Loc: gimakizinensibaniing
+    2+mkizin+NI+Dim+Prt+Pl: gimakizinensibani1an
+    3+mkizin+NI+Con+Prt+4: omakizinenyibaniin
+    3+mkizin+NI+Con+Prt+Loc: omakizinenyibaniing
+    3+mkizin+NI+Con+Prt+Pl: omakizinenyibani1an
+    3+mkizin+NI+Dim+Prt+4: omakizinensibaniin
+    3+mkizin+NI+Dim+Prt+Loc: omakizinensibaniing
+    3+mkizin+NI+Dim+Prt+Pl: omakizinensibani1an
+    X+mkizin+NI+Con+Prt+4: imakizinenyibaniin
+    X+mkizin+NI+Con+Prt+Loc: imakizinenyibaniing
+    X+mkizin+NI+Con+Prt+Pl: imakizinenyibani1an
+    X+mkizin+NI+Dim+Prt+4: imakizinensibaniin
+    X+mkizin+NI+Dim+Prt+Loc: imakizinensibaniing
+    X+mkizin+NI+Dim+Prt+Pl: imakizinensibani1an
+    1+mkizin+NI+ThmPos+Pej+1+Pl: [ nimakizinmishnaan, nimakizinmishnaa ]
+    2+mkizin+NI+ThmPos+Pej+1+Pl: [ gimakizinmishnaan, gimakizinmishnaa ]
+    2+mkizin+NI+ThmPos+Pej+2+Pl: gimakizinmishwaa
+    3+mkizin+NI+ThmPos+Pej+2+Pl: omakizinmishwaa
+    3+mkizin+NI+ThmPos+Pej+3+4: omakizinmishniw
+    1+mkizin+NI+ThmPos+Pej+Prt: [ nimakizinmishiban, nimakizinmishiba ]
+    1+mkizin+NI+ThmPos+Pej+Voc+Pl: nimakizinmishdig
+    2+mkizin+NI+ThmPos+Pej+Prt: [ gimakizinmishiban, gimakizinmishiba ]
+    2+mkizin+NI+ThmPos+Pej+Voc+Pl: gimakizinmishdig
+    3+mkizin+NI+ThmPos+Pej+Prt: [ omakizinmishiban, omakizinmishiba ]
+    3+mkizin+NI+ThmPos+Pej+Voc+Pl: omakizinmishdig
+    X+mkizin+NI+ThmPos+Pej+Prt: [ imakizinmishiban, imakizinmishiba ]
+    X+mkizin+NI+ThmPos+Pej+Voc+Pl: imakizinmishdig
+    1+mkizin+NI+ThmPos+Pej+4: nimakizinmishan
+    1+mkizin+NI+ThmPos+Pej+Loc: nimakizinmishing
+    1+mkizin+NI+ThmPos+Pej+Pl: nimakizinmishan
+    2+mkizin+NI+ThmPos+Pej+4: gimakizinmishan
+    2+mkizin+NI+ThmPos+Pej+Loc: gimakizinmishing
+    2+mkizin+NI+ThmPos+Pej+Pl: gimakizinmishan
+    3+mkizin+NI+ThmPos+Pej+4: omakizinmishan
+    3+mkizin+NI+ThmPos+Pej+Loc: omakizinmishing
+    3+mkizin+NI+ThmPos+Pej+Pl: omakizinmishan
+    X+mkizin+NI+ThmPos+Pej+4: imakizinmishan
+    X+mkizin+NI+ThmPos+Pej+Loc: imakizinmishing
+    X+mkizin+NI+ThmPos+Pej+Pl: imakizinmishan
+    1+mkizin+NI+ThmPos+1+Pl+Prt: [ nimakizinmnaaniban, nimakizinmnaaniba ]
+    1+mkizin+NI+ThmPos+1+Pl+Voc+Pl: nimakizinmnaany1dig
+    2+mkizin+NI+ThmPos+1+Pl+Prt: [ gimakizinmnaaniban, gimakizinmnaaniba ]
+    2+mkizin+NI+ThmPos+1+Pl+Voc+Pl: gimakizinmnaany1dig
+    2+mkizin+NI+ThmPos+2+Pl+Prt: [ gimakizinmwaaban, gimakizinmwaaba ]
+    2+mkizin+NI+ThmPos+2+Pl+Voc+Pl: gimakizinmwaadig
+    3+mkizin+NI+ThmPos+2+Pl+Prt: [ omakizinmwaaban, omakizinmwaaba ]
+    3+mkizin+NI+ThmPos+2+Pl+Voc+Pl: omakizinmwaadig
+    3+mkizin+NI+ThmPos+3+4+Prt: [ omakizinmniwiban, omakizinmniwiba, omakizinmniiban, omakizinmniiba ]
+    3+mkizin+NI+ThmPos+3+4+Voc+Pl: omakizinmniwdig
+    1+mkizin+NI+ThmPos+1+Pl+4: nimakizinmnaanin
+    1+mkizin+NI+ThmPos+1+Pl+Loc: nimakizinmnaaning
+    1+mkizin+NI+ThmPos+1+Pl+Pl: nimakizinmnaany1an
+    2+mkizin+NI+ThmPos+1+Pl+4: gimakizinmnaanin
+    2+mkizin+NI+ThmPos+1+Pl+Loc: gimakizinmnaaning
+    2+mkizin+NI+ThmPos+1+Pl+Pl: gimakizinmnaany1an
+    2+mkizin+NI+ThmPos+2+Pl+4: gimakizinmwaan
+    2+mkizin+NI+ThmPos+2+Pl+Loc: gimakizinmwaang
+    2+mkizin+NI+ThmPos+2+Pl+Pl: gimakizinmwaaan
+    3+mkizin+NI+ThmPos+2+Pl+4: omakizinmwaan
+    3+mkizin+NI+ThmPos+2+Pl+Loc: omakizinmwaang
+    3+mkizin+NI+ThmPos+2+Pl+Pl: omakizinmwaaan
+    3+mkizin+NI+ThmPos+3+4+4: omakizinmniwan
+    3+mkizin+NI+ThmPos+3+4+Loc: omakizinmniing
+    3+mkizin+NI+ThmPos+3+4+Pl: omakizinmniwan
+    1+mkizin+NI+ThmPos+Prt+4: nimakizinmibaniin
+    1+mkizin+NI+ThmPos+Prt+Loc: nimakizinmibaniing
+    1+mkizin+NI+ThmPos+Prt+Pl: nimakizinmibani1an
+    2+mkizin+NI+ThmPos+Prt+4: gimakizinmibaniin
+    2+mkizin+NI+ThmPos+Prt+Loc: gimakizinmibaniing
+    2+mkizin+NI+ThmPos+Prt+Pl: gimakizinmibani1an
+    3+mkizin+NI+ThmPos+Prt+4: omakizinmibaniin
+    3+mkizin+NI+ThmPos+Prt+Loc: omakizinmibaniing
+    3+mkizin+NI+ThmPos+Prt+Pl: omakizinmibani1an
+    X+mkizin+NI+ThmPos+Prt+4: imakizinmibaniin
+    X+mkizin+NI+ThmPos+Prt+Loc: imakizinmibaniing
+    X+mkizin+NI+ThmPos+Prt+Pl: imakizinmibani1an
+    1+mkizin+NI+Pej+1+Pl+Prt: [ nimakizinshnaaniban, nimakizinshnaaniba ]
+    1+mkizin+NI+Pej+1+Pl+Voc+Pl: nimakizinshnaany1dig
+    2+mkizin+NI+Pej+1+Pl+Prt: [ gimakizinshnaaniban, gimakizinshnaaniba ]
+    2+mkizin+NI+Pej+1+Pl+Voc+Pl: gimakizinshnaany1dig
+    2+mkizin+NI+Pej+2+Pl+Prt: [ gimakizinshwaaban, gimakizinshwaaba ]
+    2+mkizin+NI+Pej+2+Pl+Voc+Pl: gimakizinshwaadig
+    3+mkizin+NI+Pej+2+Pl+Prt: [ omakizinshwaaban, omakizinshwaaba ]
+    3+mkizin+NI+Pej+2+Pl+Voc+Pl: omakizinshwaadig
+    3+mkizin+NI+Pej+3+4+Prt: [ omakizinshniwiban, omakizinshniwiba, omakizinshniiban, omakizinshniiba ]
+    3+mkizin+NI+Pej+3+4+Voc+Pl: omakizinshniwdig
+    1+mkizin+NI+Pej+1+Pl+4: nimakizinshnaanin
+    1+mkizin+NI+Pej+1+Pl+Loc: nimakizinshnaaning
+    1+mkizin+NI+Pej+1+Pl+Pl: nimakizinshnaany1an
+    2+mkizin+NI+Pej+1+Pl+4: gimakizinshnaanin
+    2+mkizin+NI+Pej+1+Pl+Loc: gimakizinshnaaning
+    2+mkizin+NI+Pej+1+Pl+Pl: gimakizinshnaany1an
+    2+mkizin+NI+Pej+2+Pl+4: gimakizinshwaan
+    2+mkizin+NI+Pej+2+Pl+Loc: gimakizinshwaang
+    2+mkizin+NI+Pej+2+Pl+Pl: gimakizinshwaaan
+    3+mkizin+NI+Pej+2+Pl+4: omakizinshwaan
+    3+mkizin+NI+Pej+2+Pl+Loc: omakizinshwaang
+    3+mkizin+NI+Pej+2+Pl+Pl: omakizinshwaaan
+    3+mkizin+NI+Pej+3+4+4: omakizinshniwan
+    3+mkizin+NI+Pej+3+4+Loc: omakizinshniing
+    3+mkizin+NI+Pej+3+4+Pl: omakizinshniwan
+    1+mkizin+NI+Pej+Prt+4: nimakizinshibaniin
+    1+mkizin+NI+Pej+Prt+Loc: nimakizinshibaniing
+    1+mkizin+NI+Pej+Prt+Pl: nimakizinshibani1an
+    2+mkizin+NI+Pej+Prt+4: gimakizinshibaniin
+    2+mkizin+NI+Pej+Prt+Loc: gimakizinshibaniing
+    2+mkizin+NI+Pej+Prt+Pl: gimakizinshibani1an
+    3+mkizin+NI+Pej+Prt+4: omakizinshibaniin
+    3+mkizin+NI+Pej+Prt+Loc: omakizinshibaniing
+    3+mkizin+NI+Pej+Prt+Pl: omakizinshibani1an
+    X+mkizin+NI+Pej+Prt+4: imakizinshibaniin
+    X+mkizin+NI+Pej+Prt+Loc: imakizinshibaniing
+    X+mkizin+NI+Pej+Prt+Pl: imakizinshibani1an
+    1+mkizin+NI+1+Pl+Prt+4: nimakizinnaanibaniin
+    1+mkizin+NI+1+Pl+Prt+Loc: nimakizinnaanibaniing
+    1+mkizin+NI+1+Pl+Prt+Pl: nimakizinnaanibani1an
+    2+mkizin+NI+1+Pl+Prt+4: gimakizinnaanibaniin
+    2+mkizin+NI+1+Pl+Prt+Loc: gimakizinnaanibaniing
+    2+mkizin+NI+1+Pl+Prt+Pl: gimakizinnaanibani1an
+    2+mkizin+NI+2+Pl+Prt+4: gimakizinwaabaniin
+    2+mkizin+NI+2+Pl+Prt+Loc: gimakizinwaabaniing
+    2+mkizin+NI+2+Pl+Prt+Pl: gimakizinwaabani1an
+    3+mkizin+NI+2+Pl+Prt+4: omakizinwaabaniin
+    3+mkizin+NI+2+Pl+Prt+Loc: omakizinwaabaniing
+    3+mkizin+NI+2+Pl+Prt+Pl: omakizinwaabani1an
+    3+mkizin+NI+3+4+Prt+4: [ omakizinniwibaniin, omakizinniibaniin ]
+    3+mkizin+NI+3+4+Prt+Loc: [ omakizinniwibaniing, omakizinniibaniing ]
+    3+mkizin+NI+3+4+Prt+Pl: [ omakizinniwibani1an, omakizinniibani1an ]
+    mkizin+NI+Con+Pej+Prt+4: makizinenyishibaniin
+    mkizin+NI+Con+Pej+Prt+Loc: makizinenyishibaniing
+    mkizin+NI+Con+Pej+Prt+Pl: makizinenyishibani1an
+    mkizin+NI+Dim+Pej+Prt+4: makizinensishibaniin
+    mkizin+NI+Dim+Pej+Prt+Loc: makizinensishibaniing
+    mkizin+NI+Dim+Pej+Prt+Pl: makizinensishibani1an
+    1+mkizin+NI+Con+ThmPos+Pej+1+Pl: [ nimakizinenymishnaan, nimakizinenymishnaa ]
+    1+mkizin+NI+Dim+ThmPos+Pej+1+Pl: [ nimakizinensmishnaan, nimakizinensmishnaa ]
+    2+mkizin+NI+Con+ThmPos+Pej+1+Pl: [ gimakizinenymishnaan, gimakizinenymishnaa ]
+    2+mkizin+NI+Con+ThmPos+Pej+2+Pl: gimakizinenymishwaa
+    2+mkizin+NI+Dim+ThmPos+Pej+1+Pl: [ gimakizinensmishnaan, gimakizinensmishnaa ]
+    2+mkizin+NI+Dim+ThmPos+Pej+2+Pl: gimakizinensmishwaa
+    3+mkizin+NI+Con+ThmPos+Pej+2+Pl: omakizinenymishwaa
+    3+mkizin+NI+Con+ThmPos+Pej+3+4: omakizinenymishniw
+    3+mkizin+NI+Dim+ThmPos+Pej+2+Pl: omakizinensmishwaa
+    3+mkizin+NI+Dim+ThmPos+Pej+3+4: omakizinensmishniw
+    1+mkizin+NI+Con+ThmPos+Pej+Prt: [ nimakizinenymishiban, nimakizinenymishiba ]
+    1+mkizin+NI+Con+ThmPos+Pej+Voc+Pl: nimakizinenymishdig
+    1+mkizin+NI+Dim+ThmPos+Pej+Prt: [ nimakizinensmishiban, nimakizinensmishiba ]
+    1+mkizin+NI+Dim+ThmPos+Pej+Voc+Pl: nimakizinensmishdig
+    2+mkizin+NI+Con+ThmPos+Pej+Prt: [ gimakizinenymishiban, gimakizinenymishiba ]
+    2+mkizin+NI+Con+ThmPos+Pej+Voc+Pl: gimakizinenymishdig
+    2+mkizin+NI+Dim+ThmPos+Pej+Prt: [ gimakizinensmishiban, gimakizinensmishiba ]
+    2+mkizin+NI+Dim+ThmPos+Pej+Voc+Pl: gimakizinensmishdig
+    3+mkizin+NI+Con+ThmPos+Pej+Prt: [ omakizinenymishiban, omakizinenymishiba ]
+    3+mkizin+NI+Con+ThmPos+Pej+Voc+Pl: omakizinenymishdig
+    3+mkizin+NI+Dim+ThmPos+Pej+Prt: [ omakizinensmishiban, omakizinensmishiba ]
+    3+mkizin+NI+Dim+ThmPos+Pej+Voc+Pl: omakizinensmishdig
+    X+mkizin+NI+Con+ThmPos+Pej+Prt: [ imakizinenymishiban, imakizinenymishiba ]
+    X+mkizin+NI+Con+ThmPos+Pej+Voc+Pl: imakizinenymishdig
+    X+mkizin+NI+Dim+ThmPos+Pej+Prt: [ imakizinensmishiban, imakizinensmishiba ]
+    X+mkizin+NI+Dim+ThmPos+Pej+Voc+Pl: imakizinensmishdig
+    1+mkizin+NI+Con+ThmPos+Pej+4: nimakizinenymishan
+    1+mkizin+NI+Con+ThmPos+Pej+Loc: nimakizinenymishing
+    1+mkizin+NI+Con+ThmPos+Pej+Pl: nimakizinenymishan
+    1+mkizin+NI+Dim+ThmPos+Pej+4: nimakizinensmishan
+    1+mkizin+NI+Dim+ThmPos+Pej+Loc: nimakizinensmishing
+    1+mkizin+NI+Dim+ThmPos+Pej+Pl: nimakizinensmishan
+    2+mkizin+NI+Con+ThmPos+Pej+4: gimakizinenymishan
+    2+mkizin+NI+Con+ThmPos+Pej+Loc: gimakizinenymishing
+    2+mkizin+NI+Con+ThmPos+Pej+Pl: gimakizinenymishan
+    2+mkizin+NI+Dim+ThmPos+Pej+4: gimakizinensmishan
+    2+mkizin+NI+Dim+ThmPos+Pej+Loc: gimakizinensmishing
+    2+mkizin+NI+Dim+ThmPos+Pej+Pl: gimakizinensmishan
+    3+mkizin+NI+Con+ThmPos+Pej+4: omakizinenymishan
+    3+mkizin+NI+Con+ThmPos+Pej+Loc: omakizinenymishing
+    3+mkizin+NI+Con+ThmPos+Pej+Pl: omakizinenymishan
+    3+mkizin+NI+Dim+ThmPos+Pej+4: omakizinensmishan
+    3+mkizin+NI+Dim+ThmPos+Pej+Loc: omakizinensmishing
+    3+mkizin+NI+Dim+ThmPos+Pej+Pl: omakizinensmishan
+    X+mkizin+NI+Con+ThmPos+Pej+4: imakizinenymishan
+    X+mkizin+NI+Con+ThmPos+Pej+Loc: imakizinenymishing
+    X+mkizin+NI+Con+ThmPos+Pej+Pl: imakizinenymishan
+    X+mkizin+NI+Dim+ThmPos+Pej+4: imakizinensmishan
+    X+mkizin+NI+Dim+ThmPos+Pej+Loc: imakizinensmishing
+    X+mkizin+NI+Dim+ThmPos+Pej+Pl: imakizinensmishan
+    1+mkizin+NI+Con+ThmPos+1+Pl+Prt: [ nimakizinenymnaaniban, nimakizinenymnaaniba ]
+    1+mkizin+NI+Con+ThmPos+1+Pl+Voc+Pl: nimakizinenymnaany1dig
+    1+mkizin+NI+Dim+ThmPos+1+Pl+Prt: [ nimakizinensmnaaniban, nimakizinensmnaaniba ]
+    1+mkizin+NI+Dim+ThmPos+1+Pl+Voc+Pl: nimakizinensmnaany1dig
+    2+mkizin+NI+Con+ThmPos+1+Pl+Prt: [ gimakizinenymnaaniban, gimakizinenymnaaniba ]
+    2+mkizin+NI+Con+ThmPos+1+Pl+Voc+Pl: gimakizinenymnaany1dig
+    2+mkizin+NI+Con+ThmPos+2+Pl+Prt: [ gimakizinenymwaaban, gimakizinenymwaaba ]
+    2+mkizin+NI+Con+ThmPos+2+Pl+Voc+Pl: gimakizinenymwaadig
+    2+mkizin+NI+Dim+ThmPos+1+Pl+Prt: [ gimakizinensmnaaniban, gimakizinensmnaaniba ]
+    2+mkizin+NI+Dim+ThmPos+1+Pl+Voc+Pl: gimakizinensmnaany1dig
+    2+mkizin+NI+Dim+ThmPos+2+Pl+Prt: [ gimakizinensmwaaban, gimakizinensmwaaba ]
+    2+mkizin+NI+Dim+ThmPos+2+Pl+Voc+Pl: gimakizinensmwaadig
+    3+mkizin+NI+Con+ThmPos+2+Pl+Prt: [ omakizinenymwaaban, omakizinenymwaaba ]
+    3+mkizin+NI+Con+ThmPos+2+Pl+Voc+Pl: omakizinenymwaadig
+    3+mkizin+NI+Con+ThmPos+3+4+Prt: [ omakizinenymniwiban, omakizinenymniwiba, omakizinenymniiban, omakizinenymniiba ]
+    3+mkizin+NI+Con+ThmPos+3+4+Voc+Pl: omakizinenymniwdig
+    3+mkizin+NI+Dim+ThmPos+2+Pl+Prt: [ omakizinensmwaaban, omakizinensmwaaba ]
+    3+mkizin+NI+Dim+ThmPos+2+Pl+Voc+Pl: omakizinensmwaadig
+    3+mkizin+NI+Dim+ThmPos+3+4+Prt: [ omakizinensmniwiban, omakizinensmniwiba, omakizinensmniiban, omakizinensmniiba ]
+    3+mkizin+NI+Dim+ThmPos+3+4+Voc+Pl: omakizinensmniwdig
+    1+mkizin+NI+Con+ThmPos+1+Pl+4: nimakizinenymnaanin
+    1+mkizin+NI+Con+ThmPos+1+Pl+Loc: nimakizinenymnaaning
+    1+mkizin+NI+Con+ThmPos+1+Pl+Pl: nimakizinenymnaany1an
+    1+mkizin+NI+Dim+ThmPos+1+Pl+4: nimakizinensmnaanin
+    1+mkizin+NI+Dim+ThmPos+1+Pl+Loc: nimakizinensmnaaning
+    1+mkizin+NI+Dim+ThmPos+1+Pl+Pl: nimakizinensmnaany1an
+    2+mkizin+NI+Con+ThmPos+1+Pl+4: gimakizinenymnaanin
+    2+mkizin+NI+Con+ThmPos+1+Pl+Loc: gimakizinenymnaaning
+    2+mkizin+NI+Con+ThmPos+1+Pl+Pl: gimakizinenymnaany1an
+    2+mkizin+NI+Con+ThmPos+2+Pl+4: gimakizinenymwaan
+    2+mkizin+NI+Con+ThmPos+2+Pl+Loc: gimakizinenymwaang
+    2+mkizin+NI+Con+ThmPos+2+Pl+Pl: gimakizinenymwaaan
+    2+mkizin+NI+Dim+ThmPos+1+Pl+4: gimakizinensmnaanin
+    2+mkizin+NI+Dim+ThmPos+1+Pl+Loc: gimakizinensmnaaning
+    2+mkizin+NI+Dim+ThmPos+1+Pl+Pl: gimakizinensmnaany1an
+    2+mkizin+NI+Dim+ThmPos+2+Pl+4: gimakizinensmwaan
+    2+mkizin+NI+Dim+ThmPos+2+Pl+Loc: gimakizinensmwaang
+    2+mkizin+NI+Dim+ThmPos+2+Pl+Pl: gimakizinensmwaaan
+    3+mkizin+NI+Con+ThmPos+2+Pl+4: omakizinenymwaan
+    3+mkizin+NI+Con+ThmPos+2+Pl+Loc: omakizinenymwaang
+    3+mkizin+NI+Con+ThmPos+2+Pl+Pl: omakizinenymwaaan
+    3+mkizin+NI+Con+ThmPos+3+4+4: omakizinenymniwan
+    3+mkizin+NI+Con+ThmPos+3+4+Loc: omakizinenymniing
+    3+mkizin+NI+Con+ThmPos+3+4+Pl: omakizinenymniwan
+    3+mkizin+NI+Dim+ThmPos+2+Pl+4: omakizinensmwaan
+    3+mkizin+NI+Dim+ThmPos+2+Pl+Loc: omakizinensmwaang
+    3+mkizin+NI+Dim+ThmPos+2+Pl+Pl: omakizinensmwaaan
+    3+mkizin+NI+Dim+ThmPos+3+4+4: omakizinensmniwan
+    3+mkizin+NI+Dim+ThmPos+3+4+Loc: omakizinensmniing
+    3+mkizin+NI+Dim+ThmPos+3+4+Pl: omakizinensmniwan
+    1+mkizin+NI+Con+ThmPos+Prt+4: nimakizinenymibaniin
+    1+mkizin+NI+Con+ThmPos+Prt+Loc: nimakizinenymibaniing
+    1+mkizin+NI+Con+ThmPos+Prt+Pl: nimakizinenymibani1an
+    1+mkizin+NI+Dim+ThmPos+Prt+4: nimakizinensmibaniin
+    1+mkizin+NI+Dim+ThmPos+Prt+Loc: nimakizinensmibaniing
+    1+mkizin+NI+Dim+ThmPos+Prt+Pl: nimakizinensmibani1an
+    2+mkizin+NI+Con+ThmPos+Prt+4: gimakizinenymibaniin
+    2+mkizin+NI+Con+ThmPos+Prt+Loc: gimakizinenymibaniing
+    2+mkizin+NI+Con+ThmPos+Prt+Pl: gimakizinenymibani1an
+    2+mkizin+NI+Dim+ThmPos+Prt+4: gimakizinensmibaniin
+    2+mkizin+NI+Dim+ThmPos+Prt+Loc: gimakizinensmibaniing
+    2+mkizin+NI+Dim+ThmPos+Prt+Pl: gimakizinensmibani1an
+    3+mkizin+NI+Con+ThmPos+Prt+4: omakizinenymibaniin
+    3+mkizin+NI+Con+ThmPos+Prt+Loc: omakizinenymibaniing
+    3+mkizin+NI+Con+ThmPos+Prt+Pl: omakizinenymibani1an
+    3+mkizin+NI+Dim+ThmPos+Prt+4: omakizinensmibaniin
+    3+mkizin+NI+Dim+ThmPos+Prt+Loc: omakizinensmibaniing
+    3+mkizin+NI+Dim+ThmPos+Prt+Pl: omakizinensmibani1an
+    X+mkizin+NI+Con+ThmPos+Prt+4: imakizinenymibaniin
+    X+mkizin+NI+Con+ThmPos+Prt+Loc: imakizinenymibaniing
+    X+mkizin+NI+Con+ThmPos+Prt+Pl: imakizinenymibani1an
+    X+mkizin+NI+Dim+ThmPos+Prt+4: imakizinensmibaniin
+    X+mkizin+NI+Dim+ThmPos+Prt+Loc: imakizinensmibaniing
+    X+mkizin+NI+Dim+ThmPos+Prt+Pl: imakizinensmibani1an
+    1+mkizin+NI+Con+Pej+1+Pl+Prt: [ nimakizinenyishnaaniban, nimakizinenyishnaaniba ]
+    1+mkizin+NI+Con+Pej+1+Pl+Voc+Pl: nimakizinenyishnaany1dig
+    1+mkizin+NI+Dim+Pej+1+Pl+Prt: [ nimakizinensishnaaniban, nimakizinensishnaaniba ]
+    1+mkizin+NI+Dim+Pej+1+Pl+Voc+Pl: nimakizinensishnaany1dig
+    2+mkizin+NI+Con+Pej+1+Pl+Prt: [ gimakizinenyishnaaniban, gimakizinenyishnaaniba ]
+    2+mkizin+NI+Con+Pej+1+Pl+Voc+Pl: gimakizinenyishnaany1dig
+    2+mkizin+NI+Con+Pej+2+Pl+Prt: [ gimakizinenyishwaaban, gimakizinenyishwaaba ]
+    2+mkizin+NI+Con+Pej+2+Pl+Voc+Pl: gimakizinenyishwaadig
+    2+mkizin+NI+Dim+Pej+1+Pl+Prt: [ gimakizinensishnaaniban, gimakizinensishnaaniba ]
+    2+mkizin+NI+Dim+Pej+1+Pl+Voc+Pl: gimakizinensishnaany1dig
+    2+mkizin+NI+Dim+Pej+2+Pl+Prt: [ gimakizinensishwaaban, gimakizinensishwaaba ]
+    2+mkizin+NI+Dim+Pej+2+Pl+Voc+Pl: gimakizinensishwaadig
+    3+mkizin+NI+Con+Pej+2+Pl+Prt: [ omakizinenyishwaaban, omakizinenyishwaaba ]
+    3+mkizin+NI+Con+Pej+2+Pl+Voc+Pl: omakizinenyishwaadig
+    3+mkizin+NI+Con+Pej+3+4+Prt: [ omakizinenyishniwiban, omakizinenyishniwiba, omakizinenyishniiban, omakizinenyishniiba ]
+    3+mkizin+NI+Con+Pej+3+4+Voc+Pl: omakizinenyishniwdig
+    3+mkizin+NI+Dim+Pej+2+Pl+Prt: [ omakizinensishwaaban, omakizinensishwaaba ]
+    3+mkizin+NI+Dim+Pej+2+Pl+Voc+Pl: omakizinensishwaadig
+    3+mkizin+NI+Dim+Pej+3+4+Prt: [ omakizinensishniwiban, omakizinensishniwiba, omakizinensishniiban, omakizinensishniiba ]
+    3+mkizin+NI+Dim+Pej+3+4+Voc+Pl: omakizinensishniwdig
+    1+mkizin+NI+Con+Pej+1+Pl+4: nimakizinenyishnaanin
+    1+mkizin+NI+Con+Pej+1+Pl+Loc: nimakizinenyishnaaning
+    1+mkizin+NI+Con+Pej+1+Pl+Pl: nimakizinenyishnaany1an
+    1+mkizin+NI+Dim+Pej+1+Pl+4: nimakizinensishnaanin
+    1+mkizin+NI+Dim+Pej+1+Pl+Loc: nimakizinensishnaaning
+    1+mkizin+NI+Dim+Pej+1+Pl+Pl: nimakizinensishnaany1an
+    2+mkizin+NI+Con+Pej+1+Pl+4: gimakizinenyishnaanin
+    2+mkizin+NI+Con+Pej+1+Pl+Loc: gimakizinenyishnaaning
+    2+mkizin+NI+Con+Pej+1+Pl+Pl: gimakizinenyishnaany1an
+    2+mkizin+NI+Con+Pej+2+Pl+4: gimakizinenyishwaan
+    2+mkizin+NI+Con+Pej+2+Pl+Loc: gimakizinenyishwaang
+    2+mkizin+NI+Con+Pej+2+Pl+Pl: gimakizinenyishwaaan
+    2+mkizin+NI+Dim+Pej+1+Pl+4: gimakizinensishnaanin
+    2+mkizin+NI+Dim+Pej+1+Pl+Loc: gimakizinensishnaaning
+    2+mkizin+NI+Dim+Pej+1+Pl+Pl: gimakizinensishnaany1an
+    2+mkizin+NI+Dim+Pej+2+Pl+4: gimakizinensishwaan
+    2+mkizin+NI+Dim+Pej+2+Pl+Loc: gimakizinensishwaang
+    2+mkizin+NI+Dim+Pej+2+Pl+Pl: gimakizinensishwaaan
+    3+mkizin+NI+Con+Pej+2+Pl+4: omakizinenyishwaan
+    3+mkizin+NI+Con+Pej+2+Pl+Loc: omakizinenyishwaang
+    3+mkizin+NI+Con+Pej+2+Pl+Pl: omakizinenyishwaaan
+    3+mkizin+NI+Con+Pej+3+4+4: omakizinenyishniwan
+    3+mkizin+NI+Con+Pej+3+4+Loc: omakizinenyishniing
+    3+mkizin+NI+Con+Pej+3+4+Pl: omakizinenyishniwan
+    3+mkizin+NI+Dim+Pej+2+Pl+4: omakizinensishwaan
+    3+mkizin+NI+Dim+Pej+2+Pl+Loc: omakizinensishwaang
+    3+mkizin+NI+Dim+Pej+2+Pl+Pl: omakizinensishwaaan
+    3+mkizin+NI+Dim+Pej+3+4+4: omakizinensishniwan
+    3+mkizin+NI+Dim+Pej+3+4+Loc: omakizinensishniing
+    3+mkizin+NI+Dim+Pej+3+4+Pl: omakizinensishniwan
+    1+mkizin+NI+Con+Pej+Prt+4: nimakizinenyishibaniin
+    1+mkizin+NI+Con+Pej+Prt+Loc: nimakizinenyishibaniing
+    1+mkizin+NI+Con+Pej+Prt+Pl: nimakizinenyishibani1an
+    1+mkizin+NI+Dim+Pej+Prt+4: nimakizinensishibaniin
+    1+mkizin+NI+Dim+Pej+Prt+Loc: nimakizinensishibaniing
+    1+mkizin+NI+Dim+Pej+Prt+Pl: nimakizinensishibani1an
+    2+mkizin+NI+Con+Pej+Prt+4: gimakizinenyishibaniin
+    2+mkizin+NI+Con+Pej+Prt+Loc: gimakizinenyishibaniing
+    2+mkizin+NI+Con+Pej+Prt+Pl: gimakizinenyishibani1an
+    2+mkizin+NI+Dim+Pej+Prt+4: gimakizinensishibaniin
+    2+mkizin+NI+Dim+Pej+Prt+Loc: gimakizinensishibaniing
+    2+mkizin+NI+Dim+Pej+Prt+Pl: gimakizinensishibani1an
+    3+mkizin+NI+Con+Pej+Prt+4: omakizinenyishibaniin
+    3+mkizin+NI+Con+Pej+Prt+Loc: omakizinenyishibaniing
+    3+mkizin+NI+Con+Pej+Prt+Pl: omakizinenyishibani1an
+    3+mkizin+NI+Dim+Pej+Prt+4: omakizinensishibaniin
+    3+mkizin+NI+Dim+Pej+Prt+Loc: omakizinensishibaniing
+    3+mkizin+NI+Dim+Pej+Prt+Pl: omakizinensishibani1an
+    X+mkizin+NI+Con+Pej+Prt+4: imakizinenyishibaniin
+    X+mkizin+NI+Con+Pej+Prt+Loc: imakizinenyishibaniing
+    X+mkizin+NI+Con+Pej+Prt+Pl: imakizinenyishibani1an
+    X+mkizin+NI+Dim+Pej+Prt+4: imakizinensishibaniin
+    X+mkizin+NI+Dim+Pej+Prt+Loc: imakizinensishibaniing
+    X+mkizin+NI+Dim+Pej+Prt+Pl: imakizinensishibani1an
+    1+mkizin+NI+Con+1+Pl+Prt+4: nimakizinenynaanibaniin
+    1+mkizin+NI+Con+1+Pl+Prt+Loc: nimakizinenynaanibaniing
+    1+mkizin+NI+Con+1+Pl+Prt+Pl: nimakizinenynaanibani1an
+    1+mkizin+NI+Dim+1+Pl+Prt+4: nimakizinensnaanibaniin
+    1+mkizin+NI+Dim+1+Pl+Prt+Loc: nimakizinensnaanibaniing
+    1+mkizin+NI+Dim+1+Pl+Prt+Pl: nimakizinensnaanibani1an
+    2+mkizin+NI+Con+1+Pl+Prt+4: gimakizinenynaanibaniin
+    2+mkizin+NI+Con+1+Pl+Prt+Loc: gimakizinenynaanibaniing
+    2+mkizin+NI+Con+1+Pl+Prt+Pl: gimakizinenynaanibani1an
+    2+mkizin+NI+Con+2+Pl+Prt+4: gimakizinenywaabaniin
+    2+mkizin+NI+Con+2+Pl+Prt+Loc: gimakizinenywaabaniing
+    2+mkizin+NI+Con+2+Pl+Prt+Pl: gimakizinenywaabani1an
+    2+mkizin+NI+Dim+1+Pl+Prt+4: gimakizinensnaanibaniin
+    2+mkizin+NI+Dim+1+Pl+Prt+Loc: gimakizinensnaanibaniing
+    2+mkizin+NI+Dim+1+Pl+Prt+Pl: gimakizinensnaanibani1an
+    2+mkizin+NI+Dim+2+Pl+Prt+4: gimakizinenswaabaniin
+    2+mkizin+NI+Dim+2+Pl+Prt+Loc: gimakizinenswaabaniing
+    2+mkizin+NI+Dim+2+Pl+Prt+Pl: gimakizinenswaabani1an
+    3+mkizin+NI+Con+2+Pl+Prt+4: omakizinenywaabaniin
+    3+mkizin+NI+Con+2+Pl+Prt+Loc: omakizinenywaabaniing
+    3+mkizin+NI+Con+2+Pl+Prt+Pl: omakizinenywaabani1an
+    3+mkizin+NI+Con+3+4+Prt+4: [ omakizinenyniwibaniin, omakizinenyniibaniin ]
+    3+mkizin+NI+Con+3+4+Prt+Loc: [ omakizinenyniwibaniing, omakizinenyniibaniing ]
+    3+mkizin+NI+Con+3+4+Prt+Pl: [ omakizinenyniwibani1an, omakizinenyniibani1an ]
+    3+mkizin+NI+Dim+2+Pl+Prt+4: omakizinenswaabaniin
+    3+mkizin+NI+Dim+2+Pl+Prt+Loc: omakizinenswaabaniing
+    3+mkizin+NI+Dim+2+Pl+Prt+Pl: omakizinenswaabani1an
+    3+mkizin+NI+Dim+3+4+Prt+4: [ omakizinensniwibaniin, omakizinensniibaniin ]
+    3+mkizin+NI+Dim+3+4+Prt+Loc: [ omakizinensniwibaniing, omakizinensniibaniing ]
+    3+mkizin+NI+Dim+3+4+Prt+Pl: [ omakizinensniwibani1an, omakizinensniibani1an ]
+    1+mkizin+NI+ThmPos+Pej+1+Pl+Prt: [ nimakizinmishnaaniban, nimakizinmishnaaniba ]
+    1+mkizin+NI+ThmPos+Pej+1+Pl+Voc+Pl: nimakizinmishnaany1dig
+    2+mkizin+NI+ThmPos+Pej+1+Pl+Prt: [ gimakizinmishnaaniban, gimakizinmishnaaniba ]
+    2+mkizin+NI+ThmPos+Pej+1+Pl+Voc+Pl: gimakizinmishnaany1dig
+    2+mkizin+NI+ThmPos+Pej+2+Pl+Prt: [ gimakizinmishwaaban, gimakizinmishwaaba ]
+    2+mkizin+NI+ThmPos+Pej+2+Pl+Voc+Pl: gimakizinmishwaadig
+    3+mkizin+NI+ThmPos+Pej+2+Pl+Prt: [ omakizinmishwaaban, omakizinmishwaaba ]
+    3+mkizin+NI+ThmPos+Pej+2+Pl+Voc+Pl: omakizinmishwaadig
+    3+mkizin+NI+ThmPos+Pej+3+4+Prt: [ omakizinmishniwiban, omakizinmishniwiba, omakizinmishniiban, omakizinmishniiba ]
+    3+mkizin+NI+ThmPos+Pej+3+4+Voc+Pl: omakizinmishniwdig
+    1+mkizin+NI+ThmPos+Pej+1+Pl+4: nimakizinmishnaanin
+    1+mkizin+NI+ThmPos+Pej+1+Pl+Loc: nimakizinmishnaaning
+    1+mkizin+NI+ThmPos+Pej+1+Pl+Pl: nimakizinmishnaany1an
+    2+mkizin+NI+ThmPos+Pej+1+Pl+4: gimakizinmishnaanin
+    2+mkizin+NI+ThmPos+Pej+1+Pl+Loc: gimakizinmishnaaning
+    2+mkizin+NI+ThmPos+Pej+1+Pl+Pl: gimakizinmishnaany1an
+    2+mkizin+NI+ThmPos+Pej+2+Pl+4: gimakizinmishwaan
+    2+mkizin+NI+ThmPos+Pej+2+Pl+Loc: gimakizinmishwaang
+    2+mkizin+NI+ThmPos+Pej+2+Pl+Pl: gimakizinmishwaaan
+    3+mkizin+NI+ThmPos+Pej+2+Pl+4: omakizinmishwaan
+    3+mkizin+NI+ThmPos+Pej+2+Pl+Loc: omakizinmishwaang
+    3+mkizin+NI+ThmPos+Pej+2+Pl+Pl: omakizinmishwaaan
+    3+mkizin+NI+ThmPos+Pej+3+4+4: omakizinmishniwan
+    3+mkizin+NI+ThmPos+Pej+3+4+Loc: omakizinmishniing
+    3+mkizin+NI+ThmPos+Pej+3+4+Pl: omakizinmishniwan
+    1+mkizin+NI+ThmPos+Pej+Prt+4: nimakizinmishibaniin
+    1+mkizin+NI+ThmPos+Pej+Prt+Loc: nimakizinmishibaniing
+    1+mkizin+NI+ThmPos+Pej+Prt+Pl: nimakizinmishibani1an
+    2+mkizin+NI+ThmPos+Pej+Prt+4: gimakizinmishibaniin
+    2+mkizin+NI+ThmPos+Pej+Prt+Loc: gimakizinmishibaniing
+    2+mkizin+NI+ThmPos+Pej+Prt+Pl: gimakizinmishibani1an
+    3+mkizin+NI+ThmPos+Pej+Prt+4: omakizinmishibaniin
+    3+mkizin+NI+ThmPos+Pej+Prt+Loc: omakizinmishibaniing
+    3+mkizin+NI+ThmPos+Pej+Prt+Pl: omakizinmishibani1an
+    X+mkizin+NI+ThmPos+Pej+Prt+4: imakizinmishibaniin
+    X+mkizin+NI+ThmPos+Pej+Prt+Loc: imakizinmishibaniing
+    X+mkizin+NI+ThmPos+Pej+Prt+Pl: imakizinmishibani1an
+    1+mkizin+NI+ThmPos+1+Pl+Prt+4: nimakizinmnaanibaniin
+    1+mkizin+NI+ThmPos+1+Pl+Prt+Loc: nimakizinmnaanibaniing
+    1+mkizin+NI+ThmPos+1+Pl+Prt+Pl: nimakizinmnaanibani1an
+    2+mkizin+NI+ThmPos+1+Pl+Prt+4: gimakizinmnaanibaniin
+    2+mkizin+NI+ThmPos+1+Pl+Prt+Loc: gimakizinmnaanibaniing
+    2+mkizin+NI+ThmPos+1+Pl+Prt+Pl: gimakizinmnaanibani1an
+    2+mkizin+NI+ThmPos+2+Pl+Prt+4: gimakizinmwaabaniin
+    2+mkizin+NI+ThmPos+2+Pl+Prt+Loc: gimakizinmwaabaniing
+    2+mkizin+NI+ThmPos+2+Pl+Prt+Pl: gimakizinmwaabani1an
+    3+mkizin+NI+ThmPos+2+Pl+Prt+4: omakizinmwaabaniin
+    3+mkizin+NI+ThmPos+2+Pl+Prt+Loc: omakizinmwaabaniing
+    3+mkizin+NI+ThmPos+2+Pl+Prt+Pl: omakizinmwaabani1an
+    3+mkizin+NI+ThmPos+3+4+Prt+4: [ omakizinmniwibaniin, omakizinmniibaniin ]
+    3+mkizin+NI+ThmPos+3+4+Prt+Loc: [ omakizinmniwibaniing, omakizinmniibaniing ]
+    3+mkizin+NI+ThmPos+3+4+Prt+Pl: [ omakizinmniwibani1an, omakizinmniibani1an ]
+    1+mkizin+NI+Pej+1+Pl+Prt+4: nimakizinshnaanibaniin
+    1+mkizin+NI+Pej+1+Pl+Prt+Loc: nimakizinshnaanibaniing
+    1+mkizin+NI+Pej+1+Pl+Prt+Pl: nimakizinshnaanibani1an
+    2+mkizin+NI+Pej+1+Pl+Prt+4: gimakizinshnaanibaniin
+    2+mkizin+NI+Pej+1+Pl+Prt+Loc: gimakizinshnaanibaniing
+    2+mkizin+NI+Pej+1+Pl+Prt+Pl: gimakizinshnaanibani1an
+    2+mkizin+NI+Pej+2+Pl+Prt+4: gimakizinshwaabaniin
+    2+mkizin+NI+Pej+2+Pl+Prt+Loc: gimakizinshwaabaniing
+    2+mkizin+NI+Pej+2+Pl+Prt+Pl: gimakizinshwaabani1an
+    3+mkizin+NI+Pej+2+Pl+Prt+4: omakizinshwaabaniin
+    3+mkizin+NI+Pej+2+Pl+Prt+Loc: omakizinshwaabaniing
+    3+mkizin+NI+Pej+2+Pl+Prt+Pl: omakizinshwaabani1an
+    3+mkizin+NI+Pej+3+4+Prt+4: [ omakizinshniwibaniin, omakizinshniibaniin ]
+    3+mkizin+NI+Pej+3+4+Prt+Loc: [ omakizinshniwibaniing, omakizinshniibaniing ]
+    3+mkizin+NI+Pej+3+4+Prt+Pl: [ omakizinshniwibani1an, omakizinshniibani1an ]
+    1+mkizin+NI+Con+ThmPos+Pej+1+Pl+Prt: [ nimakizinenymishnaaniban, nimakizinenymishnaaniba ]
+    1+mkizin+NI+Con+ThmPos+Pej+1+Pl+Voc+Pl: nimakizinenymishnaany1dig
+    1+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Prt: [ nimakizinensmishnaaniban, nimakizinensmishnaaniba ]
+    1+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Voc+Pl: nimakizinensmishnaany1dig
+    2+mkizin+NI+Con+ThmPos+Pej+1+Pl+Prt: [ gimakizinenymishnaaniban, gimakizinenymishnaaniba ]
+    2+mkizin+NI+Con+ThmPos+Pej+1+Pl+Voc+Pl: gimakizinenymishnaany1dig
+    2+mkizin+NI+Con+ThmPos+Pej+2+Pl+Prt: [ gimakizinenymishwaaban, gimakizinenymishwaaba ]
+    2+mkizin+NI+Con+ThmPos+Pej+2+Pl+Voc+Pl: gimakizinenymishwaadig
+    2+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Prt: [ gimakizinensmishnaaniban, gimakizinensmishnaaniba ]
+    2+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Voc+Pl: gimakizinensmishnaany1dig
+    2+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Prt: [ gimakizinensmishwaaban, gimakizinensmishwaaba ]
+    2+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Voc+Pl: gimakizinensmishwaadig
+    3+mkizin+NI+Con+ThmPos+Pej+2+Pl+Prt: [ omakizinenymishwaaban, omakizinenymishwaaba ]
+    3+mkizin+NI+Con+ThmPos+Pej+2+Pl+Voc+Pl: omakizinenymishwaadig
+    3+mkizin+NI+Con+ThmPos+Pej+3+4+Prt: [ omakizinenymishniwiban, omakizinenymishniwiba, omakizinenymishniiban, omakizinenymishniiba ]
+    3+mkizin+NI+Con+ThmPos+Pej+3+4+Voc+Pl: omakizinenymishniwdig
+    3+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Prt: [ omakizinensmishwaaban, omakizinensmishwaaba ]
+    3+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Voc+Pl: omakizinensmishwaadig
+    3+mkizin+NI+Dim+ThmPos+Pej+3+4+Prt: [ omakizinensmishniwiban, omakizinensmishniwiba, omakizinensmishniiban, omakizinensmishniiba ]
+    3+mkizin+NI+Dim+ThmPos+Pej+3+4+Voc+Pl: omakizinensmishniwdig
+    1+mkizin+NI+Con+ThmPos+Pej+1+Pl+4: nimakizinenymishnaanin
+    1+mkizin+NI+Con+ThmPos+Pej+1+Pl+Loc: nimakizinenymishnaaning
+    1+mkizin+NI+Con+ThmPos+Pej+1+Pl+Pl: nimakizinenymishnaany1an
+    1+mkizin+NI+Dim+ThmPos+Pej+1+Pl+4: nimakizinensmishnaanin
+    1+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Loc: nimakizinensmishnaaning
+    1+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Pl: nimakizinensmishnaany1an
+    2+mkizin+NI+Con+ThmPos+Pej+1+Pl+4: gimakizinenymishnaanin
+    2+mkizin+NI+Con+ThmPos+Pej+1+Pl+Loc: gimakizinenymishnaaning
+    2+mkizin+NI+Con+ThmPos+Pej+1+Pl+Pl: gimakizinenymishnaany1an
+    2+mkizin+NI+Con+ThmPos+Pej+2+Pl+4: gimakizinenymishwaan
+    2+mkizin+NI+Con+ThmPos+Pej+2+Pl+Loc: gimakizinenymishwaang
+    2+mkizin+NI+Con+ThmPos+Pej+2+Pl+Pl: gimakizinenymishwaaan
+    2+mkizin+NI+Dim+ThmPos+Pej+1+Pl+4: gimakizinensmishnaanin
+    2+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Loc: gimakizinensmishnaaning
+    2+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Pl: gimakizinensmishnaany1an
+    2+mkizin+NI+Dim+ThmPos+Pej+2+Pl+4: gimakizinensmishwaan
+    2+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Loc: gimakizinensmishwaang
+    2+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Pl: gimakizinensmishwaaan
+    3+mkizin+NI+Con+ThmPos+Pej+2+Pl+4: omakizinenymishwaan
+    3+mkizin+NI+Con+ThmPos+Pej+2+Pl+Loc: omakizinenymishwaang
+    3+mkizin+NI+Con+ThmPos+Pej+2+Pl+Pl: omakizinenymishwaaan
+    3+mkizin+NI+Con+ThmPos+Pej+3+4+4: omakizinenymishniwan
+    3+mkizin+NI+Con+ThmPos+Pej+3+4+Loc: omakizinenymishniing
+    3+mkizin+NI+Con+ThmPos+Pej+3+4+Pl: omakizinenymishniwan
+    3+mkizin+NI+Dim+ThmPos+Pej+2+Pl+4: omakizinensmishwaan
+    3+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Loc: omakizinensmishwaang
+    3+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Pl: omakizinensmishwaaan
+    3+mkizin+NI+Dim+ThmPos+Pej+3+4+4: omakizinensmishniwan
+    3+mkizin+NI+Dim+ThmPos+Pej+3+4+Loc: omakizinensmishniing
+    3+mkizin+NI+Dim+ThmPos+Pej+3+4+Pl: omakizinensmishniwan
+    1+mkizin+NI+Con+ThmPos+Pej+Prt+4: nimakizinenymishibaniin
+    1+mkizin+NI+Con+ThmPos+Pej+Prt+Loc: nimakizinenymishibaniing
+    1+mkizin+NI+Con+ThmPos+Pej+Prt+Pl: nimakizinenymishibani1an
+    1+mkizin+NI+Dim+ThmPos+Pej+Prt+4: nimakizinensmishibaniin
+    1+mkizin+NI+Dim+ThmPos+Pej+Prt+Loc: nimakizinensmishibaniing
+    1+mkizin+NI+Dim+ThmPos+Pej+Prt+Pl: nimakizinensmishibani1an
+    2+mkizin+NI+Con+ThmPos+Pej+Prt+4: gimakizinenymishibaniin
+    2+mkizin+NI+Con+ThmPos+Pej+Prt+Loc: gimakizinenymishibaniing
+    2+mkizin+NI+Con+ThmPos+Pej+Prt+Pl: gimakizinenymishibani1an
+    2+mkizin+NI+Dim+ThmPos+Pej+Prt+4: gimakizinensmishibaniin
+    2+mkizin+NI+Dim+ThmPos+Pej+Prt+Loc: gimakizinensmishibaniing
+    2+mkizin+NI+Dim+ThmPos+Pej+Prt+Pl: gimakizinensmishibani1an
+    3+mkizin+NI+Con+ThmPos+Pej+Prt+4: omakizinenymishibaniin
+    3+mkizin+NI+Con+ThmPos+Pej+Prt+Loc: omakizinenymishibaniing
+    3+mkizin+NI+Con+ThmPos+Pej+Prt+Pl: omakizinenymishibani1an
+    3+mkizin+NI+Dim+ThmPos+Pej+Prt+4: omakizinensmishibaniin
+    3+mkizin+NI+Dim+ThmPos+Pej+Prt+Loc: omakizinensmishibaniing
+    3+mkizin+NI+Dim+ThmPos+Pej+Prt+Pl: omakizinensmishibani1an
+    X+mkizin+NI+Con+ThmPos+Pej+Prt+4: imakizinenymishibaniin
+    X+mkizin+NI+Con+ThmPos+Pej+Prt+Loc: imakizinenymishibaniing
+    X+mkizin+NI+Con+ThmPos+Pej+Prt+Pl: imakizinenymishibani1an
+    X+mkizin+NI+Dim+ThmPos+Pej+Prt+4: imakizinensmishibaniin
+    X+mkizin+NI+Dim+ThmPos+Pej+Prt+Loc: imakizinensmishibaniing
+    X+mkizin+NI+Dim+ThmPos+Pej+Prt+Pl: imakizinensmishibani1an
+    1+mkizin+NI+Con+ThmPos+1+Pl+Prt+4: nimakizinenymnaanibaniin
+    1+mkizin+NI+Con+ThmPos+1+Pl+Prt+Loc: nimakizinenymnaanibaniing
+    1+mkizin+NI+Con+ThmPos+1+Pl+Prt+Pl: nimakizinenymnaanibani1an
+    1+mkizin+NI+Dim+ThmPos+1+Pl+Prt+4: nimakizinensmnaanibaniin
+    1+mkizin+NI+Dim+ThmPos+1+Pl+Prt+Loc: nimakizinensmnaanibaniing
+    1+mkizin+NI+Dim+ThmPos+1+Pl+Prt+Pl: nimakizinensmnaanibani1an
+    2+mkizin+NI+Con+ThmPos+1+Pl+Prt+4: gimakizinenymnaanibaniin
+    2+mkizin+NI+Con+ThmPos+1+Pl+Prt+Loc: gimakizinenymnaanibaniing
+    2+mkizin+NI+Con+ThmPos+1+Pl+Prt+Pl: gimakizinenymnaanibani1an
+    2+mkizin+NI+Con+ThmPos+2+Pl+Prt+4: gimakizinenymwaabaniin
+    2+mkizin+NI+Con+ThmPos+2+Pl+Prt+Loc: gimakizinenymwaabaniing
+    2+mkizin+NI+Con+ThmPos+2+Pl+Prt+Pl: gimakizinenymwaabani1an
+    2+mkizin+NI+Dim+ThmPos+1+Pl+Prt+4: gimakizinensmnaanibaniin
+    2+mkizin+NI+Dim+ThmPos+1+Pl+Prt+Loc: gimakizinensmnaanibaniing
+    2+mkizin+NI+Dim+ThmPos+1+Pl+Prt+Pl: gimakizinensmnaanibani1an
+    2+mkizin+NI+Dim+ThmPos+2+Pl+Prt+4: gimakizinensmwaabaniin
+    2+mkizin+NI+Dim+ThmPos+2+Pl+Prt+Loc: gimakizinensmwaabaniing
+    2+mkizin+NI+Dim+ThmPos+2+Pl+Prt+Pl: gimakizinensmwaabani1an
+    3+mkizin+NI+Con+ThmPos+2+Pl+Prt+4: omakizinenymwaabaniin
+    3+mkizin+NI+Con+ThmPos+2+Pl+Prt+Loc: omakizinenymwaabaniing
+    3+mkizin+NI+Con+ThmPos+2+Pl+Prt+Pl: omakizinenymwaabani1an
+    3+mkizin+NI+Con+ThmPos+3+4+Prt+4: [ omakizinenymniwibaniin, omakizinenymniibaniin ]
+    3+mkizin+NI+Con+ThmPos+3+4+Prt+Loc: [ omakizinenymniwibaniing, omakizinenymniibaniing ]
+    3+mkizin+NI+Con+ThmPos+3+4+Prt+Pl: [ omakizinenymniwibani1an, omakizinenymniibani1an ]
+    3+mkizin+NI+Dim+ThmPos+2+Pl+Prt+4: omakizinensmwaabaniin
+    3+mkizin+NI+Dim+ThmPos+2+Pl+Prt+Loc: omakizinensmwaabaniing
+    3+mkizin+NI+Dim+ThmPos+2+Pl+Prt+Pl: omakizinensmwaabani1an
+    3+mkizin+NI+Dim+ThmPos+3+4+Prt+4: [ omakizinensmniwibaniin, omakizinensmniibaniin ]
+    3+mkizin+NI+Dim+ThmPos+3+4+Prt+Loc: [ omakizinensmniwibaniing, omakizinensmniibaniing ]
+    3+mkizin+NI+Dim+ThmPos+3+4+Prt+Pl: [ omakizinensmniwibani1an, omakizinensmniibani1an ]
+    1+mkizin+NI+Con+Pej+1+Pl+Prt+4: nimakizinenyishnaanibaniin
+    1+mkizin+NI+Con+Pej+1+Pl+Prt+Loc: nimakizinenyishnaanibaniing
+    1+mkizin+NI+Con+Pej+1+Pl+Prt+Pl: nimakizinenyishnaanibani1an
+    1+mkizin+NI+Dim+Pej+1+Pl+Prt+4: nimakizinensishnaanibaniin
+    1+mkizin+NI+Dim+Pej+1+Pl+Prt+Loc: nimakizinensishnaanibaniing
+    1+mkizin+NI+Dim+Pej+1+Pl+Prt+Pl: nimakizinensishnaanibani1an
+    2+mkizin+NI+Con+Pej+1+Pl+Prt+4: gimakizinenyishnaanibaniin
+    2+mkizin+NI+Con+Pej+1+Pl+Prt+Loc: gimakizinenyishnaanibaniing
+    2+mkizin+NI+Con+Pej+1+Pl+Prt+Pl: gimakizinenyishnaanibani1an
+    2+mkizin+NI+Con+Pej+2+Pl+Prt+4: gimakizinenyishwaabaniin
+    2+mkizin+NI+Con+Pej+2+Pl+Prt+Loc: gimakizinenyishwaabaniing
+    2+mkizin+NI+Con+Pej+2+Pl+Prt+Pl: gimakizinenyishwaabani1an
+    2+mkizin+NI+Dim+Pej+1+Pl+Prt+4: gimakizinensishnaanibaniin
+    2+mkizin+NI+Dim+Pej+1+Pl+Prt+Loc: gimakizinensishnaanibaniing
+    2+mkizin+NI+Dim+Pej+1+Pl+Prt+Pl: gimakizinensishnaanibani1an
+    2+mkizin+NI+Dim+Pej+2+Pl+Prt+4: gimakizinensishwaabaniin
+    2+mkizin+NI+Dim+Pej+2+Pl+Prt+Loc: gimakizinensishwaabaniing
+    2+mkizin+NI+Dim+Pej+2+Pl+Prt+Pl: gimakizinensishwaabani1an
+    3+mkizin+NI+Con+Pej+2+Pl+Prt+4: omakizinenyishwaabaniin
+    3+mkizin+NI+Con+Pej+2+Pl+Prt+Loc: omakizinenyishwaabaniing
+    3+mkizin+NI+Con+Pej+2+Pl+Prt+Pl: omakizinenyishwaabani1an
+    3+mkizin+NI+Con+Pej+3+4+Prt+4: [ omakizinenyishniwibaniin, omakizinenyishniibaniin ]
+    3+mkizin+NI+Con+Pej+3+4+Prt+Loc: [ omakizinenyishniwibaniing, omakizinenyishniibaniing ]
+    3+mkizin+NI+Con+Pej+3+4+Prt+Pl: [ omakizinenyishniwibani1an, omakizinenyishniibani1an ]
+    3+mkizin+NI+Dim+Pej+2+Pl+Prt+4: omakizinensishwaabaniin
+    3+mkizin+NI+Dim+Pej+2+Pl+Prt+Loc: omakizinensishwaabaniing
+    3+mkizin+NI+Dim+Pej+2+Pl+Prt+Pl: omakizinensishwaabani1an
+    3+mkizin+NI+Dim+Pej+3+4+Prt+4: [ omakizinensishniwibaniin, omakizinensishniibaniin ]
+    3+mkizin+NI+Dim+Pej+3+4+Prt+Loc: [ omakizinensishniwibaniing, omakizinensishniibaniing ]
+    3+mkizin+NI+Dim+Pej+3+4+Prt+Pl: [ omakizinensishniwibani1an, omakizinensishniibani1an ]
+    1+mkizin+NI+ThmPos+Pej+1+Pl+Prt+4: nimakizinmishnaanibaniin
+    1+mkizin+NI+ThmPos+Pej+1+Pl+Prt+Loc: nimakizinmishnaanibaniing
+    1+mkizin+NI+ThmPos+Pej+1+Pl+Prt+Pl: nimakizinmishnaanibani1an
+    2+mkizin+NI+ThmPos+Pej+1+Pl+Prt+4: gimakizinmishnaanibaniin
+    2+mkizin+NI+ThmPos+Pej+1+Pl+Prt+Loc: gimakizinmishnaanibaniing
+    2+mkizin+NI+ThmPos+Pej+1+Pl+Prt+Pl: gimakizinmishnaanibani1an
+    2+mkizin+NI+ThmPos+Pej+2+Pl+Prt+4: gimakizinmishwaabaniin
+    2+mkizin+NI+ThmPos+Pej+2+Pl+Prt+Loc: gimakizinmishwaabaniing
+    2+mkizin+NI+ThmPos+Pej+2+Pl+Prt+Pl: gimakizinmishwaabani1an
+    3+mkizin+NI+ThmPos+Pej+2+Pl+Prt+4: omakizinmishwaabaniin
+    3+mkizin+NI+ThmPos+Pej+2+Pl+Prt+Loc: omakizinmishwaabaniing
+    3+mkizin+NI+ThmPos+Pej+2+Pl+Prt+Pl: omakizinmishwaabani1an
+    3+mkizin+NI+ThmPos+Pej+3+4+Prt+4: [ omakizinmishniwibaniin, omakizinmishniibaniin ]
+    3+mkizin+NI+ThmPos+Pej+3+4+Prt+Loc: [ omakizinmishniwibaniing, omakizinmishniibaniing ]
+    3+mkizin+NI+ThmPos+Pej+3+4+Prt+Pl: [ omakizinmishniwibani1an, omakizinmishniibani1an ]
+    1+mkizin+NI+Con+ThmPos+Pej+1+Pl+Prt+4: nimakizinenymishnaanibaniin
+    1+mkizin+NI+Con+ThmPos+Pej+1+Pl+Prt+Loc: nimakizinenymishnaanibaniing
+    1+mkizin+NI+Con+ThmPos+Pej+1+Pl+Prt+Pl: nimakizinenymishnaanibani1an
+    1+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Prt+4: nimakizinensmishnaanibaniin
+    1+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Prt+Loc: nimakizinensmishnaanibaniing
+    1+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Prt+Pl: nimakizinensmishnaanibani1an
+    2+mkizin+NI+Con+ThmPos+Pej+1+Pl+Prt+4: gimakizinenymishnaanibaniin
+    2+mkizin+NI+Con+ThmPos+Pej+1+Pl+Prt+Loc: gimakizinenymishnaanibaniing
+    2+mkizin+NI+Con+ThmPos+Pej+1+Pl+Prt+Pl: gimakizinenymishnaanibani1an
+    2+mkizin+NI+Con+ThmPos+Pej+2+Pl+Prt+4: gimakizinenymishwaabaniin
+    2+mkizin+NI+Con+ThmPos+Pej+2+Pl+Prt+Loc: gimakizinenymishwaabaniing
+    2+mkizin+NI+Con+ThmPos+Pej+2+Pl+Prt+Pl: gimakizinenymishwaabani1an
+    2+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Prt+4: gimakizinensmishnaanibaniin
+    2+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Prt+Loc: gimakizinensmishnaanibaniing
+    2+mkizin+NI+Dim+ThmPos+Pej+1+Pl+Prt+Pl: gimakizinensmishnaanibani1an
+    2+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Prt+4: gimakizinensmishwaabaniin
+    2+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Prt+Loc: gimakizinensmishwaabaniing
+    2+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Prt+Pl: gimakizinensmishwaabani1an
+    3+mkizin+NI+Con+ThmPos+Pej+2+Pl+Prt+4: omakizinenymishwaabaniin
+    3+mkizin+NI+Con+ThmPos+Pej+2+Pl+Prt+Loc: omakizinenymishwaabaniing
+    3+mkizin+NI+Con+ThmPos+Pej+2+Pl+Prt+Pl: omakizinenymishwaabani1an
+    3+mkizin+NI+Con+ThmPos+Pej+3+4+Prt+4: [ omakizinenymishniwibaniin, omakizinenymishniibaniin ]
+    3+mkizin+NI+Con+ThmPos+Pej+3+4+Prt+Loc: [ omakizinenymishniwibaniing, omakizinenymishniibaniing ]
+    3+mkizin+NI+Con+ThmPos+Pej+3+4+Prt+Pl: [ omakizinenymishniwibani1an, omakizinenymishniibani1an ]
+    3+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Prt+4: omakizinensmishwaabaniin
+    3+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Prt+Loc: omakizinensmishwaabaniing
+    3+mkizin+NI+Dim+ThmPos+Pej+2+Pl+Prt+Pl: omakizinensmishwaabani1an
+    3+mkizin+NI+Dim+ThmPos+Pej+3+4+Prt+4: [ omakizinensmishniwibaniin, omakizinensmishniibaniin ]
+    3+mkizin+NI+Dim+ThmPos+Pej+3+4+Prt+Loc: [ omakizinensmishniwibaniing, omakizinensmishniibaniing ]
+    3+mkizin+NI+Dim+ThmPos+Pej+3+4+Prt+Pl: [ omakizinensmishniwibani1an, omakizinensmishniibani1an ]

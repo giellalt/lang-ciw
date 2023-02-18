@@ -1,0 +1,22 @@
+waabndaan+VTI+Imp+Imm+2	waabandamn
+
+waabndaan+VTI+Imp+Imm+2+Pl	waabandamok
+
+waabndaan+VTI+Imp+Imm+2+1+Pl+0	waabandamdaa
+
+waabndaan+VTI+Imp+Imm+2+1+Pl+0+Pl	waabandamdaanin
+
+waabndaan+VTI+Imp+Del+2	waabandamkan
+
+waabndaan+VTI+Imp+Del+2+Pl	waabandamkeg
+
+waabndaan+VTI+Imp+Del+2+1+Pl	+?
+
+waabndaan+VTI+Imp+Neg+2	waabandamken
+
+waabndaan+VTI+Imp+Neg+2+Pl	waabandamkegon
+
+waabndaan+VTI+Imp+Neg+2+1+Pl+0	waabandamsiidaa
+
+waabndaan+VTI+Imp+Neg+2+1+Pl+0+Pl	waabandamsiidaanin
+

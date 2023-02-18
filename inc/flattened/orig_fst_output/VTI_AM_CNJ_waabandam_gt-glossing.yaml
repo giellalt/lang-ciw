@@ -1,0 +1,74 @@
+Tests:
+  VTI_AM_CNJ_waabandam_gt-glossing:
+    waabndaan+VTI+Cnj+1: waabandamaanh
+    waabndaan+VTI+Cnj+2: waabandaman
+    waabndaan+VTI+Cnj+3: waabandamd
+    waabndaan+VTI+Cnj+3+4: waabandamnid
+    waabndaan+VTI+Cnj+X: waabandamng
+    waabndaan+VTI+Cnj+1+Pl: waabandamaang
+    waabndaan+VTI+Cnj+2+1+Pl: waabandamang
+    waabndaan+VTI+Cnj+2+Pl: waabandameg
+    waabndaan+VTI+Cnj+3+Pl: waabandamwaad
+    waabndaan+VTI+Cnj+1+Prt: waabandamaambaanh
+    waabndaan+VTI+Cnj+2+Prt: waabandamamban
+    waabndaan+VTI+Cnj+3+Prt: waabandampan
+    waabndaan+VTI+Cnj+3+4+Prt: waabandamnipan
+    waabndaan+VTI+Cnj+X+Prt: waabandamngiban
+    waabndaan+VTI+Cnj+1+Pl+Prt: waabandamaangiban
+    waabndaan+VTI+Cnj+2+1+Pl+Prt: waabandamangiban
+    waabndaan+VTI+Cnj+2+Pl+Prt: waabandamegiban
+    waabndaan+VTI+Cnj+3+Pl+Prt: waabandamwaapan
+    waabndaan+VTI+Cnj+1+Dub: [ waabandamaanen, waabandamaane ]
+    waabndaan+VTI+Cnj+2+Dub: [ waabandamanen, waabandamane ]
+    waabndaan+VTI+Cnj+3+Dub: [ waabandamgen, waabandamge ]
+    waabndaan+VTI+Cnj+3+4+Dub: [ waabandamnigen, waabandamnige ]
+    waabndaan+VTI+Cnj+X+Dub: [ waabandamiingen, waabandamiinge ]
+    waabndaan+VTI+Cnj+1+Pl+Dub: [ waabandamaangen, waabandamaange ]
+    waabndaan+VTI+Cnj+2+1+Pl+Dub: [ waabandamangen, waabandamange ]
+    waabndaan+VTI+Cnj+2+Pl+Dub: [ waabandamegen, waabandamege ]
+    waabndaan+VTI+Cnj+3+Pl+Dub: [ waabandamwaagen, waabandamwaage ]
+    waabndaan+VTI+Cnj+1+Prt+Dub: [ waabandamaambaanen, waabandamaambaane ]
+    waabndaan+VTI+Cnj+2+Prt+Dub: [ waabandamambanen, waabandamambane ]
+    waabndaan+VTI+Cnj+3+Prt+Dub: [ waabandamgbanen, waabandamgbane ]
+    waabndaan+VTI+Cnj+3+4+Prt+Dub: [ waabandamnigbanen, waabandamnigbane ]
+    waabndaan+VTI+Cnj+X+Prt+Dub: [ waabandamiingibanen, waabandamiingibane ]
+    waabndaan+VTI+Cnj+1+Pl+Prt+Dub: [ waabandamaangibanen, waabandamaangibane ]
+    waabndaan+VTI+Cnj+2+1+Pl+Prt+Dub: [ waabandamangibanen, waabandamangibane ]
+    waabndaan+VTI+Cnj+2+Pl+Prt+Dub: [ waabandamegibanen, waabandamegibane ]
+    waabndaan+VTI+Cnj+3+Pl+Prt+Dub: [ waabandamwaagbanen, waabandamwaagbane ]
+    waabndaan+VTI+Cnj+Neg+1: waabandamsiaanh
+    waabndaan+VTI+Cnj+Neg+2: waabandamsian
+    waabndaan+VTI+Cnj+Neg+3: waabandamsid
+    waabndaan+VTI+Cnj+Neg+3+4: waabandamsinid
+    waabndaan+VTI+Cnj+Neg+X: waabandamsing
+    waabndaan+VTI+Cnj+Neg+1+Pl: waabandamsiaang
+    waabndaan+VTI+Cnj+Neg+2+1+Pl: waabandamsiang
+    waabndaan+VTI+Cnj+Neg+2+Pl: waabandamsieg
+    waabndaan+VTI+Cnj+Neg+3+Pl: waabandamsigwaa
+    waabndaan+VTI+Cnj+Neg+1+Prt: waabandamsiaambaanh
+    waabndaan+VTI+Cnj+Neg+2+Prt: waabandamsiamban
+    waabndaan+VTI+Cnj+Neg+3+Prt: waabandamsipan
+    waabndaan+VTI+Cnj+Neg+3+4+Prt: waabandamsinipan
+    waabndaan+VTI+Cnj+Neg+X+Prt: waabandamsingiban
+    waabndaan+VTI+Cnj+Neg+1+Pl+Prt: waabandamsiaangiban
+    waabndaan+VTI+Cnj+Neg+2+1+Pl+Prt: waabandamsiangiban
+    waabndaan+VTI+Cnj+Neg+2+Pl+Prt: waabandamsiegiban
+    waabndaan+VTI+Cnj+Neg+3+Pl+Prt: waabandamsigwaaban
+    waabndaan+VTI+Cnj+Neg+1+Dub: [ waabandamsiiaanen, waabandamsiiaane, waabandamsiiaanen, waabandamsiiaane ]
+    waabndaan+VTI+Cnj+Neg+2+Dub: [ waabandamsiianen, waabandamsiiane, waabandamsiianen, waabandamsiiane ]
+    waabndaan+VTI+Cnj+Neg+3+Dub: [ waabandamsiiden, waabandamsiide, waabandamsiigen, waabandamsiige ]
+    waabndaan+VTI+Cnj+Neg+3+4+Dub: [ waabandamsiiniden, waabandamsiinide, waabandamsiinigen, waabandamsiinige ]
+    waabndaan+VTI+Cnj+Neg+X+Dub: [ waabandamsiingen, waabandamsiinge, waabandamsiiiingen, waabandamsiiiinge, waabandamsiiiingen, waabandamsiiiinge ]
+    waabndaan+VTI+Cnj+Neg+1+Pl+Dub: [ waabandamsiiaangen, waabandamsiiaange, waabandamsiiaangen, waabandamsiiaange ]
+    waabndaan+VTI+Cnj+Neg+2+1+Pl+Dub: [ waabandamsiiangen, waabandamsiiange, waabandamsiiangen, waabandamsiiange ]
+    waabndaan+VTI+Cnj+Neg+2+Pl+Dub: [ waabandamsiiegen, waabandamsiiege, waabandamsiiegen, waabandamsiiege ]
+    waabndaan+VTI+Cnj+Neg+3+Pl+Dub: [ waabandamsiiwaaden, waabandamsiiwaade, waabandamsiiwaagen, waabandamsiiwaage ]
+    waabndaan+VTI+Cnj+Neg+1+Prt+Dub: [ waabandamsiiaambaanen, waabandamsiiaambaane, waabandamsiiaambaanen, waabandamsiiaambaane ]
+    waabndaan+VTI+Cnj+Neg+2+Prt+Dub: [ waabandamsiiambanen, waabandamsiiambane, waabandamsiiambanen, waabandamsiiambane ]
+    waabndaan+VTI+Cnj+Neg+3+Prt+Dub: [ waabandamsiipanen, waabandamsiipane, waabandamsiigbanen, waabandamsiigbane ]
+    waabndaan+VTI+Cnj+Neg+3+4+Prt+Dub: [ waabandamsiinigbanen, waabandamsiinigbane, waabandamsiinipanen, waabandamsiinipane ]
+    waabndaan+VTI+Cnj+Neg+X+Prt+Dub: [ waabandamsiingibanen, waabandamsiingibane, waabandamsiiiingibanen, waabandamsiiiingibane, waabandamsiiiingibanen, waabandamsiiiingibane ]
+    waabndaan+VTI+Cnj+Neg+1+Pl+Prt+Dub: [ waabandamsiiaangibanen, waabandamsiiaangibane, waabandamsiiaangibanen, waabandamsiiaangibane ]
+    waabndaan+VTI+Cnj+Neg+2+1+Pl+Prt+Dub: [ waabandamsiiangibanen, waabandamsiiangibane, waabandamsiiangibanen, waabandamsiiangibane ]
+    waabndaan+VTI+Cnj+Neg+2+Pl+Prt+Dub: [ waabandamsiiegibanen, waabandamsiiegibane, waabandamsiiegibanen, waabandamsiiegibane ]
+    waabndaan+VTI+Cnj+Neg+3+Pl+Prt+Dub: [ waabandamsiiwaagbanen, waabandamsiiwaagbane, waabandamsiiwaapanen, waabandamsiiwaapane ]

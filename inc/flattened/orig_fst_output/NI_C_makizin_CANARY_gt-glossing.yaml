@@ -1,0 +1,30 @@
+Tests:
+  NI_C_makizin_CANARY_gt-glossing:
+    mkizin+NI: makizin
+    1+mkizin+NI: nimakizin
+    2+mkizin+NI: gimakizin
+    3+mkizin+NI: omakizin
+    X+mkizin+NI: imakizin
+    mkizin+NI+Con: makizinenh
+    mkizin+NI+Dim: makizinens
+    mkizin+NI+Pej: makizinsh
+    mkizin+NI+Prt: makizinbani1
+    mkizin+NI+4: makizinan
+    mkizin+NI+Loc: makizinng
+    mkizin+NI+Pl: makizinan
+    1+mkizin+NI+ThmPos: nimakizinm
+    2+mkizin+NI+ThmPos: gimakizinm
+    3+mkizin+NI+ThmPos: omakizinm
+    X+mkizin+NI+ThmPos: imakizinm
+    1+mkizin+NI+1+Pl: [ nimakizinnaan, nimakizinnaa ]
+    2+mkizin+NI+1+Pl: [ gimakizinnaan, gimakizinnaa ]
+    2+mkizin+NI+2+Pl: gimakizinwaa
+    3+mkizin+NI+3+4: omakizinniw
+    3+mkizin+NI+2+Pl: omakizinwaa
+    mkizin+NI+Prt+4: makizinbaniin
+    mkizin+NI+Prt+Loc: makizinbaniing
+    mkizin+NI+Prt+Pl: makizinbani1an
+    1+mkizin+NI+1+Pl+4: nimakizinnaanin
+    1+mkizin+NI+1+Pl+Loc: nimakizinnaaning
+    1+mkizin+NI+1+Pl+Pl: nimakizinnaany1an
+    2+mkizin+NI+1+Pl+4: gimakizinnaanin

@@ -1,0 +1,10 @@
+Tests:
+  VAI_VV_IMP_boodwe_gt-glossing:
+    boodwe+VAI+Imp+Imm+2: boodawen
+    boodwe+VAI+Imp+Imm+2+Pl: boodaweg
+    boodwe+VAI+Imp+Imm+2+1+Pl: boodawedaa
+    boodwe+VAI+Imp+Del+2: boodawekan
+    boodwe+VAI+Imp+Del+2+Pl: boodawekeg
+    boodwe+VAI+Imp+Neg+2: [ boodaweken, boodaweke ]
+    boodwe+VAI+Imp+Neg+2+Pl: [ boodawekegon, boodawekego ]
+    boodwe+VAI+Imp+Neg+2+1+Pl: boodawesiidaa

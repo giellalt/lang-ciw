@@ -1,0 +1,55 @@
+waabmaa+VTA+Imp+Imm+2+1	waabamishin
+
+waabmaa+VTA+Imp+Imm+2+1+Pl	waabamishinaang
+
+waabmaa+VTA+Imp+Imm+2+Pl+1+Pl	waabamishinaang
+
+waabmaa+VTA+Imp+Imm+2+Pl+1	waabamishik
+
+waabmaa+VTA+Imp+Imm+2+3	waabamin
+waabmaa+VTA+Imp+Imm+2+3	waabami
+
+waabmaa+VTA+Imp+Imm+2+3	waabamin
+waabmaa+VTA+Imp+Imm+2+3	waabami
+
+waabmaa+VTA+Imp+Imm+2+3+Pl	waabamin
+waabmaa+VTA+Imp+Imm+2+3+Pl	waabami
+
+waabmaa+VTA+Imp+Imm+2+3+Pl	waabamin
+waabmaa+VTA+Imp+Imm+2+3+Pl	waabami
+
+waabmaa+VTA+Imp+Imm+2+1+Pl+3	waabamaadaa
+
+waabmaa+VTA+Imp+Imm+2+1+Pl+3+Pl	waabammiinaadaanik
+
+waabmaa+VTA+Imp+Imm+2+Pl+3	waabamik
+
+waabmaa+VTA+Imp+Imm+2+Pl+3+Pl	waabamik
+
+waabmaa+VTA+Imp+Del+2+1	waabamishikan
+
+waabmaa+VTA+Imp+Del+2+Pl+1	waabamishiikek
+
+waabmaa+VTA+Imp+Del+2+3	waabamaakan
+
+waabmaa+VTA+Imp+Del+2+3+Pl	waabamaakan
+
+waabmaa+VTA+Imp+Del+2+Pl+3	waabamaakek
+
+waabmaa+VTA+Imp+Del+2+Pl+3+Pl	waabammiinaakek
+
+waabmaa+VTA+Imp+Neg+2+1	waabamishiken
+waabmaa+VTA+Imp+Neg+2+1	waabamishike
+
+waabmaa+VTA+Imp+Neg+2+Pl+1	waabamishikeg
+
+waabmaa+VTA+Imp+Neg+2+3	waabamaaken
+waabmaa+VTA+Imp+Neg+2+3	waabamaake
+
+waabmaa+VTA+Imp+Neg+2+3+Pl	waabamaaken
+waabmaa+VTA+Imp+Neg+2+3+Pl	waabamaake
+
+waabmaa+VTA+Imp+Neg+2+1+Pl+3	waabamaasiidaa
+
+waabmaa+VTA+Imp+Neg+2+1+Pl+3+Pl	waabamaasiidaanig
+

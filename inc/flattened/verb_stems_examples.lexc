@@ -1,0 +1,61 @@
+LEXICON VERBS  ! this is looking like a gateway, but not so labeled, affixes will need to be edited too
+@D.Person@     VII ;
+@D.Person.3@   VAI ; !VAIs never take third person prefix
+               VAIO ; 
+               VTI ;
+               VTA ;
+
+! VII
+LEXICON VII
+! ^VERB^                VII_TAG ;
+mchaa:michaa            VII_TAG ;
+
+! ^VERB_d2^:^VERB_d2^d2 VII_d2_TAG ;
+znagat:zanaga           VII_d2_TAG ; ! it is difficult
+
+mnopgot:minopogo        VII_d2_TAG ; ! double check stem type
+
+! ^VERB_m^:^VERB_m^m    VII_m_TAG ;
+niim'idim:niimihidi     VII_m_TAG ; ! there is a dance
+
+! ^VERB_n^:^VERB_n^n    VII_n_TAG ;
+maajiigin:maajiigi      VII_n_TAG ;
+mnogin:minogi           VII_n_TAG ; ! double check stem type
+
+! CIW Additions
+michaa:michaa           VII_TAG ;
+ate:ate                 VII_TAG ;
+dakaagami:dakaagami     VII_TAG ;
+gonzaabii:gonzaabii     VII_TAG ;
+inamo:inamo             VII_TAG ;
+atemagad:atemaga        VII_d2_TAG ;
+zanagad:zanaga          VII_d2_TAG ; ! it is difficult
+bangisin:bangisi        VII_n_TAG ;
+
+
+
+! VAI
+LEXICON VAI
+boodwe:boodawe       VAI_TAG ; ! VAIs never take third person prefix
+debwetam:debweta     VAI_m_TAG ; !VAIs never take third person prefix
+gwekshin:gwekVv1shi  VAI_n_TAG ; !VAIs never take third person prefix
+
+! VAIO
+LEXICON VAIO
+mnikwen:minikwe         VAIO_TAG ; ! Remove stem-final -n (study if lemmas should always end in -n)
+
+! VTI
+LEXICON VTI
+aabjitoon:aabajitoo     VTI_TAG ; ! Remove stem-final -n (if any)
+waabndaan:waabanda      VTI_m1_TAG ;
+myaawnaan:mayaawina     VTI_n1_TAG ;
+bgonebdoon:bagonebidoo  VTI_n_TAG ;
+
+! VTA
+LEXICON VTA
+noondwaa:noondaw   VTA_TAG;
+aabnaa:aabi        VTA_n1_TAG ;
+madsaa:mawadi      VTA_s1_TAG ;
+waabmaa:waaba      VTA_m_TAG ;
+negnaa:nego        VTA_n_TAG ;
+

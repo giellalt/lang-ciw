@@ -1,0 +1,18 @@
+Tests:
+  VII_D_CNJ_mnopgod_gt-glossing:
+    mnopgot+VII+Cnj+0: minopogok
+    mnopgot+VII+Cnj+0+4: minopogodnig
+    mnopgot+VII+Cnj+0+Prt: [ minopogodgiban, minopogodgiba ]
+    mnopgot+VII+Cnj+0+4+Prt: [ minopogodnigiban, minopogodnigiba ]
+    PV/CCNJ+mnopgot+VII+Cnj+0+Dub: minopogodgwenh
+    PV/CCNJ+mnopgot+VII+Cnj+0+4+Dub: minopogodnigwenh
+    mnopgot+VII+Cnj+0+Prt+Dub: [ minopogodgobanen, minopogodgobane ]
+    mnopgot+VII+Cnj+0+4+Prt+Dub: [ minopogodnigobanen, minopogodnigobane ]
+    mnopgot+VII+Cnj+Neg+0: [ minopogosinoog, minopogosinog ]
+    mnopgot+VII+Cnj+Neg+0+4: minopogosinoonig
+    mnopgot+VII+Cnj+Neg+0+Prt: [ minopogosinoogiban, minopogosinoogiba ]
+    mnopgot+VII+Cnj+Neg+0+4+Prt: [ minopogosinoonigiban, minopogosinoonigiba ]
+    PV/CCNJ+mnopgot+VII+Cnj+Neg+0+Dub: minopogosinoogwenh
+    PV/CCNJ+mnopgot+VII+Cnj+Neg+0+4+Dub: minopogosinoonigwenh
+    mnopgot+VII+Cnj+Neg+0+Prt+Dub: [ minopogosinoogobanen, minopogosinoogobane ]
+    mnopgot+VII+Cnj+Neg+0+4+Prt+Dub: [ minopogosinoonigobanen, minopogosinoonigobane ]

@@ -1,0 +1,30 @@
+OTW FST FLATTENING PLAN
+
+1. Separate full prefixation from original LEXC file → verb_prefixes.lexc
+   a. Including all grammatical and lexical prefixes (and flags as in LEXC source)
+
+2. Separate minimalist suffixation from original LEXC file → verb_suffixes_minimalist_extra_bound.lexc
+   a. Add special morpheme boundaries ('<<' and '>>') at junctures that are not used for phonological rules 
+
+3. Specify stem types and special characters in lexicon placeholder in LEXC → verb_stems_placeholders.lexc
+
+4. Generate flattened suffixes with full prefixes, stem types, and minimalist suffixation 
+   a. Specify regular expression for inserting boundary flags (before flattening)
+   b. Apply all phonological rules except for prefixing and syncope
+   c. Output flattening with flags (with pairs)
+   d. Turn boundary flags into boundary markers
+   e. Delete all prefixal elements except person tags (1+, 2+, 3+) and flags
+
+5. Separate flattened suffixation from flattened pairs into own LEXC file → verb_suffixes_flattened.lexc
+   a. Convert glossing to abstract tags (as alternative tagging option)
+      i. Add R-flag matching person prefixes/flags
+   b. Move flags to left edge
+
+6. Combine full prefixation + example lemma:stem pairs + flattened suffixation ← verb_stems_examples.lexc
+   a. Rule for deleting prefix tags in abstract tagging
+
+7. Apply phonological rules for prefixes and prefix-stem juncture → pre-syncope Ojibwe
+   a. Turn boundaries into flags and back
+
+8. Apply remaining rules for syncope (pre-syncope Ojibwe → post-syncope Odawa)
+   a. Turn boundaries into flags and back

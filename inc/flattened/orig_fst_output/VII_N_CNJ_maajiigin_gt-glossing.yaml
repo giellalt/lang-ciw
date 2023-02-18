@@ -1,0 +1,18 @@
+Tests:
+  VII_N_CNJ_maajiigin_gt-glossing:
+    maajiigin+VII+Cnj+0: maajiiging
+    maajiigin+VII+Cnj+0+4: maajiigininig
+    maajiigin+VII+Cnj+0+Prt: [ maajiigingiban, maajiigingiba ]
+    maajiigin+VII+Cnj+0+4+Prt: [ maajiigininigiban, maajiigininigiba ]
+    PV/CCNJ+maajiigin+VII+Cnj+0+Dub: maajiiginagwenh
+    PV/CCNJ+maajiigin+VII+Cnj+0+4+Dub: maajiigininigwenh
+    maajiigin+VII+Cnj+0+Prt+Dub: [ maajiiginagobanen, maajiiginagobane ]
+    maajiigin+VII+Cnj+0+4+Prt+Dub: [ maajiigininigobanen, maajiigininigobane ]
+    maajiigin+VII+Cnj+Neg+0: [ maajiiginzinoog, maajiiginzinog ]
+    maajiigin+VII+Cnj+Neg+0+4: maajiiginzinoonig
+    maajiigin+VII+Cnj+Neg+0+Prt: [ maajiiginzinoogiban, maajiiginzinoogiba ]
+    maajiigin+VII+Cnj+Neg+0+4+Prt: [ maajiiginzinoonigiban, maajiiginzinoonigiba ]
+    PV/CCNJ+maajiigin+VII+Cnj+Neg+0+Dub: maajiiginzinoogwenh
+    PV/CCNJ+maajiigin+VII+Cnj+Neg+0+4+Dub: maajiiginzinoonigwenh
+    maajiigin+VII+Cnj+Neg+0+Prt+Dub: [ maajiiginzinoogobanen, maajiiginzinoogobane ]
+    maajiigin+VII+Cnj+Neg+0+4+Prt+Dub: [ maajiiginzinoonigobanen, maajiiginzinoonigobane ]

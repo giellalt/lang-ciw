@@ -1,0 +1,34 @@
+Tests:
+  VII_N_IND_minogin_gt-glossing:
+    mnogin+VII+0: minoginw
+    mnogin+VII+0+4: minoginini
+    mnogin+VII+0+Prt: minoginbani1
+    mnogin+VII+0+4+Prt: [ minogininiwiban, minogininiwiba, minogininiiban, minogininiiba ]
+    mnogin+VII+0+Dub: minogindig
+    mnogin+VII+0+4+Dub: [ minogininiwidig, minogininiidig ]
+    mnogin+VII+0+Prt+Dub: [ minogingoban, minogingoba ]
+    mnogin+VII+0+4+Prt+Dub: [ minogininiwigoban, minogininiwigoba, minogininiigoban, minogininiigoba ]
+    mnogin+VII+0+Prt+0+Pl: minoginbaniin
+    mnogin+VII+0+4+Prt+0+Pl: [ minogininiwibaniin, minogininiibaniin ]
+    mnogin+VII+0+Dub+0+Pl: minogindigenan
+    mnogin+VII+0+4+Dub+0+Pl: [ minogininiwidigenan, minogininiidigenan ]
+    mnogin+VII+0+Prt+Dub+0+Pl: minogingobaniin
+    mnogin+VII+0+4+Prt+Dub+0+Pl: [ minogininiwigobaniin, minogininiigobaniin ]
+    mnogin+VII+0+0+Pl: minoginwan
+    mnogin+VII+0+4+0+Pl: minogininiwan
+    mnogin+VII+Neg+0: minoginsinoo
+    mnogin+VII+Neg+0+4: minoginsinooni
+    mnogin+VII+Neg+0+Prt: [ minoginsinooban, minoginsinooba ]
+    mnogin+VII+Neg+0+4+Prt: [ minoginsinooniwiban, minoginsinooniwiba, minoginsinooniiban, minoginsinooniiba ]
+    mnogin+VII+Neg+0+Dub: minoginsinoodig
+    mnogin+VII+Neg+0+4+Dub: [ minoginsinooniwidig, minoginsinooniidig ]
+    mnogin+VII+Neg+0+Prt+Dub: [ minoginsinoogoban, minoginsinoogoba ]
+    mnogin+VII+Neg+0+4+Prt+Dub: [ minoginsinooniwigoban, minoginsinooniwigoba, minoginsinooniigoban, minoginsinooniigoba ]
+    mnogin+VII+Neg+0+Prt+0+Pl: minoginsinoobaniin
+    mnogin+VII+Neg+0+4+Prt+0+Pl: [ minoginsinooniwibaniin, minoginsinooniibaniin ]
+    mnogin+VII+Neg+0+Dub+0+Pl: minoginsinoodigenan
+    mnogin+VII+Neg+0+4+Dub+0+Pl: [ minoginsinooniwidigenan, minoginsinooniidigenan ]
+    mnogin+VII+Neg+0+Prt+Dub+0+Pl: minoginsinoogobaniin
+    mnogin+VII+Neg+0+4+Prt+Dub+0+Pl: [ minoginsinooniwigobaniin, minoginsinooniigobaniin ]
+    mnogin+VII+Neg+0+0+Pl: minoginsinoowan
+    mnogin+VII+Neg+0+4+0+Pl: minoginsinooniwan

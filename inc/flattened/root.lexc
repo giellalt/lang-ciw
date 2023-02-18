@@ -1,0 +1,13 @@
+ 
+LEXICON Root !!= @CODE@ points to the other lexica
+! Note that whenever a new part of speech, and a new file (like propernouns, etc.)
+! is added, it must be specified in the src/morphology/Makefile.am
+    V_PREFIXES ;
+!   N_PREFIXES ;
+!    NM ; !numerals
+!    QNT ; !quantifiers
+!    PCL ; !particles
+!    PA ; !(pre-)adverbs
+!    PR ; !pronouns
+!    Punctuation ;
+!    Symbols     ;

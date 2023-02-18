@@ -1,0 +1,41 @@
+maajiigin+VII+Cnj+0	maajiiging
+
+maajiigin+VII+Cnj+0+4	maajiigininig
+
+maajiigin+VII+Cnj+0+Prt	maajiigingiban
+maajiigin+VII+Cnj+0+Prt	maajiigingiba
+
+maajiigin+VII+Cnj+0+4+Prt	maajiigininigiban
+maajiigin+VII+Cnj+0+4+Prt	maajiigininigiba
+
+PV/CCNJ+maajiigin+VII+Cnj+0+Dub	maajiiginagwenh
+
+PV/CCNJ+maajiigin+VII+Cnj+0+4+Dub	maajiigininigwenh
+
+maajiigin+VII+Cnj+0+Prt+Dub	maajiiginagobanen
+maajiigin+VII+Cnj+0+Prt+Dub	maajiiginagobane
+
+maajiigin+VII+Cnj+0+4+Prt+Dub	maajiigininigobanen
+maajiigin+VII+Cnj+0+4+Prt+Dub	maajiigininigobane
+
+maajiigin+VII+Cnj+Neg+0	maajiiginzinoog
+maajiigin+VII+Cnj+Neg+0	maajiiginzinog
+
+maajiigin+VII+Cnj+Neg+0+4	maajiiginzinoonig
+
+maajiigin+VII+Cnj+Neg+0+Prt	maajiiginzinoogiban
+maajiigin+VII+Cnj+Neg+0+Prt	maajiiginzinoogiba
+
+maajiigin+VII+Cnj+Neg+0+4+Prt	maajiiginzinoonigiban
+maajiigin+VII+Cnj+Neg+0+4+Prt	maajiiginzinoonigiba
+
+PV/CCNJ+maajiigin+VII+Cnj+Neg+0+Dub	maajiiginzinoogwenh
+
+PV/CCNJ+maajiigin+VII+Cnj+Neg+0+4+Dub	maajiiginzinoonigwenh
+
+maajiigin+VII+Cnj+Neg+0+Prt+Dub	maajiiginzinoogobanen
+maajiigin+VII+Cnj+Neg+0+Prt+Dub	maajiiginzinoogobane
+
+maajiigin+VII+Cnj+Neg+0+4+Prt+Dub	maajiiginzinoonigobanen
+maajiigin+VII+Cnj+Neg+0+4+Prt+Dub	maajiiginzinoonigobane
+

@@ -1,0 +1,2245 @@
+mkomii+NI	makomii
+
+1+mkomii+NI	nimakomii
+
+2+mkomii+NI	gimakomii
+
+3+mkomii+NI	omakomii
+
+X+mkomii+NI	imakomii
+
+mkomii+NI+Con	makomiienh
+
+mkomii+NI+Dim	makomiiens
+
+mkomii+NI+Pej	makomiish
+
+mkomii+NI+Prt	makomiibani1
+
+mkomii+NI+Voc+Pl	makomiidig
+
+mkomii+NI+4	makomiian
+
+mkomii+NI+Loc	makomiing
+
+mkomii+NI+Pl	makomiian
+
+1+mkomii+NI+Con	nimakomiienh
+
+1+mkomii+NI+Dim	nimakomiiens
+
+2+mkomii+NI+Con	gimakomiienh
+
+2+mkomii+NI+Dim	gimakomiiens
+
+3+mkomii+NI+Con	omakomiienh
+
+3+mkomii+NI+Dim	omakomiiens
+
+X+mkomii+NI+Con	imakomiienh
+
+X+mkomii+NI+Dim	imakomiiens
+
+1+mkomii+NI+ThmPos	nimakomiim
+
+2+mkomii+NI+ThmPos	gimakomiim
+
+3+mkomii+NI+ThmPos	omakomiim
+
+X+mkomii+NI+ThmPos	imakomiim
+
+1+mkomii+NI+Pej	nimakomiish
+
+2+mkomii+NI+Pej	gimakomiish
+
+3+mkomii+NI+Pej	omakomiish
+
+X+mkomii+NI+Pej	imakomiish
+
+1+mkomii+NI+1+Pl	nimakomiinaan
+1+mkomii+NI+1+Pl	nimakomiinaa
+
+2+mkomii+NI+1+Pl	gimakomiinaan
+2+mkomii+NI+1+Pl	gimakomiinaa
+
+2+mkomii+NI+2+Pl	gimakomiiwaa
+
+3+mkomii+NI+2+Pl	omakomiiwaa
+
+3+mkomii+NI+3+4	omakomiiniw
+
+1+mkomii+NI+Prt	nimakomiibani1
+
+1+mkomii+NI+Voc+Pl	nimakomiidig
+
+2+mkomii+NI+Prt	gimakomiibani1
+
+2+mkomii+NI+Voc+Pl	gimakomiidig
+
+3+mkomii+NI+Prt	omakomiibani1
+
+3+mkomii+NI+Voc+Pl	omakomiidig
+
+X+mkomii+NI+Prt	imakomiibani1
+
+X+mkomii+NI+Voc+Pl	imakomiidig
+
+1+mkomii+NI+4	nimakomiian
+
+1+mkomii+NI+Loc	nimakomiing
+
+1+mkomii+NI+Pl	nimakomiian
+
+2+mkomii+NI+4	gimakomiian
+
+2+mkomii+NI+Loc	gimakomiing
+
+2+mkomii+NI+Pl	gimakomiian
+
+3+mkomii+NI+4	omakomiian
+
+3+mkomii+NI+Loc	omakomiing
+
+3+mkomii+NI+Pl	omakomiian
+
+X+mkomii+NI+4	imakomiian
+
+X+mkomii+NI+Loc	imakomiing
+
+X+mkomii+NI+Pl	imakomiian
+
+mkomii+NI+Con+Pej	makomiienyish
+
+mkomii+NI+Dim+Pej	makomiiensish
+
+mkomii+NI+Con+Prt	makomiienyiban
+mkomii+NI+Con+Prt	makomiienyiba
+
+mkomii+NI+Con+Voc+Pl	makomiienydig
+
+mkomii+NI+Dim+Prt	makomiiensiban
+mkomii+NI+Dim+Prt	makomiiensiba
+
+mkomii+NI+Dim+Voc+Pl	makomiiensdig
+
+mkomii+NI+Con+4	makomiienyin
+
+mkomii+NI+Con+Loc	makomiienying
+
+mkomii+NI+Con+Pl	makomiienyan
+
+mkomii+NI+Dim+4	makomiiensan
+
+mkomii+NI+Dim+Loc	makomiiensing
+
+mkomii+NI+Dim+Pl	makomiiensan
+
+mkomii+NI+Pej+Prt	makomiishiban
+mkomii+NI+Pej+Prt	makomiishiba
+
+mkomii+NI+Pej+Voc+Pl	makomiishdig
+
+mkomii+NI+Pej+4	makomiishan
+
+mkomii+NI+Pej+Loc	makomiishing
+
+mkomii+NI+Pej+Pl	makomiishan
+
+mkomii+NI+Prt+4	makomiibaniin
+
+mkomii+NI+Prt+Loc	makomiibaniing
+
+mkomii+NI+Prt+Pl	makomiibani1an
+
+1+mkomii+NI+Con+ThmPos	nimakomiienym
+
+1+mkomii+NI+Dim+ThmPos	nimakomiiensm
+
+2+mkomii+NI+Con+ThmPos	gimakomiienym
+
+2+mkomii+NI+Dim+ThmPos	gimakomiiensm
+
+3+mkomii+NI+Con+ThmPos	omakomiienym
+
+3+mkomii+NI+Dim+ThmPos	omakomiiensm
+
+X+mkomii+NI+Con+ThmPos	imakomiienym
+
+X+mkomii+NI+Dim+ThmPos	imakomiiensm
+
+1+mkomii+NI+Con+Pej	nimakomiienyish
+
+1+mkomii+NI+Dim+Pej	nimakomiiensish
+
+2+mkomii+NI+Con+Pej	gimakomiienyish
+
+2+mkomii+NI+Dim+Pej	gimakomiiensish
+
+3+mkomii+NI+Con+Pej	omakomiienyish
+
+3+mkomii+NI+Dim+Pej	omakomiiensish
+
+X+mkomii+NI+Con+Pej	imakomiienyish
+
+X+mkomii+NI+Dim+Pej	imakomiiensish
+
+1+mkomii+NI+Con+1+Pl	nimakomiienynaan
+1+mkomii+NI+Con+1+Pl	nimakomiienynaa
+
+1+mkomii+NI+Dim+1+Pl	nimakomiiensnaan
+1+mkomii+NI+Dim+1+Pl	nimakomiiensnaa
+
+2+mkomii+NI+Con+1+Pl	gimakomiienynaan
+2+mkomii+NI+Con+1+Pl	gimakomiienynaa
+
+2+mkomii+NI+Con+2+Pl	gimakomiienywaa
+
+2+mkomii+NI+Dim+1+Pl	gimakomiiensnaan
+2+mkomii+NI+Dim+1+Pl	gimakomiiensnaa
+
+2+mkomii+NI+Dim+2+Pl	gimakomiienswaa
+
+3+mkomii+NI+Con+2+Pl	omakomiienywaa
+
+3+mkomii+NI+Con+3+4	omakomiienyniw
+
+3+mkomii+NI+Dim+2+Pl	omakomiienswaa
+
+3+mkomii+NI+Dim+3+4	omakomiiensniw
+
+1+mkomii+NI+Con+Prt	nimakomiienyiban
+1+mkomii+NI+Con+Prt	nimakomiienyiba
+
+1+mkomii+NI+Con+Voc+Pl	nimakomiienydig
+
+1+mkomii+NI+Dim+Prt	nimakomiiensiban
+1+mkomii+NI+Dim+Prt	nimakomiiensiba
+
+1+mkomii+NI+Dim+Voc+Pl	nimakomiiensdig
+
+2+mkomii+NI+Con+Prt	gimakomiienyiban
+2+mkomii+NI+Con+Prt	gimakomiienyiba
+
+2+mkomii+NI+Con+Voc+Pl	gimakomiienydig
+
+2+mkomii+NI+Dim+Prt	gimakomiiensiban
+2+mkomii+NI+Dim+Prt	gimakomiiensiba
+
+2+mkomii+NI+Dim+Voc+Pl	gimakomiiensdig
+
+3+mkomii+NI+Con+Prt	omakomiienyiban
+3+mkomii+NI+Con+Prt	omakomiienyiba
+
+3+mkomii+NI+Con+Voc+Pl	omakomiienydig
+
+3+mkomii+NI+Dim+Prt	omakomiiensiban
+3+mkomii+NI+Dim+Prt	omakomiiensiba
+
+3+mkomii+NI+Dim+Voc+Pl	omakomiiensdig
+
+X+mkomii+NI+Con+Prt	imakomiienyiban
+X+mkomii+NI+Con+Prt	imakomiienyiba
+
+X+mkomii+NI+Con+Voc+Pl	imakomiienydig
+
+X+mkomii+NI+Dim+Prt	imakomiiensiban
+X+mkomii+NI+Dim+Prt	imakomiiensiba
+
+X+mkomii+NI+Dim+Voc+Pl	imakomiiensdig
+
+1+mkomii+NI+Con+4	nimakomiienyin
+
+1+mkomii+NI+Con+Loc	nimakomiienying
+
+1+mkomii+NI+Con+Pl	nimakomiienyan
+
+1+mkomii+NI+Dim+4	nimakomiiensan
+
+1+mkomii+NI+Dim+Loc	nimakomiiensing
+
+1+mkomii+NI+Dim+Pl	nimakomiiensan
+
+2+mkomii+NI+Con+4	gimakomiienyin
+
+2+mkomii+NI+Con+Loc	gimakomiienying
+
+2+mkomii+NI+Con+Pl	gimakomiienyan
+
+2+mkomii+NI+Dim+4	gimakomiiensan
+
+2+mkomii+NI+Dim+Loc	gimakomiiensing
+
+2+mkomii+NI+Dim+Pl	gimakomiiensan
+
+3+mkomii+NI+Con+4	omakomiienyin
+
+3+mkomii+NI+Con+Loc	omakomiienying
+
+3+mkomii+NI+Con+Pl	omakomiienyan
+
+3+mkomii+NI+Dim+4	omakomiiensan
+
+3+mkomii+NI+Dim+Loc	omakomiiensing
+
+3+mkomii+NI+Dim+Pl	omakomiiensan
+
+X+mkomii+NI+Con+4	imakomiienyin
+
+X+mkomii+NI+Con+Loc	imakomiienying
+
+X+mkomii+NI+Con+Pl	imakomiienyan
+
+X+mkomii+NI+Dim+4	imakomiiensan
+
+X+mkomii+NI+Dim+Loc	imakomiiensing
+
+X+mkomii+NI+Dim+Pl	imakomiiensan
+
+1+mkomii+NI+ThmPos+Pej	nimakomiimish
+
+2+mkomii+NI+ThmPos+Pej	gimakomiimish
+
+3+mkomii+NI+ThmPos+Pej	omakomiimish
+
+X+mkomii+NI+ThmPos+Pej	imakomiimish
+
+1+mkomii+NI+ThmPos+1+Pl	nimakomiimnaan
+1+mkomii+NI+ThmPos+1+Pl	nimakomiimnaa
+
+2+mkomii+NI+ThmPos+1+Pl	gimakomiimnaan
+2+mkomii+NI+ThmPos+1+Pl	gimakomiimnaa
+
+2+mkomii+NI+ThmPos+2+Pl	gimakomiimwaa
+
+3+mkomii+NI+ThmPos+2+Pl	omakomiimwaa
+
+3+mkomii+NI+ThmPos+3+4	omakomiimniw
+
+1+mkomii+NI+ThmPos+Prt	nimakomiimiban
+1+mkomii+NI+ThmPos+Prt	nimakomiimiba
+
+1+mkomii+NI+ThmPos+Voc+Pl	nimakomiimdig
+
+2+mkomii+NI+ThmPos+Prt	gimakomiimiban
+2+mkomii+NI+ThmPos+Prt	gimakomiimiba
+
+2+mkomii+NI+ThmPos+Voc+Pl	gimakomiimdig
+
+3+mkomii+NI+ThmPos+Prt	omakomiimiban
+3+mkomii+NI+ThmPos+Prt	omakomiimiba
+
+3+mkomii+NI+ThmPos+Voc+Pl	omakomiimdig
+
+X+mkomii+NI+ThmPos+Prt	imakomiimiban
+X+mkomii+NI+ThmPos+Prt	imakomiimiba
+
+X+mkomii+NI+ThmPos+Voc+Pl	imakomiimdig
+
+1+mkomii+NI+ThmPos+4	nimakomiiman
+
+1+mkomii+NI+ThmPos+Loc	nimakomiiming
+
+1+mkomii+NI+ThmPos+Pl	nimakomiiman
+
+2+mkomii+NI+ThmPos+4	gimakomiiman
+
+2+mkomii+NI+ThmPos+Loc	gimakomiiming
+
+2+mkomii+NI+ThmPos+Pl	gimakomiiman
+
+3+mkomii+NI+ThmPos+4	omakomiiman
+
+3+mkomii+NI+ThmPos+Loc	omakomiiming
+
+3+mkomii+NI+ThmPos+Pl	omakomiiman
+
+X+mkomii+NI+ThmPos+4	imakomiiman
+
+X+mkomii+NI+ThmPos+Loc	imakomiiming
+
+X+mkomii+NI+ThmPos+Pl	imakomiiman
+
+1+mkomii+NI+Pej+1+Pl	nimakomiishnaan
+1+mkomii+NI+Pej+1+Pl	nimakomiishnaa
+
+2+mkomii+NI+Pej+1+Pl	gimakomiishnaan
+2+mkomii+NI+Pej+1+Pl	gimakomiishnaa
+
+2+mkomii+NI+Pej+2+Pl	gimakomiishwaa
+
+3+mkomii+NI+Pej+2+Pl	omakomiishwaa
+
+3+mkomii+NI+Pej+3+4	omakomiishniw
+
+1+mkomii+NI+Pej+Prt	nimakomiishiban
+1+mkomii+NI+Pej+Prt	nimakomiishiba
+
+1+mkomii+NI+Pej+Voc+Pl	nimakomiishdig
+
+2+mkomii+NI+Pej+Prt	gimakomiishiban
+2+mkomii+NI+Pej+Prt	gimakomiishiba
+
+2+mkomii+NI+Pej+Voc+Pl	gimakomiishdig
+
+3+mkomii+NI+Pej+Prt	omakomiishiban
+3+mkomii+NI+Pej+Prt	omakomiishiba
+
+3+mkomii+NI+Pej+Voc+Pl	omakomiishdig
+
+X+mkomii+NI+Pej+Prt	imakomiishiban
+X+mkomii+NI+Pej+Prt	imakomiishiba
+
+X+mkomii+NI+Pej+Voc+Pl	imakomiishdig
+
+1+mkomii+NI+Pej+4	nimakomiishan
+
+1+mkomii+NI+Pej+Loc	nimakomiishing
+
+1+mkomii+NI+Pej+Pl	nimakomiishan
+
+2+mkomii+NI+Pej+4	gimakomiishan
+
+2+mkomii+NI+Pej+Loc	gimakomiishing
+
+2+mkomii+NI+Pej+Pl	gimakomiishan
+
+3+mkomii+NI+Pej+4	omakomiishan
+
+3+mkomii+NI+Pej+Loc	omakomiishing
+
+3+mkomii+NI+Pej+Pl	omakomiishan
+
+X+mkomii+NI+Pej+4	imakomiishan
+
+X+mkomii+NI+Pej+Loc	imakomiishing
+
+X+mkomii+NI+Pej+Pl	imakomiishan
+
+1+mkomii+NI+1+Pl+Prt	nimakomiinaaniban
+1+mkomii+NI+1+Pl+Prt	nimakomiinaaniba
+
+1+mkomii+NI+1+Pl+Voc+Pl	nimakomiinaany1dig
+
+2+mkomii+NI+1+Pl+Prt	gimakomiinaaniban
+2+mkomii+NI+1+Pl+Prt	gimakomiinaaniba
+
+2+mkomii+NI+1+Pl+Voc+Pl	gimakomiinaany1dig
+
+2+mkomii+NI+2+Pl+Prt	gimakomiiwaaban
+2+mkomii+NI+2+Pl+Prt	gimakomiiwaaba
+
+2+mkomii+NI+2+Pl+Voc+Pl	gimakomiiwaadig
+
+3+mkomii+NI+2+Pl+Prt	omakomiiwaaban
+3+mkomii+NI+2+Pl+Prt	omakomiiwaaba
+
+3+mkomii+NI+2+Pl+Voc+Pl	omakomiiwaadig
+
+3+mkomii+NI+3+4+Prt	omakomiiniwiban
+3+mkomii+NI+3+4+Prt	omakomiiniwiba
+3+mkomii+NI+3+4+Prt	omakomiiniiban
+3+mkomii+NI+3+4+Prt	omakomiiniiba
+
+3+mkomii+NI+3+4+Voc+Pl	omakomiiniwdig
+
+1+mkomii+NI+1+Pl+4	nimakomiinaanin
+
+1+mkomii+NI+1+Pl+Loc	nimakomiinaaning
+
+1+mkomii+NI+1+Pl+Pl	nimakomiinaany1an
+
+2+mkomii+NI+1+Pl+4	gimakomiinaanin
+
+2+mkomii+NI+1+Pl+Loc	gimakomiinaaning
+
+2+mkomii+NI+1+Pl+Pl	gimakomiinaany1an
+
+2+mkomii+NI+2+Pl+4	gimakomiiwaan
+
+2+mkomii+NI+2+Pl+Loc	gimakomiiwaang
+
+2+mkomii+NI+2+Pl+Pl	gimakomiiwaaan
+
+3+mkomii+NI+2+Pl+4	omakomiiwaan
+
+3+mkomii+NI+2+Pl+Loc	omakomiiwaang
+
+3+mkomii+NI+2+Pl+Pl	omakomiiwaaan
+
+3+mkomii+NI+3+4+4	omakomiiniwan
+
+3+mkomii+NI+3+4+Loc	omakomiiniing
+
+3+mkomii+NI+3+4+Pl	omakomiiniwan
+
+1+mkomii+NI+Prt+4	nimakomiibaniin
+
+1+mkomii+NI+Prt+Loc	nimakomiibaniing
+
+1+mkomii+NI+Prt+Pl	nimakomiibani1an
+
+2+mkomii+NI+Prt+4	gimakomiibaniin
+
+2+mkomii+NI+Prt+Loc	gimakomiibaniing
+
+2+mkomii+NI+Prt+Pl	gimakomiibani1an
+
+3+mkomii+NI+Prt+4	omakomiibaniin
+
+3+mkomii+NI+Prt+Loc	omakomiibaniing
+
+3+mkomii+NI+Prt+Pl	omakomiibani1an
+
+X+mkomii+NI+Prt+4	imakomiibaniin
+
+X+mkomii+NI+Prt+Loc	imakomiibaniing
+
+X+mkomii+NI+Prt+Pl	imakomiibani1an
+
+mkomii+NI+Con+Pej+Prt	makomiienyishiban
+mkomii+NI+Con+Pej+Prt	makomiienyishiba
+
+mkomii+NI+Con+Pej+Voc+Pl	makomiienyishdig
+
+mkomii+NI+Dim+Pej+Prt	makomiiensishiban
+mkomii+NI+Dim+Pej+Prt	makomiiensishiba
+
+mkomii+NI+Dim+Pej+Voc+Pl	makomiiensishdig
+
+mkomii+NI+Con+Pej+4	makomiienyishan
+
+mkomii+NI+Con+Pej+Loc	makomiienyishing
+
+mkomii+NI+Con+Pej+Pl	makomiienyishan
+
+mkomii+NI+Dim+Pej+4	makomiiensishan
+
+mkomii+NI+Dim+Pej+Loc	makomiiensishing
+
+mkomii+NI+Dim+Pej+Pl	makomiiensishan
+
+mkomii+NI+Con+Prt+4	makomiienyibaniin
+
+mkomii+NI+Con+Prt+Loc	makomiienyibaniing
+
+mkomii+NI+Con+Prt+Pl	makomiienyibani1an
+
+mkomii+NI+Dim+Prt+4	makomiiensibaniin
+
+mkomii+NI+Dim+Prt+Loc	makomiiensibaniing
+
+mkomii+NI+Dim+Prt+Pl	makomiiensibani1an
+
+mkomii+NI+Pej+Prt+4	makomiishibaniin
+
+mkomii+NI+Pej+Prt+Loc	makomiishibaniing
+
+mkomii+NI+Pej+Prt+Pl	makomiishibani1an
+
+1+mkomii+NI+Con+ThmPos+Pej	nimakomiienymish
+
+1+mkomii+NI+Dim+ThmPos+Pej	nimakomiiensmish
+
+2+mkomii+NI+Con+ThmPos+Pej	gimakomiienymish
+
+2+mkomii+NI+Dim+ThmPos+Pej	gimakomiiensmish
+
+3+mkomii+NI+Con+ThmPos+Pej	omakomiienymish
+
+3+mkomii+NI+Dim+ThmPos+Pej	omakomiiensmish
+
+X+mkomii+NI+Con+ThmPos+Pej	imakomiienymish
+
+X+mkomii+NI+Dim+ThmPos+Pej	imakomiiensmish
+
+1+mkomii+NI+Con+ThmPos+1+Pl	nimakomiienymnaan
+1+mkomii+NI+Con+ThmPos+1+Pl	nimakomiienymnaa
+
+1+mkomii+NI+Dim+ThmPos+1+Pl	nimakomiiensmnaan
+1+mkomii+NI+Dim+ThmPos+1+Pl	nimakomiiensmnaa
+
+2+mkomii+NI+Con+ThmPos+1+Pl	gimakomiienymnaan
+2+mkomii+NI+Con+ThmPos+1+Pl	gimakomiienymnaa
+
+2+mkomii+NI+Con+ThmPos+2+Pl	gimakomiienymwaa
+
+2+mkomii+NI+Dim+ThmPos+1+Pl	gimakomiiensmnaan
+2+mkomii+NI+Dim+ThmPos+1+Pl	gimakomiiensmnaa
+
+2+mkomii+NI+Dim+ThmPos+2+Pl	gimakomiiensmwaa
+
+3+mkomii+NI+Con+ThmPos+2+Pl	omakomiienymwaa
+
+3+mkomii+NI+Con+ThmPos+3+4	omakomiienymniw
+
+3+mkomii+NI+Dim+ThmPos+2+Pl	omakomiiensmwaa
+
+3+mkomii+NI+Dim+ThmPos+3+4	omakomiiensmniw
+
+1+mkomii+NI+Con+ThmPos+Prt	nimakomiienymiban
+1+mkomii+NI+Con+ThmPos+Prt	nimakomiienymiba
+
+1+mkomii+NI+Con+ThmPos+Voc+Pl	nimakomiienymdig
+
+1+mkomii+NI+Dim+ThmPos+Prt	nimakomiiensmiban
+1+mkomii+NI+Dim+ThmPos+Prt	nimakomiiensmiba
+
+1+mkomii+NI+Dim+ThmPos+Voc+Pl	nimakomiiensmdig
+
+2+mkomii+NI+Con+ThmPos+Prt	gimakomiienymiban
+2+mkomii+NI+Con+ThmPos+Prt	gimakomiienymiba
+
+2+mkomii+NI+Con+ThmPos+Voc+Pl	gimakomiienymdig
+
+2+mkomii+NI+Dim+ThmPos+Prt	gimakomiiensmiban
+2+mkomii+NI+Dim+ThmPos+Prt	gimakomiiensmiba
+
+2+mkomii+NI+Dim+ThmPos+Voc+Pl	gimakomiiensmdig
+
+3+mkomii+NI+Con+ThmPos+Prt	omakomiienymiban
+3+mkomii+NI+Con+ThmPos+Prt	omakomiienymiba
+
+3+mkomii+NI+Con+ThmPos+Voc+Pl	omakomiienymdig
+
+3+mkomii+NI+Dim+ThmPos+Prt	omakomiiensmiban
+3+mkomii+NI+Dim+ThmPos+Prt	omakomiiensmiba
+
+3+mkomii+NI+Dim+ThmPos+Voc+Pl	omakomiiensmdig
+
+X+mkomii+NI+Con+ThmPos+Prt	imakomiienymiban
+X+mkomii+NI+Con+ThmPos+Prt	imakomiienymiba
+
+X+mkomii+NI+Con+ThmPos+Voc+Pl	imakomiienymdig
+
+X+mkomii+NI+Dim+ThmPos+Prt	imakomiiensmiban
+X+mkomii+NI+Dim+ThmPos+Prt	imakomiiensmiba
+
+X+mkomii+NI+Dim+ThmPos+Voc+Pl	imakomiiensmdig
+
+1+mkomii+NI+Con+ThmPos+4	nimakomiienyman
+
+1+mkomii+NI+Con+ThmPos+Loc	nimakomiienyming
+
+1+mkomii+NI+Con+ThmPos+Pl	nimakomiienyman
+
+1+mkomii+NI+Dim+ThmPos+4	nimakomiiensman
+
+1+mkomii+NI+Dim+ThmPos+Loc	nimakomiiensming
+
+1+mkomii+NI+Dim+ThmPos+Pl	nimakomiiensman
+
+2+mkomii+NI+Con+ThmPos+4	gimakomiienyman
+
+2+mkomii+NI+Con+ThmPos+Loc	gimakomiienyming
+
+2+mkomii+NI+Con+ThmPos+Pl	gimakomiienyman
+
+2+mkomii+NI+Dim+ThmPos+4	gimakomiiensman
+
+2+mkomii+NI+Dim+ThmPos+Loc	gimakomiiensming
+
+2+mkomii+NI+Dim+ThmPos+Pl	gimakomiiensman
+
+3+mkomii+NI+Con+ThmPos+4	omakomiienyman
+
+3+mkomii+NI+Con+ThmPos+Loc	omakomiienyming
+
+3+mkomii+NI+Con+ThmPos+Pl	omakomiienyman
+
+3+mkomii+NI+Dim+ThmPos+4	omakomiiensman
+
+3+mkomii+NI+Dim+ThmPos+Loc	omakomiiensming
+
+3+mkomii+NI+Dim+ThmPos+Pl	omakomiiensman
+
+X+mkomii+NI+Con+ThmPos+4	imakomiienyman
+
+X+mkomii+NI+Con+ThmPos+Loc	imakomiienyming
+
+X+mkomii+NI+Con+ThmPos+Pl	imakomiienyman
+
+X+mkomii+NI+Dim+ThmPos+4	imakomiiensman
+
+X+mkomii+NI+Dim+ThmPos+Loc	imakomiiensming
+
+X+mkomii+NI+Dim+ThmPos+Pl	imakomiiensman
+
+1+mkomii+NI+Con+Pej+1+Pl	nimakomiienyishnaan
+1+mkomii+NI+Con+Pej+1+Pl	nimakomiienyishnaa
+
+1+mkomii+NI+Dim+Pej+1+Pl	nimakomiiensishnaan
+1+mkomii+NI+Dim+Pej+1+Pl	nimakomiiensishnaa
+
+2+mkomii+NI+Con+Pej+1+Pl	gimakomiienyishnaan
+2+mkomii+NI+Con+Pej+1+Pl	gimakomiienyishnaa
+
+2+mkomii+NI+Con+Pej+2+Pl	gimakomiienyishwaa
+
+2+mkomii+NI+Dim+Pej+1+Pl	gimakomiiensishnaan
+2+mkomii+NI+Dim+Pej+1+Pl	gimakomiiensishnaa
+
+2+mkomii+NI+Dim+Pej+2+Pl	gimakomiiensishwaa
+
+3+mkomii+NI+Con+Pej+2+Pl	omakomiienyishwaa
+
+3+mkomii+NI+Con+Pej+3+4	omakomiienyishniw
+
+3+mkomii+NI+Dim+Pej+2+Pl	omakomiiensishwaa
+
+3+mkomii+NI+Dim+Pej+3+4	omakomiiensishniw
+
+1+mkomii+NI+Con+Pej+Prt	nimakomiienyishiban
+1+mkomii+NI+Con+Pej+Prt	nimakomiienyishiba
+
+1+mkomii+NI+Con+Pej+Voc+Pl	nimakomiienyishdig
+
+1+mkomii+NI+Dim+Pej+Prt	nimakomiiensishiban
+1+mkomii+NI+Dim+Pej+Prt	nimakomiiensishiba
+
+1+mkomii+NI+Dim+Pej+Voc+Pl	nimakomiiensishdig
+
+2+mkomii+NI+Con+Pej+Prt	gimakomiienyishiban
+2+mkomii+NI+Con+Pej+Prt	gimakomiienyishiba
+
+2+mkomii+NI+Con+Pej+Voc+Pl	gimakomiienyishdig
+
+2+mkomii+NI+Dim+Pej+Prt	gimakomiiensishiban
+2+mkomii+NI+Dim+Pej+Prt	gimakomiiensishiba
+
+2+mkomii+NI+Dim+Pej+Voc+Pl	gimakomiiensishdig
+
+3+mkomii+NI+Con+Pej+Prt	omakomiienyishiban
+3+mkomii+NI+Con+Pej+Prt	omakomiienyishiba
+
+3+mkomii+NI+Con+Pej+Voc+Pl	omakomiienyishdig
+
+3+mkomii+NI+Dim+Pej+Prt	omakomiiensishiban
+3+mkomii+NI+Dim+Pej+Prt	omakomiiensishiba
+
+3+mkomii+NI+Dim+Pej+Voc+Pl	omakomiiensishdig
+
+X+mkomii+NI+Con+Pej+Prt	imakomiienyishiban
+X+mkomii+NI+Con+Pej+Prt	imakomiienyishiba
+
+X+mkomii+NI+Con+Pej+Voc+Pl	imakomiienyishdig
+
+X+mkomii+NI+Dim+Pej+Prt	imakomiiensishiban
+X+mkomii+NI+Dim+Pej+Prt	imakomiiensishiba
+
+X+mkomii+NI+Dim+Pej+Voc+Pl	imakomiiensishdig
+
+1+mkomii+NI+Con+Pej+4	nimakomiienyishan
+
+1+mkomii+NI+Con+Pej+Loc	nimakomiienyishing
+
+1+mkomii+NI+Con+Pej+Pl	nimakomiienyishan
+
+1+mkomii+NI+Dim+Pej+4	nimakomiiensishan
+
+1+mkomii+NI+Dim+Pej+Loc	nimakomiiensishing
+
+1+mkomii+NI+Dim+Pej+Pl	nimakomiiensishan
+
+2+mkomii+NI+Con+Pej+4	gimakomiienyishan
+
+2+mkomii+NI+Con+Pej+Loc	gimakomiienyishing
+
+2+mkomii+NI+Con+Pej+Pl	gimakomiienyishan
+
+2+mkomii+NI+Dim+Pej+4	gimakomiiensishan
+
+2+mkomii+NI+Dim+Pej+Loc	gimakomiiensishing
+
+2+mkomii+NI+Dim+Pej+Pl	gimakomiiensishan
+
+3+mkomii+NI+Con+Pej+4	omakomiienyishan
+
+3+mkomii+NI+Con+Pej+Loc	omakomiienyishing
+
+3+mkomii+NI+Con+Pej+Pl	omakomiienyishan
+
+3+mkomii+NI+Dim+Pej+4	omakomiiensishan
+
+3+mkomii+NI+Dim+Pej+Loc	omakomiiensishing
+
+3+mkomii+NI+Dim+Pej+Pl	omakomiiensishan
+
+X+mkomii+NI+Con+Pej+4	imakomiienyishan
+
+X+mkomii+NI+Con+Pej+Loc	imakomiienyishing
+
+X+mkomii+NI+Con+Pej+Pl	imakomiienyishan
+
+X+mkomii+NI+Dim+Pej+4	imakomiiensishan
+
+X+mkomii+NI+Dim+Pej+Loc	imakomiiensishing
+
+X+mkomii+NI+Dim+Pej+Pl	imakomiiensishan
+
+1+mkomii+NI+Con+1+Pl+Prt	nimakomiienynaaniban
+1+mkomii+NI+Con+1+Pl+Prt	nimakomiienynaaniba
+
+1+mkomii+NI+Con+1+Pl+Voc+Pl	nimakomiienynaany1dig
+
+1+mkomii+NI+Dim+1+Pl+Prt	nimakomiiensnaaniban
+1+mkomii+NI+Dim+1+Pl+Prt	nimakomiiensnaaniba
+
+1+mkomii+NI+Dim+1+Pl+Voc+Pl	nimakomiiensnaany1dig
+
+2+mkomii+NI+Con+1+Pl+Prt	gimakomiienynaaniban
+2+mkomii+NI+Con+1+Pl+Prt	gimakomiienynaaniba
+
+2+mkomii+NI+Con+1+Pl+Voc+Pl	gimakomiienynaany1dig
+
+2+mkomii+NI+Con+2+Pl+Prt	gimakomiienywaaban
+2+mkomii+NI+Con+2+Pl+Prt	gimakomiienywaaba
+
+2+mkomii+NI+Con+2+Pl+Voc+Pl	gimakomiienywaadig
+
+2+mkomii+NI+Dim+1+Pl+Prt	gimakomiiensnaaniban
+2+mkomii+NI+Dim+1+Pl+Prt	gimakomiiensnaaniba
+
+2+mkomii+NI+Dim+1+Pl+Voc+Pl	gimakomiiensnaany1dig
+
+2+mkomii+NI+Dim+2+Pl+Prt	gimakomiienswaaban
+2+mkomii+NI+Dim+2+Pl+Prt	gimakomiienswaaba
+
+2+mkomii+NI+Dim+2+Pl+Voc+Pl	gimakomiienswaadig
+
+3+mkomii+NI+Con+2+Pl+Prt	omakomiienywaaban
+3+mkomii+NI+Con+2+Pl+Prt	omakomiienywaaba
+
+3+mkomii+NI+Con+2+Pl+Voc+Pl	omakomiienywaadig
+
+3+mkomii+NI+Con+3+4+Prt	omakomiienyniwiban
+3+mkomii+NI+Con+3+4+Prt	omakomiienyniwiba
+3+mkomii+NI+Con+3+4+Prt	omakomiienyniiban
+3+mkomii+NI+Con+3+4+Prt	omakomiienyniiba
+
+3+mkomii+NI+Con+3+4+Voc+Pl	omakomiienyniwdig
+
+3+mkomii+NI+Dim+2+Pl+Prt	omakomiienswaaban
+3+mkomii+NI+Dim+2+Pl+Prt	omakomiienswaaba
+
+3+mkomii+NI+Dim+2+Pl+Voc+Pl	omakomiienswaadig
+
+3+mkomii+NI+Dim+3+4+Prt	omakomiiensniwiban
+3+mkomii+NI+Dim+3+4+Prt	omakomiiensniwiba
+3+mkomii+NI+Dim+3+4+Prt	omakomiiensniiban
+3+mkomii+NI+Dim+3+4+Prt	omakomiiensniiba
+
+3+mkomii+NI+Dim+3+4+Voc+Pl	omakomiiensniwdig
+
+1+mkomii+NI+Con+1+Pl+4	nimakomiienynaanin
+
+1+mkomii+NI+Con+1+Pl+Loc	nimakomiienynaaning
+
+1+mkomii+NI+Con+1+Pl+Pl	nimakomiienynaany1an
+
+1+mkomii+NI+Dim+1+Pl+4	nimakomiiensnaanin
+
+1+mkomii+NI+Dim+1+Pl+Loc	nimakomiiensnaaning
+
+1+mkomii+NI+Dim+1+Pl+Pl	nimakomiiensnaany1an
+
+2+mkomii+NI+Con+1+Pl+4	gimakomiienynaanin
+
+2+mkomii+NI+Con+1+Pl+Loc	gimakomiienynaaning
+
+2+mkomii+NI+Con+1+Pl+Pl	gimakomiienynaany1an
+
+2+mkomii+NI+Con+2+Pl+4	gimakomiienywaan
+
+2+mkomii+NI+Con+2+Pl+Loc	gimakomiienywaang
+
+2+mkomii+NI+Con+2+Pl+Pl	gimakomiienywaaan
+
+2+mkomii+NI+Dim+1+Pl+4	gimakomiiensnaanin
+
+2+mkomii+NI+Dim+1+Pl+Loc	gimakomiiensnaaning
+
+2+mkomii+NI+Dim+1+Pl+Pl	gimakomiiensnaany1an
+
+2+mkomii+NI+Dim+2+Pl+4	gimakomiienswaan
+
+2+mkomii+NI+Dim+2+Pl+Loc	gimakomiienswaang
+
+2+mkomii+NI+Dim+2+Pl+Pl	gimakomiienswaaan
+
+3+mkomii+NI+Con+2+Pl+4	omakomiienywaan
+
+3+mkomii+NI+Con+2+Pl+Loc	omakomiienywaang
+
+3+mkomii+NI+Con+2+Pl+Pl	omakomiienywaaan
+
+3+mkomii+NI+Con+3+4+4	omakomiienyniwan
+
+3+mkomii+NI+Con+3+4+Loc	omakomiienyniing
+
+3+mkomii+NI+Con+3+4+Pl	omakomiienyniwan
+
+3+mkomii+NI+Dim+2+Pl+4	omakomiienswaan
+
+3+mkomii+NI+Dim+2+Pl+Loc	omakomiienswaang
+
+3+mkomii+NI+Dim+2+Pl+Pl	omakomiienswaaan
+
+3+mkomii+NI+Dim+3+4+4	omakomiiensniwan
+
+3+mkomii+NI+Dim+3+4+Loc	omakomiiensniing
+
+3+mkomii+NI+Dim+3+4+Pl	omakomiiensniwan
+
+1+mkomii+NI+Con+Prt+4	nimakomiienyibaniin
+
+1+mkomii+NI+Con+Prt+Loc	nimakomiienyibaniing
+
+1+mkomii+NI+Con+Prt+Pl	nimakomiienyibani1an
+
+1+mkomii+NI+Dim+Prt+4	nimakomiiensibaniin
+
+1+mkomii+NI+Dim+Prt+Loc	nimakomiiensibaniing
+
+1+mkomii+NI+Dim+Prt+Pl	nimakomiiensibani1an
+
+2+mkomii+NI+Con+Prt+4	gimakomiienyibaniin
+
+2+mkomii+NI+Con+Prt+Loc	gimakomiienyibaniing
+
+2+mkomii+NI+Con+Prt+Pl	gimakomiienyibani1an
+
+2+mkomii+NI+Dim+Prt+4	gimakomiiensibaniin
+
+2+mkomii+NI+Dim+Prt+Loc	gimakomiiensibaniing
+
+2+mkomii+NI+Dim+Prt+Pl	gimakomiiensibani1an
+
+3+mkomii+NI+Con+Prt+4	omakomiienyibaniin
+
+3+mkomii+NI+Con+Prt+Loc	omakomiienyibaniing
+
+3+mkomii+NI+Con+Prt+Pl	omakomiienyibani1an
+
+3+mkomii+NI+Dim+Prt+4	omakomiiensibaniin
+
+3+mkomii+NI+Dim+Prt+Loc	omakomiiensibaniing
+
+3+mkomii+NI+Dim+Prt+Pl	omakomiiensibani1an
+
+X+mkomii+NI+Con+Prt+4	imakomiienyibaniin
+
+X+mkomii+NI+Con+Prt+Loc	imakomiienyibaniing
+
+X+mkomii+NI+Con+Prt+Pl	imakomiienyibani1an
+
+X+mkomii+NI+Dim+Prt+4	imakomiiensibaniin
+
+X+mkomii+NI+Dim+Prt+Loc	imakomiiensibaniing
+
+X+mkomii+NI+Dim+Prt+Pl	imakomiiensibani1an
+
+1+mkomii+NI+ThmPos+Pej+1+Pl	nimakomiimishnaan
+1+mkomii+NI+ThmPos+Pej+1+Pl	nimakomiimishnaa
+
+2+mkomii+NI+ThmPos+Pej+1+Pl	gimakomiimishnaan
+2+mkomii+NI+ThmPos+Pej+1+Pl	gimakomiimishnaa
+
+2+mkomii+NI+ThmPos+Pej+2+Pl	gimakomiimishwaa
+
+3+mkomii+NI+ThmPos+Pej+2+Pl	omakomiimishwaa
+
+3+mkomii+NI+ThmPos+Pej+3+4	omakomiimishniw
+
+1+mkomii+NI+ThmPos+Pej+Prt	nimakomiimishiban
+1+mkomii+NI+ThmPos+Pej+Prt	nimakomiimishiba
+
+1+mkomii+NI+ThmPos+Pej+Voc+Pl	nimakomiimishdig
+
+2+mkomii+NI+ThmPos+Pej+Prt	gimakomiimishiban
+2+mkomii+NI+ThmPos+Pej+Prt	gimakomiimishiba
+
+2+mkomii+NI+ThmPos+Pej+Voc+Pl	gimakomiimishdig
+
+3+mkomii+NI+ThmPos+Pej+Prt	omakomiimishiban
+3+mkomii+NI+ThmPos+Pej+Prt	omakomiimishiba
+
+3+mkomii+NI+ThmPos+Pej+Voc+Pl	omakomiimishdig
+
+X+mkomii+NI+ThmPos+Pej+Prt	imakomiimishiban
+X+mkomii+NI+ThmPos+Pej+Prt	imakomiimishiba
+
+X+mkomii+NI+ThmPos+Pej+Voc+Pl	imakomiimishdig
+
+1+mkomii+NI+ThmPos+Pej+4	nimakomiimishan
+
+1+mkomii+NI+ThmPos+Pej+Loc	nimakomiimishing
+
+1+mkomii+NI+ThmPos+Pej+Pl	nimakomiimishan
+
+2+mkomii+NI+ThmPos+Pej+4	gimakomiimishan
+
+2+mkomii+NI+ThmPos+Pej+Loc	gimakomiimishing
+
+2+mkomii+NI+ThmPos+Pej+Pl	gimakomiimishan
+
+3+mkomii+NI+ThmPos+Pej+4	omakomiimishan
+
+3+mkomii+NI+ThmPos+Pej+Loc	omakomiimishing
+
+3+mkomii+NI+ThmPos+Pej+Pl	omakomiimishan
+
+X+mkomii+NI+ThmPos+Pej+4	imakomiimishan
+
+X+mkomii+NI+ThmPos+Pej+Loc	imakomiimishing
+
+X+mkomii+NI+ThmPos+Pej+Pl	imakomiimishan
+
+1+mkomii+NI+ThmPos+1+Pl+Prt	nimakomiimnaaniban
+1+mkomii+NI+ThmPos+1+Pl+Prt	nimakomiimnaaniba
+
+1+mkomii+NI+ThmPos+1+Pl+Voc+Pl	nimakomiimnaany1dig
+
+2+mkomii+NI+ThmPos+1+Pl+Prt	gimakomiimnaaniban
+2+mkomii+NI+ThmPos+1+Pl+Prt	gimakomiimnaaniba
+
+2+mkomii+NI+ThmPos+1+Pl+Voc+Pl	gimakomiimnaany1dig
+
+2+mkomii+NI+ThmPos+2+Pl+Prt	gimakomiimwaaban
+2+mkomii+NI+ThmPos+2+Pl+Prt	gimakomiimwaaba
+
+2+mkomii+NI+ThmPos+2+Pl+Voc+Pl	gimakomiimwaadig
+
+3+mkomii+NI+ThmPos+2+Pl+Prt	omakomiimwaaban
+3+mkomii+NI+ThmPos+2+Pl+Prt	omakomiimwaaba
+
+3+mkomii+NI+ThmPos+2+Pl+Voc+Pl	omakomiimwaadig
+
+3+mkomii+NI+ThmPos+3+4+Prt	omakomiimniwiban
+3+mkomii+NI+ThmPos+3+4+Prt	omakomiimniwiba
+3+mkomii+NI+ThmPos+3+4+Prt	omakomiimniiban
+3+mkomii+NI+ThmPos+3+4+Prt	omakomiimniiba
+
+3+mkomii+NI+ThmPos+3+4+Voc+Pl	omakomiimniwdig
+
+1+mkomii+NI+ThmPos+1+Pl+4	nimakomiimnaanin
+
+1+mkomii+NI+ThmPos+1+Pl+Loc	nimakomiimnaaning
+
+1+mkomii+NI+ThmPos+1+Pl+Pl	nimakomiimnaany1an
+
+2+mkomii+NI+ThmPos+1+Pl+4	gimakomiimnaanin
+
+2+mkomii+NI+ThmPos+1+Pl+Loc	gimakomiimnaaning
+
+2+mkomii+NI+ThmPos+1+Pl+Pl	gimakomiimnaany1an
+
+2+mkomii+NI+ThmPos+2+Pl+4	gimakomiimwaan
+
+2+mkomii+NI+ThmPos+2+Pl+Loc	gimakomiimwaang
+
+2+mkomii+NI+ThmPos+2+Pl+Pl	gimakomiimwaaan
+
+3+mkomii+NI+ThmPos+2+Pl+4	omakomiimwaan
+
+3+mkomii+NI+ThmPos+2+Pl+Loc	omakomiimwaang
+
+3+mkomii+NI+ThmPos+2+Pl+Pl	omakomiimwaaan
+
+3+mkomii+NI+ThmPos+3+4+4	omakomiimniwan
+
+3+mkomii+NI+ThmPos+3+4+Loc	omakomiimniing
+
+3+mkomii+NI+ThmPos+3+4+Pl	omakomiimniwan
+
+1+mkomii+NI+ThmPos+Prt+4	nimakomiimibaniin
+
+1+mkomii+NI+ThmPos+Prt+Loc	nimakomiimibaniing
+
+1+mkomii+NI+ThmPos+Prt+Pl	nimakomiimibani1an
+
+2+mkomii+NI+ThmPos+Prt+4	gimakomiimibaniin
+
+2+mkomii+NI+ThmPos+Prt+Loc	gimakomiimibaniing
+
+2+mkomii+NI+ThmPos+Prt+Pl	gimakomiimibani1an
+
+3+mkomii+NI+ThmPos+Prt+4	omakomiimibaniin
+
+3+mkomii+NI+ThmPos+Prt+Loc	omakomiimibaniing
+
+3+mkomii+NI+ThmPos+Prt+Pl	omakomiimibani1an
+
+X+mkomii+NI+ThmPos+Prt+4	imakomiimibaniin
+
+X+mkomii+NI+ThmPos+Prt+Loc	imakomiimibaniing
+
+X+mkomii+NI+ThmPos+Prt+Pl	imakomiimibani1an
+
+1+mkomii+NI+Pej+1+Pl+Prt	nimakomiishnaaniban
+1+mkomii+NI+Pej+1+Pl+Prt	nimakomiishnaaniba
+
+1+mkomii+NI+Pej+1+Pl+Voc+Pl	nimakomiishnaany1dig
+
+2+mkomii+NI+Pej+1+Pl+Prt	gimakomiishnaaniban
+2+mkomii+NI+Pej+1+Pl+Prt	gimakomiishnaaniba
+
+2+mkomii+NI+Pej+1+Pl+Voc+Pl	gimakomiishnaany1dig
+
+2+mkomii+NI+Pej+2+Pl+Prt	gimakomiishwaaban
+2+mkomii+NI+Pej+2+Pl+Prt	gimakomiishwaaba
+
+2+mkomii+NI+Pej+2+Pl+Voc+Pl	gimakomiishwaadig
+
+3+mkomii+NI+Pej+2+Pl+Prt	omakomiishwaaban
+3+mkomii+NI+Pej+2+Pl+Prt	omakomiishwaaba
+
+3+mkomii+NI+Pej+2+Pl+Voc+Pl	omakomiishwaadig
+
+3+mkomii+NI+Pej+3+4+Prt	omakomiishniwiban
+3+mkomii+NI+Pej+3+4+Prt	omakomiishniwiba
+3+mkomii+NI+Pej+3+4+Prt	omakomiishniiban
+3+mkomii+NI+Pej+3+4+Prt	omakomiishniiba
+
+3+mkomii+NI+Pej+3+4+Voc+Pl	omakomiishniwdig
+
+1+mkomii+NI+Pej+1+Pl+4	nimakomiishnaanin
+
+1+mkomii+NI+Pej+1+Pl+Loc	nimakomiishnaaning
+
+1+mkomii+NI+Pej+1+Pl+Pl	nimakomiishnaany1an
+
+2+mkomii+NI+Pej+1+Pl+4	gimakomiishnaanin
+
+2+mkomii+NI+Pej+1+Pl+Loc	gimakomiishnaaning
+
+2+mkomii+NI+Pej+1+Pl+Pl	gimakomiishnaany1an
+
+2+mkomii+NI+Pej+2+Pl+4	gimakomiishwaan
+
+2+mkomii+NI+Pej+2+Pl+Loc	gimakomiishwaang
+
+2+mkomii+NI+Pej+2+Pl+Pl	gimakomiishwaaan
+
+3+mkomii+NI+Pej+2+Pl+4	omakomiishwaan
+
+3+mkomii+NI+Pej+2+Pl+Loc	omakomiishwaang
+
+3+mkomii+NI+Pej+2+Pl+Pl	omakomiishwaaan
+
+3+mkomii+NI+Pej+3+4+4	omakomiishniwan
+
+3+mkomii+NI+Pej+3+4+Loc	omakomiishniing
+
+3+mkomii+NI+Pej+3+4+Pl	omakomiishniwan
+
+1+mkomii+NI+Pej+Prt+4	nimakomiishibaniin
+
+1+mkomii+NI+Pej+Prt+Loc	nimakomiishibaniing
+
+1+mkomii+NI+Pej+Prt+Pl	nimakomiishibani1an
+
+2+mkomii+NI+Pej+Prt+4	gimakomiishibaniin
+
+2+mkomii+NI+Pej+Prt+Loc	gimakomiishibaniing
+
+2+mkomii+NI+Pej+Prt+Pl	gimakomiishibani1an
+
+3+mkomii+NI+Pej+Prt+4	omakomiishibaniin
+
+3+mkomii+NI+Pej+Prt+Loc	omakomiishibaniing
+
+3+mkomii+NI+Pej+Prt+Pl	omakomiishibani1an
+
+X+mkomii+NI+Pej+Prt+4	imakomiishibaniin
+
+X+mkomii+NI+Pej+Prt+Loc	imakomiishibaniing
+
+X+mkomii+NI+Pej+Prt+Pl	imakomiishibani1an
+
+1+mkomii+NI+1+Pl+Prt+4	nimakomiinaanibaniin
+
+1+mkomii+NI+1+Pl+Prt+Loc	nimakomiinaanibaniing
+
+1+mkomii+NI+1+Pl+Prt+Pl	nimakomiinaanibani1an
+
+2+mkomii+NI+1+Pl+Prt+4	gimakomiinaanibaniin
+
+2+mkomii+NI+1+Pl+Prt+Loc	gimakomiinaanibaniing
+
+2+mkomii+NI+1+Pl+Prt+Pl	gimakomiinaanibani1an
+
+2+mkomii+NI+2+Pl+Prt+4	gimakomiiwaabaniin
+
+2+mkomii+NI+2+Pl+Prt+Loc	gimakomiiwaabaniing
+
+2+mkomii+NI+2+Pl+Prt+Pl	gimakomiiwaabani1an
+
+3+mkomii+NI+2+Pl+Prt+4	omakomiiwaabaniin
+
+3+mkomii+NI+2+Pl+Prt+Loc	omakomiiwaabaniing
+
+3+mkomii+NI+2+Pl+Prt+Pl	omakomiiwaabani1an
+
+3+mkomii+NI+3+4+Prt+4	omakomiiniwibaniin
+3+mkomii+NI+3+4+Prt+4	omakomiiniibaniin
+
+3+mkomii+NI+3+4+Prt+Loc	omakomiiniwibaniing
+3+mkomii+NI+3+4+Prt+Loc	omakomiiniibaniing
+
+3+mkomii+NI+3+4+Prt+Pl	omakomiiniwibani1an
+3+mkomii+NI+3+4+Prt+Pl	omakomiiniibani1an
+
+mkomii+NI+Con+Pej+Prt+4	makomiienyishibaniin
+
+mkomii+NI+Con+Pej+Prt+Loc	makomiienyishibaniing
+
+mkomii+NI+Con+Pej+Prt+Pl	makomiienyishibani1an
+
+mkomii+NI+Dim+Pej+Prt+4	makomiiensishibaniin
+
+mkomii+NI+Dim+Pej+Prt+Loc	makomiiensishibaniing
+
+mkomii+NI+Dim+Pej+Prt+Pl	makomiiensishibani1an
+
+1+mkomii+NI+Con+ThmPos+Pej+1+Pl	nimakomiienymishnaan
+1+mkomii+NI+Con+ThmPos+Pej+1+Pl	nimakomiienymishnaa
+
+1+mkomii+NI+Dim+ThmPos+Pej+1+Pl	nimakomiiensmishnaan
+1+mkomii+NI+Dim+ThmPos+Pej+1+Pl	nimakomiiensmishnaa
+
+2+mkomii+NI+Con+ThmPos+Pej+1+Pl	gimakomiienymishnaan
+2+mkomii+NI+Con+ThmPos+Pej+1+Pl	gimakomiienymishnaa
+
+2+mkomii+NI+Con+ThmPos+Pej+2+Pl	gimakomiienymishwaa
+
+2+mkomii+NI+Dim+ThmPos+Pej+1+Pl	gimakomiiensmishnaan
+2+mkomii+NI+Dim+ThmPos+Pej+1+Pl	gimakomiiensmishnaa
+
+2+mkomii+NI+Dim+ThmPos+Pej+2+Pl	gimakomiiensmishwaa
+
+3+mkomii+NI+Con+ThmPos+Pej+2+Pl	omakomiienymishwaa
+
+3+mkomii+NI+Con+ThmPos+Pej+3+4	omakomiienymishniw
+
+3+mkomii+NI+Dim+ThmPos+Pej+2+Pl	omakomiiensmishwaa
+
+3+mkomii+NI+Dim+ThmPos+Pej+3+4	omakomiiensmishniw
+
+1+mkomii+NI+Con+ThmPos+Pej+Prt	nimakomiienymishiban
+1+mkomii+NI+Con+ThmPos+Pej+Prt	nimakomiienymishiba
+
+1+mkomii+NI+Con+ThmPos+Pej+Voc+Pl	nimakomiienymishdig
+
+1+mkomii+NI+Dim+ThmPos+Pej+Prt	nimakomiiensmishiban
+1+mkomii+NI+Dim+ThmPos+Pej+Prt	nimakomiiensmishiba
+
+1+mkomii+NI+Dim+ThmPos+Pej+Voc+Pl	nimakomiiensmishdig
+
+2+mkomii+NI+Con+ThmPos+Pej+Prt	gimakomiienymishiban
+2+mkomii+NI+Con+ThmPos+Pej+Prt	gimakomiienymishiba
+
+2+mkomii+NI+Con+ThmPos+Pej+Voc+Pl	gimakomiienymishdig
+
+2+mkomii+NI+Dim+ThmPos+Pej+Prt	gimakomiiensmishiban
+2+mkomii+NI+Dim+ThmPos+Pej+Prt	gimakomiiensmishiba
+
+2+mkomii+NI+Dim+ThmPos+Pej+Voc+Pl	gimakomiiensmishdig
+
+3+mkomii+NI+Con+ThmPos+Pej+Prt	omakomiienymishiban
+3+mkomii+NI+Con+ThmPos+Pej+Prt	omakomiienymishiba
+
+3+mkomii+NI+Con+ThmPos+Pej+Voc+Pl	omakomiienymishdig
+
+3+mkomii+NI+Dim+ThmPos+Pej+Prt	omakomiiensmishiban
+3+mkomii+NI+Dim+ThmPos+Pej+Prt	omakomiiensmishiba
+
+3+mkomii+NI+Dim+ThmPos+Pej+Voc+Pl	omakomiiensmishdig
+
+X+mkomii+NI+Con+ThmPos+Pej+Prt	imakomiienymishiban
+X+mkomii+NI+Con+ThmPos+Pej+Prt	imakomiienymishiba
+
+X+mkomii+NI+Con+ThmPos+Pej+Voc+Pl	imakomiienymishdig
+
+X+mkomii+NI+Dim+ThmPos+Pej+Prt	imakomiiensmishiban
+X+mkomii+NI+Dim+ThmPos+Pej+Prt	imakomiiensmishiba
+
+X+mkomii+NI+Dim+ThmPos+Pej+Voc+Pl	imakomiiensmishdig
+
+1+mkomii+NI+Con+ThmPos+Pej+4	nimakomiienymishan
+
+1+mkomii+NI+Con+ThmPos+Pej+Loc	nimakomiienymishing
+
+1+mkomii+NI+Con+ThmPos+Pej+Pl	nimakomiienymishan
+
+1+mkomii+NI+Dim+ThmPos+Pej+4	nimakomiiensmishan
+
+1+mkomii+NI+Dim+ThmPos+Pej+Loc	nimakomiiensmishing
+
+1+mkomii+NI+Dim+ThmPos+Pej+Pl	nimakomiiensmishan
+
+2+mkomii+NI+Con+ThmPos+Pej+4	gimakomiienymishan
+
+2+mkomii+NI+Con+ThmPos+Pej+Loc	gimakomiienymishing
+
+2+mkomii+NI+Con+ThmPos+Pej+Pl	gimakomiienymishan
+
+2+mkomii+NI+Dim+ThmPos+Pej+4	gimakomiiensmishan
+
+2+mkomii+NI+Dim+ThmPos+Pej+Loc	gimakomiiensmishing
+
+2+mkomii+NI+Dim+ThmPos+Pej+Pl	gimakomiiensmishan
+
+3+mkomii+NI+Con+ThmPos+Pej+4	omakomiienymishan
+
+3+mkomii+NI+Con+ThmPos+Pej+Loc	omakomiienymishing
+
+3+mkomii+NI+Con+ThmPos+Pej+Pl	omakomiienymishan
+
+3+mkomii+NI+Dim+ThmPos+Pej+4	omakomiiensmishan
+
+3+mkomii+NI+Dim+ThmPos+Pej+Loc	omakomiiensmishing
+
+3+mkomii+NI+Dim+ThmPos+Pej+Pl	omakomiiensmishan
+
+X+mkomii+NI+Con+ThmPos+Pej+4	imakomiienymishan
+
+X+mkomii+NI+Con+ThmPos+Pej+Loc	imakomiienymishing
+
+X+mkomii+NI+Con+ThmPos+Pej+Pl	imakomiienymishan
+
+X+mkomii+NI+Dim+ThmPos+Pej+4	imakomiiensmishan
+
+X+mkomii+NI+Dim+ThmPos+Pej+Loc	imakomiiensmishing
+
+X+mkomii+NI+Dim+ThmPos+Pej+Pl	imakomiiensmishan
+
+1+mkomii+NI+Con+ThmPos+1+Pl+Prt	nimakomiienymnaaniban
+1+mkomii+NI+Con+ThmPos+1+Pl+Prt	nimakomiienymnaaniba
+
+1+mkomii+NI+Con+ThmPos+1+Pl+Voc+Pl	nimakomiienymnaany1dig
+
+1+mkomii+NI+Dim+ThmPos+1+Pl+Prt	nimakomiiensmnaaniban
+1+mkomii+NI+Dim+ThmPos+1+Pl+Prt	nimakomiiensmnaaniba
+
+1+mkomii+NI+Dim+ThmPos+1+Pl+Voc+Pl	nimakomiiensmnaany1dig
+
+2+mkomii+NI+Con+ThmPos+1+Pl+Prt	gimakomiienymnaaniban
+2+mkomii+NI+Con+ThmPos+1+Pl+Prt	gimakomiienymnaaniba
+
+2+mkomii+NI+Con+ThmPos+1+Pl+Voc+Pl	gimakomiienymnaany1dig
+
+2+mkomii+NI+Con+ThmPos+2+Pl+Prt	gimakomiienymwaaban
+2+mkomii+NI+Con+ThmPos+2+Pl+Prt	gimakomiienymwaaba
+
+2+mkomii+NI+Con+ThmPos+2+Pl+Voc+Pl	gimakomiienymwaadig
+
+2+mkomii+NI+Dim+ThmPos+1+Pl+Prt	gimakomiiensmnaaniban
+2+mkomii+NI+Dim+ThmPos+1+Pl+Prt	gimakomiiensmnaaniba
+
+2+mkomii+NI+Dim+ThmPos+1+Pl+Voc+Pl	gimakomiiensmnaany1dig
+
+2+mkomii+NI+Dim+ThmPos+2+Pl+Prt	gimakomiiensmwaaban
+2+mkomii+NI+Dim+ThmPos+2+Pl+Prt	gimakomiiensmwaaba
+
+2+mkomii+NI+Dim+ThmPos+2+Pl+Voc+Pl	gimakomiiensmwaadig
+
+3+mkomii+NI+Con+ThmPos+2+Pl+Prt	omakomiienymwaaban
+3+mkomii+NI+Con+ThmPos+2+Pl+Prt	omakomiienymwaaba
+
+3+mkomii+NI+Con+ThmPos+2+Pl+Voc+Pl	omakomiienymwaadig
+
+3+mkomii+NI+Con+ThmPos+3+4+Prt	omakomiienymniwiban
+3+mkomii+NI+Con+ThmPos+3+4+Prt	omakomiienymniwiba
+3+mkomii+NI+Con+ThmPos+3+4+Prt	omakomiienymniiban
+3+mkomii+NI+Con+ThmPos+3+4+Prt	omakomiienymniiba
+
+3+mkomii+NI+Con+ThmPos+3+4+Voc+Pl	omakomiienymniwdig
+
+3+mkomii+NI+Dim+ThmPos+2+Pl+Prt	omakomiiensmwaaban
+3+mkomii+NI+Dim+ThmPos+2+Pl+Prt	omakomiiensmwaaba
+
+3+mkomii+NI+Dim+ThmPos+2+Pl+Voc+Pl	omakomiiensmwaadig
+
+3+mkomii+NI+Dim+ThmPos+3+4+Prt	omakomiiensmniwiban
+3+mkomii+NI+Dim+ThmPos+3+4+Prt	omakomiiensmniwiba
+3+mkomii+NI+Dim+ThmPos+3+4+Prt	omakomiiensmniiban
+3+mkomii+NI+Dim+ThmPos+3+4+Prt	omakomiiensmniiba
+
+3+mkomii+NI+Dim+ThmPos+3+4+Voc+Pl	omakomiiensmniwdig
+
+1+mkomii+NI+Con+ThmPos+1+Pl+4	nimakomiienymnaanin
+
+1+mkomii+NI+Con+ThmPos+1+Pl+Loc	nimakomiienymnaaning
+
+1+mkomii+NI+Con+ThmPos+1+Pl+Pl	nimakomiienymnaany1an
+
+1+mkomii+NI+Dim+ThmPos+1+Pl+4	nimakomiiensmnaanin
+
+1+mkomii+NI+Dim+ThmPos+1+Pl+Loc	nimakomiiensmnaaning
+
+1+mkomii+NI+Dim+ThmPos+1+Pl+Pl	nimakomiiensmnaany1an
+
+2+mkomii+NI+Con+ThmPos+1+Pl+4	gimakomiienymnaanin
+
+2+mkomii+NI+Con+ThmPos+1+Pl+Loc	gimakomiienymnaaning
+
+2+mkomii+NI+Con+ThmPos+1+Pl+Pl	gimakomiienymnaany1an
+
+2+mkomii+NI+Con+ThmPos+2+Pl+4	gimakomiienymwaan
+
+2+mkomii+NI+Con+ThmPos+2+Pl+Loc	gimakomiienymwaang
+
+2+mkomii+NI+Con+ThmPos+2+Pl+Pl	gimakomiienymwaaan
+
+2+mkomii+NI+Dim+ThmPos+1+Pl+4	gimakomiiensmnaanin
+
+2+mkomii+NI+Dim+ThmPos+1+Pl+Loc	gimakomiiensmnaaning
+
+2+mkomii+NI+Dim+ThmPos+1+Pl+Pl	gimakomiiensmnaany1an
+
+2+mkomii+NI+Dim+ThmPos+2+Pl+4	gimakomiiensmwaan
+
+2+mkomii+NI+Dim+ThmPos+2+Pl+Loc	gimakomiiensmwaang
+
+2+mkomii+NI+Dim+ThmPos+2+Pl+Pl	gimakomiiensmwaaan
+
+3+mkomii+NI+Con+ThmPos+2+Pl+4	omakomiienymwaan
+
+3+mkomii+NI+Con+ThmPos+2+Pl+Loc	omakomiienymwaang
+
+3+mkomii+NI+Con+ThmPos+2+Pl+Pl	omakomiienymwaaan
+
+3+mkomii+NI+Con+ThmPos+3+4+4	omakomiienymniwan
+
+3+mkomii+NI+Con+ThmPos+3+4+Loc	omakomiienymniing
+
+3+mkomii+NI+Con+ThmPos+3+4+Pl	omakomiienymniwan
+
+3+mkomii+NI+Dim+ThmPos+2+Pl+4	omakomiiensmwaan
+
+3+mkomii+NI+Dim+ThmPos+2+Pl+Loc	omakomiiensmwaang
+
+3+mkomii+NI+Dim+ThmPos+2+Pl+Pl	omakomiiensmwaaan
+
+3+mkomii+NI+Dim+ThmPos+3+4+4	omakomiiensmniwan
+
+3+mkomii+NI+Dim+ThmPos+3+4+Loc	omakomiiensmniing
+
+3+mkomii+NI+Dim+ThmPos+3+4+Pl	omakomiiensmniwan
+
+1+mkomii+NI+Con+ThmPos+Prt+4	nimakomiienymibaniin
+
+1+mkomii+NI+Con+ThmPos+Prt+Loc	nimakomiienymibaniing
+
+1+mkomii+NI+Con+ThmPos+Prt+Pl	nimakomiienymibani1an
+
+1+mkomii+NI+Dim+ThmPos+Prt+4	nimakomiiensmibaniin
+
+1+mkomii+NI+Dim+ThmPos+Prt+Loc	nimakomiiensmibaniing
+
+1+mkomii+NI+Dim+ThmPos+Prt+Pl	nimakomiiensmibani1an
+
+2+mkomii+NI+Con+ThmPos+Prt+4	gimakomiienymibaniin
+
+2+mkomii+NI+Con+ThmPos+Prt+Loc	gimakomiienymibaniing
+
+2+mkomii+NI+Con+ThmPos+Prt+Pl	gimakomiienymibani1an
+
+2+mkomii+NI+Dim+ThmPos+Prt+4	gimakomiiensmibaniin
+
+2+mkomii+NI+Dim+ThmPos+Prt+Loc	gimakomiiensmibaniing
+
+2+mkomii+NI+Dim+ThmPos+Prt+Pl	gimakomiiensmibani1an
+
+3+mkomii+NI+Con+ThmPos+Prt+4	omakomiienymibaniin
+
+3+mkomii+NI+Con+ThmPos+Prt+Loc	omakomiienymibaniing
+
+3+mkomii+NI+Con+ThmPos+Prt+Pl	omakomiienymibani1an
+
+3+mkomii+NI+Dim+ThmPos+Prt+4	omakomiiensmibaniin
+
+3+mkomii+NI+Dim+ThmPos+Prt+Loc	omakomiiensmibaniing
+
+3+mkomii+NI+Dim+ThmPos+Prt+Pl	omakomiiensmibani1an
+
+X+mkomii+NI+Con+ThmPos+Prt+4	imakomiienymibaniin
+
+X+mkomii+NI+Con+ThmPos+Prt+Loc	imakomiienymibaniing
+
+X+mkomii+NI+Con+ThmPos+Prt+Pl	imakomiienymibani1an
+
+X+mkomii+NI+Dim+ThmPos+Prt+4	imakomiiensmibaniin
+
+X+mkomii+NI+Dim+ThmPos+Prt+Loc	imakomiiensmibaniing
+
+X+mkomii+NI+Dim+ThmPos+Prt+Pl	imakomiiensmibani1an
+
+1+mkomii+NI+Con+Pej+1+Pl+Prt	nimakomiienyishnaaniban
+1+mkomii+NI+Con+Pej+1+Pl+Prt	nimakomiienyishnaaniba
+
+1+mkomii+NI+Con+Pej+1+Pl+Voc+Pl	nimakomiienyishnaany1dig
+
+1+mkomii+NI+Dim+Pej+1+Pl+Prt	nimakomiiensishnaaniban
+1+mkomii+NI+Dim+Pej+1+Pl+Prt	nimakomiiensishnaaniba
+
+1+mkomii+NI+Dim+Pej+1+Pl+Voc+Pl	nimakomiiensishnaany1dig
+
+2+mkomii+NI+Con+Pej+1+Pl+Prt	gimakomiienyishnaaniban
+2+mkomii+NI+Con+Pej+1+Pl+Prt	gimakomiienyishnaaniba
+
+2+mkomii+NI+Con+Pej+1+Pl+Voc+Pl	gimakomiienyishnaany1dig
+
+2+mkomii+NI+Con+Pej+2+Pl+Prt	gimakomiienyishwaaban
+2+mkomii+NI+Con+Pej+2+Pl+Prt	gimakomiienyishwaaba
+
+2+mkomii+NI+Con+Pej+2+Pl+Voc+Pl	gimakomiienyishwaadig
+
+2+mkomii+NI+Dim+Pej+1+Pl+Prt	gimakomiiensishnaaniban
+2+mkomii+NI+Dim+Pej+1+Pl+Prt	gimakomiiensishnaaniba
+
+2+mkomii+NI+Dim+Pej+1+Pl+Voc+Pl	gimakomiiensishnaany1dig
+
+2+mkomii+NI+Dim+Pej+2+Pl+Prt	gimakomiiensishwaaban
+2+mkomii+NI+Dim+Pej+2+Pl+Prt	gimakomiiensishwaaba
+
+2+mkomii+NI+Dim+Pej+2+Pl+Voc+Pl	gimakomiiensishwaadig
+
+3+mkomii+NI+Con+Pej+2+Pl+Prt	omakomiienyishwaaban
+3+mkomii+NI+Con+Pej+2+Pl+Prt	omakomiienyishwaaba
+
+3+mkomii+NI+Con+Pej+2+Pl+Voc+Pl	omakomiienyishwaadig
+
+3+mkomii+NI+Con+Pej+3+4+Prt	omakomiienyishniwiban
+3+mkomii+NI+Con+Pej+3+4+Prt	omakomiienyishniwiba
+3+mkomii+NI+Con+Pej+3+4+Prt	omakomiienyishniiban
+3+mkomii+NI+Con+Pej+3+4+Prt	omakomiienyishniiba
+
+3+mkomii+NI+Con+Pej+3+4+Voc+Pl	omakomiienyishniwdig
+
+3+mkomii+NI+Dim+Pej+2+Pl+Prt	omakomiiensishwaaban
+3+mkomii+NI+Dim+Pej+2+Pl+Prt	omakomiiensishwaaba
+
+3+mkomii+NI+Dim+Pej+2+Pl+Voc+Pl	omakomiiensishwaadig
+
+3+mkomii+NI+Dim+Pej+3+4+Prt	omakomiiensishniwiban
+3+mkomii+NI+Dim+Pej+3+4+Prt	omakomiiensishniwiba
+3+mkomii+NI+Dim+Pej+3+4+Prt	omakomiiensishniiban
+3+mkomii+NI+Dim+Pej+3+4+Prt	omakomiiensishniiba
+
+3+mkomii+NI+Dim+Pej+3+4+Voc+Pl	omakomiiensishniwdig
+
+1+mkomii+NI+Con+Pej+1+Pl+4	nimakomiienyishnaanin
+
+1+mkomii+NI+Con+Pej+1+Pl+Loc	nimakomiienyishnaaning
+
+1+mkomii+NI+Con+Pej+1+Pl+Pl	nimakomiienyishnaany1an
+
+1+mkomii+NI+Dim+Pej+1+Pl+4	nimakomiiensishnaanin
+
+1+mkomii+NI+Dim+Pej+1+Pl+Loc	nimakomiiensishnaaning
+
+1+mkomii+NI+Dim+Pej+1+Pl+Pl	nimakomiiensishnaany1an
+
+2+mkomii+NI+Con+Pej+1+Pl+4	gimakomiienyishnaanin
+
+2+mkomii+NI+Con+Pej+1+Pl+Loc	gimakomiienyishnaaning
+
+2+mkomii+NI+Con+Pej+1+Pl+Pl	gimakomiienyishnaany1an
+
+2+mkomii+NI+Con+Pej+2+Pl+4	gimakomiienyishwaan
+
+2+mkomii+NI+Con+Pej+2+Pl+Loc	gimakomiienyishwaang
+
+2+mkomii+NI+Con+Pej+2+Pl+Pl	gimakomiienyishwaaan
+
+2+mkomii+NI+Dim+Pej+1+Pl+4	gimakomiiensishnaanin
+
+2+mkomii+NI+Dim+Pej+1+Pl+Loc	gimakomiiensishnaaning
+
+2+mkomii+NI+Dim+Pej+1+Pl+Pl	gimakomiiensishnaany1an
+
+2+mkomii+NI+Dim+Pej+2+Pl+4	gimakomiiensishwaan
+
+2+mkomii+NI+Dim+Pej+2+Pl+Loc	gimakomiiensishwaang
+
+2+mkomii+NI+Dim+Pej+2+Pl+Pl	gimakomiiensishwaaan
+
+3+mkomii+NI+Con+Pej+2+Pl+4	omakomiienyishwaan
+
+3+mkomii+NI+Con+Pej+2+Pl+Loc	omakomiienyishwaang
+
+3+mkomii+NI+Con+Pej+2+Pl+Pl	omakomiienyishwaaan
+
+3+mkomii+NI+Con+Pej+3+4+4	omakomiienyishniwan
+
+3+mkomii+NI+Con+Pej+3+4+Loc	omakomiienyishniing
+
+3+mkomii+NI+Con+Pej+3+4+Pl	omakomiienyishniwan
+
+3+mkomii+NI+Dim+Pej+2+Pl+4	omakomiiensishwaan
+
+3+mkomii+NI+Dim+Pej+2+Pl+Loc	omakomiiensishwaang
+
+3+mkomii+NI+Dim+Pej+2+Pl+Pl	omakomiiensishwaaan
+
+3+mkomii+NI+Dim+Pej+3+4+4	omakomiiensishniwan
+
+3+mkomii+NI+Dim+Pej+3+4+Loc	omakomiiensishniing
+
+3+mkomii+NI+Dim+Pej+3+4+Pl	omakomiiensishniwan
+
+1+mkomii+NI+Con+Pej+Prt+4	nimakomiienyishibaniin
+
+1+mkomii+NI+Con+Pej+Prt+Loc	nimakomiienyishibaniing
+
+1+mkomii+NI+Con+Pej+Prt+Pl	nimakomiienyishibani1an
+
+1+mkomii+NI+Dim+Pej+Prt+4	nimakomiiensishibaniin
+
+1+mkomii+NI+Dim+Pej+Prt+Loc	nimakomiiensishibaniing
+
+1+mkomii+NI+Dim+Pej+Prt+Pl	nimakomiiensishibani1an
+
+2+mkomii+NI+Con+Pej+Prt+4	gimakomiienyishibaniin
+
+2+mkomii+NI+Con+Pej+Prt+Loc	gimakomiienyishibaniing
+
+2+mkomii+NI+Con+Pej+Prt+Pl	gimakomiienyishibani1an
+
+2+mkomii+NI+Dim+Pej+Prt+4	gimakomiiensishibaniin
+
+2+mkomii+NI+Dim+Pej+Prt+Loc	gimakomiiensishibaniing
+
+2+mkomii+NI+Dim+Pej+Prt+Pl	gimakomiiensishibani1an
+
+3+mkomii+NI+Con+Pej+Prt+4	omakomiienyishibaniin
+
+3+mkomii+NI+Con+Pej+Prt+Loc	omakomiienyishibaniing
+
+3+mkomii+NI+Con+Pej+Prt+Pl	omakomiienyishibani1an
+
+3+mkomii+NI+Dim+Pej+Prt+4	omakomiiensishibaniin
+
+3+mkomii+NI+Dim+Pej+Prt+Loc	omakomiiensishibaniing
+
+3+mkomii+NI+Dim+Pej+Prt+Pl	omakomiiensishibani1an
+
+X+mkomii+NI+Con+Pej+Prt+4	imakomiienyishibaniin
+
+X+mkomii+NI+Con+Pej+Prt+Loc	imakomiienyishibaniing
+
+X+mkomii+NI+Con+Pej+Prt+Pl	imakomiienyishibani1an
+
+X+mkomii+NI+Dim+Pej+Prt+4	imakomiiensishibaniin
+
+X+mkomii+NI+Dim+Pej+Prt+Loc	imakomiiensishibaniing
+
+X+mkomii+NI+Dim+Pej+Prt+Pl	imakomiiensishibani1an
+
+1+mkomii+NI+Con+1+Pl+Prt+4	nimakomiienynaanibaniin
+
+1+mkomii+NI+Con+1+Pl+Prt+Loc	nimakomiienynaanibaniing
+
+1+mkomii+NI+Con+1+Pl+Prt+Pl	nimakomiienynaanibani1an
+
+1+mkomii+NI+Dim+1+Pl+Prt+4	nimakomiiensnaanibaniin
+
+1+mkomii+NI+Dim+1+Pl+Prt+Loc	nimakomiiensnaanibaniing
+
+1+mkomii+NI+Dim+1+Pl+Prt+Pl	nimakomiiensnaanibani1an
+
+2+mkomii+NI+Con+1+Pl+Prt+4	gimakomiienynaanibaniin
+
+2+mkomii+NI+Con+1+Pl+Prt+Loc	gimakomiienynaanibaniing
+
+2+mkomii+NI+Con+1+Pl+Prt+Pl	gimakomiienynaanibani1an
+
+2+mkomii+NI+Con+2+Pl+Prt+4	gimakomiienywaabaniin
+
+2+mkomii+NI+Con+2+Pl+Prt+Loc	gimakomiienywaabaniing
+
+2+mkomii+NI+Con+2+Pl+Prt+Pl	gimakomiienywaabani1an
+
+2+mkomii+NI+Dim+1+Pl+Prt+4	gimakomiiensnaanibaniin
+
+2+mkomii+NI+Dim+1+Pl+Prt+Loc	gimakomiiensnaanibaniing
+
+2+mkomii+NI+Dim+1+Pl+Prt+Pl	gimakomiiensnaanibani1an
+
+2+mkomii+NI+Dim+2+Pl+Prt+4	gimakomiienswaabaniin
+
+2+mkomii+NI+Dim+2+Pl+Prt+Loc	gimakomiienswaabaniing
+
+2+mkomii+NI+Dim+2+Pl+Prt+Pl	gimakomiienswaabani1an
+
+3+mkomii+NI+Con+2+Pl+Prt+4	omakomiienywaabaniin
+
+3+mkomii+NI+Con+2+Pl+Prt+Loc	omakomiienywaabaniing
+
+3+mkomii+NI+Con+2+Pl+Prt+Pl	omakomiienywaabani1an
+
+3+mkomii+NI+Con+3+4+Prt+4	omakomiienyniwibaniin
+3+mkomii+NI+Con+3+4+Prt+4	omakomiienyniibaniin
+
+3+mkomii+NI+Con+3+4+Prt+Loc	omakomiienyniwibaniing
+3+mkomii+NI+Con+3+4+Prt+Loc	omakomiienyniibaniing
+
+3+mkomii+NI+Con+3+4+Prt+Pl	omakomiienyniwibani1an
+3+mkomii+NI+Con+3+4+Prt+Pl	omakomiienyniibani1an
+
+3+mkomii+NI+Dim+2+Pl+Prt+4	omakomiienswaabaniin
+
+3+mkomii+NI+Dim+2+Pl+Prt+Loc	omakomiienswaabaniing
+
+3+mkomii+NI+Dim+2+Pl+Prt+Pl	omakomiienswaabani1an
+
+3+mkomii+NI+Dim+3+4+Prt+4	omakomiiensniwibaniin
+3+mkomii+NI+Dim+3+4+Prt+4	omakomiiensniibaniin
+
+3+mkomii+NI+Dim+3+4+Prt+Loc	omakomiiensniwibaniing
+3+mkomii+NI+Dim+3+4+Prt+Loc	omakomiiensniibaniing
+
+3+mkomii+NI+Dim+3+4+Prt+Pl	omakomiiensniwibani1an
+3+mkomii+NI+Dim+3+4+Prt+Pl	omakomiiensniibani1an
+
+1+mkomii+NI+ThmPos+Pej+1+Pl+Prt	nimakomiimishnaaniban
+1+mkomii+NI+ThmPos+Pej+1+Pl+Prt	nimakomiimishnaaniba
+
+1+mkomii+NI+ThmPos+Pej+1+Pl+Voc+Pl	nimakomiimishnaany1dig
+
+2+mkomii+NI+ThmPos+Pej+1+Pl+Prt	gimakomiimishnaaniban
+2+mkomii+NI+ThmPos+Pej+1+Pl+Prt	gimakomiimishnaaniba
+
+2+mkomii+NI+ThmPos+Pej+1+Pl+Voc+Pl	gimakomiimishnaany1dig
+
+2+mkomii+NI+ThmPos+Pej+2+Pl+Prt	gimakomiimishwaaban
+2+mkomii+NI+ThmPos+Pej+2+Pl+Prt	gimakomiimishwaaba
+
+2+mkomii+NI+ThmPos+Pej+2+Pl+Voc+Pl	gimakomiimishwaadig
+
+3+mkomii+NI+ThmPos+Pej+2+Pl+Prt	omakomiimishwaaban
+3+mkomii+NI+ThmPos+Pej+2+Pl+Prt	omakomiimishwaaba
+
+3+mkomii+NI+ThmPos+Pej+2+Pl+Voc+Pl	omakomiimishwaadig
+
+3+mkomii+NI+ThmPos+Pej+3+4+Prt	omakomiimishniwiban
+3+mkomii+NI+ThmPos+Pej+3+4+Prt	omakomiimishniwiba
+3+mkomii+NI+ThmPos+Pej+3+4+Prt	omakomiimishniiban
+3+mkomii+NI+ThmPos+Pej+3+4+Prt	omakomiimishniiba
+
+3+mkomii+NI+ThmPos+Pej+3+4+Voc+Pl	omakomiimishniwdig
+
+1+mkomii+NI+ThmPos+Pej+1+Pl+4	nimakomiimishnaanin
+
+1+mkomii+NI+ThmPos+Pej+1+Pl+Loc	nimakomiimishnaaning
+
+1+mkomii+NI+ThmPos+Pej+1+Pl+Pl	nimakomiimishnaany1an
+
+2+mkomii+NI+ThmPos+Pej+1+Pl+4	gimakomiimishnaanin
+
+2+mkomii+NI+ThmPos+Pej+1+Pl+Loc	gimakomiimishnaaning
+
+2+mkomii+NI+ThmPos+Pej+1+Pl+Pl	gimakomiimishnaany1an
+
+2+mkomii+NI+ThmPos+Pej+2+Pl+4	gimakomiimishwaan
+
+2+mkomii+NI+ThmPos+Pej+2+Pl+Loc	gimakomiimishwaang
+
+2+mkomii+NI+ThmPos+Pej+2+Pl+Pl	gimakomiimishwaaan
+
+3+mkomii+NI+ThmPos+Pej+2+Pl+4	omakomiimishwaan
+
+3+mkomii+NI+ThmPos+Pej+2+Pl+Loc	omakomiimishwaang
+
+3+mkomii+NI+ThmPos+Pej+2+Pl+Pl	omakomiimishwaaan
+
+3+mkomii+NI+ThmPos+Pej+3+4+4	omakomiimishniwan
+
+3+mkomii+NI+ThmPos+Pej+3+4+Loc	omakomiimishniing
+
+3+mkomii+NI+ThmPos+Pej+3+4+Pl	omakomiimishniwan
+
+1+mkomii+NI+ThmPos+Pej+Prt+4	nimakomiimishibaniin
+
+1+mkomii+NI+ThmPos+Pej+Prt+Loc	nimakomiimishibaniing
+
+1+mkomii+NI+ThmPos+Pej+Prt+Pl	nimakomiimishibani1an
+
+2+mkomii+NI+ThmPos+Pej+Prt+4	gimakomiimishibaniin
+
+2+mkomii+NI+ThmPos+Pej+Prt+Loc	gimakomiimishibaniing
+
+2+mkomii+NI+ThmPos+Pej+Prt+Pl	gimakomiimishibani1an
+
+3+mkomii+NI+ThmPos+Pej+Prt+4	omakomiimishibaniin
+
+3+mkomii+NI+ThmPos+Pej+Prt+Loc	omakomiimishibaniing
+
+3+mkomii+NI+ThmPos+Pej+Prt+Pl	omakomiimishibani1an
+
+X+mkomii+NI+ThmPos+Pej+Prt+4	imakomiimishibaniin
+
+X+mkomii+NI+ThmPos+Pej+Prt+Loc	imakomiimishibaniing
+
+X+mkomii+NI+ThmPos+Pej+Prt+Pl	imakomiimishibani1an
+
+1+mkomii+NI+ThmPos+1+Pl+Prt+4	nimakomiimnaanibaniin
+
+1+mkomii+NI+ThmPos+1+Pl+Prt+Loc	nimakomiimnaanibaniing
+
+1+mkomii+NI+ThmPos+1+Pl+Prt+Pl	nimakomiimnaanibani1an
+
+2+mkomii+NI+ThmPos+1+Pl+Prt+4	gimakomiimnaanibaniin
+
+2+mkomii+NI+ThmPos+1+Pl+Prt+Loc	gimakomiimnaanibaniing
+
+2+mkomii+NI+ThmPos+1+Pl+Prt+Pl	gimakomiimnaanibani1an
+
+2+mkomii+NI+ThmPos+2+Pl+Prt+4	gimakomiimwaabaniin
+
+2+mkomii+NI+ThmPos+2+Pl+Prt+Loc	gimakomiimwaabaniing
+
+2+mkomii+NI+ThmPos+2+Pl+Prt+Pl	gimakomiimwaabani1an
+
+3+mkomii+NI+ThmPos+2+Pl+Prt+4	omakomiimwaabaniin
+
+3+mkomii+NI+ThmPos+2+Pl+Prt+Loc	omakomiimwaabaniing
+
+3+mkomii+NI+ThmPos+2+Pl+Prt+Pl	omakomiimwaabani1an
+
+3+mkomii+NI+ThmPos+3+4+Prt+4	omakomiimniwibaniin
+3+mkomii+NI+ThmPos+3+4+Prt+4	omakomiimniibaniin
+
+3+mkomii+NI+ThmPos+3+4+Prt+Loc	omakomiimniwibaniing
+3+mkomii+NI+ThmPos+3+4+Prt+Loc	omakomiimniibaniing
+
+3+mkomii+NI+ThmPos+3+4+Prt+Pl	omakomiimniwibani1an
+3+mkomii+NI+ThmPos+3+4+Prt+Pl	omakomiimniibani1an
+
+1+mkomii+NI+Pej+1+Pl+Prt+4	nimakomiishnaanibaniin
+
+1+mkomii+NI+Pej+1+Pl+Prt+Loc	nimakomiishnaanibaniing
+
+1+mkomii+NI+Pej+1+Pl+Prt+Pl	nimakomiishnaanibani1an
+
+2+mkomii+NI+Pej+1+Pl+Prt+4	gimakomiishnaanibaniin
+
+2+mkomii+NI+Pej+1+Pl+Prt+Loc	gimakomiishnaanibaniing
+
+2+mkomii+NI+Pej+1+Pl+Prt+Pl	gimakomiishnaanibani1an
+
+2+mkomii+NI+Pej+2+Pl+Prt+4	gimakomiishwaabaniin
+
+2+mkomii+NI+Pej+2+Pl+Prt+Loc	gimakomiishwaabaniing
+
+2+mkomii+NI+Pej+2+Pl+Prt+Pl	gimakomiishwaabani1an
+
+3+mkomii+NI+Pej+2+Pl+Prt+4	omakomiishwaabaniin
+
+3+mkomii+NI+Pej+2+Pl+Prt+Loc	omakomiishwaabaniing
+
+3+mkomii+NI+Pej+2+Pl+Prt+Pl	omakomiishwaabani1an
+
+3+mkomii+NI+Pej+3+4+Prt+4	omakomiishniwibaniin
+3+mkomii+NI+Pej+3+4+Prt+4	omakomiishniibaniin
+
+3+mkomii+NI+Pej+3+4+Prt+Loc	omakomiishniwibaniing
+3+mkomii+NI+Pej+3+4+Prt+Loc	omakomiishniibaniing
+
+3+mkomii+NI+Pej+3+4+Prt+Pl	omakomiishniwibani1an
+3+mkomii+NI+Pej+3+4+Prt+Pl	omakomiishniibani1an
+
+1+mkomii+NI+Con+ThmPos+Pej+1+Pl+Prt	nimakomiienymishnaaniban
+1+mkomii+NI+Con+ThmPos+Pej+1+Pl+Prt	nimakomiienymishnaaniba
+
+1+mkomii+NI+Con+ThmPos+Pej+1+Pl+Voc+Pl	nimakomiienymishnaany1dig
+
+1+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Prt	nimakomiiensmishnaaniban
+1+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Prt	nimakomiiensmishnaaniba
+
+1+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Voc+Pl	nimakomiiensmishnaany1dig
+
+2+mkomii+NI+Con+ThmPos+Pej+1+Pl+Prt	gimakomiienymishnaaniban
+2+mkomii+NI+Con+ThmPos+Pej+1+Pl+Prt	gimakomiienymishnaaniba
+
+2+mkomii+NI+Con+ThmPos+Pej+1+Pl+Voc+Pl	gimakomiienymishnaany1dig
+
+2+mkomii+NI+Con+ThmPos+Pej+2+Pl+Prt	gimakomiienymishwaaban
+2+mkomii+NI+Con+ThmPos+Pej+2+Pl+Prt	gimakomiienymishwaaba
+
+2+mkomii+NI+Con+ThmPos+Pej+2+Pl+Voc+Pl	gimakomiienymishwaadig
+
+2+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Prt	gimakomiiensmishnaaniban
+2+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Prt	gimakomiiensmishnaaniba
+
+2+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Voc+Pl	gimakomiiensmishnaany1dig
+
+2+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Prt	gimakomiiensmishwaaban
+2+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Prt	gimakomiiensmishwaaba
+
+2+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Voc+Pl	gimakomiiensmishwaadig
+
+3+mkomii+NI+Con+ThmPos+Pej+2+Pl+Prt	omakomiienymishwaaban
+3+mkomii+NI+Con+ThmPos+Pej+2+Pl+Prt	omakomiienymishwaaba
+
+3+mkomii+NI+Con+ThmPos+Pej+2+Pl+Voc+Pl	omakomiienymishwaadig
+
+3+mkomii+NI+Con+ThmPos+Pej+3+4+Prt	omakomiienymishniwiban
+3+mkomii+NI+Con+ThmPos+Pej+3+4+Prt	omakomiienymishniwiba
+3+mkomii+NI+Con+ThmPos+Pej+3+4+Prt	omakomiienymishniiban
+3+mkomii+NI+Con+ThmPos+Pej+3+4+Prt	omakomiienymishniiba
+
+3+mkomii+NI+Con+ThmPos+Pej+3+4+Voc+Pl	omakomiienymishniwdig
+
+3+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Prt	omakomiiensmishwaaban
+3+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Prt	omakomiiensmishwaaba
+
+3+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Voc+Pl	omakomiiensmishwaadig
+
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+Prt	omakomiiensmishniwiban
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+Prt	omakomiiensmishniwiba
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+Prt	omakomiiensmishniiban
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+Prt	omakomiiensmishniiba
+
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+Voc+Pl	omakomiiensmishniwdig
+
+1+mkomii+NI+Con+ThmPos+Pej+1+Pl+4	nimakomiienymishnaanin
+
+1+mkomii+NI+Con+ThmPos+Pej+1+Pl+Loc	nimakomiienymishnaaning
+
+1+mkomii+NI+Con+ThmPos+Pej+1+Pl+Pl	nimakomiienymishnaany1an
+
+1+mkomii+NI+Dim+ThmPos+Pej+1+Pl+4	nimakomiiensmishnaanin
+
+1+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Loc	nimakomiiensmishnaaning
+
+1+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Pl	nimakomiiensmishnaany1an
+
+2+mkomii+NI+Con+ThmPos+Pej+1+Pl+4	gimakomiienymishnaanin
+
+2+mkomii+NI+Con+ThmPos+Pej+1+Pl+Loc	gimakomiienymishnaaning
+
+2+mkomii+NI+Con+ThmPos+Pej+1+Pl+Pl	gimakomiienymishnaany1an
+
+2+mkomii+NI+Con+ThmPos+Pej+2+Pl+4	gimakomiienymishwaan
+
+2+mkomii+NI+Con+ThmPos+Pej+2+Pl+Loc	gimakomiienymishwaang
+
+2+mkomii+NI+Con+ThmPos+Pej+2+Pl+Pl	gimakomiienymishwaaan
+
+2+mkomii+NI+Dim+ThmPos+Pej+1+Pl+4	gimakomiiensmishnaanin
+
+2+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Loc	gimakomiiensmishnaaning
+
+2+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Pl	gimakomiiensmishnaany1an
+
+2+mkomii+NI+Dim+ThmPos+Pej+2+Pl+4	gimakomiiensmishwaan
+
+2+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Loc	gimakomiiensmishwaang
+
+2+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Pl	gimakomiiensmishwaaan
+
+3+mkomii+NI+Con+ThmPos+Pej+2+Pl+4	omakomiienymishwaan
+
+3+mkomii+NI+Con+ThmPos+Pej+2+Pl+Loc	omakomiienymishwaang
+
+3+mkomii+NI+Con+ThmPos+Pej+2+Pl+Pl	omakomiienymishwaaan
+
+3+mkomii+NI+Con+ThmPos+Pej+3+4+4	omakomiienymishniwan
+
+3+mkomii+NI+Con+ThmPos+Pej+3+4+Loc	omakomiienymishniing
+
+3+mkomii+NI+Con+ThmPos+Pej+3+4+Pl	omakomiienymishniwan
+
+3+mkomii+NI+Dim+ThmPos+Pej+2+Pl+4	omakomiiensmishwaan
+
+3+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Loc	omakomiiensmishwaang
+
+3+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Pl	omakomiiensmishwaaan
+
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+4	omakomiiensmishniwan
+
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+Loc	omakomiiensmishniing
+
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+Pl	omakomiiensmishniwan
+
+1+mkomii+NI+Con+ThmPos+Pej+Prt+4	nimakomiienymishibaniin
+
+1+mkomii+NI+Con+ThmPos+Pej+Prt+Loc	nimakomiienymishibaniing
+
+1+mkomii+NI+Con+ThmPos+Pej+Prt+Pl	nimakomiienymishibani1an
+
+1+mkomii+NI+Dim+ThmPos+Pej+Prt+4	nimakomiiensmishibaniin
+
+1+mkomii+NI+Dim+ThmPos+Pej+Prt+Loc	nimakomiiensmishibaniing
+
+1+mkomii+NI+Dim+ThmPos+Pej+Prt+Pl	nimakomiiensmishibani1an
+
+2+mkomii+NI+Con+ThmPos+Pej+Prt+4	gimakomiienymishibaniin
+
+2+mkomii+NI+Con+ThmPos+Pej+Prt+Loc	gimakomiienymishibaniing
+
+2+mkomii+NI+Con+ThmPos+Pej+Prt+Pl	gimakomiienymishibani1an
+
+2+mkomii+NI+Dim+ThmPos+Pej+Prt+4	gimakomiiensmishibaniin
+
+2+mkomii+NI+Dim+ThmPos+Pej+Prt+Loc	gimakomiiensmishibaniing
+
+2+mkomii+NI+Dim+ThmPos+Pej+Prt+Pl	gimakomiiensmishibani1an
+
+3+mkomii+NI+Con+ThmPos+Pej+Prt+4	omakomiienymishibaniin
+
+3+mkomii+NI+Con+ThmPos+Pej+Prt+Loc	omakomiienymishibaniing
+
+3+mkomii+NI+Con+ThmPos+Pej+Prt+Pl	omakomiienymishibani1an
+
+3+mkomii+NI+Dim+ThmPos+Pej+Prt+4	omakomiiensmishibaniin
+
+3+mkomii+NI+Dim+ThmPos+Pej+Prt+Loc	omakomiiensmishibaniing
+
+3+mkomii+NI+Dim+ThmPos+Pej+Prt+Pl	omakomiiensmishibani1an
+
+X+mkomii+NI+Con+ThmPos+Pej+Prt+4	imakomiienymishibaniin
+
+X+mkomii+NI+Con+ThmPos+Pej+Prt+Loc	imakomiienymishibaniing
+
+X+mkomii+NI+Con+ThmPos+Pej+Prt+Pl	imakomiienymishibani1an
+
+X+mkomii+NI+Dim+ThmPos+Pej+Prt+4	imakomiiensmishibaniin
+
+X+mkomii+NI+Dim+ThmPos+Pej+Prt+Loc	imakomiiensmishibaniing
+
+X+mkomii+NI+Dim+ThmPos+Pej+Prt+Pl	imakomiiensmishibani1an
+
+1+mkomii+NI+Con+ThmPos+1+Pl+Prt+4	nimakomiienymnaanibaniin
+
+1+mkomii+NI+Con+ThmPos+1+Pl+Prt+Loc	nimakomiienymnaanibaniing
+
+1+mkomii+NI+Con+ThmPos+1+Pl+Prt+Pl	nimakomiienymnaanibani1an
+
+1+mkomii+NI+Dim+ThmPos+1+Pl+Prt+4	nimakomiiensmnaanibaniin
+
+1+mkomii+NI+Dim+ThmPos+1+Pl+Prt+Loc	nimakomiiensmnaanibaniing
+
+1+mkomii+NI+Dim+ThmPos+1+Pl+Prt+Pl	nimakomiiensmnaanibani1an
+
+2+mkomii+NI+Con+ThmPos+1+Pl+Prt+4	gimakomiienymnaanibaniin
+
+2+mkomii+NI+Con+ThmPos+1+Pl+Prt+Loc	gimakomiienymnaanibaniing
+
+2+mkomii+NI+Con+ThmPos+1+Pl+Prt+Pl	gimakomiienymnaanibani1an
+
+2+mkomii+NI+Con+ThmPos+2+Pl+Prt+4	gimakomiienymwaabaniin
+
+2+mkomii+NI+Con+ThmPos+2+Pl+Prt+Loc	gimakomiienymwaabaniing
+
+2+mkomii+NI+Con+ThmPos+2+Pl+Prt+Pl	gimakomiienymwaabani1an
+
+2+mkomii+NI+Dim+ThmPos+1+Pl+Prt+4	gimakomiiensmnaanibaniin
+
+2+mkomii+NI+Dim+ThmPos+1+Pl+Prt+Loc	gimakomiiensmnaanibaniing
+
+2+mkomii+NI+Dim+ThmPos+1+Pl+Prt+Pl	gimakomiiensmnaanibani1an
+
+2+mkomii+NI+Dim+ThmPos+2+Pl+Prt+4	gimakomiiensmwaabaniin
+
+2+mkomii+NI+Dim+ThmPos+2+Pl+Prt+Loc	gimakomiiensmwaabaniing
+
+2+mkomii+NI+Dim+ThmPos+2+Pl+Prt+Pl	gimakomiiensmwaabani1an
+
+3+mkomii+NI+Con+ThmPos+2+Pl+Prt+4	omakomiienymwaabaniin
+
+3+mkomii+NI+Con+ThmPos+2+Pl+Prt+Loc	omakomiienymwaabaniing
+
+3+mkomii+NI+Con+ThmPos+2+Pl+Prt+Pl	omakomiienymwaabani1an
+
+3+mkomii+NI+Con+ThmPos+3+4+Prt+4	omakomiienymniwibaniin
+3+mkomii+NI+Con+ThmPos+3+4+Prt+4	omakomiienymniibaniin
+
+3+mkomii+NI+Con+ThmPos+3+4+Prt+Loc	omakomiienymniwibaniing
+3+mkomii+NI+Con+ThmPos+3+4+Prt+Loc	omakomiienymniibaniing
+
+3+mkomii+NI+Con+ThmPos+3+4+Prt+Pl	omakomiienymniwibani1an
+3+mkomii+NI+Con+ThmPos+3+4+Prt+Pl	omakomiienymniibani1an
+
+3+mkomii+NI+Dim+ThmPos+2+Pl+Prt+4	omakomiiensmwaabaniin
+
+3+mkomii+NI+Dim+ThmPos+2+Pl+Prt+Loc	omakomiiensmwaabaniing
+
+3+mkomii+NI+Dim+ThmPos+2+Pl+Prt+Pl	omakomiiensmwaabani1an
+
+3+mkomii+NI+Dim+ThmPos+3+4+Prt+4	omakomiiensmniwibaniin
+3+mkomii+NI+Dim+ThmPos+3+4+Prt+4	omakomiiensmniibaniin
+
+3+mkomii+NI+Dim+ThmPos+3+4+Prt+Loc	omakomiiensmniwibaniing
+3+mkomii+NI+Dim+ThmPos+3+4+Prt+Loc	omakomiiensmniibaniing
+
+3+mkomii+NI+Dim+ThmPos+3+4+Prt+Pl	omakomiiensmniwibani1an
+3+mkomii+NI+Dim+ThmPos+3+4+Prt+Pl	omakomiiensmniibani1an
+
+1+mkomii+NI+Con+Pej+1+Pl+Prt+4	nimakomiienyishnaanibaniin
+
+1+mkomii+NI+Con+Pej+1+Pl+Prt+Loc	nimakomiienyishnaanibaniing
+
+1+mkomii+NI+Con+Pej+1+Pl+Prt+Pl	nimakomiienyishnaanibani1an
+
+1+mkomii+NI+Dim+Pej+1+Pl+Prt+4	nimakomiiensishnaanibaniin
+
+1+mkomii+NI+Dim+Pej+1+Pl+Prt+Loc	nimakomiiensishnaanibaniing
+
+1+mkomii+NI+Dim+Pej+1+Pl+Prt+Pl	nimakomiiensishnaanibani1an
+
+2+mkomii+NI+Con+Pej+1+Pl+Prt+4	gimakomiienyishnaanibaniin
+
+2+mkomii+NI+Con+Pej+1+Pl+Prt+Loc	gimakomiienyishnaanibaniing
+
+2+mkomii+NI+Con+Pej+1+Pl+Prt+Pl	gimakomiienyishnaanibani1an
+
+2+mkomii+NI+Con+Pej+2+Pl+Prt+4	gimakomiienyishwaabaniin
+
+2+mkomii+NI+Con+Pej+2+Pl+Prt+Loc	gimakomiienyishwaabaniing
+
+2+mkomii+NI+Con+Pej+2+Pl+Prt+Pl	gimakomiienyishwaabani1an
+
+2+mkomii+NI+Dim+Pej+1+Pl+Prt+4	gimakomiiensishnaanibaniin
+
+2+mkomii+NI+Dim+Pej+1+Pl+Prt+Loc	gimakomiiensishnaanibaniing
+
+2+mkomii+NI+Dim+Pej+1+Pl+Prt+Pl	gimakomiiensishnaanibani1an
+
+2+mkomii+NI+Dim+Pej+2+Pl+Prt+4	gimakomiiensishwaabaniin
+
+2+mkomii+NI+Dim+Pej+2+Pl+Prt+Loc	gimakomiiensishwaabaniing
+
+2+mkomii+NI+Dim+Pej+2+Pl+Prt+Pl	gimakomiiensishwaabani1an
+
+3+mkomii+NI+Con+Pej+2+Pl+Prt+4	omakomiienyishwaabaniin
+
+3+mkomii+NI+Con+Pej+2+Pl+Prt+Loc	omakomiienyishwaabaniing
+
+3+mkomii+NI+Con+Pej+2+Pl+Prt+Pl	omakomiienyishwaabani1an
+
+3+mkomii+NI+Con+Pej+3+4+Prt+4	omakomiienyishniwibaniin
+3+mkomii+NI+Con+Pej+3+4+Prt+4	omakomiienyishniibaniin
+
+3+mkomii+NI+Con+Pej+3+4+Prt+Loc	omakomiienyishniwibaniing
+3+mkomii+NI+Con+Pej+3+4+Prt+Loc	omakomiienyishniibaniing
+
+3+mkomii+NI+Con+Pej+3+4+Prt+Pl	omakomiienyishniwibani1an
+3+mkomii+NI+Con+Pej+3+4+Prt+Pl	omakomiienyishniibani1an
+
+3+mkomii+NI+Dim+Pej+2+Pl+Prt+4	omakomiiensishwaabaniin
+
+3+mkomii+NI+Dim+Pej+2+Pl+Prt+Loc	omakomiiensishwaabaniing
+
+3+mkomii+NI+Dim+Pej+2+Pl+Prt+Pl	omakomiiensishwaabani1an
+
+3+mkomii+NI+Dim+Pej+3+4+Prt+4	omakomiiensishniwibaniin
+3+mkomii+NI+Dim+Pej+3+4+Prt+4	omakomiiensishniibaniin
+
+3+mkomii+NI+Dim+Pej+3+4+Prt+Loc	omakomiiensishniwibaniing
+3+mkomii+NI+Dim+Pej+3+4+Prt+Loc	omakomiiensishniibaniing
+
+3+mkomii+NI+Dim+Pej+3+4+Prt+Pl	omakomiiensishniwibani1an
+3+mkomii+NI+Dim+Pej+3+4+Prt+Pl	omakomiiensishniibani1an
+
+1+mkomii+NI+ThmPos+Pej+1+Pl+Prt+4	nimakomiimishnaanibaniin
+
+1+mkomii+NI+ThmPos+Pej+1+Pl+Prt+Loc	nimakomiimishnaanibaniing
+
+1+mkomii+NI+ThmPos+Pej+1+Pl+Prt+Pl	nimakomiimishnaanibani1an
+
+2+mkomii+NI+ThmPos+Pej+1+Pl+Prt+4	gimakomiimishnaanibaniin
+
+2+mkomii+NI+ThmPos+Pej+1+Pl+Prt+Loc	gimakomiimishnaanibaniing
+
+2+mkomii+NI+ThmPos+Pej+1+Pl+Prt+Pl	gimakomiimishnaanibani1an
+
+2+mkomii+NI+ThmPos+Pej+2+Pl+Prt+4	gimakomiimishwaabaniin
+
+2+mkomii+NI+ThmPos+Pej+2+Pl+Prt+Loc	gimakomiimishwaabaniing
+
+2+mkomii+NI+ThmPos+Pej+2+Pl+Prt+Pl	gimakomiimishwaabani1an
+
+3+mkomii+NI+ThmPos+Pej+2+Pl+Prt+4	omakomiimishwaabaniin
+
+3+mkomii+NI+ThmPos+Pej+2+Pl+Prt+Loc	omakomiimishwaabaniing
+
+3+mkomii+NI+ThmPos+Pej+2+Pl+Prt+Pl	omakomiimishwaabani1an
+
+3+mkomii+NI+ThmPos+Pej+3+4+Prt+4	omakomiimishniwibaniin
+3+mkomii+NI+ThmPos+Pej+3+4+Prt+4	omakomiimishniibaniin
+
+3+mkomii+NI+ThmPos+Pej+3+4+Prt+Loc	omakomiimishniwibaniing
+3+mkomii+NI+ThmPos+Pej+3+4+Prt+Loc	omakomiimishniibaniing
+
+3+mkomii+NI+ThmPos+Pej+3+4+Prt+Pl	omakomiimishniwibani1an
+3+mkomii+NI+ThmPos+Pej+3+4+Prt+Pl	omakomiimishniibani1an
+
+1+mkomii+NI+Con+ThmPos+Pej+1+Pl+Prt+4	nimakomiienymishnaanibaniin
+
+1+mkomii+NI+Con+ThmPos+Pej+1+Pl+Prt+Loc	nimakomiienymishnaanibaniing
+
+1+mkomii+NI+Con+ThmPos+Pej+1+Pl+Prt+Pl	nimakomiienymishnaanibani1an
+
+1+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Prt+4	nimakomiiensmishnaanibaniin
+
+1+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Prt+Loc	nimakomiiensmishnaanibaniing
+
+1+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Prt+Pl	nimakomiiensmishnaanibani1an
+
+2+mkomii+NI+Con+ThmPos+Pej+1+Pl+Prt+4	gimakomiienymishnaanibaniin
+
+2+mkomii+NI+Con+ThmPos+Pej+1+Pl+Prt+Loc	gimakomiienymishnaanibaniing
+
+2+mkomii+NI+Con+ThmPos+Pej+1+Pl+Prt+Pl	gimakomiienymishnaanibani1an
+
+2+mkomii+NI+Con+ThmPos+Pej+2+Pl+Prt+4	gimakomiienymishwaabaniin
+
+2+mkomii+NI+Con+ThmPos+Pej+2+Pl+Prt+Loc	gimakomiienymishwaabaniing
+
+2+mkomii+NI+Con+ThmPos+Pej+2+Pl+Prt+Pl	gimakomiienymishwaabani1an
+
+2+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Prt+4	gimakomiiensmishnaanibaniin
+
+2+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Prt+Loc	gimakomiiensmishnaanibaniing
+
+2+mkomii+NI+Dim+ThmPos+Pej+1+Pl+Prt+Pl	gimakomiiensmishnaanibani1an
+
+2+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Prt+4	gimakomiiensmishwaabaniin
+
+2+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Prt+Loc	gimakomiiensmishwaabaniing
+
+2+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Prt+Pl	gimakomiiensmishwaabani1an
+
+3+mkomii+NI+Con+ThmPos+Pej+2+Pl+Prt+4	omakomiienymishwaabaniin
+
+3+mkomii+NI+Con+ThmPos+Pej+2+Pl+Prt+Loc	omakomiienymishwaabaniing
+
+3+mkomii+NI+Con+ThmPos+Pej+2+Pl+Prt+Pl	omakomiienymishwaabani1an
+
+3+mkomii+NI+Con+ThmPos+Pej+3+4+Prt+4	omakomiienymishniwibaniin
+3+mkomii+NI+Con+ThmPos+Pej+3+4+Prt+4	omakomiienymishniibaniin
+
+3+mkomii+NI+Con+ThmPos+Pej+3+4+Prt+Loc	omakomiienymishniwibaniing
+3+mkomii+NI+Con+ThmPos+Pej+3+4+Prt+Loc	omakomiienymishniibaniing
+
+3+mkomii+NI+Con+ThmPos+Pej+3+4+Prt+Pl	omakomiienymishniwibani1an
+3+mkomii+NI+Con+ThmPos+Pej+3+4+Prt+Pl	omakomiienymishniibani1an
+
+3+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Prt+4	omakomiiensmishwaabaniin
+
+3+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Prt+Loc	omakomiiensmishwaabaniing
+
+3+mkomii+NI+Dim+ThmPos+Pej+2+Pl+Prt+Pl	omakomiiensmishwaabani1an
+
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+Prt+4	omakomiiensmishniwibaniin
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+Prt+4	omakomiiensmishniibaniin
+
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+Prt+Loc	omakomiiensmishniwibaniing
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+Prt+Loc	omakomiiensmishniibaniing
+
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+Prt+Pl	omakomiiensmishniwibani1an
+3+mkomii+NI+Dim+ThmPos+Pej+3+4+Prt+Pl	omakomiiensmishniibani1an
+

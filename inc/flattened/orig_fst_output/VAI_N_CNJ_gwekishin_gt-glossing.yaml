@@ -1,0 +1,74 @@
+Tests:
+  VAI_N_CNJ_gwekishin_gt-glossing:
+    gwekshin+VAI+Cnj+1: gwekishinaanh
+    gwekshin+VAI+Cnj+2: gwekishinan
+    gwekshin+VAI+Cnj+3: gwekishind
+    gwekshin+VAI+Cnj+3+4: gwekishinnid
+    gwekshin+VAI+Cnj+X: gwekishinng
+    gwekshin+VAI+Cnj+1+Pl: gwekishinaang
+    gwekshin+VAI+Cnj+2+1+Pl: gwekishinangw
+    gwekshin+VAI+Cnj+2+Pl: gwekishinegw
+    gwekshin+VAI+Cnj+3+Pl: gwekishinwaad
+    gwekshin+VAI+Cnj+1+Prt: gwekishinaambaanh
+    gwekshin+VAI+Cnj+2+Prt: gwekishinambani1
+    gwekshin+VAI+Cnj+3+Prt: gwekishindbani1
+    gwekshin+VAI+Cnj+3+4+Prt: gwekishinnidbani1
+    gwekshin+VAI+Cnj+X+Prt: gwekishinngibani1
+    gwekshin+VAI+Cnj+1+Pl+Prt: gwekishinaangibani1
+    gwekshin+VAI+Cnj+2+1+Pl+Prt: gwekishinangobani1
+    gwekshin+VAI+Cnj+2+Pl+Prt: gwekishinegobani1
+    gwekshin+VAI+Cnj+3+Pl+Prt: gwekishinwaadbani1
+    gwekshin+VAI+Cnj+1+Dub: [ gwekishinaanen, gwekishinaane ]
+    gwekshin+VAI+Cnj+2+Dub: [ gwekishinanen, gwekishinane ]
+    gwekshin+VAI+Cnj+3+Dub: [ gwekishinden, gwekishinde ]
+    gwekshin+VAI+Cnj+3+4+Dub: [ gwekishinniden, gwekishinnide ]
+    gwekshin+VAI+Cnj+X+Dub: [ gwekishinngen, gwekishinnge ]
+    gwekshin+VAI+Cnj+1+Pl+Dub: [ gwekishinaangen, gwekishinaange ]
+    gwekshin+VAI+Cnj+2+1+Pl+Dub: [ gwekishinangwen, gwekishinangwe ]
+    gwekshin+VAI+Cnj+2+Pl+Dub: [ gwekishinegwen, gwekishinegwe ]
+    gwekshin+VAI+Cnj+3+Pl+Dub: [ gwekishinwaaden, gwekishinwaade ]
+    gwekshin+VAI+Cnj+1+Prt+Dub: [ gwekishinaambaanen, gwekishinaambaane ]
+    gwekshin+VAI+Cnj+2+Prt+Dub: [ gwekishinambanen, gwekishinambane ]
+    gwekshin+VAI+Cnj+3+Prt+Dub: [ gwekishindbanen, gwekishindbane ]
+    gwekshin+VAI+Cnj+3+4+Prt+Dub: [ gwekishinnidbanen, gwekishinnidbane ]
+    gwekshin+VAI+Cnj+X+Prt+Dub: [ gwekishinngbanen, gwekishinngbane ]
+    gwekshin+VAI+Cnj+1+Pl+Prt+Dub: [ gwekishinaangibanen, gwekishinaangibane ]
+    gwekshin+VAI+Cnj+2+1+Pl+Prt+Dub: [ gwekishinangobanen, gwekishinangobane ]
+    gwekshin+VAI+Cnj+2+Pl+Prt+Dub: [ gwekishinegobanen, gwekishinegobane ]
+    gwekshin+VAI+Cnj+3+Pl+Prt+Dub: [ gwekishinwaadbanen, gwekishinwaadbane ]
+    gwekshin+VAI+Cnj+Neg+1: gwekishinsiaanh
+    gwekshin+VAI+Cnj+Neg+2: gwekishinsian
+    gwekshin+VAI+Cnj+Neg+3: gwekishinsid
+    gwekshin+VAI+Cnj+Neg+3+4: gwekishinsinid
+    gwekshin+VAI+Cnj+Neg+X: gwekishinsing
+    gwekshin+VAI+Cnj+Neg+1+Pl: gwekishinsiaang
+    gwekshin+VAI+Cnj+Neg+2+1+Pl: gwekishinsiangw
+    gwekshin+VAI+Cnj+Neg+2+Pl: gwekishinsiegw
+    gwekshin+VAI+Cnj+Neg+3+Pl: gwekishinsigwaa
+    gwekshin+VAI+Cnj+Neg+1+Prt: [ gwekishinsiiaambaanh, gwekishinsiaambaanh ]
+    gwekshin+VAI+Cnj+Neg+2+Prt: [ gwekishinsiiambani1, gwekishinsiambani1 ]
+    gwekshin+VAI+Cnj+Neg+3+Prt: [ gwekishinsiidbani1, gwekishinsidbani1 ]
+    gwekshin+VAI+Cnj+Neg+3+4+Prt: [ gwekishinsiinidbani1, gwekishinsinidbani1 ]
+    gwekshin+VAI+Cnj+Neg+X+Prt: [ gwekishinsiingibani1, gwekishinsingibani1 ]
+    gwekshin+VAI+Cnj+Neg+1+Pl+Prt: [ gwekishinsiiaangibani1, gwekishinsiaangibani1 ]
+    gwekshin+VAI+Cnj+Neg+2+1+Pl+Prt: [ gwekishinsiiangobani1, gwekishinsiangobani1 ]
+    gwekshin+VAI+Cnj+Neg+2+Pl+Prt: [ gwekishinsiiegobani1, gwekishinsiegobani1 ]
+    gwekshin+VAI+Cnj+Neg+3+Pl+Prt: [ gwekishinsiiwaadbani1, gwekishinsiwaadbani1 ]
+    gwekshin+VAI+Cnj+Neg+1+Dub: [ gwekishinsiiaanen, gwekishinsiiaane, gwekishinsiiaanen, gwekishinsiiaane, gwekishinsiaanen, gwekishinsiaane ]
+    gwekshin+VAI+Cnj+Neg+2+Dub: [ gwekishinsiianen, gwekishinsiiane, gwekishinsianen, gwekishinsiane ]
+    gwekshin+VAI+Cnj+Neg+3+Dub: [ gwekishinsiiden, gwekishinsiide, gwekishinsiden, gwekishinside ]
+    gwekshin+VAI+Cnj+Neg+3+4+Dub: [ gwekishinsiiniden, gwekishinsiinide, gwekishinsiniden, gwekishinsinide ]
+    gwekshin+VAI+Cnj+Neg+X+Dub: [ gwekishinsiingen, gwekishinsiinge, gwekishinsingen, gwekishinsinge ]
+    gwekshin+VAI+Cnj+Neg+1+Pl+Dub: [ gwekishinsiiaangen, gwekishinsiiaange, gwekishinsiaangen, gwekishinsiaange ]
+    gwekshin+VAI+Cnj+Neg+2+1+Pl+Dub: [ gwekishinsiiangwen, gwekishinsiiangwe, gwekishinsiangwen, gwekishinsiangwe ]
+    gwekshin+VAI+Cnj+Neg+2+Pl+Dub: [ gwekishinsiiegwen, gwekishinsiiegwe, gwekishinsiegwen, gwekishinsiegwe ]
+    gwekshin+VAI+Cnj+Neg+3+Pl+Dub: [ gwekishinsiiwaaden, gwekishinsiiwaade, gwekishinsiwaaden, gwekishinsiwaade ]
+    gwekshin+VAI+Cnj+Neg+1+Prt+Dub: [ gwekishinsiiaambaanen, gwekishinsiiaambaane, gwekishinsiaambaanen, gwekishinsiaambaane ]
+    gwekshin+VAI+Cnj+Neg+2+Prt+Dub: [ gwekishinsiiambanen, gwekishinsiiambane, gwekishinsiambanen, gwekishinsiambane ]
+    gwekshin+VAI+Cnj+Neg+3+Prt+Dub: [ gwekishinsiidbanen, gwekishinsiidbane, gwekishinsidbanen, gwekishinsidbane ]
+    gwekshin+VAI+Cnj+Neg+3+4+Prt+Dub: [ gwekishinsiinidbanen, gwekishinsiinidbane, gwekishinsinidbanen, gwekishinsinidbane ]
+    gwekshin+VAI+Cnj+Neg+X+Prt+Dub: [ gwekishinsiingbanen, gwekishinsiingbane, gwekishinsingbanen, gwekishinsingbane ]
+    gwekshin+VAI+Cnj+Neg+1+Pl+Prt+Dub: [ gwekishinsiiaangibanen, gwekishinsiiaangibane, gwekishinsiaangibanen, gwekishinsiaangibane ]
+    gwekshin+VAI+Cnj+Neg+2+1+Pl+Prt+Dub: [ gwekishinsiiangobanen, gwekishinsiiangobane, gwekishinsiangobanen, gwekishinsiangobane ]
+    gwekshin+VAI+Cnj+Neg+2+Pl+Prt+Dub: [ gwekishinsiiegobanen, gwekishinsiiegobane, gwekishinsiegobanen, gwekishinsiegobane ]
+    gwekshin+VAI+Cnj+Neg+3+Pl+Prt+Dub: [ gwekishinsiiwaadbanen, gwekishinsiiwaadbane, gwekishinsiwaadbanen, gwekishinsiwaadbane ]

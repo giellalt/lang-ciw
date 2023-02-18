@@ -1,0 +1,301 @@
+GLOSSING	OTW/CH	OTW/CRK	COMMENTS
+1+_+VAI	_+VAI+1Sg	_+VAI+1Sg	
+1+_+VAI+1+Pl	_+VAI+Excl	_+VAI+1Pl	
+1+_+VAIO	_+VAIO+1Sg+0SgO/3SgProxO	_+VAIO+1Sg+0SgO/3SgO	
+1+_+VAIO+0	_+VAIO+1Sg+0SgO	_+VAIO+1Sg+0SgO	
+1+_+VAIO+0+Pl	_+VAIO+1Sg+0PlO	_+VAIO+1Sg+0PlO	
+1+_+VAIO+1+Pl	_+VAIO+Excl+0SgO/3SgProxO	_+VAIO+1Pl+0SgO/3SgO	
+1+_+VAIO+1+Pl+0	_+VAIO+Excl+0SgO	_+VAIO+1Pl+0SgO	
+1+_+VAIO+1+Pl+0+Pl	_+VAIO+Excl+0PlO	_+VAIO+1Pl+0PlO	
+1+_+VAIO+1+Pl+3	_+VAIO+Excl+3SgProxO	_+VAIO+1Pl+3SgO	
+1+_+VAIO+1+Pl+3+Pl	_+VAIO+Excl+3SgProxO	_+VAIO+1Pl+3SgO	
+1+_+VAIO+3	_+VAIO+1Sg+3SgProxO	_+VAIO+1Sg+3SgO	
+1+_+VAIO+3+Pl	_+VAIO+1Sg+3PlProxO	_+VAIO+1Sg+3PlO	
+1+_+VTA+ThmDir	_+VTA+1Sg+3SgProxO	_+VTA+1Sg+3SgO	
+1+_+VTA+ThmDir+1+Pl	_+VTA+Excl+3SgProxO	_+VTA+1Pl+3SgO	
+1+_+VTA+ThmDir+1+Pl+3+Pl	_+VTA+Excl+3PlProxO	_+VTA+1Pl+3PlO	
+1+_+VTA+ThmDir+3+Pl	_+VTA+1Sg+3PlProxO	_+VTA+1Sg+3PlO	! Pret/dub form only
+1+_+VTA+ThmInv	_+VTA+3SgProx+1SgO	_+VTA+3Sg+1SgO	
+1+_+VTA+ThmInv+0	_+VTA+0Sg+1SgO	_+VTA+0Sg+1SgO	
+1+_+VTA+ThmInv+0+0+Pl	_+VTA+0Pl+1SgO	_+VTA+0Pl+1SgO	
+1+_+VTA+ThmInv+0+1+Pl	_+VTA+0Sg+ExclO	_+VTA+0Sg+1PlO	
+1+_+VTA+ThmInv+0+1+Pl+0+Pl	_+VTA+0Pl+ExclO	_+VTA+0Pl+1PlO	
+1+_+VTA+ThmInv+0+Pl	_+VTA+0Pl+1SgO	_+VTA+0Pl+1SgO	! Duplicate of 19?
+1+_+VTA+ThmInv+1+Pl	_+VTA+3SgProx+ExclO	_+VTA+3Sg+1PlO	
+1+_+VTA+ThmInv+1+Pl+0+Pl	_+VTA+0Pl+ExclO	_+VTA+0Pl+1PlO	! Duplicate of 21?
+1+_+VTA+ThmInv+1+Pl+3+Pl	_+VTA+3PlProx+ExclO	_+VTA+3Pl+1PlO	
+1+_+VTA+ThmInv+3+Pl	_+VTA+3PlProx+1SgO	_+VTA+3Pl+1SgO	! Pret/dub form only
+1+_+VTA+ThmPas	_+VTA+X+1SgO	_+VTA+X+1SgO	
+1+_+VTA+ThmPas+1+Pl	_+VTA+X+ExclO	_+VTA+X+1PlO	
+1+_+VTI+0	_+VTI+1Sg+0SgO	_+VTI+1Sg+0SgO	
+1+_+VTI+0+0+Pl	_+VTI+1Sg+0PlO	_+VTI+1Sg+0PlO	
+1+_+VTI+1+Pl	_+VTI+Excl+0SgO	_+VTI+1Pl+0SgO	
+1+_+VTI+1+Pl+0+Pl	_+VTI+Excl+0PlO	_+VTI+1Pl+0PlO	
+2+_+VAI	_+VAI+2Sg	_+VAI+2Sg	
+2+_+VAI+1+Pl	_+VAI+Incl	_+VAI+21Pl	
+2+_+VAI+2+Pl	_+VAI+2Pl	_+VAI+2Pl	
+2+_+VAIO	_+VAIO+2Sg+0SgO/3SgProxO	_+VAIO+2Sg+0SgO/3SgO	
+2+_+VAIO+0	_+VAIO+2Sg+0SgO	_+VAIO+2Sg+0SgO	
+2+_+VAIO+0+Pl	_+VAIO+2Sg+0PlO	_+VAIO+2Sg+0PlO	
+2+_+VAIO+1+Pl	_+VAIO+Incl+0SgO/3SgProxO	_+VAIO+21Pl+0SgO/3SgO	
+2+_+VAIO+1+Pl+0	_+VAIO+Incl+0SgO	_+VAIO+21Pl+0SgO	
+2+_+VAIO+1+Pl+0+Pl	_+VAIO+Incl+0PlO	_+VAIO+21Pl+0PlO	
+2+_+VAIO+1+Pl+3	_+VAIO+Incl+3SgProxO	_+VAIO+21Pl+3SgO	
+2+_+VAIO+1+Pl+3+Pl	_+VAIO+Incl+3PlProxO	_+VAIO+21Pl+3PlO	
+2+_+VAIO+2+Pl+0	_+VAIO+2Pl+0SgO	_+VAIO+2Pl+0SgO	
+2+_+VAIO+2+Pl+0+Pl	_+VAIO+2Pl+0PlO	_+VAIO+2Pl+0PlO	
+2+_+VAIO+2+Pl+3	_+VAIO+2Pl+3SgProxO	_+VAIO+2Pl+3SgO	
+2+_+VAIO+2+Pl+3+Pl	_+VAIO+2Pl+3PlProxO	_+VAIO+2Pl+3PlO	
+2+_+VAIO+3	_+VAIO+2Sg+3SgProxO	_+VAIO+2Sg+3SgO	
+2+_+VAIO+3+Pl	_+VAIO+2Sg+3PlProxO	_+VAIO+2Sg+3PlO	
+2+_+VTA+Thm1Pl	_+VTA+Excl+2SgO	_+VTA+1Pl+2SgO	
+2+_+VTA+Thm1Pl+2+Pl	_+VTA+Excl+2PlO	_+VTA+1Pl+2PlO	
+2+_+VTA+Thm1Sg	_+VTA+1Sg+2SgO	_+VTA+1Sg+2SgO	
+2+_+VTA+Thm1Sg+2+Pl	_+VTA+1Sg+2PlO	_+VTA+1Sg+2PlO	
+2+_+VTA+Thm2	_+VTA+2Sg+1SgO	_+VTA+2Sg+1SgO	
+2+_+VTA+Thm2+1+Pl	_+VTA+2Sg+ExclO	_+VTA+2Sg+1PlO	
+2+_+VTA+Thm2+2+Pl	_+VTA+2Pl+1SgO	_+VTA+2Pl+1SgO	
+2+_+VTA+ThmDir	_+VTA+2Sg+3SgProxO	_+VTA+2Sg+3SgO	
+2+_+VTA+ThmDir+1+Pl	_+VTA+Incl+3SgProxO	_+VTA+21Pl+3SgO	
+2+_+VTA+ThmDir+1+Pl+3+Pl	_+VTA+Incl+3PlProxO	_+VTA+21Pl+3PlO	
+2+_+VTA+ThmDir+2+Pl	_+VTA+2Pl+3SgProxO	_+VTA+2Pl+3SgO	
+2+_+VTA+ThmDir+2+Pl+3+Pl	_+VTA+2Pl+3PlProxO	_+VTA+2Pl+3PlO	
+2+_+VTA+ThmDir+3+Pl	_+VTA+2Sg+3PlProxO	_+VTA+2Sg+3PlO	! Pret/dub form only
+2+_+VTA+ThmInv	_+VTA+3SgProx+2SgO	_+VTA+3Sg+2SgO	
+2+_+VTA+ThmInv+0	_+VTA+0Sg+2SgO	_+VTA+0Sg+2SgO	
+2+_+VTA+ThmInv+0+0+Pl	_+VTA+0Pl+2SgO	_+VTA+0Pl+2SgO	
+2+_+VTA+ThmInv+0+1+Pl	_+VTA+0Sg+InclO	_+VTA+0Sg+21PlO	
+2+_+VTA+ThmInv+0+1+Pl+0+Pl	_+VTA+0Pl+InclO	_+VTA+0Pl+21PlO	
+2+_+VTA+ThmInv+0+2+Pl	_+VTA+0Sg+2PlO	_+VTA+0Sg+2PlO	
+2+_+VTA+ThmInv+0+2+Pl+0+Pl	_+VTA+0Pl+2PlO	_+VTA+0Pl+2PlO	
+2+_+VTA+ThmInv+0+Pl	_+VTA+0Pl+2SgO	_+VTA+0Pl+2SgO	! Same as line 65?
+2+_+VTA+ThmInv+1+Pl	_+VTA+3SgProx+InclO	_+VTA+3Sg+21PlO	
+2+_+VTA+ThmInv+1+Pl+0+Pl	_+VTA+0Pl+InclO	_+VTA+0Pl+21PlO	! Same as line 67?
+2+_+VTA+ThmInv+1+Pl+3+Pl	_+VTA+3PlProx+InclO	_+VTA+3Pl+21PlO	
+2+_+VTA+ThmInv+2+Pl	_+VTA+3SgProx+2PlO	_+VTA+3Sg+2PlO	
+2+_+VTA+ThmInv+2+Pl+0+Pl	_+VTA+0Pl+2PlO	_+VTA+0Pl+2PlO	! Same as line 69?
+2+_+VTA+ThmInv+2+Pl+3+Pl	_+VTA+3PlProx+2PlO	_+VTA+3Pl+2PlO	
+2+_+VTA+ThmInv+3+Pl	_+VTA+3PlProx+2SgO	_+VTA+3Pl+2SgO	! Pret/dub form only
+2+_+VTA+ThmPas	_+VTA+X+2SgO	_+VTA+X+2SgO	
+2+_+VTA+ThmPas+1+Pl	_+VTA+X+InclO	_+VTA+X+21PlO	
+2+_+VTA+ThmPas+2+Pl	_+VTA+X+2PlO	_+VTA+X+2PlO	
+2+_+VTI+0	_+VTI+2Sg+0SgO	_+VTI+2Sg+0SgO	
+2+_+VTI+0+0+Pl	_+VTI+2Sg+0PlO	_+VTI+2Sg+0PlO	
+2+_+VTI+1+Pl	_+VTI+Incl+0SgO	_+VTI+21Pl+0SgO	
+2+_+VTI+1+Pl+0+Pl	_+VTI+Incl+0PlO	_+VTI+21Pl+0PlO	
+2+_+VTI+2+Pl	_+VTI+2Pl+0SgO	_+VTI+2Pl+0SgO	
+2+_+VTI+2+Pl+0+Pl	_+VTI+2Pl+0PlO	_+VTI+2Pl+0PlO	
+3+_+VAIO	_+VAIO+3SgProx+0SgO	_+VAIO+3Sg+0SgO	! This is an educated guess; o<^VERB^naadig
+3+_+VAIO+0	_+VAIO+3SgProx+0SgO	_+VAIO+3Sg+0SgO	
+3+_+VAIO+0+Pl	_+VAIO+3SgProx+0PlO	_+VAIO+3Sg+0PlO	
+3+_+VAIO+2+Pl+0	_+VAIO+3PlProx+0SgO	_+VAIO+3Pl+0SgO	
+3+_+VAIO+2+Pl+0+Pl	_+VAIO+3PlProx+0PlO	_+VAIO+3Pl+0PlO	
+3+_+VAIO+2+Pl+3+4	_+VAIO+3PlProx+0PlO	_+VAIO+3Pl+0PlO	! The original is a misparse of the inanimate plural as the obviative marker since they look the same
+3+_+VAIO+3+4	_+VAIO+3SgProx+0PlO	_+VAIO+3Sg+0PlO	! The original is a misparse of the inanimate plural as the obviative marker since they look the same
+3+_+VTA+ThmDir+2+Pl+3+4	_+VTA+3PlProx+3ObvO	_+VTA+3Pl+4Sg/PlO	! Obv #?
+3+_+VTA+ThmDir+3+4	_+VTA+3SgProx+3ObvO	_+VTA+3Sg+4Sg/PlO	! Obv #?
+3+_+VTA+ThmInv+0	_+VTA+0Sg+3SgProxO	_+VTA+0Sg+3SgO	
+3+_+VTA+ThmInv+0+0+Pl	_+VTA+0Pl+3SgProxO	_+VTA+0Pl+3SgO	
+3+_+VTA+ThmInv+0+2+Pl	_+VTA+0Sg+3PlProxO	_+VTA+0Sg+3PlO	
+3+_+VTA+ThmInv+0+2+Pl+0+Pl	_+VTA+0Pl+3PlProxO	_+VTA+0Pl+3PlO	
+3+_+VTA+ThmInv+0+3+4	_+VTA+0Sg+3ObvO	_+VTA+0Sg+4Sg/PlO	! Why is there a 0? This is an educated guess based on what is missing. Obv #?
+3+_+VTA+ThmInv+0+3+4+0+Pl	_+VTA+0Pl+3ObvO	_+VTA+0Pl+4Sg/PlO	! Why is there a 0? This is an educated guess based on what is missing. Obv #?
+3+_+VTA+ThmInv+0+Pl	_+VTA+0Pl+3SgProxO	_+VTA+0Pl+3SgO	! Could be the same as line 97?
+3+_+VTA+ThmInv+2+Pl+0+Pl	_+VTA+0Pl+3PlProxO	_+VTA+0Pl+3PlO	! Could be the same as line 99?
+3+_+VTA+ThmInv+2+Pl+3+4	_+VTA+3Obv+3PlProxO	_+VTA+4Sg/Pl+3PlO	! Obv #?
+3+_+VTA+ThmInv+3+4	_+VTA+3Obv+3SgProxO	_+VTA+4Sg/Pl+3SgO	! Obv #?
+3+_+VTI	_+VTI+3SgProx+0SgO	_+VTI+3Sg+0SgO	! Pret/dub form only
+3+_+VTI+0	_+VTI+3SgProx+0SgO	_+VTI+3Sg+0SgO	
+3+_+VTI+0+0+Pl	_+VTI+3SgProx+0PlO	_+VTI+3Sg+0PlO	
+3+_+VTI+2+Pl	_+VTI+3PlProx+0SgO	_+VTI+3Pl+0SgO	
+3+_+VTI+2+Pl+0+Pl	_+VTI+3PlProx+0PlO	_+VTI+3Pl+0PlO	
+_+VAI+3	_+VAI+3SgProx	_+VAI+3Sg	
+_+VAI+3+2+Pl	_+VAI+3PlProx	_+VAI+3Pl	! Pret/dub form only
+_+VAI+3+3+4	_+VAI+3SgObv	_+VAI+4Sg	! Why extra +3?
+_+VAI+3+3+Pl	_+VAI+3PlProx	_+VAI+3Pl	! Why extra +3?
+_+VAI+3+4	_+VAI+3SgObv	_+VAI+4Sg	
+_+VAI+Cnj+1	_+VAI+Cnj+1Sg	_+VAI+Cnj+1Sg	
+_+VAI+Cnj+1+Pl	_+VAI+Cnj+Excl	_+VAI+Cnj+1Pl	
+_+VAI+Cnj+2	_+VAI+Cnj+2Sg	_+VAI+Cnj+2Sg	
+_+VAI+Cnj+2+1+Pl	_+VAI+Cnj+Incl	_+VAI+Cnj+21Pl	
+_+VAI+Cnj+2+Pl	_+VAI+Cnj+2Pl	_+VAI+Cnj+2Pl	
+_+VAI+Cnj+3	_+VAI+Cnj+3SgProx	_+VAI+Cnj+3Sg	
+_+VAI+Cnj+3+4	_+VAI+Cnj+3SgObv	_+VAI+Cnj+4Sg	
+_+VAI+Cnj+3+4+Pcp+3+4	_+VAI+Cnj+Pcp+3Obv	_+VAI+Cnj+Pcp+4Sg/Pl	
+_+VAI+Cnj+3+Pcp+3+Pl	_+VAI+Cnj+Pcp+3PlProx	_+VAI+Cnj+Pcp+3Pl	
+_+VAI+Cnj+3+Pl	_+VAI+Cnj+3PlProx	_+VAI+Cnj+3Pl	"! BLO Has a plural obviative as well, which is missing"
+_+VAI+Cnj+X	_+VAI+Cnj+X	_+VAI+Cnj+X	
+_+VAI+Imp+2	_+VAI+Imp+2Sg	_+VAI+Imp+2Sg	
+_+VAI+Imp+2+1+Pl	_+VAI+Imp+Incl	_+VAI+Imp+21Pl	
+_+VAI+Imp+2+Pl	_+VAI+Imp+2Pl	_+VAI+Imp+2Pl	
+_+VAI+Imp+Del+2	_+VAI+Imp+Del+2Sg	_+VAI+Imp+Del+2Sg	
+_+VAI+Imp+Del+2+Pl	_+VAI+Imp+Del+2Pl	_+VAI+Imp+Del+2Pl	
+_+VAI+Imp+Imm+2	_+VAI+Imp+Imm+2Sg	_+VAI+Imp+Imm+2Sg	
+_+VAI+Imp+Imm+2+1+Pl	_+VAI+Imp+Imm+Incl	_+VAI+Imp+Imm+21Pl	
+_+VAI+Imp+Imm+2+Pl	_+VAI+Imp+Imm+2Pl	_+VAI+Imp+Imm+2Pl	
+_+VAI+X	_+VAI+X	_+VAI+X	
+_+VAIO+Cnj+1	_+VAIO+Cnj+1Sg+0SgO/0PlO	_+VAIO+Cnj+1Sg+0SgO/0PlO	
+_+VAIO+Cnj+1+Pl	_+VAIO+Cnj+Excl+0SgO/0PlO	_+VAIO+Cnj+1Pl+0SgO/0PlO	
+_+VAIO+Cnj+2	_+VAIO+Cnj+2Sg+0SgO/0PlO	_+VAIO+Cnj+2Sg+0SgO/0PlO	
+_+VAIO+Cnj+2+1+Pl	_+VAIO+Cnj+Incl+0SgO/0PlO	_+VAIO+Cnj+21Pl+0SgO/0PlO	
+_+VAIO+Cnj+2+Pl	_+VAIO+Cnj+2Pl+0SgO/0PlO	_+VAIO+Cnj+2Pl+0SgO/0PlO	
+_+VAIO+Cnj+3	_+VAIO+Cnj+3SgProx+0SgO/0PlO	_+VAIO+Cnj+3Sg+0SgO/0PlO	
+_+VAIO+Cnj+3+4	_+VAIO+Cnj+3Obv+0SgO/0PlO	_+VAIO+Cnj+4Sg/Pl+0SgO/0PlO	! Obv #?
+_+VAIO+Cnj+3+4+Pcp+3+4			
+_+VAIO+Cnj+3+Pcp+3+Pl			
+_+VAIO+Cnj+3+Pl	_+VAIO+Cnj+3PlProx+0SgO/0PlO	_+VAIO+Cnj+3Pl+0SgO/0PlO	
+_+VAIO+Cnj+X	_+VAIO+Cnj+X+0SgO/0PlO	_+VAIO+Cnj+X+0SgO/0PlO	
+_+VAIO+Imp+2	_+VAIO+Imp+2Sg+0SgO	_+VAIO+Imp+2Sg+0SgO	
+_+VAIO+Imp+2+1+Pl	_+VAIO+Imp+Incl+0SgO	_+VAIO+Imp+21Pl+0SgO	
+_+VAIO+Imp+2+1+Pl+0+Pl	_+VAIO+Imp+Incl+0PlO	_+VAIO+Imp+21Pl+0PlO	
+_+VAIO+Imp+2+1+Pl+3+Pl			! ^VERB^daani>g
+_+VAIO+Imp+2+Pl	_+VAIO+Imp+2Pl+0SgO	_+VAIO+Imp+2Pl+0SgO	
+_+VAIO+Imp+Del+2	_+VAIO+Imp+Del+2Sg+0SgO	_+VAIO+Imp+Del+2Sg+0SgO	
+_+VAIO+Imp+Del+2+Pl	_+VAIO+Imp+Del+2Pl+0SgO	_+VAIO+Imp+Del+2Pl+0SgO	
+_+VAIO+Imp+Imm+2	_+VAIO+Imp+Imm+2Sg+0SgO	_+VAIO+Imp+Imm+2Sg+0SgO	
+_+VAIO+Imp+Imm+2+1+Pl	_+VAIO+Imp+Imm+Incl+0SgO	_+VAIO+Imp+Imm+21Pl+0SgO	
+_+VAIO+Imp+Imm+2+Pl	_+VAIO+Imp+Imm+2Pl+0SgO	_+VAIO+Imp+Imm+2Pl+0SgO	
+_+VII+0	_+VII+0SgProx	_+VII+0Sg	
+_+VII+0+0+Pl	_+VII+0PlProx	_+VII+0Pl	
+_+VII+0+4	_+VII+0SgObv	_+VII+4Sg	
+_+VII+0+4+0+Pl	_+VII+0PlObv	_+VII+4Pl	
+_+VII+Cnj+0	_+VII+Cnj+0SgProx/0PlProx	_+VII+Cnj+0Sg/0Pl	
+_+VII+Cnj+0+4	_+VII+Cnj+0SgObv/0PlObv	_+VII+Cnj+4Sg/4Pl	
+_+VTA+Cnj+Thm1+1+Pl	_+VTA+Cnj+2Sg/Pl+ExclO	_+VTA+Cnj+2Sg/Pl+1PlO	
+_+VTA+Cnj+Thm1+1+Pl+3	_+VTA+Cnj+3SgProx+ExclO	_+VTA+Cnj+3Sg+1PlO	
+_+VTA+Cnj+Thm1+1+Pl+3+Pcp+3+Pl	_+VTA+Cnj+Pcp+Excl+3PlProxO	_+VTA+Cnj+Pcp+1Pl+3PlO	! Participle
+_+VTA+Cnj+Thm1+1+Pl+3+Pl	_+VTA+Cnj+3PlProx+ExclO	_+VTA+Cnj+3Pl+1PlO	
+_+VTA+Cnj+Thm1+2	_+VTA+Cnj+2Sg+1SgO	_+VTA+Cnj+2Sg+1SgO	
+_+VTA+Cnj+Thm1+2+Pl	_+VTA+Cnj+2Pl+1SgO	_+VTA+Cnj+2Pl+1SgO	
+_+VTA+Cnj+Thm1+3	_+VTA+Cnj+3SgProx+1SgO	_+VTA+Cnj+3Sg+1SgO	
+_+VTA+Cnj+Thm1+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+Thm1+3+Pl	_+VTA+Cnj+3PlProx+1SgO	_+VTA+Cnj+3Pl+1SgO	
+_+VTA+Cnj+Thm1Pl+2	_+VTA+Cnj+Excl+2SgO	_+VTA+Cnj+1Pl+2SgO	
+_+VTA+Cnj+Thm1Pl+2+Pl	_+VTA+Cnj+Excl+2PlO	_+VTA+Cnj+1Pl+2PlO	
+_+VTA+Cnj+Thm2a+2	_+VTA+Cnj+1Sg+2SgO	_+VTA+Cnj+1Sg+2SgO	
+_+VTA+Cnj+Thm2a+2+1+Pl+3	_+VTA+Cnj+3SgProx+InclO	_+VTA+Cnj+3Sg+21PlO	
+_+VTA+Cnj+Thm2a+2+1+Pl+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+Thm2a+2+1+Pl+3+Pl	_+VTA+Cnj+3PlProx+InclO	_+VTA+Cnj+3Pl+21PlO	
+_+VTA+Cnj+Thm2a+2+Pl	_+VTA+Cnj+1Sg+2PlO	_+VTA+Cnj+1Sg+2PlO	
+_+VTA+Cnj+Thm2a+2+Pl+3	_+VTA+Cnj+3SgProx+2PlO	_+VTA+Cnj+3Sg+2PlO	
+_+VTA+Cnj+Thm2a+2+Pl+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+Thm2a+2+Pl+3+Pl	_+VTA+Cnj+3PlProx+2PlO	_+VTA+Cnj+3Pl+2PlO	
+_+VTA+Cnj+Thm2a+3	_+VTA+Cnj+3SgProx+2SgO	_+VTA+Cnj+3Sg+2SgO	! Negative form only
+_+VTA+Cnj+Thm2a+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+Thm2a+3+Pl	_+VTA+Cnj+3PlProx+2SgO	_+VTA+Cnj+3Pl+2SgO	! Negative form only
+_+VTA+Cnj+Thm2b+3	_+VTA+Cnj+3SgProx+2SgO	_+VTA+Cnj+3Sg+2SgO	
+_+VTA+Cnj+Thm2b+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+Thm2b+3+Pl	_+VTA+Cnj+3PlProx+2SgO	_+VTA+Cnj+3Pl+2SgO	
+_+VTA+Cnj+ThmDir+1+3	_+VTA+Cnj+1Sg+3SgProxO	_+VTA+Cnj+1Sg+3SgO	! Negative form only
+_+VTA+Cnj+ThmDir+1+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmDir+1+3+Pl	_+VTA+Cnj+1Sg+3PlProxO	_+VTA+Cnj+1Sg+3PlO	! Negative form only
+_+VTA+Cnj+ThmDir+1+Pl+3	_+VTA+Cnj+Excl+3SgProxO	_+VTA+Cnj+1Pl+3SgO	! Negative form only
+_+VTA+Cnj+ThmDir+1+Pl+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmDir+1+Pl+3+Pl	_+VTA+Cnj+Excl+3PlProxO	_+VTA+Cnj+1Pl+3PlO	! Negative form only
+_+VTA+Cnj+ThmDir+2+1+Pl+3	_+VTA+Cnj+Incl+3SgProxO	_+VTA+Cnj+21Pl+3SgO	
+_+VTA+Cnj+ThmDir+2+1+Pl+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmDir+2+1+Pl+3+Pl	_+VTA+Cnj+Incl+3PlProxO	_+VTA+Cnj+21Pl+3PlO	
+_+VTA+Cnj+ThmDir+2+3	_+VTA+Cnj+2Sg+3SgProxO	_+VTA+Cnj+2Sg+3SgO	
+_+VTA+Cnj+ThmDir+2+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmDir+2+3+Pl	_+VTA+Cnj+2Sg+3PlProxO	_+VTA+Cnj+2Sg+3PlO	
+_+VTA+Cnj+ThmDir+2+Pl+3	_+VTA+Cnj+2Pl+3SgProxO	_+VTA+Cnj+2Pl+3SgO	
+_+VTA+Cnj+ThmDir+2+Pl+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmDir+2+Pl+3+Pl	_+VTA+Cnj+2Pl+3PlProxO	_+VTA+Cnj+2Pl+3PlO	
+_+VTA+Cnj+ThmDir+3	_+VTA+Cnj+3SgProx+3ObvO	_+VTA+Cnj+3Sg+4Sg/PlO	! Obv #?
+_+VTA+Cnj+ThmDir+3+Pcp+3+4			! Participle
+_+VTA+Cnj+ThmDir+3+Pl	_+VTA+Cnj+3PlProx+3ObvO	_+VTA+Cnj+3Pl+4Sg/PlO	
+_+VTA+Cnj+ThmDir+3+Pl+Pcp+3+4			! Participle
+_+VTA+Cnj+ThmDir+3+Pl+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmInv+1	_+VTA+Cnj+0+1SgO	_+VTA+Cnj+0+1SgO	! Inan #?
+_+VTA+Cnj+ThmInv+1+Pcp+0+Pl			! Participle
+_+VTA+Cnj+ThmInv+1+Pl	_+VTA+Cnj+0+ExclO	_+VTA+Cnj+0+1PlO	! Inan #?
+_+VTA+Cnj+ThmInv+1+Pl+Pcp+0+Pl			! Participle
+_+VTA+Cnj+ThmInv+2	_+VTA+Cnj+0+2SgO	_+VTA+Cnj+0+2SgO	! Inan #?
+_+VTA+Cnj+ThmInv+2+1+Pl	_+VTA+Cnj+0+InclO	_+VTA+Cnj+0+21PlO	! Inan #?
+_+VTA+Cnj+ThmInv+2+1+Pl+Pcp+0+Pl			! Participle
+_+VTA+Cnj+ThmInv+2+Pcp+0+Pl			! Participle
+_+VTA+Cnj+ThmInv+2+Pl	_+VTA+Cnj+0+2PlO	_+VTA+Cnj+0+2PlO	! Inan #?
+_+VTA+Cnj+ThmInv+2+Pl+3	_+VTA+Cnj+3SgProx+2PlO	_+VTA+Cnj+3Sg+2PlO	"! Negative form only, possible error according to Odawa notes in glossing yaml"
+_+VTA+Cnj+ThmInv+2+Pl+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmInv+2+Pl+Pcp+0+Pl			! Participle
+_+VTA+Cnj+ThmInv+3	_+VTA+Cnj+0+3SgProxO	_+VTA+Cnj+0+3SgO	! Inan #?
+_+VTA+Cnj+ThmInv+3+Pcp+0+Pl			! Participle
+_+VTA+Cnj+ThmInv+3+Pcp+3+4			! Participle
+_+VTA+Cnj+ThmInv+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmInv+3+Pl	_+VTA+Cnj+0/3Obv+3PlProxO	_+VTA+Cnj+0/4Sg/Pl+3PlO	
+_+VTA+Cnj+ThmInv+3+Pl+Pcp+0+Pl			! Participle
+_+VTA+Cnj+ThmInv+3+Pl+Pcp+3+4			! Participle
+_+VTA+Cnj+ThmInv+3+Pl+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmNul+1+3	_+VTA+Cnj+1Sg+3SgProxO	_+VTA+Cnj+1Sg+3SgO	! Positive Forms
+_+VTA+Cnj+ThmNul+1+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmNul+1+3+Pl	_+VTA+Cnj+1Sg+3PlProxO	_+VTA+Cnj+1Sg+3PlO	! Positive Forms
+_+VTA+Cnj+ThmNul+1+Pl+3	_+VTA+Cnj+Excl+3SgProxO	_+VTA+Cnj+1Pl+3SgO	! Positive Forms
+_+VTA+Cnj+ThmNul+1+Pl+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmNul+1+Pl+3+Pl	_+VTA+Cnj+Excl+3PlProxO	_+VTA+Cnj+1Pl+3PlO	! Positive Forms
+_+VTA+Cnj+ThmNul+2+1+Pl+3	_+VTA+Cnj+Incl+3SgProxO	_+VTA+Cnj+21Pl+3SgO	! Positive Forms
+_+VTA+Cnj+ThmNul+2+1+Pl+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmNul+2+1+Pl+3+Pl	_+VTA+Cnj+Incl+3PlProxO	_+VTA+Cnj+21Pl+3PlO	! Positive Forms
+_+VTA+Cnj+ThmNul+2+3	_+VTA+Cnj+2Sg+3SgProxO	_+VTA+Cnj+2Sg+3SgO	! Positive Forms
+_+VTA+Cnj+ThmNul+2+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmNul+2+3+Pl	_+VTA+Cnj+2Sg+3PlProxO	_+VTA+Cnj+2Sg+3PlO	! Positive Forms
+_+VTA+Cnj+ThmNul+2+Pl+3	_+VTA+Cnj+2Pl+3SgProxO	_+VTA+Cnj+2Pl+3SgO	! Positive Forms
+_+VTA+Cnj+ThmNul+2+Pl+3+Pcp+3+Pl			! Participle
+_+VTA+Cnj+ThmNul+2+Pl+3+Pl	_+VTA+Cnj+2Pl+3PlProxO	_+VTA+Cnj+2Pl+3PlO	! Positive Forms
+_+VTA+Cnj+ThmPas+1	_+VTA+Cnj+X+1SgO	_+VTA+Cnj+X+1SgO	
+_+VTA+Cnj+ThmPas+1+Pl	_+VTA+Cnj+X+ExclO	_+VTA+Cnj+X+1PlO	
+_+VTA+Cnj+ThmPas+2	_+VTA+Cnj+X+2SgO	_+VTA+Cnj+X+2SgO	
+_+VTA+Cnj+ThmPas+2+1+Pl	_+VTA+Cnj+X+InclO	_+VTA+Cnj+X+21PlO	
+_+VTA+Cnj+ThmPas+2+Pl	_+VTA+Cnj+X+2PlO	_+VTA+Cnj+X+2PlO	
+_+VTA+Cnj+ThmPas+3	_+VTA+Cnj+X+3SgProxO	_+VTA+Cnj+X+3SgO	
+_+VTA+Cnj+ThmPas+3+Pl	_+VTA+Cnj+X+3PlProxO	_+VTA+Cnj+X+3PlO	
+_+VTA+Imp+2+1	_+VTA+Imp+2Sg+1SgO	_+VTA+Imp+2Sg+1SgO	
+_+VTA+Imp+2+1+Pl+3	_+VTA+Imp+Incl+3SgProxO	_+VTA+Imp+21Pl+3SgO	
+_+VTA+Imp+2+1+Pl+3+Pl	_+VTA+Imp+Incl+3PlProxO	_+VTA+Imp+21Pl+3PlO	
+_+VTA+Imp+2+3	_+VTA+Imp+2Sg+3SgProxO	_+VTA+Imp+2Sg+3SgO	
+_+VTA+Imp+2+3+Pl	_+VTA+Imp+2Sg+3PlProxO	_+VTA+Imp+2Sg+3PlO	
+_+VTA+Imp+2+Pl+1	_+VTA+Imp+2Pl+1SgO	_+VTA+Imp+2Pl+1SgO	
+_+VTA+Imp+Del+2+1	_+VTA+Imp+Del+2Sg+1SgO	_+VTA+Imp+Del+2Sg+1SgO	
+_+VTA+Imp+Del+2+3	_+VTA+Imp+Del+2Sg+3SgProxO	_+VTA+Imp+Del+2Sg+3SgO	
+_+VTA+Imp+Del+2+3+Pl	_+VTA+Imp+Del+2Sg+3PlProxO	_+VTA+Imp+Del+2Sg+3PlO	
+_+VTA+Imp+Del+2+Pl+1	_+VTA+Imp+Del+2Pl+1SgO	_+VTA+Imp+Del+2Pl+1SgO	
+_+VTA+Imp+Del+2+Pl+3	_+VTA+Imp+Del+2Pl+3SgProxO	_+VTA+Imp+Del+2Pl+3SgO	
+_+VTA+Imp+Del+2+Pl+3+Pl	_+VTA+Imp+Del+2Pl+3PlProxO	_+VTA+Imp+Del+2Pl+3PlO	
+_+VTA+Imp+Imm+2+1	_+VTA+Imp+Imm+2Sg+1SgO	_+VTA+Imp+Imm+2Sg+1SgO	
+_+VTA+Imp+Imm+2+1+Pl	_+VTA+Imp+Imm+2Sg+ExclO	_+VTA+Imp+Imm+2Sg+1PlO	
+_+VTA+Imp+Imm+2+1+Pl+3	_+VTA+Imp+Imm+Incl+3SgO	_+VTA+Imp+Imm+21Pl+3SgO	
+_+VTA+Imp+Imm+2+1+Pl+3+Pl	_+VTA+Imp+Imm+Incl+3PlO	_+VTA+Imp+Imm+21Pl+3PlO	
+_+VTA+Imp+Imm+2+3	_+VTA+Imp+Imm+2Sg+3SgProxO	_+VTA+Imp+Imm+2Sg+3SgO	
+_+VTA+Imp+Imm+2+3+Pl	_+VTA+Imp+Imm+2Sg+3PlProxO	_+VTA+Imp+Imm+2Sg+3PlO	
+_+VTA+Imp+Imm+2+Pl+1	_+VTA+Imp+Imm+2Pl+1SgO	_+VTA+Imp+Imm+2Pl+1SgO	
+_+VTA+Imp+Imm+2+Pl+1+Pl	_+VTA+Imp+Imm+2Pl+ExclO	_+VTA+Imp+Imm+2Pl+1PlO	
+_+VTA+Imp+Imm+2+Pl+3	_+VTA+Imp+Imm+2Pl+3SgProxO	_+VTA+Imp+Imm+2Pl+3SgO	
+_+VTA+Imp+Imm+2+Pl+3+Pl	_+VTA+Imp+Imm+2Pl+3PlProxO	_+VTA+Imp+Imm+2Pl+3PlO	
+_+VTA+ThmPas+3	_+VTA+X+3SgProxO	_+VTA+X+3SgO	! Not verified
+_+VTA+ThmPas+3+2+Pl	_+VTA+X+3PlProxO	_+VTA+X+3PlO	! Not verified
+_+VTA+ThmPas+3+3+4	_+VTA+X+3SgObvO	_+VTA+X+4SgO	! Not verified
+_+VTA+ThmPas+3+3+Pl	_+VTA+X+3PlProxO	_+VTA+X+3PlO	! Not verified
+_+VTA+ThmPas+3+4	_+VTA+X+3SgObvO	_+VTA+X+4SgO	! Not verified
+_+VTA+ThmPas+X			"! -igoom, but why no prefix?"
+_+VTI+3+4	_+VTI+3SgObv+0SgO	_+VTI+4Sg+0SgO	! Obv #?
+_+VTI+3+4+0+Pl	_+VTI+3SgObv+0PlO	_+VTI+4Sg+0PlO	! Obv #?
+_+VTI+Cnj+1	_+VTI+Cnj+1Sg+0SgO/0PlO	_+VTI+Cnj+1Sg+0SgO/0PlO	
+_+VTI+Cnj+1+Pl	_+VTI+Cnj+Excl+0SgO/0PlO	_+VTI+Cnj+1Pl+0SgO/0PlO	
+_+VTI+Cnj+2	_+VTI+Cnj+2Sg+0SgO/0PlO	_+VTI+Cnj+2Sg+0SgO/0PlO	
+_+VTI+Cnj+2+1+Pl	_+VTI+Cnj+Incl+0SgO/0PlO	_+VTI+Cnj+21Pl+0SgO/0PlO	
+_+VTI+Cnj+2+Pl	_+VTI+Cnj+2Pl+0SgO/0PlO	_+VTI+Cnj+2Pl+0SgO/0PlO	
+_+VTI+Cnj+3	_+VTI+Cnj+3SgProx+0SgO/0PlO	_+VTI+Cnj+3Sg+0SgO/0PlO	
+_+VTI+Cnj+3+4	_+VTI+Cnj+3SgObv+0SgO/0PlO	_+VTI+Cnj+4Sg+0SgO/0PlO	! Obv #?
+_+VTI+Cnj+3+Pl	_+VTI+Cnj+3PlProx+0SgO/0PlO	_+VTI+Cnj+3Pl+0SgO/0PlO	
+_+VTI+Cnj+X	_+VTI+Cnj+X+0SgO/0PlO	_+VTI+Cnj+X+0SgO/0PlO	
+_+VTI+Imp+2	_+VTI+Imp+2Sg+0SgO	_+VTI+Imp+2Sg+0SgO	
+_+VTI+Imp+2+1+Pl+0	_+VTI+Imp+Incl+0SgO	_+VTI+Imp+21Pl+0SgO	
+_+VTI+Imp+2+1+Pl+0+Pl	_+VTI+Imp+Incl+0PlO	_+VTI+Imp+21Pl+0PlO	
+_+VTI+Imp+2+Pl	_+VTI+Imp+2Pl+0SgO	_+VTI+Imp+2Pl+0SgO	
+_+VTI+Imp+Del+2	_+VTI+Imp+Del+2Sg+0SgO	_+VTI+Imp+Del+2Sg+0SgO	
+_+VTI+Imp+Del+2+1+Pl+0	_+VTI+Imp+Del+Incl+0SgO	_+VTI+Imp+Del+21Pl+0SgO	
+_+VTI+Imp+Del+2+1+Pl+0+Pl	_+VTI+Imp+Del+Incl+0PlO	_+VTI+Imp+Del+21Pl+0PlO	
+_+VTI+Imp+Del+2+Pl	_+VTI+Imp+Imm+2Pl+0SgO	_+VTI+Imp+Imm+2Pl+0SgO	
+_+VTI+Imp+Imm+2	_+VTI+Imp+Imm+2Sg+0SgO	_+VTI+Imp+Imm+2Sg+0SgO	
+_+VTI+Imp+Imm+2+1+Pl+0	_+VTI+Imp+Imm+Incl+0SgO	_+VTI+Imp+Imm+21Pl+0SgO	
+_+VTI+Imp+Imm+2+1+Pl+0+Pl	_+VTI+Imp+Imm+Incl+0PlO	_+VTI+Imp+Imm+21Pl+0PlO	
+_+VTI+Imp+Imm+2+Pl	_+VTI+Imp+Imm+2Pl+0SgO	_+VTI+Imp+Imm+2Pl+0SgO	

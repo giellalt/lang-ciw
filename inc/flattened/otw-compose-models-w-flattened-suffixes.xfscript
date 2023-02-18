@@ -1,0 +1,244 @@
+!!!!!
+! CREATING NEW FSTs USING FLATTENED SUFFIXES
+!!!!!
+
+!!!!!
+! Complete pre-syncopated model, with abstract tags and flattend suffixes
+!!!!!
+
+! Read in entire morphology with flattened suffixation
+! and abstract tagging.
+
+read lexc verb_lexicon_flattened_abstract.lexc
+define FlattenedMorphology
+
+! Read in phonological rules applying for prefixation and
+! after all rules triggered by morpheme boundaries have been applied.
+
+source phonology-only-prefix-and-postboundary-rules.xfscript
+define PostPhonology
+
+! Use flags to retain morpheme boundaries:
+! 1) Attach flags to prefix boundaries, keeping them to invoke rules.
+! 2) Convert all other boundaries to corresponding flags.
+
+regex [ [..] -> "@P.Bx.Pref@" || "<" _ ,, ">" -> "@P.Bx.Suff@"
+,, "<<" -> "@P.Bx.Pref2@" ,, ">>" -> "@P.Bx.Suff2@"
+];
+define Bx2Flags
+
+! Compose 1) flattened suffix morphology with 2) boundary/flags rule
+
+regex [ FlattenedMorphology .o. Bx2Flags ];
+define FlattenedMorphologyBx
+
+! Define rule for deleting person prefix tags.
+! This is needed in the models with abstract tags, where all the
+! person information is conveyed through suffixed tags.
+
+regex [ 0 <- [ "1+" | "2+" | "3+" | "X+" ] ];
+define rmPrefixPersonTag
+
+! Compose together 1) removal of person prefix tags; 2) morphology with
+! flattened suffixes and boundaries as flags; and 3) phonological rules
+! post-flattening, i.e. rules concerning prefixes and those applying generally
+! after boundary-based rules on prefixes and suffixes have been applied.
+! Flags are treated as epsilon so that they will not interfere, and to retain
+! the morpheme boundary flags.
+
+set flag-is-epsilon ON
+regex [ rmPrefixPersonTag .o. FlattenedMorphologyBx .o. PostPhonology ];
+set flag-is-epsilon OFF
+
+define PreSyncopeMorphology
+
+! Convert flags representing morpheme boundaries back to the original
+! morpheme boundary markers.
+
+regex [ "@P.Bx.Pref@" -> "<" ] .o. [ "@P.Bx.Suff@" -> ">" ]
+.o. [ "@P.Bx.Pref2@" -> "<<" ] .o. [ "@P.Bx.Suff2@" -> ">>" ] ;
+define Flags2Bx
+
+! Specify a rule to simplify adjacent sequences of morpheme boundary markers.
+! Generally, this removes '<<' or '>>' (which do not toggle phonological rules)
+! when there is a basic boundary '<' or '>' or another '<<' or '>>' next to them,
+! or at the beginning or end of a word.
+
+regex [ [ "<<" | ">>" ] -> 0 || [ "<<" | ">>" | "<" | ">" ] _ , _ [ "<<" | ">>" | "<" | ">" ] , .#. _ , _ .#. ];
+define SimplifyBoundaries
+
+! Compose together 1) morphology after all pre-syncope morphological rules;
+! 2) rule for conversion of flags to morpheme boundaries; and 2) rule for
+! simplifying morpheme boundary sequences.
+
+regex [ PreSyncopeMorphology .o. Flags2Bx .o. SimplifyBoundaries ] ;
+
+! Save the resultant FST (and name it):
+
+save stack otw-verb-flattened-abstract-presyncope.fomabin
+
+define PreSyncopeMorphologyBx
+
+regex [[ "<" | ">" | "<<" | ">>" ] -> 0 ];
+define removeBoundaries
+
+regex PreSyncopeMorphologyBx .o. removeBoundaries;
+
+save stack ciw-analyzer-verb-flattened-abstract-presyncope.fomabin
+
+invert net
+
+save stack ciw-generator-verb-flattened-abstract-presyncope.fomabin
+
+clear stack
+
+echo 'CREATED FLATTENED ABSTRACT PRESYNCOPE FST';
+
+!!!!!
+! Create a complete model using glossing tags, but with flattened suffixes.
+!!!!!
+
+! Read in entire morphology with flattened suffixation
+! but using glossing tags.
+
+read lexc verb_lexicon_flattened_glossing.lexc
+define GlossingMorphology
+
+! Read in phonological rules applying for suffixes and requiring
+! a morpheme boundary '>' to be triggered.
+
+source phonology-only-suffix-rules.xfscript
+define SuffixPhonology
+
+! Specify rule for retaining morpheme boundaries.
+! 1) Basic prefix boundary markers '<' are attached with a flag.
+! 2) All other boundary markers are converted to an appropriate flag.
+
+regex [ [..] -> "@P.Bx.Pref@" || "<" _ ,, [..] -> "@P.Bx.Suff@" || ">" _
+,, "<<" -> "@P.Bx.Pref2@" ,, ">>" -> "@P.Bx.Suff2@"
+];
+define Bx2Flags
+
+! Compose morphology using glossing tags with rule for converting morpheme
+! boundaries to flags.
+
+regex [ GlossingMorphology .o. Bx2Flags ];
+define GlossingMorphologyBxFlags
+
+! Compose 1) minimalist model with boundary flags with 2) suffixal phonology
+! and then all other pre-syncope phonology (concerning prefixes and rules
+! to apply afterwards, not requiring triggering with morpheme boundaries).
+! Flags need to be treated as epsilons so that they do not interfere as well
+! as retain the flags marking morpheme boundaries.
+
+set flag-is-epsilon ON
+regex [ GlossingMorphologyBxFlags .o. SuffixPhonology .o. PostPhonology ];
+set flag-is-epsilon OFF
+define GlossingMorphologyFlagsBx
+
+! Compose 1) the result of the previous step with 2) rule to convert boundary
+! flags to the corresponding boundary markers and then 3) simplify morpheme
+! boundary sequences (as described above).
+
+regex [ GlossingMorphologyFlagsBx .o. Flags2Bx .o. SimplifyBoundaries ];
+
+! Save the resultant FST, and name it.
+
+save stack otw-verb-flattened-glossing-presyncope.fomabin
+
+define PreSyncopeGlossingMorphologyBx
+
+echo 'CREATED FLATTENED GLOSSING PRESYNCOPE FST';
+
+!!!!!
+! Post-syncope model with flattened suffixes and glossing tags
+!!!!!
+
+regex [[ "<" | ">" | "<<" | ">>" ] -> 0 ];
+define removeBoundaries
+
+! Read in the phonological rules implementing syncope.
+
+source phonology-only-syncope-rules.xfscript
+define Syncope
+
+! Compose a flattened post-syncope model with glossing tags
+! (but without morpheme boundaries).
+
+set flag-is-epsilon ON
+regex [ PreSyncopeGlossingMorphologyBx .o. removeBoundaries .o. Syncope ];
+set flag-is-epsilon OFF
+
+! Save generator and analyzer versions of this model.
+
+save stack otw-analyzer-flattened-glossing-postsyncope.fomabin
+
+invert net
+
+save stack otw-generator-flattened-glossing-postsyncope.fomabin
+
+define SyncopeGlossingMorphology
+
+echo 'CREATED FLATTENED GLOSSING POSTSYNCOPE FSTs';
+
+!!!!!
+! Post-syncope model with flattened suffixes and abstract tags
+!!!!!
+
+! Convert all morpheme boundaries into corresponding flags.
+! Since all phonological rules dependent on boundary marking have
+! already been applied, we need not retain the actual markers anymore.
+
+regex [ "<" -> "@P.Bx.Pref@" ,, ">" -> "@P.Bx.Suff@"
+,, "<<" -> "@P.Bx.Pref2@" ,, ">>" -> "@P.Bx.Suff2@"
+];
+define Bx2Flags
+
+! Compose morphology with all pre-syncope rules with boundary-to-flags rule.
+
+regex [ PreSyncopeMorphologyBx .o. Bx2Flags ];
+define PreSyncopeMorphologyBxFlags
+
+! Compose 1) morphology with pre-syncope rules (and boundaries-as-flags)
+! with 2) phonological rules for syncope.
+! Flags need to be epsilons not to interfere as well as retain boundary flags.
+
+set flag-is-epsilon ON
+regex [ PreSyncopeMorphologyBxFlags .o. Syncope ];
+set flag-is-epsilon OFF
+
+define SyncopeMorphology
+
+! Convert flags back to boundaries
+
+regex [ "@P.Bx.Pref@" -> "<" ] .o. [ "@P.Bx.Suff@" -> ">" ]
+.o. [ "@P.Bx.Pref2@" -> "<<" ] .o. [ "@P.Bx.Suff2@" -> ">>" ];
+define Flags2Bx
+
+! Compose 1) syncopated model (with flags for boundaries) with
+! 2) rule for converting flags to boundaries.
+
+regex [ SyncopeMorphology .o. Flags2Bx ];
+
+! Save resultant morpho-phonological model with syncope (aka Odawa)
+! and abstract tags.
+
+save stack otw-verb-flattened-abstract-postsyncope.fomabin
+
+echo 'CREATED FLATTENED ABSTRACT POSTSYNCOPE FST';
+
+define Model
+
+regex [ Model .o. removeBoundaries ];
+
+save stack otw-analyzer-flattened-abstract-postsyncope.fomabin
+
+invert net
+
+save stack otw-generator-flattened-abstract-postsyncope.fomabin
+
+! quit
+
+!!!!!
+! END
+!!!!!

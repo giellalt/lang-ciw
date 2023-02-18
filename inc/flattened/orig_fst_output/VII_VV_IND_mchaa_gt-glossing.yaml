@@ -1,0 +1,34 @@
+Tests:
+  VII_VV_IND_mchaa_gt-glossing:
+    mchaa+VII+0: michaaw
+    mchaa+VII+0+4: michaaini
+    mchaa+VII+0+Prt: michaabani1
+    mchaa+VII+0+4+Prt: [ michaainiwiban, michaainiwiba, michaainiiban, michaainiiba ]
+    mchaa+VII+0+Dub: michaadig
+    mchaa+VII+0+4+Dub: [ michaainiwidig, michaainiidig ]
+    mchaa+VII+0+Prt+Dub: [ michaagoban, michaagoba ]
+    mchaa+VII+0+4+Prt+Dub: [ michaainiwigoban, michaainiwigoba, michaainiigoban, michaainiigoba ]
+    mchaa+VII+0+Prt+0+Pl: michaabaniin
+    mchaa+VII+0+4+Prt+0+Pl: [ michaainiwibaniin, michaainiibaniin ]
+    mchaa+VII+0+Dub+0+Pl: michaadigenan
+    mchaa+VII+0+4+Dub+0+Pl: [ michaainiwidigenan, michaainiidigenan ]
+    mchaa+VII+0+Prt+Dub+0+Pl: michaagobaniin
+    mchaa+VII+0+4+Prt+Dub+0+Pl: [ michaainiwigobaniin, michaainiigobaniin ]
+    mchaa+VII+0+0+Pl: michaawan
+    mchaa+VII+0+4+0+Pl: michaainiwan
+    mchaa+VII+Neg+0: michaasinoo
+    mchaa+VII+Neg+0+4: michaasinooni
+    mchaa+VII+Neg+0+Prt: [ michaasinooban, michaasinooba ]
+    mchaa+VII+Neg+0+4+Prt: [ michaasinooniwiban, michaasinooniwiba, michaasinooniiban, michaasinooniiba ]
+    mchaa+VII+Neg+0+Dub: michaasinoodig
+    mchaa+VII+Neg+0+4+Dub: [ michaasinooniwidig, michaasinooniidig ]
+    mchaa+VII+Neg+0+Prt+Dub: [ michaasinoogoban, michaasinoogoba ]
+    mchaa+VII+Neg+0+4+Prt+Dub: [ michaasinooniwigoban, michaasinooniwigoba, michaasinooniigoban, michaasinooniigoba ]
+    mchaa+VII+Neg+0+Prt+0+Pl: michaasinoobaniin
+    mchaa+VII+Neg+0+4+Prt+0+Pl: [ michaasinooniwibaniin, michaasinooniibaniin ]
+    mchaa+VII+Neg+0+Dub+0+Pl: michaasinoodigenan
+    mchaa+VII+Neg+0+4+Dub+0+Pl: [ michaasinooniwidigenan, michaasinooniidigenan ]
+    mchaa+VII+Neg+0+Prt+Dub+0+Pl: michaasinoogobaniin
+    mchaa+VII+Neg+0+4+Prt+Dub+0+Pl: [ michaasinooniwigobaniin, michaasinooniigobaniin ]
+    mchaa+VII+Neg+0+0+Pl: michaasinoowan
+    mchaa+VII+Neg+0+4+0+Pl: michaasinooniwan

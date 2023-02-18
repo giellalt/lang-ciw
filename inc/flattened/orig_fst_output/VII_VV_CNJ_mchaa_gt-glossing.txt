@@ -1,0 +1,41 @@
+mchaa+VII+Cnj+0	michaag
+
+mchaa+VII+Cnj+0+4	michaanig
+
+mchaa+VII+Cnj+0+Prt	michaagiban
+mchaa+VII+Cnj+0+Prt	michaagiba
+
+mchaa+VII+Cnj+0+4+Prt	michaanigiban
+mchaa+VII+Cnj+0+4+Prt	michaanigiba
+
+PV/CCNJ+mchaa+VII+Cnj+0+Dub	michaagwenh
+
+PV/CCNJ+mchaa+VII+Cnj+0+4+Dub	michaanigwenh
+
+mchaa+VII+Cnj+0+Prt+Dub	michaagobanen
+mchaa+VII+Cnj+0+Prt+Dub	michaagobane
+
+mchaa+VII+Cnj+0+4+Prt+Dub	michaanigobanen
+mchaa+VII+Cnj+0+4+Prt+Dub	michaanigobane
+
+mchaa+VII+Cnj+Neg+0	michaasinoog
+mchaa+VII+Cnj+Neg+0	michaasinog
+
+mchaa+VII+Cnj+Neg+0+4	michaasinoonig
+
+mchaa+VII+Cnj+Neg+0+Prt	michaasinoogiban
+mchaa+VII+Cnj+Neg+0+Prt	michaasinoogiba
+
+mchaa+VII+Cnj+Neg+0+4+Prt	michaasinoonigiban
+mchaa+VII+Cnj+Neg+0+4+Prt	michaasinoonigiba
+
+PV/CCNJ+mchaa+VII+Cnj+Neg+0+Dub	michaasinoogwenh
+
+PV/CCNJ+mchaa+VII+Cnj+Neg+0+4+Dub	michaasinoonigwenh
+
+mchaa+VII+Cnj+Neg+0+Prt+Dub	michaasinoogobanen
+mchaa+VII+Cnj+Neg+0+Prt+Dub	michaasinoogobane
+
+mchaa+VII+Cnj+Neg+0+4+Prt+Dub	michaasinoonigobanen
+mchaa+VII+Cnj+Neg+0+4+Prt+Dub	michaasinoonigobane
+

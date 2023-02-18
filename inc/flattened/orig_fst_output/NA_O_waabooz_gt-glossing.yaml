@@ -1,0 +1,872 @@
+Tests:
+  NA_O_waabooz_gt-glossing:
+    waaboos+NA: waaboozo
+    1+waaboos+NA: niwaaboozo
+    2+waaboos+NA: giwaaboozo
+    X+waaboos+NA: iwaaboozo
+    waaboos+NA+Con: waaboozoenh
+    waaboos+NA+Dim: waaboozoens
+    waaboos+NA+Pej: waaboozosh
+    waaboos+NA+Prt: waaboozobani1
+    waaboos+NA+Voc+Pl: waaboozodig
+    waaboos+NA+4: waaboozoan
+    waaboos+NA+Loc: waaboozong
+    waaboos+NA+Pl: waaboozoag
+    1+waaboos+NA+Con: niwaaboozoenh
+    1+waaboos+NA+Dim: niwaaboozoens
+    2+waaboos+NA+Con: giwaaboozoenh
+    2+waaboos+NA+Dim: giwaaboozoens
+    X+waaboos+NA+Con: iwaaboozoenh
+    X+waaboos+NA+Dim: iwaaboozoens
+    1+waaboos+NA+ThmPos: niwaaboozom
+    2+waaboos+NA+ThmPos: giwaaboozom
+    X+waaboos+NA+ThmPos: iwaaboozom
+    1+waaboos+NA+Pej: niwaaboozosh
+    2+waaboos+NA+Pej: giwaaboozosh
+    X+waaboos+NA+Pej: iwaaboozosh
+    1+waaboos+NA+1+Pl: [ niwaaboozonaan, niwaaboozonaa ]
+    2+waaboos+NA+1+Pl: [ giwaaboozonaan, giwaaboozonaa ]
+    2+waaboos+NA+2+Pl: giwaaboozowaa
+    3+waaboos+NA+3+4: owaaboozoniw
+    1+waaboos+NA+Prt: niwaaboozobani1
+    1+waaboos+NA+Voc+Pl: niwaaboozodig
+    2+waaboos+NA+Prt: giwaaboozobani1
+    2+waaboos+NA+Voc+Pl: giwaaboozodig
+    X+waaboos+NA+Prt: iwaaboozobani1
+    X+waaboos+NA+Voc+Pl: iwaaboozodig
+    1+waaboos+NA+4: niwaaboozoan
+    1+waaboos+NA+Loc: niwaaboozong
+    1+waaboos+NA+Pl: niwaaboozoag
+    2+waaboos+NA+4: giwaaboozoan
+    2+waaboos+NA+Loc: giwaaboozong
+    2+waaboos+NA+Pl: giwaaboozoag
+    3+waaboos+NA+4: owaaboozoan
+    3+waaboos+NA+Loc: owaaboozong
+    X+waaboos+NA+4: iwaaboozoan
+    X+waaboos+NA+Loc: iwaaboozong
+    X+waaboos+NA+Pl: iwaaboozoag
+    waaboos+NA+Con+Pej: waaboozoenyish
+    waaboos+NA+Dim+Pej: waaboozoensish
+    waaboos+NA+Con+Prt: [ waaboozoenyiban, waaboozoenyiba ]
+    waaboos+NA+Con+Voc+Pl: waaboozoenydig
+    waaboos+NA+Dim+Prt: [ waaboozoensiban, waaboozoensiba ]
+    waaboos+NA+Dim+Voc+Pl: waaboozoensdig
+    waaboos+NA+Con+4: waaboozoenyin
+    waaboos+NA+Con+Loc: waaboozoenying
+    waaboos+NA+Con+Pl: waaboozoenyag
+    waaboos+NA+Dim+4: waaboozoensan
+    waaboos+NA+Dim+Loc: waaboozoensing
+    waaboos+NA+Dim+Pl: waaboozoensag
+    waaboos+NA+Pej+Prt: [ waaboozoshiban, waaboozoshiba ]
+    waaboos+NA+Pej+Voc+Pl: waaboozoshdig
+    waaboos+NA+Pej+4: waaboozoshan
+    waaboos+NA+Pej+Loc: waaboozoshing
+    waaboos+NA+Pej+Pl: waaboozoshag
+    waaboos+NA+Prt+4: waaboozobaniin
+    waaboos+NA+Prt+Loc: waaboozobaniing
+    waaboos+NA+Prt+Pl: waaboozobani1ag
+    1+waaboos+NA+Con+ThmPos: niwaaboozoenym
+    1+waaboos+NA+Dim+ThmPos: niwaaboozoensm
+    2+waaboos+NA+Con+ThmPos: giwaaboozoenym
+    2+waaboos+NA+Dim+ThmPos: giwaaboozoensm
+    X+waaboos+NA+Con+ThmPos: iwaaboozoenym
+    X+waaboos+NA+Dim+ThmPos: iwaaboozoensm
+    1+waaboos+NA+Con+Pej: niwaaboozoenyish
+    1+waaboos+NA+Dim+Pej: niwaaboozoensish
+    2+waaboos+NA+Con+Pej: giwaaboozoenyish
+    2+waaboos+NA+Dim+Pej: giwaaboozoensish
+    X+waaboos+NA+Con+Pej: iwaaboozoenyish
+    X+waaboos+NA+Dim+Pej: iwaaboozoensish
+    1+waaboos+NA+Con+1+Pl: [ niwaaboozoenynaan, niwaaboozoenynaa ]
+    1+waaboos+NA+Dim+1+Pl: [ niwaaboozoensnaan, niwaaboozoensnaa ]
+    2+waaboos+NA+Con+1+Pl: [ giwaaboozoenynaan, giwaaboozoenynaa ]
+    2+waaboos+NA+Con+2+Pl: giwaaboozoenywaa
+    2+waaboos+NA+Dim+1+Pl: [ giwaaboozoensnaan, giwaaboozoensnaa ]
+    2+waaboos+NA+Dim+2+Pl: giwaaboozoenswaa
+    3+waaboos+NA+Con+3+4: owaaboozoenyniw
+    3+waaboos+NA+Dim+3+4: owaaboozoensniw
+    1+waaboos+NA+Con+Prt: [ niwaaboozoenyiban, niwaaboozoenyiba ]
+    1+waaboos+NA+Con+Voc+Pl: niwaaboozoenydig
+    1+waaboos+NA+Dim+Prt: [ niwaaboozoensiban, niwaaboozoensiba ]
+    1+waaboos+NA+Dim+Voc+Pl: niwaaboozoensdig
+    2+waaboos+NA+Con+Prt: [ giwaaboozoenyiban, giwaaboozoenyiba ]
+    2+waaboos+NA+Con+Voc+Pl: giwaaboozoenydig
+    2+waaboos+NA+Dim+Prt: [ giwaaboozoensiban, giwaaboozoensiba ]
+    2+waaboos+NA+Dim+Voc+Pl: giwaaboozoensdig
+    X+waaboos+NA+Con+Prt: [ iwaaboozoenyiban, iwaaboozoenyiba ]
+    X+waaboos+NA+Con+Voc+Pl: iwaaboozoenydig
+    X+waaboos+NA+Dim+Prt: [ iwaaboozoensiban, iwaaboozoensiba ]
+    X+waaboos+NA+Dim+Voc+Pl: iwaaboozoensdig
+    1+waaboos+NA+Con+4: niwaaboozoenyin
+    1+waaboos+NA+Con+Loc: niwaaboozoenying
+    1+waaboos+NA+Con+Pl: niwaaboozoenyag
+    1+waaboos+NA+Dim+4: niwaaboozoensan
+    1+waaboos+NA+Dim+Loc: niwaaboozoensing
+    1+waaboos+NA+Dim+Pl: niwaaboozoensag
+    2+waaboos+NA+Con+4: giwaaboozoenyin
+    2+waaboos+NA+Con+Loc: giwaaboozoenying
+    2+waaboos+NA+Con+Pl: giwaaboozoenyag
+    2+waaboos+NA+Dim+4: giwaaboozoensan
+    2+waaboos+NA+Dim+Loc: giwaaboozoensing
+    2+waaboos+NA+Dim+Pl: giwaaboozoensag
+    3+waaboos+NA+Con+4: owaaboozoenyin
+    3+waaboos+NA+Con+Loc: owaaboozoenying
+    3+waaboos+NA+Dim+4: owaaboozoensan
+    3+waaboos+NA+Dim+Loc: owaaboozoensing
+    X+waaboos+NA+Con+4: iwaaboozoenyin
+    X+waaboos+NA+Con+Loc: iwaaboozoenying
+    X+waaboos+NA+Con+Pl: iwaaboozoenyag
+    X+waaboos+NA+Dim+4: iwaaboozoensan
+    X+waaboos+NA+Dim+Loc: iwaaboozoensing
+    X+waaboos+NA+Dim+Pl: iwaaboozoensag
+    1+waaboos+NA+ThmPos+Pej: niwaaboozomish
+    2+waaboos+NA+ThmPos+Pej: giwaaboozomish
+    X+waaboos+NA+ThmPos+Pej: iwaaboozomish
+    1+waaboos+NA+ThmPos+1+Pl: [ niwaaboozomnaan, niwaaboozomnaa ]
+    2+waaboos+NA+ThmPos+1+Pl: [ giwaaboozomnaan, giwaaboozomnaa ]
+    2+waaboos+NA+ThmPos+2+Pl: giwaaboozomwaa
+    3+waaboos+NA+ThmPos+3+4: owaaboozomniw
+    1+waaboos+NA+ThmPos+Prt: [ niwaaboozomiban, niwaaboozomiba ]
+    1+waaboos+NA+ThmPos+Voc+Pl: niwaaboozomdig
+    2+waaboos+NA+ThmPos+Prt: [ giwaaboozomiban, giwaaboozomiba ]
+    2+waaboos+NA+ThmPos+Voc+Pl: giwaaboozomdig
+    X+waaboos+NA+ThmPos+Prt: [ iwaaboozomiban, iwaaboozomiba ]
+    X+waaboos+NA+ThmPos+Voc+Pl: iwaaboozomdig
+    1+waaboos+NA+ThmPos+4: niwaaboozoman
+    1+waaboos+NA+ThmPos+Loc: niwaaboozoming
+    1+waaboos+NA+ThmPos+Pl: niwaaboozomag
+    2+waaboos+NA+ThmPos+4: giwaaboozoman
+    2+waaboos+NA+ThmPos+Loc: giwaaboozoming
+    2+waaboos+NA+ThmPos+Pl: giwaaboozomag
+    3+waaboos+NA+ThmPos+4: owaaboozoman
+    3+waaboos+NA+ThmPos+Loc: owaaboozoming
+    X+waaboos+NA+ThmPos+4: iwaaboozoman
+    X+waaboos+NA+ThmPos+Loc: iwaaboozoming
+    X+waaboos+NA+ThmPos+Pl: iwaaboozomag
+    1+waaboos+NA+Pej+1+Pl: [ niwaaboozoshnaan, niwaaboozoshnaa ]
+    2+waaboos+NA+Pej+1+Pl: [ giwaaboozoshnaan, giwaaboozoshnaa ]
+    2+waaboos+NA+Pej+2+Pl: giwaaboozoshwaa
+    3+waaboos+NA+Pej+3+4: owaaboozoshniw
+    1+waaboos+NA+Pej+Prt: [ niwaaboozoshiban, niwaaboozoshiba ]
+    1+waaboos+NA+Pej+Voc+Pl: niwaaboozoshdig
+    2+waaboos+NA+Pej+Prt: [ giwaaboozoshiban, giwaaboozoshiba ]
+    2+waaboos+NA+Pej+Voc+Pl: giwaaboozoshdig
+    X+waaboos+NA+Pej+Prt: [ iwaaboozoshiban, iwaaboozoshiba ]
+    X+waaboos+NA+Pej+Voc+Pl: iwaaboozoshdig
+    1+waaboos+NA+Pej+4: niwaaboozoshan
+    1+waaboos+NA+Pej+Loc: niwaaboozoshing
+    1+waaboos+NA+Pej+Pl: niwaaboozoshag
+    2+waaboos+NA+Pej+4: giwaaboozoshan
+    2+waaboos+NA+Pej+Loc: giwaaboozoshing
+    2+waaboos+NA+Pej+Pl: giwaaboozoshag
+    3+waaboos+NA+Pej+4: owaaboozoshan
+    3+waaboos+NA+Pej+Loc: owaaboozoshing
+    X+waaboos+NA+Pej+4: iwaaboozoshan
+    X+waaboos+NA+Pej+Loc: iwaaboozoshing
+    X+waaboos+NA+Pej+Pl: iwaaboozoshag
+    1+waaboos+NA+1+Pl+Prt: [ niwaaboozonaaniban, niwaaboozonaaniba ]
+    1+waaboos+NA+1+Pl+Voc+Pl: niwaaboozonaany1dig
+    2+waaboos+NA+1+Pl+Prt: [ giwaaboozonaaniban, giwaaboozonaaniba ]
+    2+waaboos+NA+1+Pl+Voc+Pl: giwaaboozonaany1dig
+    2+waaboos+NA+2+Pl+Prt: [ giwaaboozowaaban, giwaaboozowaaba ]
+    2+waaboos+NA+2+Pl+Voc+Pl: giwaaboozowaadig
+    3+waaboos+NA+3+4+Prt: [ owaaboozoniwiban, owaaboozoniwiba, owaaboozoniiban, owaaboozoniiba ]
+    1+waaboos+NA+1+Pl+4: niwaaboozonaanin
+    1+waaboos+NA+1+Pl+Loc: niwaaboozonaaning
+    1+waaboos+NA+1+Pl+Pl: niwaaboozonaany1ag
+    2+waaboos+NA+1+Pl+4: giwaaboozonaanin
+    2+waaboos+NA+1+Pl+Loc: giwaaboozonaaning
+    2+waaboos+NA+1+Pl+Pl: giwaaboozonaany1ag
+    2+waaboos+NA+2+Pl+4: giwaaboozowaan
+    2+waaboos+NA+2+Pl+Loc: giwaaboozowaang
+    2+waaboos+NA+2+Pl+Pl: giwaaboozowaaag
+    3+waaboos+NA+2+Pl+4: owaaboozowaan
+    3+waaboos+NA+2+Pl+Loc: owaaboozowaang
+    3+waaboos+NA+3+4+4: owaaboozoniwan
+    3+waaboos+NA+3+4+Loc: owaaboozoniing
+    1+waaboos+NA+Prt+4: niwaaboozobaniin
+    1+waaboos+NA+Prt+Loc: niwaaboozobaniing
+    1+waaboos+NA+Prt+Pl: niwaaboozobani1ag
+    2+waaboos+NA+Prt+4: giwaaboozobaniin
+    2+waaboos+NA+Prt+Loc: giwaaboozobaniing
+    2+waaboos+NA+Prt+Pl: giwaaboozobani1ag
+    3+waaboos+NA+Prt+4: owaaboozobaniin
+    3+waaboos+NA+Prt+Loc: owaaboozobaniing
+    X+waaboos+NA+Prt+4: iwaaboozobaniin
+    X+waaboos+NA+Prt+Loc: iwaaboozobaniing
+    X+waaboos+NA+Prt+Pl: iwaaboozobani1ag
+    waaboos+NA+Con+Pej+Prt: [ waaboozoenyishiban, waaboozoenyishiba ]
+    waaboos+NA+Con+Pej+Voc+Pl: waaboozoenyishdig
+    waaboos+NA+Dim+Pej+Prt: [ waaboozoensishiban, waaboozoensishiba ]
+    waaboos+NA+Dim+Pej+Voc+Pl: waaboozoensishdig
+    waaboos+NA+Con+Pej+4: waaboozoenyishan
+    waaboos+NA+Con+Pej+Loc: waaboozoenyishing
+    waaboos+NA+Con+Pej+Pl: waaboozoenyishag
+    waaboos+NA+Dim+Pej+4: waaboozoensishan
+    waaboos+NA+Dim+Pej+Loc: waaboozoensishing
+    waaboos+NA+Dim+Pej+Pl: waaboozoensishag
+    waaboos+NA+Con+Prt+4: waaboozoenyibaniin
+    waaboos+NA+Con+Prt+Loc: waaboozoenyibaniing
+    waaboos+NA+Con+Prt+Pl: waaboozoenyibani1ag
+    waaboos+NA+Dim+Prt+4: waaboozoensibaniin
+    waaboos+NA+Dim+Prt+Loc: waaboozoensibaniing
+    waaboos+NA+Dim+Prt+Pl: waaboozoensibani1ag
+    waaboos+NA+Pej+Prt+4: waaboozoshibaniin
+    waaboos+NA+Pej+Prt+Loc: waaboozoshibaniing
+    waaboos+NA+Pej+Prt+Pl: waaboozoshibani1ag
+    1+waaboos+NA+Con+ThmPos+Pej: niwaaboozoenymish
+    1+waaboos+NA+Dim+ThmPos+Pej: niwaaboozoensmish
+    2+waaboos+NA+Con+ThmPos+Pej: giwaaboozoenymish
+    2+waaboos+NA+Dim+ThmPos+Pej: giwaaboozoensmish
+    X+waaboos+NA+Con+ThmPos+Pej: iwaaboozoenymish
+    X+waaboos+NA+Dim+ThmPos+Pej: iwaaboozoensmish
+    1+waaboos+NA+Con+ThmPos+1+Pl: [ niwaaboozoenymnaan, niwaaboozoenymnaa ]
+    1+waaboos+NA+Dim+ThmPos+1+Pl: [ niwaaboozoensmnaan, niwaaboozoensmnaa ]
+    2+waaboos+NA+Con+ThmPos+1+Pl: [ giwaaboozoenymnaan, giwaaboozoenymnaa ]
+    2+waaboos+NA+Con+ThmPos+2+Pl: giwaaboozoenymwaa
+    2+waaboos+NA+Dim+ThmPos+1+Pl: [ giwaaboozoensmnaan, giwaaboozoensmnaa ]
+    2+waaboos+NA+Dim+ThmPos+2+Pl: giwaaboozoensmwaa
+    3+waaboos+NA+Con+ThmPos+3+4: owaaboozoenymniw
+    3+waaboos+NA+Dim+ThmPos+3+4: owaaboozoensmniw
+    1+waaboos+NA+Con+ThmPos+Prt: [ niwaaboozoenymiban, niwaaboozoenymiba ]
+    1+waaboos+NA+Con+ThmPos+Voc+Pl: niwaaboozoenymdig
+    1+waaboos+NA+Dim+ThmPos+Prt: [ niwaaboozoensmiban, niwaaboozoensmiba ]
+    1+waaboos+NA+Dim+ThmPos+Voc+Pl: niwaaboozoensmdig
+    2+waaboos+NA+Con+ThmPos+Prt: [ giwaaboozoenymiban, giwaaboozoenymiba ]
+    2+waaboos+NA+Con+ThmPos+Voc+Pl: giwaaboozoenymdig
+    2+waaboos+NA+Dim+ThmPos+Prt: [ giwaaboozoensmiban, giwaaboozoensmiba ]
+    2+waaboos+NA+Dim+ThmPos+Voc+Pl: giwaaboozoensmdig
+    X+waaboos+NA+Con+ThmPos+Prt: [ iwaaboozoenymiban, iwaaboozoenymiba ]
+    X+waaboos+NA+Con+ThmPos+Voc+Pl: iwaaboozoenymdig
+    X+waaboos+NA+Dim+ThmPos+Prt: [ iwaaboozoensmiban, iwaaboozoensmiba ]
+    X+waaboos+NA+Dim+ThmPos+Voc+Pl: iwaaboozoensmdig
+    1+waaboos+NA+Con+ThmPos+4: niwaaboozoenyman
+    1+waaboos+NA+Con+ThmPos+Loc: niwaaboozoenyming
+    1+waaboos+NA+Con+ThmPos+Pl: niwaaboozoenymag
+    1+waaboos+NA+Dim+ThmPos+4: niwaaboozoensman
+    1+waaboos+NA+Dim+ThmPos+Loc: niwaaboozoensming
+    1+waaboos+NA+Dim+ThmPos+Pl: niwaaboozoensmag
+    2+waaboos+NA+Con+ThmPos+4: giwaaboozoenyman
+    2+waaboos+NA+Con+ThmPos+Loc: giwaaboozoenyming
+    2+waaboos+NA+Con+ThmPos+Pl: giwaaboozoenymag
+    2+waaboos+NA+Dim+ThmPos+4: giwaaboozoensman
+    2+waaboos+NA+Dim+ThmPos+Loc: giwaaboozoensming
+    2+waaboos+NA+Dim+ThmPos+Pl: giwaaboozoensmag
+    3+waaboos+NA+Con+ThmPos+4: owaaboozoenyman
+    3+waaboos+NA+Con+ThmPos+Loc: owaaboozoenyming
+    3+waaboos+NA+Dim+ThmPos+4: owaaboozoensman
+    3+waaboos+NA+Dim+ThmPos+Loc: owaaboozoensming
+    X+waaboos+NA+Con+ThmPos+4: iwaaboozoenyman
+    X+waaboos+NA+Con+ThmPos+Loc: iwaaboozoenyming
+    X+waaboos+NA+Con+ThmPos+Pl: iwaaboozoenymag
+    X+waaboos+NA+Dim+ThmPos+4: iwaaboozoensman
+    X+waaboos+NA+Dim+ThmPos+Loc: iwaaboozoensming
+    X+waaboos+NA+Dim+ThmPos+Pl: iwaaboozoensmag
+    1+waaboos+NA+Con+Pej+1+Pl: [ niwaaboozoenyishnaan, niwaaboozoenyishnaa ]
+    1+waaboos+NA+Dim+Pej+1+Pl: [ niwaaboozoensishnaan, niwaaboozoensishnaa ]
+    2+waaboos+NA+Con+Pej+1+Pl: [ giwaaboozoenyishnaan, giwaaboozoenyishnaa ]
+    2+waaboos+NA+Con+Pej+2+Pl: giwaaboozoenyishwaa
+    2+waaboos+NA+Dim+Pej+1+Pl: [ giwaaboozoensishnaan, giwaaboozoensishnaa ]
+    2+waaboos+NA+Dim+Pej+2+Pl: giwaaboozoensishwaa
+    3+waaboos+NA+Con+Pej+3+4: owaaboozoenyishniw
+    3+waaboos+NA+Dim+Pej+3+4: owaaboozoensishniw
+    1+waaboos+NA+Con+Pej+Prt: [ niwaaboozoenyishiban, niwaaboozoenyishiba ]
+    1+waaboos+NA+Con+Pej+Voc+Pl: niwaaboozoenyishdig
+    1+waaboos+NA+Dim+Pej+Prt: [ niwaaboozoensishiban, niwaaboozoensishiba ]
+    1+waaboos+NA+Dim+Pej+Voc+Pl: niwaaboozoensishdig
+    2+waaboos+NA+Con+Pej+Prt: [ giwaaboozoenyishiban, giwaaboozoenyishiba ]
+    2+waaboos+NA+Con+Pej+Voc+Pl: giwaaboozoenyishdig
+    2+waaboos+NA+Dim+Pej+Prt: [ giwaaboozoensishiban, giwaaboozoensishiba ]
+    2+waaboos+NA+Dim+Pej+Voc+Pl: giwaaboozoensishdig
+    X+waaboos+NA+Con+Pej+Prt: [ iwaaboozoenyishiban, iwaaboozoenyishiba ]
+    X+waaboos+NA+Con+Pej+Voc+Pl: iwaaboozoenyishdig
+    X+waaboos+NA+Dim+Pej+Prt: [ iwaaboozoensishiban, iwaaboozoensishiba ]
+    X+waaboos+NA+Dim+Pej+Voc+Pl: iwaaboozoensishdig
+    1+waaboos+NA+Con+Pej+4: niwaaboozoenyishan
+    1+waaboos+NA+Con+Pej+Loc: niwaaboozoenyishing
+    1+waaboos+NA+Con+Pej+Pl: niwaaboozoenyishag
+    1+waaboos+NA+Dim+Pej+4: niwaaboozoensishan
+    1+waaboos+NA+Dim+Pej+Loc: niwaaboozoensishing
+    1+waaboos+NA+Dim+Pej+Pl: niwaaboozoensishag
+    2+waaboos+NA+Con+Pej+4: giwaaboozoenyishan
+    2+waaboos+NA+Con+Pej+Loc: giwaaboozoenyishing
+    2+waaboos+NA+Con+Pej+Pl: giwaaboozoenyishag
+    2+waaboos+NA+Dim+Pej+4: giwaaboozoensishan
+    2+waaboos+NA+Dim+Pej+Loc: giwaaboozoensishing
+    2+waaboos+NA+Dim+Pej+Pl: giwaaboozoensishag
+    3+waaboos+NA+Con+Pej+4: owaaboozoenyishan
+    3+waaboos+NA+Con+Pej+Loc: owaaboozoenyishing
+    3+waaboos+NA+Dim+Pej+4: owaaboozoensishan
+    3+waaboos+NA+Dim+Pej+Loc: owaaboozoensishing
+    X+waaboos+NA+Con+Pej+4: iwaaboozoenyishan
+    X+waaboos+NA+Con+Pej+Loc: iwaaboozoenyishing
+    X+waaboos+NA+Con+Pej+Pl: iwaaboozoenyishag
+    X+waaboos+NA+Dim+Pej+4: iwaaboozoensishan
+    X+waaboos+NA+Dim+Pej+Loc: iwaaboozoensishing
+    X+waaboos+NA+Dim+Pej+Pl: iwaaboozoensishag
+    1+waaboos+NA+Con+1+Pl+Prt: [ niwaaboozoenynaaniban, niwaaboozoenynaaniba ]
+    1+waaboos+NA+Con+1+Pl+Voc+Pl: niwaaboozoenynaany1dig
+    1+waaboos+NA+Dim+1+Pl+Prt: [ niwaaboozoensnaaniban, niwaaboozoensnaaniba ]
+    1+waaboos+NA+Dim+1+Pl+Voc+Pl: niwaaboozoensnaany1dig
+    2+waaboos+NA+Con+1+Pl+Prt: [ giwaaboozoenynaaniban, giwaaboozoenynaaniba ]
+    2+waaboos+NA+Con+1+Pl+Voc+Pl: giwaaboozoenynaany1dig
+    2+waaboos+NA+Con+2+Pl+Prt: [ giwaaboozoenywaaban, giwaaboozoenywaaba ]
+    2+waaboos+NA+Con+2+Pl+Voc+Pl: giwaaboozoenywaadig
+    2+waaboos+NA+Dim+1+Pl+Prt: [ giwaaboozoensnaaniban, giwaaboozoensnaaniba ]
+    2+waaboos+NA+Dim+1+Pl+Voc+Pl: giwaaboozoensnaany1dig
+    2+waaboos+NA+Dim+2+Pl+Prt: [ giwaaboozoenswaaban, giwaaboozoenswaaba ]
+    2+waaboos+NA+Dim+2+Pl+Voc+Pl: giwaaboozoenswaadig
+    3+waaboos+NA+Con+3+4+Prt: [ owaaboozoenyniwiban, owaaboozoenyniwiba, owaaboozoenyniiban, owaaboozoenyniiba ]
+    3+waaboos+NA+Dim+3+4+Prt: [ owaaboozoensniwiban, owaaboozoensniwiba, owaaboozoensniiban, owaaboozoensniiba ]
+    1+waaboos+NA+Con+1+Pl+4: niwaaboozoenynaanin
+    1+waaboos+NA+Con+1+Pl+Loc: niwaaboozoenynaaning
+    1+waaboos+NA+Con+1+Pl+Pl: niwaaboozoenynaany1ag
+    1+waaboos+NA+Dim+1+Pl+4: niwaaboozoensnaanin
+    1+waaboos+NA+Dim+1+Pl+Loc: niwaaboozoensnaaning
+    1+waaboos+NA+Dim+1+Pl+Pl: niwaaboozoensnaany1ag
+    2+waaboos+NA+Con+1+Pl+4: giwaaboozoenynaanin
+    2+waaboos+NA+Con+1+Pl+Loc: giwaaboozoenynaaning
+    2+waaboos+NA+Con+1+Pl+Pl: giwaaboozoenynaany1ag
+    2+waaboos+NA+Con+2+Pl+4: giwaaboozoenywaan
+    2+waaboos+NA+Con+2+Pl+Loc: giwaaboozoenywaang
+    2+waaboos+NA+Con+2+Pl+Pl: giwaaboozoenywaaag
+    2+waaboos+NA+Dim+1+Pl+4: giwaaboozoensnaanin
+    2+waaboos+NA+Dim+1+Pl+Loc: giwaaboozoensnaaning
+    2+waaboos+NA+Dim+1+Pl+Pl: giwaaboozoensnaany1ag
+    2+waaboos+NA+Dim+2+Pl+4: giwaaboozoenswaan
+    2+waaboos+NA+Dim+2+Pl+Loc: giwaaboozoenswaang
+    2+waaboos+NA+Dim+2+Pl+Pl: giwaaboozoenswaaag
+    3+waaboos+NA+Con+2+Pl+4: owaaboozoenywaan
+    3+waaboos+NA+Con+2+Pl+Loc: owaaboozoenywaang
+    3+waaboos+NA+Con+3+4+4: owaaboozoenyniwan
+    3+waaboos+NA+Con+3+4+Loc: owaaboozoenyniing
+    3+waaboos+NA+Dim+2+Pl+4: owaaboozoenswaan
+    3+waaboos+NA+Dim+2+Pl+Loc: owaaboozoenswaang
+    3+waaboos+NA+Dim+3+4+4: owaaboozoensniwan
+    3+waaboos+NA+Dim+3+4+Loc: owaaboozoensniing
+    1+waaboos+NA+Con+Prt+4: niwaaboozoenyibaniin
+    1+waaboos+NA+Con+Prt+Loc: niwaaboozoenyibaniing
+    1+waaboos+NA+Con+Prt+Pl: niwaaboozoenyibani1ag
+    1+waaboos+NA+Dim+Prt+4: niwaaboozoensibaniin
+    1+waaboos+NA+Dim+Prt+Loc: niwaaboozoensibaniing
+    1+waaboos+NA+Dim+Prt+Pl: niwaaboozoensibani1ag
+    2+waaboos+NA+Con+Prt+4: giwaaboozoenyibaniin
+    2+waaboos+NA+Con+Prt+Loc: giwaaboozoenyibaniing
+    2+waaboos+NA+Con+Prt+Pl: giwaaboozoenyibani1ag
+    2+waaboos+NA+Dim+Prt+4: giwaaboozoensibaniin
+    2+waaboos+NA+Dim+Prt+Loc: giwaaboozoensibaniing
+    2+waaboos+NA+Dim+Prt+Pl: giwaaboozoensibani1ag
+    3+waaboos+NA+Con+Prt+4: owaaboozoenyibaniin
+    3+waaboos+NA+Con+Prt+Loc: owaaboozoenyibaniing
+    3+waaboos+NA+Dim+Prt+4: owaaboozoensibaniin
+    3+waaboos+NA+Dim+Prt+Loc: owaaboozoensibaniing
+    X+waaboos+NA+Con+Prt+4: iwaaboozoenyibaniin
+    X+waaboos+NA+Con+Prt+Loc: iwaaboozoenyibaniing
+    X+waaboos+NA+Con+Prt+Pl: iwaaboozoenyibani1ag
+    X+waaboos+NA+Dim+Prt+4: iwaaboozoensibaniin
+    X+waaboos+NA+Dim+Prt+Loc: iwaaboozoensibaniing
+    X+waaboos+NA+Dim+Prt+Pl: iwaaboozoensibani1ag
+    1+waaboos+NA+ThmPos+Pej+1+Pl: [ niwaaboozomishnaan, niwaaboozomishnaa ]
+    2+waaboos+NA+ThmPos+Pej+1+Pl: [ giwaaboozomishnaan, giwaaboozomishnaa ]
+    2+waaboos+NA+ThmPos+Pej+2+Pl: giwaaboozomishwaa
+    3+waaboos+NA+ThmPos+Pej+3+4: owaaboozomishniw
+    1+waaboos+NA+ThmPos+Pej+Prt: [ niwaaboozomishiban, niwaaboozomishiba ]
+    1+waaboos+NA+ThmPos+Pej+Voc+Pl: niwaaboozomishdig
+    2+waaboos+NA+ThmPos+Pej+Prt: [ giwaaboozomishiban, giwaaboozomishiba ]
+    2+waaboos+NA+ThmPos+Pej+Voc+Pl: giwaaboozomishdig
+    X+waaboos+NA+ThmPos+Pej+Prt: [ iwaaboozomishiban, iwaaboozomishiba ]
+    X+waaboos+NA+ThmPos+Pej+Voc+Pl: iwaaboozomishdig
+    1+waaboos+NA+ThmPos+Pej+4: niwaaboozomishan
+    1+waaboos+NA+ThmPos+Pej+Loc: niwaaboozomishing
+    1+waaboos+NA+ThmPos+Pej+Pl: niwaaboozomishag
+    2+waaboos+NA+ThmPos+Pej+4: giwaaboozomishan
+    2+waaboos+NA+ThmPos+Pej+Loc: giwaaboozomishing
+    2+waaboos+NA+ThmPos+Pej+Pl: giwaaboozomishag
+    3+waaboos+NA+ThmPos+Pej+4: owaaboozomishan
+    3+waaboos+NA+ThmPos+Pej+Loc: owaaboozomishing
+    X+waaboos+NA+ThmPos+Pej+4: iwaaboozomishan
+    X+waaboos+NA+ThmPos+Pej+Loc: iwaaboozomishing
+    X+waaboos+NA+ThmPos+Pej+Pl: iwaaboozomishag
+    1+waaboos+NA+ThmPos+1+Pl+Prt: [ niwaaboozomnaaniban, niwaaboozomnaaniba ]
+    1+waaboos+NA+ThmPos+1+Pl+Voc+Pl: niwaaboozomnaany1dig
+    2+waaboos+NA+ThmPos+1+Pl+Prt: [ giwaaboozomnaaniban, giwaaboozomnaaniba ]
+    2+waaboos+NA+ThmPos+1+Pl+Voc+Pl: giwaaboozomnaany1dig
+    2+waaboos+NA+ThmPos+2+Pl+Prt: [ giwaaboozomwaaban, giwaaboozomwaaba ]
+    2+waaboos+NA+ThmPos+2+Pl+Voc+Pl: giwaaboozomwaadig
+    3+waaboos+NA+ThmPos+3+4+Prt: [ owaaboozomniwiban, owaaboozomniwiba, owaaboozomniiban, owaaboozomniiba ]
+    1+waaboos+NA+ThmPos+1+Pl+4: niwaaboozomnaanin
+    1+waaboos+NA+ThmPos+1+Pl+Loc: niwaaboozomnaaning
+    1+waaboos+NA+ThmPos+1+Pl+Pl: niwaaboozomnaany1ag
+    2+waaboos+NA+ThmPos+1+Pl+4: giwaaboozomnaanin
+    2+waaboos+NA+ThmPos+1+Pl+Loc: giwaaboozomnaaning
+    2+waaboos+NA+ThmPos+1+Pl+Pl: giwaaboozomnaany1ag
+    2+waaboos+NA+ThmPos+2+Pl+4: giwaaboozomwaan
+    2+waaboos+NA+ThmPos+2+Pl+Loc: giwaaboozomwaang
+    2+waaboos+NA+ThmPos+2+Pl+Pl: giwaaboozomwaaag
+    3+waaboos+NA+ThmPos+2+Pl+4: owaaboozomwaan
+    3+waaboos+NA+ThmPos+2+Pl+Loc: owaaboozomwaang
+    3+waaboos+NA+ThmPos+3+4+4: owaaboozomniwan
+    3+waaboos+NA+ThmPos+3+4+Loc: owaaboozomniing
+    1+waaboos+NA+ThmPos+Prt+4: niwaaboozomibaniin
+    1+waaboos+NA+ThmPos+Prt+Loc: niwaaboozomibaniing
+    1+waaboos+NA+ThmPos+Prt+Pl: niwaaboozomibani1ag
+    2+waaboos+NA+ThmPos+Prt+4: giwaaboozomibaniin
+    2+waaboos+NA+ThmPos+Prt+Loc: giwaaboozomibaniing
+    2+waaboos+NA+ThmPos+Prt+Pl: giwaaboozomibani1ag
+    3+waaboos+NA+ThmPos+Prt+4: owaaboozomibaniin
+    3+waaboos+NA+ThmPos+Prt+Loc: owaaboozomibaniing
+    X+waaboos+NA+ThmPos+Prt+4: iwaaboozomibaniin
+    X+waaboos+NA+ThmPos+Prt+Loc: iwaaboozomibaniing
+    X+waaboos+NA+ThmPos+Prt+Pl: iwaaboozomibani1ag
+    1+waaboos+NA+Pej+1+Pl+Prt: [ niwaaboozoshnaaniban, niwaaboozoshnaaniba ]
+    1+waaboos+NA+Pej+1+Pl+Voc+Pl: niwaaboozoshnaany1dig
+    2+waaboos+NA+Pej+1+Pl+Prt: [ giwaaboozoshnaaniban, giwaaboozoshnaaniba ]
+    2+waaboos+NA+Pej+1+Pl+Voc+Pl: giwaaboozoshnaany1dig
+    2+waaboos+NA+Pej+2+Pl+Prt: [ giwaaboozoshwaaban, giwaaboozoshwaaba ]
+    2+waaboos+NA+Pej+2+Pl+Voc+Pl: giwaaboozoshwaadig
+    3+waaboos+NA+Pej+3+4+Prt: [ owaaboozoshniwiban, owaaboozoshniwiba, owaaboozoshniiban, owaaboozoshniiba ]
+    1+waaboos+NA+Pej+1+Pl+4: niwaaboozoshnaanin
+    1+waaboos+NA+Pej+1+Pl+Loc: niwaaboozoshnaaning
+    1+waaboos+NA+Pej+1+Pl+Pl: niwaaboozoshnaany1ag
+    2+waaboos+NA+Pej+1+Pl+4: giwaaboozoshnaanin
+    2+waaboos+NA+Pej+1+Pl+Loc: giwaaboozoshnaaning
+    2+waaboos+NA+Pej+1+Pl+Pl: giwaaboozoshnaany1ag
+    2+waaboos+NA+Pej+2+Pl+4: giwaaboozoshwaan
+    2+waaboos+NA+Pej+2+Pl+Loc: giwaaboozoshwaang
+    2+waaboos+NA+Pej+2+Pl+Pl: giwaaboozoshwaaag
+    3+waaboos+NA+Pej+2+Pl+4: owaaboozoshwaan
+    3+waaboos+NA+Pej+2+Pl+Loc: owaaboozoshwaang
+    3+waaboos+NA+Pej+3+4+4: owaaboozoshniwan
+    3+waaboos+NA+Pej+3+4+Loc: owaaboozoshniing
+    1+waaboos+NA+Pej+Prt+4: niwaaboozoshibaniin
+    1+waaboos+NA+Pej+Prt+Loc: niwaaboozoshibaniing
+    1+waaboos+NA+Pej+Prt+Pl: niwaaboozoshibani1ag
+    2+waaboos+NA+Pej+Prt+4: giwaaboozoshibaniin
+    2+waaboos+NA+Pej+Prt+Loc: giwaaboozoshibaniing
+    2+waaboos+NA+Pej+Prt+Pl: giwaaboozoshibani1ag
+    3+waaboos+NA+Pej+Prt+4: owaaboozoshibaniin
+    3+waaboos+NA+Pej+Prt+Loc: owaaboozoshibaniing
+    X+waaboos+NA+Pej+Prt+4: iwaaboozoshibaniin
+    X+waaboos+NA+Pej+Prt+Loc: iwaaboozoshibaniing
+    X+waaboos+NA+Pej+Prt+Pl: iwaaboozoshibani1ag
+    1+waaboos+NA+1+Pl+Prt+4: niwaaboozonaanibaniin
+    1+waaboos+NA+1+Pl+Prt+Loc: niwaaboozonaanibaniing
+    1+waaboos+NA+1+Pl+Prt+Pl: niwaaboozonaanibani1ag
+    2+waaboos+NA+1+Pl+Prt+4: giwaaboozonaanibaniin
+    2+waaboos+NA+1+Pl+Prt+Loc: giwaaboozonaanibaniing
+    2+waaboos+NA+1+Pl+Prt+Pl: giwaaboozonaanibani1ag
+    2+waaboos+NA+2+Pl+Prt+4: giwaaboozowaabaniin
+    2+waaboos+NA+2+Pl+Prt+Loc: giwaaboozowaabaniing
+    2+waaboos+NA+2+Pl+Prt+Pl: giwaaboozowaabani1ag
+    3+waaboos+NA+2+Pl+Prt+4: owaaboozowaabaniin
+    3+waaboos+NA+2+Pl+Prt+Loc: owaaboozowaabaniing
+    3+waaboos+NA+3+4+Prt+4: [ owaaboozoniwibaniin, owaaboozoniibaniin ]
+    3+waaboos+NA+3+4+Prt+Loc: [ owaaboozoniwibaniing, owaaboozoniibaniing ]
+    waaboos+NA+Con+Pej+Prt+4: waaboozoenyishibaniin
+    waaboos+NA+Con+Pej+Prt+Loc: waaboozoenyishibaniing
+    waaboos+NA+Con+Pej+Prt+Pl: waaboozoenyishibani1ag
+    waaboos+NA+Dim+Pej+Prt+4: waaboozoensishibaniin
+    waaboos+NA+Dim+Pej+Prt+Loc: waaboozoensishibaniing
+    waaboos+NA+Dim+Pej+Prt+Pl: waaboozoensishibani1ag
+    1+waaboos+NA+Con+ThmPos+Pej+1+Pl: [ niwaaboozoenymishnaan, niwaaboozoenymishnaa ]
+    1+waaboos+NA+Dim+ThmPos+Pej+1+Pl: [ niwaaboozoensmishnaan, niwaaboozoensmishnaa ]
+    2+waaboos+NA+Con+ThmPos+Pej+1+Pl: [ giwaaboozoenymishnaan, giwaaboozoenymishnaa ]
+    2+waaboos+NA+Con+ThmPos+Pej+2+Pl: giwaaboozoenymishwaa
+    2+waaboos+NA+Dim+ThmPos+Pej+1+Pl: [ giwaaboozoensmishnaan, giwaaboozoensmishnaa ]
+    2+waaboos+NA+Dim+ThmPos+Pej+2+Pl: giwaaboozoensmishwaa
+    3+waaboos+NA+Con+ThmPos+Pej+3+4: owaaboozoenymishniw
+    3+waaboos+NA+Dim+ThmPos+Pej+3+4: owaaboozoensmishniw
+    1+waaboos+NA+Con+ThmPos+Pej+Prt: [ niwaaboozoenymishiban, niwaaboozoenymishiba ]
+    1+waaboos+NA+Con+ThmPos+Pej+Voc+Pl: niwaaboozoenymishdig
+    1+waaboos+NA+Dim+ThmPos+Pej+Prt: [ niwaaboozoensmishiban, niwaaboozoensmishiba ]
+    1+waaboos+NA+Dim+ThmPos+Pej+Voc+Pl: niwaaboozoensmishdig
+    2+waaboos+NA+Con+ThmPos+Pej+Prt: [ giwaaboozoenymishiban, giwaaboozoenymishiba ]
+    2+waaboos+NA+Con+ThmPos+Pej+Voc+Pl: giwaaboozoenymishdig
+    2+waaboos+NA+Dim+ThmPos+Pej+Prt: [ giwaaboozoensmishiban, giwaaboozoensmishiba ]
+    2+waaboos+NA+Dim+ThmPos+Pej+Voc+Pl: giwaaboozoensmishdig
+    X+waaboos+NA+Con+ThmPos+Pej+Prt: [ iwaaboozoenymishiban, iwaaboozoenymishiba ]
+    X+waaboos+NA+Con+ThmPos+Pej+Voc+Pl: iwaaboozoenymishdig
+    X+waaboos+NA+Dim+ThmPos+Pej+Prt: [ iwaaboozoensmishiban, iwaaboozoensmishiba ]
+    X+waaboos+NA+Dim+ThmPos+Pej+Voc+Pl: iwaaboozoensmishdig
+    1+waaboos+NA+Con+ThmPos+Pej+4: niwaaboozoenymishan
+    1+waaboos+NA+Con+ThmPos+Pej+Loc: niwaaboozoenymishing
+    1+waaboos+NA+Con+ThmPos+Pej+Pl: niwaaboozoenymishag
+    1+waaboos+NA+Dim+ThmPos+Pej+4: niwaaboozoensmishan
+    1+waaboos+NA+Dim+ThmPos+Pej+Loc: niwaaboozoensmishing
+    1+waaboos+NA+Dim+ThmPos+Pej+Pl: niwaaboozoensmishag
+    2+waaboos+NA+Con+ThmPos+Pej+4: giwaaboozoenymishan
+    2+waaboos+NA+Con+ThmPos+Pej+Loc: giwaaboozoenymishing
+    2+waaboos+NA+Con+ThmPos+Pej+Pl: giwaaboozoenymishag
+    2+waaboos+NA+Dim+ThmPos+Pej+4: giwaaboozoensmishan
+    2+waaboos+NA+Dim+ThmPos+Pej+Loc: giwaaboozoensmishing
+    2+waaboos+NA+Dim+ThmPos+Pej+Pl: giwaaboozoensmishag
+    3+waaboos+NA+Con+ThmPos+Pej+4: owaaboozoenymishan
+    3+waaboos+NA+Con+ThmPos+Pej+Loc: owaaboozoenymishing
+    3+waaboos+NA+Dim+ThmPos+Pej+4: owaaboozoensmishan
+    3+waaboos+NA+Dim+ThmPos+Pej+Loc: owaaboozoensmishing
+    X+waaboos+NA+Con+ThmPos+Pej+4: iwaaboozoenymishan
+    X+waaboos+NA+Con+ThmPos+Pej+Loc: iwaaboozoenymishing
+    X+waaboos+NA+Con+ThmPos+Pej+Pl: iwaaboozoenymishag
+    X+waaboos+NA+Dim+ThmPos+Pej+4: iwaaboozoensmishan
+    X+waaboos+NA+Dim+ThmPos+Pej+Loc: iwaaboozoensmishing
+    X+waaboos+NA+Dim+ThmPos+Pej+Pl: iwaaboozoensmishag
+    1+waaboos+NA+Con+ThmPos+1+Pl+Prt: [ niwaaboozoenymnaaniban, niwaaboozoenymnaaniba ]
+    1+waaboos+NA+Con+ThmPos+1+Pl+Voc+Pl: niwaaboozoenymnaany1dig
+    1+waaboos+NA+Dim+ThmPos+1+Pl+Prt: [ niwaaboozoensmnaaniban, niwaaboozoensmnaaniba ]
+    1+waaboos+NA+Dim+ThmPos+1+Pl+Voc+Pl: niwaaboozoensmnaany1dig
+    2+waaboos+NA+Con+ThmPos+1+Pl+Prt: [ giwaaboozoenymnaaniban, giwaaboozoenymnaaniba ]
+    2+waaboos+NA+Con+ThmPos+1+Pl+Voc+Pl: giwaaboozoenymnaany1dig
+    2+waaboos+NA+Con+ThmPos+2+Pl+Prt: [ giwaaboozoenymwaaban, giwaaboozoenymwaaba ]
+    2+waaboos+NA+Con+ThmPos+2+Pl+Voc+Pl: giwaaboozoenymwaadig
+    2+waaboos+NA+Dim+ThmPos+1+Pl+Prt: [ giwaaboozoensmnaaniban, giwaaboozoensmnaaniba ]
+    2+waaboos+NA+Dim+ThmPos+1+Pl+Voc+Pl: giwaaboozoensmnaany1dig
+    2+waaboos+NA+Dim+ThmPos+2+Pl+Prt: [ giwaaboozoensmwaaban, giwaaboozoensmwaaba ]
+    2+waaboos+NA+Dim+ThmPos+2+Pl+Voc+Pl: giwaaboozoensmwaadig
+    3+waaboos+NA+Con+ThmPos+3+4+Prt: [ owaaboozoenymniwiban, owaaboozoenymniwiba, owaaboozoenymniiban, owaaboozoenymniiba ]
+    3+waaboos+NA+Dim+ThmPos+3+4+Prt: [ owaaboozoensmniwiban, owaaboozoensmniwiba, owaaboozoensmniiban, owaaboozoensmniiba ]
+    1+waaboos+NA+Con+ThmPos+1+Pl+4: niwaaboozoenymnaanin
+    1+waaboos+NA+Con+ThmPos+1+Pl+Loc: niwaaboozoenymnaaning
+    1+waaboos+NA+Con+ThmPos+1+Pl+Pl: niwaaboozoenymnaany1ag
+    1+waaboos+NA+Dim+ThmPos+1+Pl+4: niwaaboozoensmnaanin
+    1+waaboos+NA+Dim+ThmPos+1+Pl+Loc: niwaaboozoensmnaaning
+    1+waaboos+NA+Dim+ThmPos+1+Pl+Pl: niwaaboozoensmnaany1ag
+    2+waaboos+NA+Con+ThmPos+1+Pl+4: giwaaboozoenymnaanin
+    2+waaboos+NA+Con+ThmPos+1+Pl+Loc: giwaaboozoenymnaaning
+    2+waaboos+NA+Con+ThmPos+1+Pl+Pl: giwaaboozoenymnaany1ag
+    2+waaboos+NA+Con+ThmPos+2+Pl+4: giwaaboozoenymwaan
+    2+waaboos+NA+Con+ThmPos+2+Pl+Loc: giwaaboozoenymwaang
+    2+waaboos+NA+Con+ThmPos+2+Pl+Pl: giwaaboozoenymwaaag
+    2+waaboos+NA+Dim+ThmPos+1+Pl+4: giwaaboozoensmnaanin
+    2+waaboos+NA+Dim+ThmPos+1+Pl+Loc: giwaaboozoensmnaaning
+    2+waaboos+NA+Dim+ThmPos+1+Pl+Pl: giwaaboozoensmnaany1ag
+    2+waaboos+NA+Dim+ThmPos+2+Pl+4: giwaaboozoensmwaan
+    2+waaboos+NA+Dim+ThmPos+2+Pl+Loc: giwaaboozoensmwaang
+    2+waaboos+NA+Dim+ThmPos+2+Pl+Pl: giwaaboozoensmwaaag
+    3+waaboos+NA+Con+ThmPos+2+Pl+4: owaaboozoenymwaan
+    3+waaboos+NA+Con+ThmPos+2+Pl+Loc: owaaboozoenymwaang
+    3+waaboos+NA+Con+ThmPos+3+4+4: owaaboozoenymniwan
+    3+waaboos+NA+Con+ThmPos+3+4+Loc: owaaboozoenymniing
+    3+waaboos+NA+Dim+ThmPos+2+Pl+4: owaaboozoensmwaan
+    3+waaboos+NA+Dim+ThmPos+2+Pl+Loc: owaaboozoensmwaang
+    3+waaboos+NA+Dim+ThmPos+3+4+4: owaaboozoensmniwan
+    3+waaboos+NA+Dim+ThmPos+3+4+Loc: owaaboozoensmniing
+    1+waaboos+NA+Con+ThmPos+Prt+4: niwaaboozoenymibaniin
+    1+waaboos+NA+Con+ThmPos+Prt+Loc: niwaaboozoenymibaniing
+    1+waaboos+NA+Con+ThmPos+Prt+Pl: niwaaboozoenymibani1ag
+    1+waaboos+NA+Dim+ThmPos+Prt+4: niwaaboozoensmibaniin
+    1+waaboos+NA+Dim+ThmPos+Prt+Loc: niwaaboozoensmibaniing
+    1+waaboos+NA+Dim+ThmPos+Prt+Pl: niwaaboozoensmibani1ag
+    2+waaboos+NA+Con+ThmPos+Prt+4: giwaaboozoenymibaniin
+    2+waaboos+NA+Con+ThmPos+Prt+Loc: giwaaboozoenymibaniing
+    2+waaboos+NA+Con+ThmPos+Prt+Pl: giwaaboozoenymibani1ag
+    2+waaboos+NA+Dim+ThmPos+Prt+4: giwaaboozoensmibaniin
+    2+waaboos+NA+Dim+ThmPos+Prt+Loc: giwaaboozoensmibaniing
+    2+waaboos+NA+Dim+ThmPos+Prt+Pl: giwaaboozoensmibani1ag
+    3+waaboos+NA+Con+ThmPos+Prt+4: owaaboozoenymibaniin
+    3+waaboos+NA+Con+ThmPos+Prt+Loc: owaaboozoenymibaniing
+    3+waaboos+NA+Dim+ThmPos+Prt+4: owaaboozoensmibaniin
+    3+waaboos+NA+Dim+ThmPos+Prt+Loc: owaaboozoensmibaniing
+    X+waaboos+NA+Con+ThmPos+Prt+4: iwaaboozoenymibaniin
+    X+waaboos+NA+Con+ThmPos+Prt+Loc: iwaaboozoenymibaniing
+    X+waaboos+NA+Con+ThmPos+Prt+Pl: iwaaboozoenymibani1ag
+    X+waaboos+NA+Dim+ThmPos+Prt+4: iwaaboozoensmibaniin
+    X+waaboos+NA+Dim+ThmPos+Prt+Loc: iwaaboozoensmibaniing
+    X+waaboos+NA+Dim+ThmPos+Prt+Pl: iwaaboozoensmibani1ag
+    1+waaboos+NA+Con+Pej+1+Pl+Prt: [ niwaaboozoenyishnaaniban, niwaaboozoenyishnaaniba ]
+    1+waaboos+NA+Con+Pej+1+Pl+Voc+Pl: niwaaboozoenyishnaany1dig
+    1+waaboos+NA+Dim+Pej+1+Pl+Prt: [ niwaaboozoensishnaaniban, niwaaboozoensishnaaniba ]
+    1+waaboos+NA+Dim+Pej+1+Pl+Voc+Pl: niwaaboozoensishnaany1dig
+    2+waaboos+NA+Con+Pej+1+Pl+Prt: [ giwaaboozoenyishnaaniban, giwaaboozoenyishnaaniba ]
+    2+waaboos+NA+Con+Pej+1+Pl+Voc+Pl: giwaaboozoenyishnaany1dig
+    2+waaboos+NA+Con+Pej+2+Pl+Prt: [ giwaaboozoenyishwaaban, giwaaboozoenyishwaaba ]
+    2+waaboos+NA+Con+Pej+2+Pl+Voc+Pl: giwaaboozoenyishwaadig
+    2+waaboos+NA+Dim+Pej+1+Pl+Prt: [ giwaaboozoensishnaaniban, giwaaboozoensishnaaniba ]
+    2+waaboos+NA+Dim+Pej+1+Pl+Voc+Pl: giwaaboozoensishnaany1dig
+    2+waaboos+NA+Dim+Pej+2+Pl+Prt: [ giwaaboozoensishwaaban, giwaaboozoensishwaaba ]
+    2+waaboos+NA+Dim+Pej+2+Pl+Voc+Pl: giwaaboozoensishwaadig
+    3+waaboos+NA+Con+Pej+3+4+Prt: [ owaaboozoenyishniwiban, owaaboozoenyishniwiba, owaaboozoenyishniiban, owaaboozoenyishniiba ]
+    3+waaboos+NA+Dim+Pej+3+4+Prt: [ owaaboozoensishniwiban, owaaboozoensishniwiba, owaaboozoensishniiban, owaaboozoensishniiba ]
+    1+waaboos+NA+Con+Pej+1+Pl+4: niwaaboozoenyishnaanin
+    1+waaboos+NA+Con+Pej+1+Pl+Loc: niwaaboozoenyishnaaning
+    1+waaboos+NA+Con+Pej+1+Pl+Pl: niwaaboozoenyishnaany1ag
+    1+waaboos+NA+Dim+Pej+1+Pl+4: niwaaboozoensishnaanin
+    1+waaboos+NA+Dim+Pej+1+Pl+Loc: niwaaboozoensishnaaning
+    1+waaboos+NA+Dim+Pej+1+Pl+Pl: niwaaboozoensishnaany1ag
+    2+waaboos+NA+Con+Pej+1+Pl+4: giwaaboozoenyishnaanin
+    2+waaboos+NA+Con+Pej+1+Pl+Loc: giwaaboozoenyishnaaning
+    2+waaboos+NA+Con+Pej+1+Pl+Pl: giwaaboozoenyishnaany1ag
+    2+waaboos+NA+Con+Pej+2+Pl+4: giwaaboozoenyishwaan
+    2+waaboos+NA+Con+Pej+2+Pl+Loc: giwaaboozoenyishwaang
+    2+waaboos+NA+Con+Pej+2+Pl+Pl: giwaaboozoenyishwaaag
+    2+waaboos+NA+Dim+Pej+1+Pl+4: giwaaboozoensishnaanin
+    2+waaboos+NA+Dim+Pej+1+Pl+Loc: giwaaboozoensishnaaning
+    2+waaboos+NA+Dim+Pej+1+Pl+Pl: giwaaboozoensishnaany1ag
+    2+waaboos+NA+Dim+Pej+2+Pl+4: giwaaboozoensishwaan
+    2+waaboos+NA+Dim+Pej+2+Pl+Loc: giwaaboozoensishwaang
+    2+waaboos+NA+Dim+Pej+2+Pl+Pl: giwaaboozoensishwaaag
+    3+waaboos+NA+Con+Pej+2+Pl+4: owaaboozoenyishwaan
+    3+waaboos+NA+Con+Pej+2+Pl+Loc: owaaboozoenyishwaang
+    3+waaboos+NA+Con+Pej+3+4+4: owaaboozoenyishniwan
+    3+waaboos+NA+Con+Pej+3+4+Loc: owaaboozoenyishniing
+    3+waaboos+NA+Dim+Pej+2+Pl+4: owaaboozoensishwaan
+    3+waaboos+NA+Dim+Pej+2+Pl+Loc: owaaboozoensishwaang
+    3+waaboos+NA+Dim+Pej+3+4+4: owaaboozoensishniwan
+    3+waaboos+NA+Dim+Pej+3+4+Loc: owaaboozoensishniing
+    1+waaboos+NA+Con+Pej+Prt+4: niwaaboozoenyishibaniin
+    1+waaboos+NA+Con+Pej+Prt+Loc: niwaaboozoenyishibaniing
+    1+waaboos+NA+Con+Pej+Prt+Pl: niwaaboozoenyishibani1ag
+    1+waaboos+NA+Dim+Pej+Prt+4: niwaaboozoensishibaniin
+    1+waaboos+NA+Dim+Pej+Prt+Loc: niwaaboozoensishibaniing
+    1+waaboos+NA+Dim+Pej+Prt+Pl: niwaaboozoensishibani1ag
+    2+waaboos+NA+Con+Pej+Prt+4: giwaaboozoenyishibaniin
+    2+waaboos+NA+Con+Pej+Prt+Loc: giwaaboozoenyishibaniing
+    2+waaboos+NA+Con+Pej+Prt+Pl: giwaaboozoenyishibani1ag
+    2+waaboos+NA+Dim+Pej+Prt+4: giwaaboozoensishibaniin
+    2+waaboos+NA+Dim+Pej+Prt+Loc: giwaaboozoensishibaniing
+    2+waaboos+NA+Dim+Pej+Prt+Pl: giwaaboozoensishibani1ag
+    3+waaboos+NA+Con+Pej+Prt+4: owaaboozoenyishibaniin
+    3+waaboos+NA+Con+Pej+Prt+Loc: owaaboozoenyishibaniing
+    3+waaboos+NA+Dim+Pej+Prt+4: owaaboozoensishibaniin
+    3+waaboos+NA+Dim+Pej+Prt+Loc: owaaboozoensishibaniing
+    X+waaboos+NA+Con+Pej+Prt+4: iwaaboozoenyishibaniin
+    X+waaboos+NA+Con+Pej+Prt+Loc: iwaaboozoenyishibaniing
+    X+waaboos+NA+Con+Pej+Prt+Pl: iwaaboozoenyishibani1ag
+    X+waaboos+NA+Dim+Pej+Prt+4: iwaaboozoensishibaniin
+    X+waaboos+NA+Dim+Pej+Prt+Loc: iwaaboozoensishibaniing
+    X+waaboos+NA+Dim+Pej+Prt+Pl: iwaaboozoensishibani1ag
+    1+waaboos+NA+Con+1+Pl+Prt+4: niwaaboozoenynaanibaniin
+    1+waaboos+NA+Con+1+Pl+Prt+Loc: niwaaboozoenynaanibaniing
+    1+waaboos+NA+Con+1+Pl+Prt+Pl: niwaaboozoenynaanibani1ag
+    1+waaboos+NA+Dim+1+Pl+Prt+4: niwaaboozoensnaanibaniin
+    1+waaboos+NA+Dim+1+Pl+Prt+Loc: niwaaboozoensnaanibaniing
+    1+waaboos+NA+Dim+1+Pl+Prt+Pl: niwaaboozoensnaanibani1ag
+    2+waaboos+NA+Con+1+Pl+Prt+4: giwaaboozoenynaanibaniin
+    2+waaboos+NA+Con+1+Pl+Prt+Loc: giwaaboozoenynaanibaniing
+    2+waaboos+NA+Con+1+Pl+Prt+Pl: giwaaboozoenynaanibani1ag
+    2+waaboos+NA+Con+2+Pl+Prt+4: giwaaboozoenywaabaniin
+    2+waaboos+NA+Con+2+Pl+Prt+Loc: giwaaboozoenywaabaniing
+    2+waaboos+NA+Con+2+Pl+Prt+Pl: giwaaboozoenywaabani1ag
+    2+waaboos+NA+Dim+1+Pl+Prt+4: giwaaboozoensnaanibaniin
+    2+waaboos+NA+Dim+1+Pl+Prt+Loc: giwaaboozoensnaanibaniing
+    2+waaboos+NA+Dim+1+Pl+Prt+Pl: giwaaboozoensnaanibani1ag
+    2+waaboos+NA+Dim+2+Pl+Prt+4: giwaaboozoenswaabaniin
+    2+waaboos+NA+Dim+2+Pl+Prt+Loc: giwaaboozoenswaabaniing
+    2+waaboos+NA+Dim+2+Pl+Prt+Pl: giwaaboozoenswaabani1ag
+    3+waaboos+NA+Con+2+Pl+Prt+4: owaaboozoenywaabaniin
+    3+waaboos+NA+Con+2+Pl+Prt+Loc: owaaboozoenywaabaniing
+    3+waaboos+NA+Con+3+4+Prt+4: [ owaaboozoenyniwibaniin, owaaboozoenyniibaniin ]
+    3+waaboos+NA+Con+3+4+Prt+Loc: [ owaaboozoenyniwibaniing, owaaboozoenyniibaniing ]
+    3+waaboos+NA+Dim+2+Pl+Prt+4: owaaboozoenswaabaniin
+    3+waaboos+NA+Dim+2+Pl+Prt+Loc: owaaboozoenswaabaniing
+    3+waaboos+NA+Dim+3+4+Prt+4: [ owaaboozoensniwibaniin, owaaboozoensniibaniin ]
+    3+waaboos+NA+Dim+3+4+Prt+Loc: [ owaaboozoensniwibaniing, owaaboozoensniibaniing ]
+    1+waaboos+NA+ThmPos+Pej+1+Pl+Prt: [ niwaaboozomishnaaniban, niwaaboozomishnaaniba ]
+    1+waaboos+NA+ThmPos+Pej+1+Pl+Voc+Pl: niwaaboozomishnaany1dig
+    2+waaboos+NA+ThmPos+Pej+1+Pl+Prt: [ giwaaboozomishnaaniban, giwaaboozomishnaaniba ]
+    2+waaboos+NA+ThmPos+Pej+1+Pl+Voc+Pl: giwaaboozomishnaany1dig
+    2+waaboos+NA+ThmPos+Pej+2+Pl+Prt: [ giwaaboozomishwaaban, giwaaboozomishwaaba ]
+    2+waaboos+NA+ThmPos+Pej+2+Pl+Voc+Pl: giwaaboozomishwaadig
+    3+waaboos+NA+ThmPos+Pej+3+4+Prt: [ owaaboozomishniwiban, owaaboozomishniwiba, owaaboozomishniiban, owaaboozomishniiba ]
+    1+waaboos+NA+ThmPos+Pej+1+Pl+4: niwaaboozomishnaanin
+    1+waaboos+NA+ThmPos+Pej+1+Pl+Loc: niwaaboozomishnaaning
+    1+waaboos+NA+ThmPos+Pej+1+Pl+Pl: niwaaboozomishnaany1ag
+    2+waaboos+NA+ThmPos+Pej+1+Pl+4: giwaaboozomishnaanin
+    2+waaboos+NA+ThmPos+Pej+1+Pl+Loc: giwaaboozomishnaaning
+    2+waaboos+NA+ThmPos+Pej+1+Pl+Pl: giwaaboozomishnaany1ag
+    2+waaboos+NA+ThmPos+Pej+2+Pl+4: giwaaboozomishwaan
+    2+waaboos+NA+ThmPos+Pej+2+Pl+Loc: giwaaboozomishwaang
+    2+waaboos+NA+ThmPos+Pej+2+Pl+Pl: giwaaboozomishwaaag
+    3+waaboos+NA+ThmPos+Pej+2+Pl+4: owaaboozomishwaan
+    3+waaboos+NA+ThmPos+Pej+2+Pl+Loc: owaaboozomishwaang
+    3+waaboos+NA+ThmPos+Pej+3+4+4: owaaboozomishniwan
+    3+waaboos+NA+ThmPos+Pej+3+4+Loc: owaaboozomishniing
+    1+waaboos+NA+ThmPos+Pej+Prt+4: niwaaboozomishibaniin
+    1+waaboos+NA+ThmPos+Pej+Prt+Loc: niwaaboozomishibaniing
+    1+waaboos+NA+ThmPos+Pej+Prt+Pl: niwaaboozomishibani1ag
+    2+waaboos+NA+ThmPos+Pej+Prt+4: giwaaboozomishibaniin
+    2+waaboos+NA+ThmPos+Pej+Prt+Loc: giwaaboozomishibaniing
+    2+waaboos+NA+ThmPos+Pej+Prt+Pl: giwaaboozomishibani1ag
+    3+waaboos+NA+ThmPos+Pej+Prt+4: owaaboozomishibaniin
+    3+waaboos+NA+ThmPos+Pej+Prt+Loc: owaaboozomishibaniing
+    X+waaboos+NA+ThmPos+Pej+Prt+4: iwaaboozomishibaniin
+    X+waaboos+NA+ThmPos+Pej+Prt+Loc: iwaaboozomishibaniing
+    X+waaboos+NA+ThmPos+Pej+Prt+Pl: iwaaboozomishibani1ag
+    1+waaboos+NA+ThmPos+1+Pl+Prt+4: niwaaboozomnaanibaniin
+    1+waaboos+NA+ThmPos+1+Pl+Prt+Loc: niwaaboozomnaanibaniing
+    1+waaboos+NA+ThmPos+1+Pl+Prt+Pl: niwaaboozomnaanibani1ag
+    2+waaboos+NA+ThmPos+1+Pl+Prt+4: giwaaboozomnaanibaniin
+    2+waaboos+NA+ThmPos+1+Pl+Prt+Loc: giwaaboozomnaanibaniing
+    2+waaboos+NA+ThmPos+1+Pl+Prt+Pl: giwaaboozomnaanibani1ag
+    2+waaboos+NA+ThmPos+2+Pl+Prt+4: giwaaboozomwaabaniin
+    2+waaboos+NA+ThmPos+2+Pl+Prt+Loc: giwaaboozomwaabaniing
+    2+waaboos+NA+ThmPos+2+Pl+Prt+Pl: giwaaboozomwaabani1ag
+    3+waaboos+NA+ThmPos+2+Pl+Prt+4: owaaboozomwaabaniin
+    3+waaboos+NA+ThmPos+2+Pl+Prt+Loc: owaaboozomwaabaniing
+    3+waaboos+NA+ThmPos+3+4+Prt+4: [ owaaboozomniwibaniin, owaaboozomniibaniin ]
+    3+waaboos+NA+ThmPos+3+4+Prt+Loc: [ owaaboozomniwibaniing, owaaboozomniibaniing ]
+    1+waaboos+NA+Pej+1+Pl+Prt+4: niwaaboozoshnaanibaniin
+    1+waaboos+NA+Pej+1+Pl+Prt+Loc: niwaaboozoshnaanibaniing
+    1+waaboos+NA+Pej+1+Pl+Prt+Pl: niwaaboozoshnaanibani1ag
+    2+waaboos+NA+Pej+1+Pl+Prt+4: giwaaboozoshnaanibaniin
+    2+waaboos+NA+Pej+1+Pl+Prt+Loc: giwaaboozoshnaanibaniing
+    2+waaboos+NA+Pej+1+Pl+Prt+Pl: giwaaboozoshnaanibani1ag
+    2+waaboos+NA+Pej+2+Pl+Prt+4: giwaaboozoshwaabaniin
+    2+waaboos+NA+Pej+2+Pl+Prt+Loc: giwaaboozoshwaabaniing
+    2+waaboos+NA+Pej+2+Pl+Prt+Pl: giwaaboozoshwaabani1ag
+    3+waaboos+NA+Pej+2+Pl+Prt+4: owaaboozoshwaabaniin
+    3+waaboos+NA+Pej+2+Pl+Prt+Loc: owaaboozoshwaabaniing
+    3+waaboos+NA+Pej+3+4+Prt+4: [ owaaboozoshniwibaniin, owaaboozoshniibaniin ]
+    3+waaboos+NA+Pej+3+4+Prt+Loc: [ owaaboozoshniwibaniing, owaaboozoshniibaniing ]
+    1+waaboos+NA+Con+ThmPos+Pej+1+Pl+Prt: [ niwaaboozoenymishnaaniban, niwaaboozoenymishnaaniba ]
+    1+waaboos+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl: niwaaboozoenymishnaany1dig
+    1+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Prt: [ niwaaboozoensmishnaaniban, niwaaboozoensmishnaaniba ]
+    1+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl: niwaaboozoensmishnaany1dig
+    2+waaboos+NA+Con+ThmPos+Pej+1+Pl+Prt: [ giwaaboozoenymishnaaniban, giwaaboozoenymishnaaniba ]
+    2+waaboos+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl: giwaaboozoenymishnaany1dig
+    2+waaboos+NA+Con+ThmPos+Pej+2+Pl+Prt: [ giwaaboozoenymishwaaban, giwaaboozoenymishwaaba ]
+    2+waaboos+NA+Con+ThmPos+Pej+2+Pl+Voc+Pl: giwaaboozoenymishwaadig
+    2+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Prt: [ giwaaboozoensmishnaaniban, giwaaboozoensmishnaaniba ]
+    2+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl: giwaaboozoensmishnaany1dig
+    2+waaboos+NA+Dim+ThmPos+Pej+2+Pl+Prt: [ giwaaboozoensmishwaaban, giwaaboozoensmishwaaba ]
+    2+waaboos+NA+Dim+ThmPos+Pej+2+Pl+Voc+Pl: giwaaboozoensmishwaadig
+    3+waaboos+NA+Con+ThmPos+Pej+3+4+Prt: [ owaaboozoenymishniwiban, owaaboozoenymishniwiba, owaaboozoenymishniiban, owaaboozoenymishniiba ]
+    3+waaboos+NA+Dim+ThmPos+Pej+3+4+Prt: [ owaaboozoensmishniwiban, owaaboozoensmishniwiba, owaaboozoensmishniiban, owaaboozoensmishniiba ]
+    1+waaboos+NA+Con+ThmPos+Pej+1+Pl+4: niwaaboozoenymishnaanin
+    1+waaboos+NA+Con+ThmPos+Pej+1+Pl+Loc: niwaaboozoenymishnaaning
+    1+waaboos+NA+Con+ThmPos+Pej+1+Pl+Pl: niwaaboozoenymishnaany1ag
+    1+waaboos+NA+Dim+ThmPos+Pej+1+Pl+4: niwaaboozoensmishnaanin
+    1+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Loc: niwaaboozoensmishnaaning
+    1+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Pl: niwaaboozoensmishnaany1ag
+    2+waaboos+NA+Con+ThmPos+Pej+1+Pl+4: giwaaboozoenymishnaanin
+    2+waaboos+NA+Con+ThmPos+Pej+1+Pl+Loc: giwaaboozoenymishnaaning
+    2+waaboos+NA+Con+ThmPos+Pej+1+Pl+Pl: giwaaboozoenymishnaany1ag
+    2+waaboos+NA+Con+ThmPos+Pej+2+Pl+4: giwaaboozoenymishwaan
+    2+waaboos+NA+Con+ThmPos+Pej+2+Pl+Loc: giwaaboozoenymishwaang
+    2+waaboos+NA+Con+ThmPos+Pej+2+Pl+Pl: giwaaboozoenymishwaaag
+    2+waaboos+NA+Dim+ThmPos+Pej+1+Pl+4: giwaaboozoensmishnaanin
+    2+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Loc: giwaaboozoensmishnaaning
+    2+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Pl: giwaaboozoensmishnaany1ag
+    2+waaboos+NA+Dim+ThmPos+Pej+2+Pl+4: giwaaboozoensmishwaan
+    2+waaboos+NA+Dim+ThmPos+Pej+2+Pl+Loc: giwaaboozoensmishwaang
+    2+waaboos+NA+Dim+ThmPos+Pej+2+Pl+Pl: giwaaboozoensmishwaaag
+    3+waaboos+NA+Con+ThmPos+Pej+2+Pl+4: owaaboozoenymishwaan
+    3+waaboos+NA+Con+ThmPos+Pej+2+Pl+Loc: owaaboozoenymishwaang
+    3+waaboos+NA+Con+ThmPos+Pej+3+4+4: owaaboozoenymishniwan
+    3+waaboos+NA+Con+ThmPos+Pej+3+4+Loc: owaaboozoenymishniing
+    3+waaboos+NA+Dim+ThmPos+Pej+2+Pl+4: owaaboozoensmishwaan
+    3+waaboos+NA+Dim+ThmPos+Pej+2+Pl+Loc: owaaboozoensmishwaang
+    3+waaboos+NA+Dim+ThmPos+Pej+3+4+4: owaaboozoensmishniwan
+    3+waaboos+NA+Dim+ThmPos+Pej+3+4+Loc: owaaboozoensmishniing
+    1+waaboos+NA+Con+ThmPos+Pej+Prt+4: niwaaboozoenymishibaniin
+    1+waaboos+NA+Con+ThmPos+Pej+Prt+Loc: niwaaboozoenymishibaniing
+    1+waaboos+NA+Con+ThmPos+Pej+Prt+Pl: niwaaboozoenymishibani1ag
+    1+waaboos+NA+Dim+ThmPos+Pej+Prt+4: niwaaboozoensmishibaniin
+    1+waaboos+NA+Dim+ThmPos+Pej+Prt+Loc: niwaaboozoensmishibaniing
+    1+waaboos+NA+Dim+ThmPos+Pej+Prt+Pl: niwaaboozoensmishibani1ag
+    2+waaboos+NA+Con+ThmPos+Pej+Prt+4: giwaaboozoenymishibaniin
+    2+waaboos+NA+Con+ThmPos+Pej+Prt+Loc: giwaaboozoenymishibaniing
+    2+waaboos+NA+Con+ThmPos+Pej+Prt+Pl: giwaaboozoenymishibani1ag
+    2+waaboos+NA+Dim+ThmPos+Pej+Prt+4: giwaaboozoensmishibaniin
+    2+waaboos+NA+Dim+ThmPos+Pej+Prt+Loc: giwaaboozoensmishibaniing
+    2+waaboos+NA+Dim+ThmPos+Pej+Prt+Pl: giwaaboozoensmishibani1ag
+    3+waaboos+NA+Con+ThmPos+Pej+Prt+4: owaaboozoenymishibaniin
+    3+waaboos+NA+Con+ThmPos+Pej+Prt+Loc: owaaboozoenymishibaniing
+    3+waaboos+NA+Dim+ThmPos+Pej+Prt+4: owaaboozoensmishibaniin
+    3+waaboos+NA+Dim+ThmPos+Pej+Prt+Loc: owaaboozoensmishibaniing
+    X+waaboos+NA+Con+ThmPos+Pej+Prt+4: iwaaboozoenymishibaniin
+    X+waaboos+NA+Con+ThmPos+Pej+Prt+Loc: iwaaboozoenymishibaniing
+    X+waaboos+NA+Con+ThmPos+Pej+Prt+Pl: iwaaboozoenymishibani1ag
+    X+waaboos+NA+Dim+ThmPos+Pej+Prt+4: iwaaboozoensmishibaniin
+    X+waaboos+NA+Dim+ThmPos+Pej+Prt+Loc: iwaaboozoensmishibaniing
+    X+waaboos+NA+Dim+ThmPos+Pej+Prt+Pl: iwaaboozoensmishibani1ag
+    1+waaboos+NA+Con+ThmPos+1+Pl+Prt+4: niwaaboozoenymnaanibaniin
+    1+waaboos+NA+Con+ThmPos+1+Pl+Prt+Loc: niwaaboozoenymnaanibaniing
+    1+waaboos+NA+Con+ThmPos+1+Pl+Prt+Pl: niwaaboozoenymnaanibani1ag
+    1+waaboos+NA+Dim+ThmPos+1+Pl+Prt+4: niwaaboozoensmnaanibaniin
+    1+waaboos+NA+Dim+ThmPos+1+Pl+Prt+Loc: niwaaboozoensmnaanibaniing
+    1+waaboos+NA+Dim+ThmPos+1+Pl+Prt+Pl: niwaaboozoensmnaanibani1ag
+    2+waaboos+NA+Con+ThmPos+1+Pl+Prt+4: giwaaboozoenymnaanibaniin
+    2+waaboos+NA+Con+ThmPos+1+Pl+Prt+Loc: giwaaboozoenymnaanibaniing
+    2+waaboos+NA+Con+ThmPos+1+Pl+Prt+Pl: giwaaboozoenymnaanibani1ag
+    2+waaboos+NA+Con+ThmPos+2+Pl+Prt+4: giwaaboozoenymwaabaniin
+    2+waaboos+NA+Con+ThmPos+2+Pl+Prt+Loc: giwaaboozoenymwaabaniing
+    2+waaboos+NA+Con+ThmPos+2+Pl+Prt+Pl: giwaaboozoenymwaabani1ag
+    2+waaboos+NA+Dim+ThmPos+1+Pl+Prt+4: giwaaboozoensmnaanibaniin
+    2+waaboos+NA+Dim+ThmPos+1+Pl+Prt+Loc: giwaaboozoensmnaanibaniing
+    2+waaboos+NA+Dim+ThmPos+1+Pl+Prt+Pl: giwaaboozoensmnaanibani1ag
+    2+waaboos+NA+Dim+ThmPos+2+Pl+Prt+4: giwaaboozoensmwaabaniin
+    2+waaboos+NA+Dim+ThmPos+2+Pl+Prt+Loc: giwaaboozoensmwaabaniing
+    2+waaboos+NA+Dim+ThmPos+2+Pl+Prt+Pl: giwaaboozoensmwaabani1ag
+    3+waaboos+NA+Con+ThmPos+2+Pl+Prt+4: owaaboozoenymwaabaniin
+    3+waaboos+NA+Con+ThmPos+2+Pl+Prt+Loc: owaaboozoenymwaabaniing
+    3+waaboos+NA+Con+ThmPos+3+4+Prt+4: [ owaaboozoenymniwibaniin, owaaboozoenymniibaniin ]
+    3+waaboos+NA+Con+ThmPos+3+4+Prt+Loc: [ owaaboozoenymniwibaniing, owaaboozoenymniibaniing ]
+    3+waaboos+NA+Dim+ThmPos+2+Pl+Prt+4: owaaboozoensmwaabaniin
+    3+waaboos+NA+Dim+ThmPos+2+Pl+Prt+Loc: owaaboozoensmwaabaniing
+    3+waaboos+NA+Dim+ThmPos+3+4+Prt+4: [ owaaboozoensmniwibaniin, owaaboozoensmniibaniin ]
+    3+waaboos+NA+Dim+ThmPos+3+4+Prt+Loc: [ owaaboozoensmniwibaniing, owaaboozoensmniibaniing ]
+    1+waaboos+NA+Con+Pej+1+Pl+Prt+4: niwaaboozoenyishnaanibaniin
+    1+waaboos+NA+Con+Pej+1+Pl+Prt+Loc: niwaaboozoenyishnaanibaniing
+    1+waaboos+NA+Con+Pej+1+Pl+Prt+Pl: niwaaboozoenyishnaanibani1ag
+    1+waaboos+NA+Dim+Pej+1+Pl+Prt+4: niwaaboozoensishnaanibaniin
+    1+waaboos+NA+Dim+Pej+1+Pl+Prt+Loc: niwaaboozoensishnaanibaniing
+    1+waaboos+NA+Dim+Pej+1+Pl+Prt+Pl: niwaaboozoensishnaanibani1ag
+    2+waaboos+NA+Con+Pej+1+Pl+Prt+4: giwaaboozoenyishnaanibaniin
+    2+waaboos+NA+Con+Pej+1+Pl+Prt+Loc: giwaaboozoenyishnaanibaniing
+    2+waaboos+NA+Con+Pej+1+Pl+Prt+Pl: giwaaboozoenyishnaanibani1ag
+    2+waaboos+NA+Con+Pej+2+Pl+Prt+4: giwaaboozoenyishwaabaniin
+    2+waaboos+NA+Con+Pej+2+Pl+Prt+Loc: giwaaboozoenyishwaabaniing
+    2+waaboos+NA+Con+Pej+2+Pl+Prt+Pl: giwaaboozoenyishwaabani1ag
+    2+waaboos+NA+Dim+Pej+1+Pl+Prt+4: giwaaboozoensishnaanibaniin
+    2+waaboos+NA+Dim+Pej+1+Pl+Prt+Loc: giwaaboozoensishnaanibaniing
+    2+waaboos+NA+Dim+Pej+1+Pl+Prt+Pl: giwaaboozoensishnaanibani1ag
+    2+waaboos+NA+Dim+Pej+2+Pl+Prt+4: giwaaboozoensishwaabaniin
+    2+waaboos+NA+Dim+Pej+2+Pl+Prt+Loc: giwaaboozoensishwaabaniing
+    2+waaboos+NA+Dim+Pej+2+Pl+Prt+Pl: giwaaboozoensishwaabani1ag
+    3+waaboos+NA+Con+Pej+2+Pl+Prt+4: owaaboozoenyishwaabaniin
+    3+waaboos+NA+Con+Pej+2+Pl+Prt+Loc: owaaboozoenyishwaabaniing
+    3+waaboos+NA+Con+Pej+3+4+Prt+4: [ owaaboozoenyishniwibaniin, owaaboozoenyishniibaniin ]
+    3+waaboos+NA+Con+Pej+3+4+Prt+Loc: [ owaaboozoenyishniwibaniing, owaaboozoenyishniibaniing ]
+    3+waaboos+NA+Dim+Pej+2+Pl+Prt+4: owaaboozoensishwaabaniin
+    3+waaboos+NA+Dim+Pej+2+Pl+Prt+Loc: owaaboozoensishwaabaniing
+    3+waaboos+NA+Dim+Pej+3+4+Prt+4: [ owaaboozoensishniwibaniin, owaaboozoensishniibaniin ]
+    3+waaboos+NA+Dim+Pej+3+4+Prt+Loc: [ owaaboozoensishniwibaniing, owaaboozoensishniibaniing ]
+    1+waaboos+NA+ThmPos+Pej+1+Pl+Prt+4: niwaaboozomishnaanibaniin
+    1+waaboos+NA+ThmPos+Pej+1+Pl+Prt+Loc: niwaaboozomishnaanibaniing
+    1+waaboos+NA+ThmPos+Pej+1+Pl+Prt+Pl: niwaaboozomishnaanibani1ag
+    2+waaboos+NA+ThmPos+Pej+1+Pl+Prt+4: giwaaboozomishnaanibaniin
+    2+waaboos+NA+ThmPos+Pej+1+Pl+Prt+Loc: giwaaboozomishnaanibaniing
+    2+waaboos+NA+ThmPos+Pej+1+Pl+Prt+Pl: giwaaboozomishnaanibani1ag
+    2+waaboos+NA+ThmPos+Pej+2+Pl+Prt+4: giwaaboozomishwaabaniin
+    2+waaboos+NA+ThmPos+Pej+2+Pl+Prt+Loc: giwaaboozomishwaabaniing
+    2+waaboos+NA+ThmPos+Pej+2+Pl+Prt+Pl: giwaaboozomishwaabani1ag
+    3+waaboos+NA+ThmPos+Pej+2+Pl+Prt+4: owaaboozomishwaabaniin
+    3+waaboos+NA+ThmPos+Pej+2+Pl+Prt+Loc: owaaboozomishwaabaniing
+    3+waaboos+NA+ThmPos+Pej+3+4+Prt+4: [ owaaboozomishniwibaniin, owaaboozomishniibaniin ]
+    3+waaboos+NA+ThmPos+Pej+3+4+Prt+Loc: [ owaaboozomishniwibaniing, owaaboozomishniibaniing ]
+    1+waaboos+NA+Con+ThmPos+Pej+1+Pl+Prt+4: niwaaboozoenymishnaanibaniin
+    1+waaboos+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc: niwaaboozoenymishnaanibaniing
+    1+waaboos+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl: niwaaboozoenymishnaanibani1ag
+    1+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Prt+4: niwaaboozoensmishnaanibaniin
+    1+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc: niwaaboozoensmishnaanibaniing
+    1+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl: niwaaboozoensmishnaanibani1ag
+    2+waaboos+NA+Con+ThmPos+Pej+1+Pl+Prt+4: giwaaboozoenymishnaanibaniin
+    2+waaboos+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc: giwaaboozoenymishnaanibaniing
+    2+waaboos+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl: giwaaboozoenymishnaanibani1ag
+    2+waaboos+NA+Con+ThmPos+Pej+2+Pl+Prt+4: giwaaboozoenymishwaabaniin
+    2+waaboos+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc: giwaaboozoenymishwaabaniing
+    2+waaboos+NA+Con+ThmPos+Pej+2+Pl+Prt+Pl: giwaaboozoenymishwaabani1ag
+    2+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Prt+4: giwaaboozoensmishnaanibaniin
+    2+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc: giwaaboozoensmishnaanibaniing
+    2+waaboos+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl: giwaaboozoensmishnaanibani1ag
+    2+waaboos+NA+Dim+ThmPos+Pej+2+Pl+Prt+4: giwaaboozoensmishwaabaniin
+    2+waaboos+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc: giwaaboozoensmishwaabaniing
+    2+waaboos+NA+Dim+ThmPos+Pej+2+Pl+Prt+Pl: giwaaboozoensmishwaabani1ag
+    3+waaboos+NA+Con+ThmPos+Pej+2+Pl+Prt+4: owaaboozoenymishwaabaniin
+    3+waaboos+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc: owaaboozoenymishwaabaniing
+    3+waaboos+NA+Con+ThmPos+Pej+3+4+Prt+4: [ owaaboozoenymishniwibaniin, owaaboozoenymishniibaniin ]
+    3+waaboos+NA+Con+ThmPos+Pej+3+4+Prt+Loc: [ owaaboozoenymishniwibaniing, owaaboozoenymishniibaniing ]
+    3+waaboos+NA+Dim+ThmPos+Pej+2+Pl+Prt+4: owaaboozoensmishwaabaniin
+    3+waaboos+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc: owaaboozoensmishwaabaniing
+    3+waaboos+NA+Dim+ThmPos+Pej+3+4+Prt+4: [ owaaboozoensmishniwibaniin, owaaboozoensmishniibaniin ]
+    3+waaboos+NA+Dim+ThmPos+Pej+3+4+Prt+Loc: [ owaaboozoensmishniwibaniing, owaaboozoensmishniibaniing ]

@@ -1,0 +1,74 @@
+Tests:
+  VAI_VV_CNJ_boodwe_gt-glossing:
+    boodwe+VAI+Cnj+1: boodaweaanh
+    boodwe+VAI+Cnj+2: boodawean
+    boodwe+VAI+Cnj+3: boodawed
+    boodwe+VAI+Cnj+3+4: boodawenid
+    boodwe+VAI+Cnj+X: boodaweng
+    boodwe+VAI+Cnj+1+Pl: boodaweaang
+    boodwe+VAI+Cnj+2+1+Pl: boodaweangw
+    boodwe+VAI+Cnj+2+Pl: boodaweegw
+    boodwe+VAI+Cnj+3+Pl: boodawewaad
+    boodwe+VAI+Cnj+1+Prt: boodaweaambaanh
+    boodwe+VAI+Cnj+2+Prt: boodaweambani1
+    boodwe+VAI+Cnj+3+Prt: boodawedbani1
+    boodwe+VAI+Cnj+3+4+Prt: boodawenidbani1
+    boodwe+VAI+Cnj+X+Prt: boodawengibani1
+    boodwe+VAI+Cnj+1+Pl+Prt: boodaweaangibani1
+    boodwe+VAI+Cnj+2+1+Pl+Prt: boodaweangobani1
+    boodwe+VAI+Cnj+2+Pl+Prt: boodaweegobani1
+    boodwe+VAI+Cnj+3+Pl+Prt: boodawewaadbani1
+    boodwe+VAI+Cnj+1+Dub: [ boodaweaanen, boodaweaane ]
+    boodwe+VAI+Cnj+2+Dub: [ boodaweanen, boodaweane ]
+    boodwe+VAI+Cnj+3+Dub: [ boodaweden, boodawede ]
+    boodwe+VAI+Cnj+3+4+Dub: [ boodaweniden, boodawenide ]
+    boodwe+VAI+Cnj+X+Dub: [ boodawengen, boodawenge ]
+    boodwe+VAI+Cnj+1+Pl+Dub: [ boodaweaangen, boodaweaange ]
+    boodwe+VAI+Cnj+2+1+Pl+Dub: [ boodaweangwen, boodaweangwe ]
+    boodwe+VAI+Cnj+2+Pl+Dub: [ boodaweegwen, boodaweegwe ]
+    boodwe+VAI+Cnj+3+Pl+Dub: [ boodawewaaden, boodawewaade ]
+    boodwe+VAI+Cnj+1+Prt+Dub: [ boodaweaambaanen, boodaweaambaane ]
+    boodwe+VAI+Cnj+2+Prt+Dub: [ boodaweambanen, boodaweambane ]
+    boodwe+VAI+Cnj+3+Prt+Dub: [ boodawedbanen, boodawedbane ]
+    boodwe+VAI+Cnj+3+4+Prt+Dub: [ boodawenidbanen, boodawenidbane ]
+    boodwe+VAI+Cnj+X+Prt+Dub: [ boodawengbanen, boodawengbane ]
+    boodwe+VAI+Cnj+1+Pl+Prt+Dub: [ boodaweaangibanen, boodaweaangibane ]
+    boodwe+VAI+Cnj+2+1+Pl+Prt+Dub: [ boodaweangobanen, boodaweangobane ]
+    boodwe+VAI+Cnj+2+Pl+Prt+Dub: [ boodaweegobanen, boodaweegobane ]
+    boodwe+VAI+Cnj+3+Pl+Prt+Dub: [ boodawewaadbanen, boodawewaadbane ]
+    boodwe+VAI+Cnj+Neg+1: boodawesiaanh
+    boodwe+VAI+Cnj+Neg+2: boodawesian
+    boodwe+VAI+Cnj+Neg+3: boodawesid
+    boodwe+VAI+Cnj+Neg+3+4: boodawesinid
+    boodwe+VAI+Cnj+Neg+X: boodawesing
+    boodwe+VAI+Cnj+Neg+1+Pl: boodawesiaang
+    boodwe+VAI+Cnj+Neg+2+1+Pl: boodawesiangw
+    boodwe+VAI+Cnj+Neg+2+Pl: boodawesiegw
+    boodwe+VAI+Cnj+Neg+3+Pl: boodawesigwaa
+    boodwe+VAI+Cnj+Neg+1+Prt: [ boodawesiiaambaanh, boodawesiaambaanh ]
+    boodwe+VAI+Cnj+Neg+2+Prt: [ boodawesiiambani1, boodawesiambani1 ]
+    boodwe+VAI+Cnj+Neg+3+Prt: [ boodawesiidbani1, boodawesidbani1 ]
+    boodwe+VAI+Cnj+Neg+3+4+Prt: [ boodawesiinidbani1, boodawesinidbani1 ]
+    boodwe+VAI+Cnj+Neg+X+Prt: [ boodawesiingibani1, boodawesingibani1 ]
+    boodwe+VAI+Cnj+Neg+1+Pl+Prt: [ boodawesiiaangibani1, boodawesiaangibani1 ]
+    boodwe+VAI+Cnj+Neg+2+1+Pl+Prt: [ boodawesiiangobani1, boodawesiangobani1 ]
+    boodwe+VAI+Cnj+Neg+2+Pl+Prt: [ boodawesiiegobani1, boodawesiegobani1 ]
+    boodwe+VAI+Cnj+Neg+3+Pl+Prt: [ boodawesiiwaadbani1, boodawesiwaadbani1 ]
+    boodwe+VAI+Cnj+Neg+1+Dub: [ boodawesiiaanen, boodawesiiaane, boodawesiiaanen, boodawesiiaane, boodawesiaanen, boodawesiaane ]
+    boodwe+VAI+Cnj+Neg+2+Dub: [ boodawesiianen, boodawesiiane, boodawesianen, boodawesiane ]
+    boodwe+VAI+Cnj+Neg+3+Dub: [ boodawesiiden, boodawesiide, boodawesiden, boodaweside ]
+    boodwe+VAI+Cnj+Neg+3+4+Dub: [ boodawesiiniden, boodawesiinide, boodawesiniden, boodawesinide ]
+    boodwe+VAI+Cnj+Neg+X+Dub: [ boodawesiingen, boodawesiinge, boodawesingen, boodawesinge ]
+    boodwe+VAI+Cnj+Neg+1+Pl+Dub: [ boodawesiiaangen, boodawesiiaange, boodawesiaangen, boodawesiaange ]
+    boodwe+VAI+Cnj+Neg+2+1+Pl+Dub: [ boodawesiiangwen, boodawesiiangwe, boodawesiangwen, boodawesiangwe ]
+    boodwe+VAI+Cnj+Neg+2+Pl+Dub: [ boodawesiiegwen, boodawesiiegwe, boodawesiegwen, boodawesiegwe ]
+    boodwe+VAI+Cnj+Neg+3+Pl+Dub: [ boodawesiiwaaden, boodawesiiwaade, boodawesiwaaden, boodawesiwaade ]
+    boodwe+VAI+Cnj+Neg+1+Prt+Dub: [ boodawesiiaambaanen, boodawesiiaambaane, boodawesiaambaanen, boodawesiaambaane ]
+    boodwe+VAI+Cnj+Neg+2+Prt+Dub: [ boodawesiiambanen, boodawesiiambane, boodawesiambanen, boodawesiambane ]
+    boodwe+VAI+Cnj+Neg+3+Prt+Dub: [ boodawesiidbanen, boodawesiidbane, boodawesidbanen, boodawesidbane ]
+    boodwe+VAI+Cnj+Neg+3+4+Prt+Dub: [ boodawesiinidbanen, boodawesiinidbane, boodawesinidbanen, boodawesinidbane ]
+    boodwe+VAI+Cnj+Neg+X+Prt+Dub: [ boodawesiingbanen, boodawesiingbane, boodawesingbanen, boodawesingbane ]
+    boodwe+VAI+Cnj+Neg+1+Pl+Prt+Dub: [ boodawesiiaangibanen, boodawesiiaangibane, boodawesiaangibanen, boodawesiaangibane ]
+    boodwe+VAI+Cnj+Neg+2+1+Pl+Prt+Dub: [ boodawesiiangobanen, boodawesiiangobane, boodawesiangobanen, boodawesiangobane ]
+    boodwe+VAI+Cnj+Neg+2+Pl+Prt+Dub: [ boodawesiiegobanen, boodawesiiegobane, boodawesiegobanen, boodawesiegobane ]
+    boodwe+VAI+Cnj+Neg+3+Pl+Prt+Dub: [ boodawesiiwaadbanen, boodawesiiwaadbane, boodawesiwaadbanen, boodawesiwaadbane ]

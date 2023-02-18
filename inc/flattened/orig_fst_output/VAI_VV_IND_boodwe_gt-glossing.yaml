@@ -1,0 +1,64 @@
+Tests:
+  VAI_VV_IND_boodwe_gt-glossing:
+    1+boodwe+VAI: niboodawe
+    2+boodwe+VAI: giboodawe
+    boodwe+VAI+3: boodawew
+    boodwe+VAI+X: boodawem
+    1+boodwe+VAI+1+Pl: [ niboodawemin, niboodawemi ]
+    2+boodwe+VAI+1+Pl: [ giboodawemin, giboodawemi ]
+    2+boodwe+VAI+2+Pl: giboodawem
+    boodwe+VAI+3+3+4: boodawewan
+    boodwe+VAI+3+3+Pl: boodawewag
+    1+boodwe+VAI+Prt: [ niboodawenaaban, niboodawenaaba ]
+    2+boodwe+VAI+Prt: [ giboodawenaaban, giboodawenaaba ]
+    1+boodwe+VAI+Dub: niboodawenaadig
+    2+boodwe+VAI+Dub: giboodawenaadig
+    boodwe+VAI+3+Prt: [ boodaweoban, boodaweoba, boodawewiban, boodawewiba ]
+    boodwe+VAI+3+Dub: [ boodaweodig, boodawewidig ]
+    boodwe+VAI+X+Prt: [ boodawemiban, boodawemiba, boodawemaban, boodawemaba ]
+    boodwe+VAI+X+Dub: boodawemidig
+    boodwe+VAI+3+Prt+Dub: [ boodawegoban, boodawegoba ]
+    boodwe+VAI+3+4+Prt+Dub: [ boodaweinigoban, boodaweinigoba ]
+    boodwe+VAI+3+2+Pl+Prt+Dub: [ boodawewaagoban, boodawewaagoba ]
+    boodwe+VAI+X+Prt+Dub: [ boodawemigoban, boodawemigoba ]
+    1+boodwe+VAI+1+Pl+Prt: [ niboodaweminaaban, niboodaweminaaba ]
+    2+boodwe+VAI+1+Pl+Prt: [ giboodaweminaaban, giboodaweminaaba ]
+    2+boodwe+VAI+2+Pl+Prt: [ giboodawemwaaban, giboodawemwaaba ]
+    1+boodwe+VAI+1+Pl+Dub: niboodaweminaadig
+    2+boodwe+VAI+1+Pl+Dub: giboodaweminaadig
+    2+boodwe+VAI+2+Pl+Dub: giboodawemwaadig
+    boodwe+VAI+3+Prt+3+4: [ boodaweobaniin, boodawewibaniin ]
+    boodwe+VAI+3+Prt+3+Pl: [ boodaweobaniig, boodawewibaniig ]
+    boodwe+VAI+3+Dub+3+4: [ boodaweodigenan, boodawewidigenan ]
+    boodwe+VAI+3+Dub+3+Pl: [ boodaweodigenag, boodawewidigenag ]
+    1+boodwe+VAI+Neg: niboodawesii
+    2+boodwe+VAI+Neg: giboodawesii
+    boodwe+VAI+Neg+3: boodawesiiw
+    boodwe+VAI+Neg+X: boodawesiim
+    1+boodwe+VAI+Neg+1+Pl: [ niboodawesiimin, niboodawesiimi ]
+    2+boodwe+VAI+Neg+1+Pl: [ giboodawesiimin, giboodawesiimi ]
+    2+boodwe+VAI+Neg+2+Pl: giboodawesiim
+    boodwe+VAI+Neg+3+3+4: boodawesiiwan
+    boodwe+VAI+Neg+3+3+Pl: boodawesiiwag
+    1+boodwe+VAI+Neg+Prt: [ niboodawesiinaaban, niboodawesiinaaba ]
+    2+boodwe+VAI+Neg+Prt: [ giboodawesiinaaban, giboodawesiinaaba ]
+    1+boodwe+VAI+Neg+Dub: niboodawesiinaadig
+    2+boodwe+VAI+Neg+Dub: giboodawesiinaadig
+    boodwe+VAI+Neg+3+Prt: [ boodawesiioban, boodawesiioba, boodawesiiwiban, boodawesiiwiba ]
+    boodwe+VAI+Neg+3+Dub: [ boodawesiiodig, boodawesiiwidig ]
+    boodwe+VAI+Neg+X+Prt: [ boodawesiimiban, boodawesiimiba, boodawesiimaban, boodawesiimaba ]
+    boodwe+VAI+Neg+X+Dub: boodawesiimidig
+    boodwe+VAI+Neg+3+Prt+Dub: [ boodawesiigoban, boodawesiigoba ]
+    boodwe+VAI+Neg+3+4+Prt+Dub: [ boodawesiiinigoban, boodawesiiinigoba ]
+    boodwe+VAI+Neg+3+2+Pl+Prt+Dub: [ boodawesiiwaagoban, boodawesiiwaagoba ]
+    boodwe+VAI+Neg+X+Prt+Dub: [ boodawesiimigoban, boodawesiimigoba ]
+    1+boodwe+VAI+Neg+1+Pl+Prt: [ niboodawesiiminaaban, niboodawesiiminaaba ]
+    2+boodwe+VAI+Neg+1+Pl+Prt: [ giboodawesiiminaaban, giboodawesiiminaaba ]
+    2+boodwe+VAI+Neg+2+Pl+Prt: [ giboodawesiimwaaban, giboodawesiimwaaba ]
+    1+boodwe+VAI+Neg+1+Pl+Dub: niboodawesiiminaadig
+    2+boodwe+VAI+Neg+1+Pl+Dub: giboodawesiiminaadig
+    2+boodwe+VAI+Neg+2+Pl+Dub: giboodawesiimwaadig
+    boodwe+VAI+Neg+3+Prt+3+4: [ boodawesiiobaniin, boodawesiiwibaniin ]
+    boodwe+VAI+Neg+3+Prt+3+Pl: [ boodawesiiobaniig, boodawesiiwibaniig ]
+    boodwe+VAI+Neg+3+Dub+3+4: [ boodawesiiodigenan, boodawesiiwidigenan ]
+    boodwe+VAI+Neg+3+Dub+3+Pl: [ boodawesiiodigenag, boodawesiiwidigenag ]

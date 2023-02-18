@@ -1,0 +1,39 @@
+LEXICON VERBS  !this is looking like a gateway, but not so labeled, affixes will need to be edited too
+@D.Person.3@   VAI ; !VAIs never take third person prefix
+@D.Person@     VII ;
+               VAIO ; 
+               VTI ;
+	       VTA ;
+
+! VII
+LEXICON VII
+^VERB^                  VII_TAG ;
+^VERB_d2^:^VERB_d2^d2   VII_TAG ;
+^VERB_m^:^VERB_m^m      VII_TAG ;
+^VERB_n^:^VERB_n^n      VII_TAG ;
+
+! VAI
+LEXICON VAI
+^VERB^              VAI_TAG ; !VAIs never take third person prefix
+^VERB_m^:^VERB_m^m  VAI_TAG ; !VAIs never take third person prefix
+^VERB_n^:^VERB_n^n  VAI_TAG ; !VAIs never take third person prefix
+
+! VAIO
+LEXICON VAIO
+^VERB^                     VAIO_TAG ; 
+
+! VTI
+LEXICON VTI
+^VERB^                     VTI_TAG ;
+^VERB_m1^:^VERB_m1^m1      VTI_TAG ;
+^VERB_n1^:^VERB_n1^n1      VTI_TAG ;
+^VERB_n^:^VERB_n^n         VTI_TAG ;
+
+! VTA
+LEXICON VTA
+^VERB^                     VTA_TAG ;
+^VERB_n1^:^VERB_n1^n1      VTA_TAG ;
+^VERB_s1^:^VERB_s1^s1      VTA_TAG ;
+^VERB_m^:^VERB_m^m         VTA_TAG ;
+^VERB_n^:^VERB_n^n         VTA_TAG ;
+

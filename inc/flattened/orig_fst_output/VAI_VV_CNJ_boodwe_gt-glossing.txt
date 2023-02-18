@@ -1,0 +1,227 @@
+boodwe+VAI+Cnj+1	boodaweaanh
+
+boodwe+VAI+Cnj+2	boodawean
+
+boodwe+VAI+Cnj+3	boodawed
+
+boodwe+VAI+Cnj+3+4	boodawenid
+
+boodwe+VAI+Cnj+X	boodaweng
+
+boodwe+VAI+Cnj+1+Pl	boodaweaang
+
+boodwe+VAI+Cnj+2+1+Pl	boodaweangw
+
+boodwe+VAI+Cnj+2+Pl	boodaweegw
+
+boodwe+VAI+Cnj+3+Pl	boodawewaad
+
+boodwe+VAI+Cnj+1+Prt	boodaweaambaanh
+
+boodwe+VAI+Cnj+2+Prt	boodaweambani1
+
+boodwe+VAI+Cnj+3+Prt	boodawedbani1
+
+boodwe+VAI+Cnj+3+4+Prt	boodawenidbani1
+
+boodwe+VAI+Cnj+X+Prt	boodawengibani1
+
+boodwe+VAI+Cnj+1+Pl+Prt	boodaweaangibani1
+
+boodwe+VAI+Cnj+2+1+Pl+Prt	boodaweangobani1
+
+boodwe+VAI+Cnj+2+Pl+Prt	boodaweegobani1
+
+boodwe+VAI+Cnj+3+Pl+Prt	boodawewaadbani1
+
+boodwe+VAI+Cnj+1+Dub	boodaweaanen
+boodwe+VAI+Cnj+1+Dub	boodaweaane
+
+boodwe+VAI+Cnj+2+Dub	boodaweanen
+boodwe+VAI+Cnj+2+Dub	boodaweane
+
+boodwe+VAI+Cnj+3+Dub	boodaweden
+boodwe+VAI+Cnj+3+Dub	boodawede
+
+boodwe+VAI+Cnj+3+4+Dub	boodaweniden
+boodwe+VAI+Cnj+3+4+Dub	boodawenide
+
+boodwe+VAI+Cnj+X+Dub	boodawengen
+boodwe+VAI+Cnj+X+Dub	boodawenge
+
+boodwe+VAI+Cnj+1+Pl+Dub	boodaweaangen
+boodwe+VAI+Cnj+1+Pl+Dub	boodaweaange
+
+boodwe+VAI+Cnj+2+1+Pl+Dub	boodaweangwen
+boodwe+VAI+Cnj+2+1+Pl+Dub	boodaweangwe
+
+boodwe+VAI+Cnj+2+Pl+Dub	boodaweegwen
+boodwe+VAI+Cnj+2+Pl+Dub	boodaweegwe
+
+boodwe+VAI+Cnj+3+Pl+Dub	boodawewaaden
+boodwe+VAI+Cnj+3+Pl+Dub	boodawewaade
+
+boodwe+VAI+Cnj+1+Prt+Dub	boodaweaambaanen
+boodwe+VAI+Cnj+1+Prt+Dub	boodaweaambaane
+
+boodwe+VAI+Cnj+2+Prt+Dub	boodaweambanen
+boodwe+VAI+Cnj+2+Prt+Dub	boodaweambane
+
+boodwe+VAI+Cnj+3+Prt+Dub	boodawedbanen
+boodwe+VAI+Cnj+3+Prt+Dub	boodawedbane
+
+boodwe+VAI+Cnj+3+4+Prt+Dub	boodawenidbanen
+boodwe+VAI+Cnj+3+4+Prt+Dub	boodawenidbane
+
+boodwe+VAI+Cnj+X+Prt+Dub	boodawengbanen
+boodwe+VAI+Cnj+X+Prt+Dub	boodawengbane
+
+boodwe+VAI+Cnj+1+Pl+Prt+Dub	boodaweaangibanen
+boodwe+VAI+Cnj+1+Pl+Prt+Dub	boodaweaangibane
+
+boodwe+VAI+Cnj+2+1+Pl+Prt+Dub	boodaweangobanen
+boodwe+VAI+Cnj+2+1+Pl+Prt+Dub	boodaweangobane
+
+boodwe+VAI+Cnj+2+Pl+Prt+Dub	boodaweegobanen
+boodwe+VAI+Cnj+2+Pl+Prt+Dub	boodaweegobane
+
+boodwe+VAI+Cnj+3+Pl+Prt+Dub	boodawewaadbanen
+boodwe+VAI+Cnj+3+Pl+Prt+Dub	boodawewaadbane
+
+boodwe+VAI+Cnj+Neg+1	boodawesiaanh
+
+boodwe+VAI+Cnj+Neg+2	boodawesian
+
+boodwe+VAI+Cnj+Neg+3	boodawesid
+
+boodwe+VAI+Cnj+Neg+3+4	boodawesinid
+
+boodwe+VAI+Cnj+Neg+X	boodawesing
+
+boodwe+VAI+Cnj+Neg+1+Pl	boodawesiaang
+
+boodwe+VAI+Cnj+Neg+2+1+Pl	boodawesiangw
+
+boodwe+VAI+Cnj+Neg+2+Pl	boodawesiegw
+
+boodwe+VAI+Cnj+Neg+3+Pl	boodawesigwaa
+
+boodwe+VAI+Cnj+Neg+1+Prt	boodawesiiaambaanh
+boodwe+VAI+Cnj+Neg+1+Prt	boodawesiaambaanh
+
+boodwe+VAI+Cnj+Neg+2+Prt	boodawesiiambani1
+boodwe+VAI+Cnj+Neg+2+Prt	boodawesiambani1
+
+boodwe+VAI+Cnj+Neg+3+Prt	boodawesiidbani1
+boodwe+VAI+Cnj+Neg+3+Prt	boodawesidbani1
+
+boodwe+VAI+Cnj+Neg+3+4+Prt	boodawesiinidbani1
+boodwe+VAI+Cnj+Neg+3+4+Prt	boodawesinidbani1
+
+boodwe+VAI+Cnj+Neg+X+Prt	boodawesiingibani1
+boodwe+VAI+Cnj+Neg+X+Prt	boodawesingibani1
+
+boodwe+VAI+Cnj+Neg+1+Pl+Prt	boodawesiiaangibani1
+boodwe+VAI+Cnj+Neg+1+Pl+Prt	boodawesiaangibani1
+
+boodwe+VAI+Cnj+Neg+2+1+Pl+Prt	boodawesiiangobani1
+boodwe+VAI+Cnj+Neg+2+1+Pl+Prt	boodawesiangobani1
+
+boodwe+VAI+Cnj+Neg+2+Pl+Prt	boodawesiiegobani1
+boodwe+VAI+Cnj+Neg+2+Pl+Prt	boodawesiegobani1
+
+boodwe+VAI+Cnj+Neg+3+Pl+Prt	boodawesiiwaadbani1
+boodwe+VAI+Cnj+Neg+3+Pl+Prt	boodawesiwaadbani1
+
+boodwe+VAI+Cnj+Neg+1+Dub	boodawesiiaanen
+boodwe+VAI+Cnj+Neg+1+Dub	boodawesiiaane
+boodwe+VAI+Cnj+Neg+1+Dub	boodawesiiaanen
+boodwe+VAI+Cnj+Neg+1+Dub	boodawesiiaane
+boodwe+VAI+Cnj+Neg+1+Dub	boodawesiaanen
+boodwe+VAI+Cnj+Neg+1+Dub	boodawesiaane
+
+boodwe+VAI+Cnj+Neg+2+Dub	boodawesiianen
+boodwe+VAI+Cnj+Neg+2+Dub	boodawesiiane
+boodwe+VAI+Cnj+Neg+2+Dub	boodawesianen
+boodwe+VAI+Cnj+Neg+2+Dub	boodawesiane
+
+boodwe+VAI+Cnj+Neg+3+Dub	boodawesiiden
+boodwe+VAI+Cnj+Neg+3+Dub	boodawesiide
+boodwe+VAI+Cnj+Neg+3+Dub	boodawesiden
+boodwe+VAI+Cnj+Neg+3+Dub	boodaweside
+
+boodwe+VAI+Cnj+Neg+3+4+Dub	boodawesiiniden
+boodwe+VAI+Cnj+Neg+3+4+Dub	boodawesiinide
+boodwe+VAI+Cnj+Neg+3+4+Dub	boodawesiniden
+boodwe+VAI+Cnj+Neg+3+4+Dub	boodawesinide
+
+boodwe+VAI+Cnj+Neg+X+Dub	boodawesiingen
+boodwe+VAI+Cnj+Neg+X+Dub	boodawesiinge
+boodwe+VAI+Cnj+Neg+X+Dub	boodawesingen
+boodwe+VAI+Cnj+Neg+X+Dub	boodawesinge
+
+boodwe+VAI+Cnj+Neg+1+Pl+Dub	boodawesiiaangen
+boodwe+VAI+Cnj+Neg+1+Pl+Dub	boodawesiiaange
+boodwe+VAI+Cnj+Neg+1+Pl+Dub	boodawesiaangen
+boodwe+VAI+Cnj+Neg+1+Pl+Dub	boodawesiaange
+
+boodwe+VAI+Cnj+Neg+2+1+Pl+Dub	boodawesiiangwen
+boodwe+VAI+Cnj+Neg+2+1+Pl+Dub	boodawesiiangwe
+boodwe+VAI+Cnj+Neg+2+1+Pl+Dub	boodawesiangwen
+boodwe+VAI+Cnj+Neg+2+1+Pl+Dub	boodawesiangwe
+
+boodwe+VAI+Cnj+Neg+2+Pl+Dub	boodawesiiegwen
+boodwe+VAI+Cnj+Neg+2+Pl+Dub	boodawesiiegwe
+boodwe+VAI+Cnj+Neg+2+Pl+Dub	boodawesiegwen
+boodwe+VAI+Cnj+Neg+2+Pl+Dub	boodawesiegwe
+
+boodwe+VAI+Cnj+Neg+3+Pl+Dub	boodawesiiwaaden
+boodwe+VAI+Cnj+Neg+3+Pl+Dub	boodawesiiwaade
+boodwe+VAI+Cnj+Neg+3+Pl+Dub	boodawesiwaaden
+boodwe+VAI+Cnj+Neg+3+Pl+Dub	boodawesiwaade
+
+boodwe+VAI+Cnj+Neg+1+Prt+Dub	boodawesiiaambaanen
+boodwe+VAI+Cnj+Neg+1+Prt+Dub	boodawesiiaambaane
+boodwe+VAI+Cnj+Neg+1+Prt+Dub	boodawesiaambaanen
+boodwe+VAI+Cnj+Neg+1+Prt+Dub	boodawesiaambaane
+
+boodwe+VAI+Cnj+Neg+2+Prt+Dub	boodawesiiambanen
+boodwe+VAI+Cnj+Neg+2+Prt+Dub	boodawesiiambane
+boodwe+VAI+Cnj+Neg+2+Prt+Dub	boodawesiambanen
+boodwe+VAI+Cnj+Neg+2+Prt+Dub	boodawesiambane
+
+boodwe+VAI+Cnj+Neg+3+Prt+Dub	boodawesiidbanen
+boodwe+VAI+Cnj+Neg+3+Prt+Dub	boodawesiidbane
+boodwe+VAI+Cnj+Neg+3+Prt+Dub	boodawesidbanen
+boodwe+VAI+Cnj+Neg+3+Prt+Dub	boodawesidbane
+
+boodwe+VAI+Cnj+Neg+3+4+Prt+Dub	boodawesiinidbanen
+boodwe+VAI+Cnj+Neg+3+4+Prt+Dub	boodawesiinidbane
+boodwe+VAI+Cnj+Neg+3+4+Prt+Dub	boodawesinidbanen
+boodwe+VAI+Cnj+Neg+3+4+Prt+Dub	boodawesinidbane
+
+boodwe+VAI+Cnj+Neg+X+Prt+Dub	boodawesiingbanen
+boodwe+VAI+Cnj+Neg+X+Prt+Dub	boodawesiingbane
+boodwe+VAI+Cnj+Neg+X+Prt+Dub	boodawesingbanen
+boodwe+VAI+Cnj+Neg+X+Prt+Dub	boodawesingbane
+
+boodwe+VAI+Cnj+Neg+1+Pl+Prt+Dub	boodawesiiaangibanen
+boodwe+VAI+Cnj+Neg+1+Pl+Prt+Dub	boodawesiiaangibane
+boodwe+VAI+Cnj+Neg+1+Pl+Prt+Dub	boodawesiaangibanen
+boodwe+VAI+Cnj+Neg+1+Pl+Prt+Dub	boodawesiaangibane
+
+boodwe+VAI+Cnj+Neg+2+1+Pl+Prt+Dub	boodawesiiangobanen
+boodwe+VAI+Cnj+Neg+2+1+Pl+Prt+Dub	boodawesiiangobane
+boodwe+VAI+Cnj+Neg+2+1+Pl+Prt+Dub	boodawesiangobanen
+boodwe+VAI+Cnj+Neg+2+1+Pl+Prt+Dub	boodawesiangobane
+
+boodwe+VAI+Cnj+Neg+2+Pl+Prt+Dub	boodawesiiegobanen
+boodwe+VAI+Cnj+Neg+2+Pl+Prt+Dub	boodawesiiegobane
+boodwe+VAI+Cnj+Neg+2+Pl+Prt+Dub	boodawesiegobanen
+boodwe+VAI+Cnj+Neg+2+Pl+Prt+Dub	boodawesiegobane
+
+boodwe+VAI+Cnj+Neg+3+Pl+Prt+Dub	boodawesiiwaadbanen
+boodwe+VAI+Cnj+Neg+3+Pl+Prt+Dub	boodawesiiwaadbane
+boodwe+VAI+Cnj+Neg+3+Pl+Prt+Dub	boodawesiwaadbanen
+boodwe+VAI+Cnj+Neg+3+Pl+Prt+Dub	boodawesiwaadbane
+

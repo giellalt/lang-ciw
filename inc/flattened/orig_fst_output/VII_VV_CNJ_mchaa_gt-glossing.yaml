@@ -1,0 +1,18 @@
+Tests:
+  VII_VV_CNJ_mchaa_gt-glossing:
+    mchaa+VII+Cnj+0: michaag
+    mchaa+VII+Cnj+0+4: michaanig
+    mchaa+VII+Cnj+0+Prt: [ michaagiban, michaagiba ]
+    mchaa+VII+Cnj+0+4+Prt: [ michaanigiban, michaanigiba ]
+    PV/CCNJ+mchaa+VII+Cnj+0+Dub: michaagwenh
+    PV/CCNJ+mchaa+VII+Cnj+0+4+Dub: michaanigwenh
+    mchaa+VII+Cnj+0+Prt+Dub: [ michaagobanen, michaagobane ]
+    mchaa+VII+Cnj+0+4+Prt+Dub: [ michaanigobanen, michaanigobane ]
+    mchaa+VII+Cnj+Neg+0: [ michaasinoog, michaasinog ]
+    mchaa+VII+Cnj+Neg+0+4: michaasinoonig
+    mchaa+VII+Cnj+Neg+0+Prt: [ michaasinoogiban, michaasinoogiba ]
+    mchaa+VII+Cnj+Neg+0+4+Prt: [ michaasinoonigiban, michaasinoonigiba ]
+    PV/CCNJ+mchaa+VII+Cnj+Neg+0+Dub: michaasinoogwenh
+    PV/CCNJ+mchaa+VII+Cnj+Neg+0+4+Dub: michaasinoonigwenh
+    mchaa+VII+Cnj+Neg+0+Prt+Dub: [ michaasinoogobanen, michaasinoogobane ]
+    mchaa+VII+Cnj+Neg+0+4+Prt+Dub: [ michaasinoonigobanen, michaasinoonigobane ]

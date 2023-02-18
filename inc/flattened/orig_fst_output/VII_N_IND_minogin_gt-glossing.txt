@@ -1,0 +1,87 @@
+mnogin+VII+0	minoginw
+
+mnogin+VII+0+4	minoginini
+
+mnogin+VII+0+Prt	minoginbani1
+
+mnogin+VII+0+4+Prt	minogininiwiban
+mnogin+VII+0+4+Prt	minogininiwiba
+mnogin+VII+0+4+Prt	minogininiiban
+mnogin+VII+0+4+Prt	minogininiiba
+
+mnogin+VII+0+Dub	minogindig
+
+mnogin+VII+0+4+Dub	minogininiwidig
+mnogin+VII+0+4+Dub	minogininiidig
+
+mnogin+VII+0+Prt+Dub	minogingoban
+mnogin+VII+0+Prt+Dub	minogingoba
+
+mnogin+VII+0+4+Prt+Dub	minogininiwigoban
+mnogin+VII+0+4+Prt+Dub	minogininiwigoba
+mnogin+VII+0+4+Prt+Dub	minogininiigoban
+mnogin+VII+0+4+Prt+Dub	minogininiigoba
+
+mnogin+VII+0+Prt+0+Pl	minoginbaniin
+
+mnogin+VII+0+4+Prt+0+Pl	minogininiwibaniin
+mnogin+VII+0+4+Prt+0+Pl	minogininiibaniin
+
+mnogin+VII+0+Dub+0+Pl	minogindigenan
+
+mnogin+VII+0+4+Dub+0+Pl	minogininiwidigenan
+mnogin+VII+0+4+Dub+0+Pl	minogininiidigenan
+
+mnogin+VII+0+Prt+Dub+0+Pl	minogingobaniin
+
+mnogin+VII+0+4+Prt+Dub+0+Pl	minogininiwigobaniin
+mnogin+VII+0+4+Prt+Dub+0+Pl	minogininiigobaniin
+
+mnogin+VII+0+0+Pl	minoginwan
+
+mnogin+VII+0+4+0+Pl	minogininiwan
+
+mnogin+VII+Neg+0	minoginsinoo
+
+mnogin+VII+Neg+0+4	minoginsinooni
+
+mnogin+VII+Neg+0+Prt	minoginsinooban
+mnogin+VII+Neg+0+Prt	minoginsinooba
+
+mnogin+VII+Neg+0+4+Prt	minoginsinooniwiban
+mnogin+VII+Neg+0+4+Prt	minoginsinooniwiba
+mnogin+VII+Neg+0+4+Prt	minoginsinooniiban
+mnogin+VII+Neg+0+4+Prt	minoginsinooniiba
+
+mnogin+VII+Neg+0+Dub	minoginsinoodig
+
+mnogin+VII+Neg+0+4+Dub	minoginsinooniwidig
+mnogin+VII+Neg+0+4+Dub	minoginsinooniidig
+
+mnogin+VII+Neg+0+Prt+Dub	minoginsinoogoban
+mnogin+VII+Neg+0+Prt+Dub	minoginsinoogoba
+
+mnogin+VII+Neg+0+4+Prt+Dub	minoginsinooniwigoban
+mnogin+VII+Neg+0+4+Prt+Dub	minoginsinooniwigoba
+mnogin+VII+Neg+0+4+Prt+Dub	minoginsinooniigoban
+mnogin+VII+Neg+0+4+Prt+Dub	minoginsinooniigoba
+
+mnogin+VII+Neg+0+Prt+0+Pl	minoginsinoobaniin
+
+mnogin+VII+Neg+0+4+Prt+0+Pl	minoginsinooniwibaniin
+mnogin+VII+Neg+0+4+Prt+0+Pl	minoginsinooniibaniin
+
+mnogin+VII+Neg+0+Dub+0+Pl	minoginsinoodigenan
+
+mnogin+VII+Neg+0+4+Dub+0+Pl	minoginsinooniwidigenan
+mnogin+VII+Neg+0+4+Dub+0+Pl	minoginsinooniidigenan
+
+mnogin+VII+Neg+0+Prt+Dub+0+Pl	minoginsinoogobaniin
+
+mnogin+VII+Neg+0+4+Prt+Dub+0+Pl	minoginsinooniwigobaniin
+mnogin+VII+Neg+0+4+Prt+Dub+0+Pl	minoginsinooniigobaniin
+
+mnogin+VII+Neg+0+0+Pl	minoginsinoowan
+
+mnogin+VII+Neg+0+4+0+Pl	minoginsinooniwan
+

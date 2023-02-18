@@ -1,0 +1,872 @@
+Tests:
+  NA_I_mitigwaab_gt-glossing:
+    mtigwaap+NA: mitigwaabi1
+    1+mtigwaap+NA: nimitigwaabi1
+    2+mtigwaap+NA: gimitigwaabi1
+    X+mtigwaap+NA: imitigwaabi1
+    mtigwaap+NA+Con: mitigwaabi1enh
+    mtigwaap+NA+Dim: mitigwaabi1ens
+    mtigwaap+NA+Pej: mitigwaabi1sh
+    mtigwaap+NA+Prt: mitigwaabi1bani1
+    mtigwaap+NA+Voc+Pl: mitigwaabi1dig
+    mtigwaap+NA+4: mitigwaabi1an
+    mtigwaap+NA+Loc: mitigwaabi1ng
+    mtigwaap+NA+Pl: mitigwaabi1ag
+    1+mtigwaap+NA+Con: nimitigwaabi1enh
+    1+mtigwaap+NA+Dim: nimitigwaabi1ens
+    2+mtigwaap+NA+Con: gimitigwaabi1enh
+    2+mtigwaap+NA+Dim: gimitigwaabi1ens
+    X+mtigwaap+NA+Con: imitigwaabi1enh
+    X+mtigwaap+NA+Dim: imitigwaabi1ens
+    1+mtigwaap+NA+ThmPos: nimitigwaabi1m
+    2+mtigwaap+NA+ThmPos: gimitigwaabi1m
+    X+mtigwaap+NA+ThmPos: imitigwaabi1m
+    1+mtigwaap+NA+Pej: nimitigwaabi1sh
+    2+mtigwaap+NA+Pej: gimitigwaabi1sh
+    X+mtigwaap+NA+Pej: imitigwaabi1sh
+    1+mtigwaap+NA+1+Pl: [ nimitigwaabi1naan, nimitigwaabi1naa ]
+    2+mtigwaap+NA+1+Pl: [ gimitigwaabi1naan, gimitigwaabi1naa ]
+    2+mtigwaap+NA+2+Pl: gimitigwaabi1waa
+    3+mtigwaap+NA+3+4: omitigwaabi1niw
+    1+mtigwaap+NA+Prt: nimitigwaabi1bani1
+    1+mtigwaap+NA+Voc+Pl: nimitigwaabi1dig
+    2+mtigwaap+NA+Prt: gimitigwaabi1bani1
+    2+mtigwaap+NA+Voc+Pl: gimitigwaabi1dig
+    X+mtigwaap+NA+Prt: imitigwaabi1bani1
+    X+mtigwaap+NA+Voc+Pl: imitigwaabi1dig
+    1+mtigwaap+NA+4: nimitigwaabi1an
+    1+mtigwaap+NA+Loc: nimitigwaabi1ng
+    1+mtigwaap+NA+Pl: nimitigwaabi1ag
+    2+mtigwaap+NA+4: gimitigwaabi1an
+    2+mtigwaap+NA+Loc: gimitigwaabi1ng
+    2+mtigwaap+NA+Pl: gimitigwaabi1ag
+    3+mtigwaap+NA+4: omitigwaabi1an
+    3+mtigwaap+NA+Loc: omitigwaabi1ng
+    X+mtigwaap+NA+4: imitigwaabi1an
+    X+mtigwaap+NA+Loc: imitigwaabi1ng
+    X+mtigwaap+NA+Pl: imitigwaabi1ag
+    mtigwaap+NA+Con+Pej: mitigwaabi1enyish
+    mtigwaap+NA+Dim+Pej: mitigwaabi1ensish
+    mtigwaap+NA+Con+Prt: [ mitigwaabi1enyiban, mitigwaabi1enyiba ]
+    mtigwaap+NA+Con+Voc+Pl: mitigwaabi1enydig
+    mtigwaap+NA+Dim+Prt: [ mitigwaabi1ensiban, mitigwaabi1ensiba ]
+    mtigwaap+NA+Dim+Voc+Pl: mitigwaabi1ensdig
+    mtigwaap+NA+Con+4: mitigwaabi1enyin
+    mtigwaap+NA+Con+Loc: mitigwaabi1enying
+    mtigwaap+NA+Con+Pl: mitigwaabi1enyag
+    mtigwaap+NA+Dim+4: mitigwaabi1ensan
+    mtigwaap+NA+Dim+Loc: mitigwaabi1ensing
+    mtigwaap+NA+Dim+Pl: mitigwaabi1ensag
+    mtigwaap+NA+Pej+Prt: [ mitigwaabi1shiban, mitigwaabi1shiba ]
+    mtigwaap+NA+Pej+Voc+Pl: mitigwaabi1shdig
+    mtigwaap+NA+Pej+4: mitigwaabi1shan
+    mtigwaap+NA+Pej+Loc: mitigwaabi1shing
+    mtigwaap+NA+Pej+Pl: mitigwaabi1shag
+    mtigwaap+NA+Prt+4: mitigwaabi1baniin
+    mtigwaap+NA+Prt+Loc: mitigwaabi1baniing
+    mtigwaap+NA+Prt+Pl: mitigwaabi1bani1ag
+    1+mtigwaap+NA+Con+ThmPos: nimitigwaabi1enym
+    1+mtigwaap+NA+Dim+ThmPos: nimitigwaabi1ensm
+    2+mtigwaap+NA+Con+ThmPos: gimitigwaabi1enym
+    2+mtigwaap+NA+Dim+ThmPos: gimitigwaabi1ensm
+    X+mtigwaap+NA+Con+ThmPos: imitigwaabi1enym
+    X+mtigwaap+NA+Dim+ThmPos: imitigwaabi1ensm
+    1+mtigwaap+NA+Con+Pej: nimitigwaabi1enyish
+    1+mtigwaap+NA+Dim+Pej: nimitigwaabi1ensish
+    2+mtigwaap+NA+Con+Pej: gimitigwaabi1enyish
+    2+mtigwaap+NA+Dim+Pej: gimitigwaabi1ensish
+    X+mtigwaap+NA+Con+Pej: imitigwaabi1enyish
+    X+mtigwaap+NA+Dim+Pej: imitigwaabi1ensish
+    1+mtigwaap+NA+Con+1+Pl: [ nimitigwaabi1enynaan, nimitigwaabi1enynaa ]
+    1+mtigwaap+NA+Dim+1+Pl: [ nimitigwaabi1ensnaan, nimitigwaabi1ensnaa ]
+    2+mtigwaap+NA+Con+1+Pl: [ gimitigwaabi1enynaan, gimitigwaabi1enynaa ]
+    2+mtigwaap+NA+Con+2+Pl: gimitigwaabi1enywaa
+    2+mtigwaap+NA+Dim+1+Pl: [ gimitigwaabi1ensnaan, gimitigwaabi1ensnaa ]
+    2+mtigwaap+NA+Dim+2+Pl: gimitigwaabi1enswaa
+    3+mtigwaap+NA+Con+3+4: omitigwaabi1enyniw
+    3+mtigwaap+NA+Dim+3+4: omitigwaabi1ensniw
+    1+mtigwaap+NA+Con+Prt: [ nimitigwaabi1enyiban, nimitigwaabi1enyiba ]
+    1+mtigwaap+NA+Con+Voc+Pl: nimitigwaabi1enydig
+    1+mtigwaap+NA+Dim+Prt: [ nimitigwaabi1ensiban, nimitigwaabi1ensiba ]
+    1+mtigwaap+NA+Dim+Voc+Pl: nimitigwaabi1ensdig
+    2+mtigwaap+NA+Con+Prt: [ gimitigwaabi1enyiban, gimitigwaabi1enyiba ]
+    2+mtigwaap+NA+Con+Voc+Pl: gimitigwaabi1enydig
+    2+mtigwaap+NA+Dim+Prt: [ gimitigwaabi1ensiban, gimitigwaabi1ensiba ]
+    2+mtigwaap+NA+Dim+Voc+Pl: gimitigwaabi1ensdig
+    X+mtigwaap+NA+Con+Prt: [ imitigwaabi1enyiban, imitigwaabi1enyiba ]
+    X+mtigwaap+NA+Con+Voc+Pl: imitigwaabi1enydig
+    X+mtigwaap+NA+Dim+Prt: [ imitigwaabi1ensiban, imitigwaabi1ensiba ]
+    X+mtigwaap+NA+Dim+Voc+Pl: imitigwaabi1ensdig
+    1+mtigwaap+NA+Con+4: nimitigwaabi1enyin
+    1+mtigwaap+NA+Con+Loc: nimitigwaabi1enying
+    1+mtigwaap+NA+Con+Pl: nimitigwaabi1enyag
+    1+mtigwaap+NA+Dim+4: nimitigwaabi1ensan
+    1+mtigwaap+NA+Dim+Loc: nimitigwaabi1ensing
+    1+mtigwaap+NA+Dim+Pl: nimitigwaabi1ensag
+    2+mtigwaap+NA+Con+4: gimitigwaabi1enyin
+    2+mtigwaap+NA+Con+Loc: gimitigwaabi1enying
+    2+mtigwaap+NA+Con+Pl: gimitigwaabi1enyag
+    2+mtigwaap+NA+Dim+4: gimitigwaabi1ensan
+    2+mtigwaap+NA+Dim+Loc: gimitigwaabi1ensing
+    2+mtigwaap+NA+Dim+Pl: gimitigwaabi1ensag
+    3+mtigwaap+NA+Con+4: omitigwaabi1enyin
+    3+mtigwaap+NA+Con+Loc: omitigwaabi1enying
+    3+mtigwaap+NA+Dim+4: omitigwaabi1ensan
+    3+mtigwaap+NA+Dim+Loc: omitigwaabi1ensing
+    X+mtigwaap+NA+Con+4: imitigwaabi1enyin
+    X+mtigwaap+NA+Con+Loc: imitigwaabi1enying
+    X+mtigwaap+NA+Con+Pl: imitigwaabi1enyag
+    X+mtigwaap+NA+Dim+4: imitigwaabi1ensan
+    X+mtigwaap+NA+Dim+Loc: imitigwaabi1ensing
+    X+mtigwaap+NA+Dim+Pl: imitigwaabi1ensag
+    1+mtigwaap+NA+ThmPos+Pej: nimitigwaabi1mish
+    2+mtigwaap+NA+ThmPos+Pej: gimitigwaabi1mish
+    X+mtigwaap+NA+ThmPos+Pej: imitigwaabi1mish
+    1+mtigwaap+NA+ThmPos+1+Pl: [ nimitigwaabi1mnaan, nimitigwaabi1mnaa ]
+    2+mtigwaap+NA+ThmPos+1+Pl: [ gimitigwaabi1mnaan, gimitigwaabi1mnaa ]
+    2+mtigwaap+NA+ThmPos+2+Pl: gimitigwaabi1mwaa
+    3+mtigwaap+NA+ThmPos+3+4: omitigwaabi1mniw
+    1+mtigwaap+NA+ThmPos+Prt: [ nimitigwaabi1miban, nimitigwaabi1miba ]
+    1+mtigwaap+NA+ThmPos+Voc+Pl: nimitigwaabi1mdig
+    2+mtigwaap+NA+ThmPos+Prt: [ gimitigwaabi1miban, gimitigwaabi1miba ]
+    2+mtigwaap+NA+ThmPos+Voc+Pl: gimitigwaabi1mdig
+    X+mtigwaap+NA+ThmPos+Prt: [ imitigwaabi1miban, imitigwaabi1miba ]
+    X+mtigwaap+NA+ThmPos+Voc+Pl: imitigwaabi1mdig
+    1+mtigwaap+NA+ThmPos+4: nimitigwaabi1man
+    1+mtigwaap+NA+ThmPos+Loc: nimitigwaabi1ming
+    1+mtigwaap+NA+ThmPos+Pl: nimitigwaabi1mag
+    2+mtigwaap+NA+ThmPos+4: gimitigwaabi1man
+    2+mtigwaap+NA+ThmPos+Loc: gimitigwaabi1ming
+    2+mtigwaap+NA+ThmPos+Pl: gimitigwaabi1mag
+    3+mtigwaap+NA+ThmPos+4: omitigwaabi1man
+    3+mtigwaap+NA+ThmPos+Loc: omitigwaabi1ming
+    X+mtigwaap+NA+ThmPos+4: imitigwaabi1man
+    X+mtigwaap+NA+ThmPos+Loc: imitigwaabi1ming
+    X+mtigwaap+NA+ThmPos+Pl: imitigwaabi1mag
+    1+mtigwaap+NA+Pej+1+Pl: [ nimitigwaabi1shnaan, nimitigwaabi1shnaa ]
+    2+mtigwaap+NA+Pej+1+Pl: [ gimitigwaabi1shnaan, gimitigwaabi1shnaa ]
+    2+mtigwaap+NA+Pej+2+Pl: gimitigwaabi1shwaa
+    3+mtigwaap+NA+Pej+3+4: omitigwaabi1shniw
+    1+mtigwaap+NA+Pej+Prt: [ nimitigwaabi1shiban, nimitigwaabi1shiba ]
+    1+mtigwaap+NA+Pej+Voc+Pl: nimitigwaabi1shdig
+    2+mtigwaap+NA+Pej+Prt: [ gimitigwaabi1shiban, gimitigwaabi1shiba ]
+    2+mtigwaap+NA+Pej+Voc+Pl: gimitigwaabi1shdig
+    X+mtigwaap+NA+Pej+Prt: [ imitigwaabi1shiban, imitigwaabi1shiba ]
+    X+mtigwaap+NA+Pej+Voc+Pl: imitigwaabi1shdig
+    1+mtigwaap+NA+Pej+4: nimitigwaabi1shan
+    1+mtigwaap+NA+Pej+Loc: nimitigwaabi1shing
+    1+mtigwaap+NA+Pej+Pl: nimitigwaabi1shag
+    2+mtigwaap+NA+Pej+4: gimitigwaabi1shan
+    2+mtigwaap+NA+Pej+Loc: gimitigwaabi1shing
+    2+mtigwaap+NA+Pej+Pl: gimitigwaabi1shag
+    3+mtigwaap+NA+Pej+4: omitigwaabi1shan
+    3+mtigwaap+NA+Pej+Loc: omitigwaabi1shing
+    X+mtigwaap+NA+Pej+4: imitigwaabi1shan
+    X+mtigwaap+NA+Pej+Loc: imitigwaabi1shing
+    X+mtigwaap+NA+Pej+Pl: imitigwaabi1shag
+    1+mtigwaap+NA+1+Pl+Prt: [ nimitigwaabi1naaniban, nimitigwaabi1naaniba ]
+    1+mtigwaap+NA+1+Pl+Voc+Pl: nimitigwaabi1naany1dig
+    2+mtigwaap+NA+1+Pl+Prt: [ gimitigwaabi1naaniban, gimitigwaabi1naaniba ]
+    2+mtigwaap+NA+1+Pl+Voc+Pl: gimitigwaabi1naany1dig
+    2+mtigwaap+NA+2+Pl+Prt: [ gimitigwaabi1waaban, gimitigwaabi1waaba ]
+    2+mtigwaap+NA+2+Pl+Voc+Pl: gimitigwaabi1waadig
+    3+mtigwaap+NA+3+4+Prt: [ omitigwaabi1niwiban, omitigwaabi1niwiba, omitigwaabi1niiban, omitigwaabi1niiba ]
+    1+mtigwaap+NA+1+Pl+4: nimitigwaabi1naanin
+    1+mtigwaap+NA+1+Pl+Loc: nimitigwaabi1naaning
+    1+mtigwaap+NA+1+Pl+Pl: nimitigwaabi1naany1ag
+    2+mtigwaap+NA+1+Pl+4: gimitigwaabi1naanin
+    2+mtigwaap+NA+1+Pl+Loc: gimitigwaabi1naaning
+    2+mtigwaap+NA+1+Pl+Pl: gimitigwaabi1naany1ag
+    2+mtigwaap+NA+2+Pl+4: gimitigwaabi1waan
+    2+mtigwaap+NA+2+Pl+Loc: gimitigwaabi1waang
+    2+mtigwaap+NA+2+Pl+Pl: gimitigwaabi1waaag
+    3+mtigwaap+NA+2+Pl+4: omitigwaabi1waan
+    3+mtigwaap+NA+2+Pl+Loc: omitigwaabi1waang
+    3+mtigwaap+NA+3+4+4: omitigwaabi1niwan
+    3+mtigwaap+NA+3+4+Loc: omitigwaabi1niing
+    1+mtigwaap+NA+Prt+4: nimitigwaabi1baniin
+    1+mtigwaap+NA+Prt+Loc: nimitigwaabi1baniing
+    1+mtigwaap+NA+Prt+Pl: nimitigwaabi1bani1ag
+    2+mtigwaap+NA+Prt+4: gimitigwaabi1baniin
+    2+mtigwaap+NA+Prt+Loc: gimitigwaabi1baniing
+    2+mtigwaap+NA+Prt+Pl: gimitigwaabi1bani1ag
+    3+mtigwaap+NA+Prt+4: omitigwaabi1baniin
+    3+mtigwaap+NA+Prt+Loc: omitigwaabi1baniing
+    X+mtigwaap+NA+Prt+4: imitigwaabi1baniin
+    X+mtigwaap+NA+Prt+Loc: imitigwaabi1baniing
+    X+mtigwaap+NA+Prt+Pl: imitigwaabi1bani1ag
+    mtigwaap+NA+Con+Pej+Prt: [ mitigwaabi1enyishiban, mitigwaabi1enyishiba ]
+    mtigwaap+NA+Con+Pej+Voc+Pl: mitigwaabi1enyishdig
+    mtigwaap+NA+Dim+Pej+Prt: [ mitigwaabi1ensishiban, mitigwaabi1ensishiba ]
+    mtigwaap+NA+Dim+Pej+Voc+Pl: mitigwaabi1ensishdig
+    mtigwaap+NA+Con+Pej+4: mitigwaabi1enyishan
+    mtigwaap+NA+Con+Pej+Loc: mitigwaabi1enyishing
+    mtigwaap+NA+Con+Pej+Pl: mitigwaabi1enyishag
+    mtigwaap+NA+Dim+Pej+4: mitigwaabi1ensishan
+    mtigwaap+NA+Dim+Pej+Loc: mitigwaabi1ensishing
+    mtigwaap+NA+Dim+Pej+Pl: mitigwaabi1ensishag
+    mtigwaap+NA+Con+Prt+4: mitigwaabi1enyibaniin
+    mtigwaap+NA+Con+Prt+Loc: mitigwaabi1enyibaniing
+    mtigwaap+NA+Con+Prt+Pl: mitigwaabi1enyibani1ag
+    mtigwaap+NA+Dim+Prt+4: mitigwaabi1ensibaniin
+    mtigwaap+NA+Dim+Prt+Loc: mitigwaabi1ensibaniing
+    mtigwaap+NA+Dim+Prt+Pl: mitigwaabi1ensibani1ag
+    mtigwaap+NA+Pej+Prt+4: mitigwaabi1shibaniin
+    mtigwaap+NA+Pej+Prt+Loc: mitigwaabi1shibaniing
+    mtigwaap+NA+Pej+Prt+Pl: mitigwaabi1shibani1ag
+    1+mtigwaap+NA+Con+ThmPos+Pej: nimitigwaabi1enymish
+    1+mtigwaap+NA+Dim+ThmPos+Pej: nimitigwaabi1ensmish
+    2+mtigwaap+NA+Con+ThmPos+Pej: gimitigwaabi1enymish
+    2+mtigwaap+NA+Dim+ThmPos+Pej: gimitigwaabi1ensmish
+    X+mtigwaap+NA+Con+ThmPos+Pej: imitigwaabi1enymish
+    X+mtigwaap+NA+Dim+ThmPos+Pej: imitigwaabi1ensmish
+    1+mtigwaap+NA+Con+ThmPos+1+Pl: [ nimitigwaabi1enymnaan, nimitigwaabi1enymnaa ]
+    1+mtigwaap+NA+Dim+ThmPos+1+Pl: [ nimitigwaabi1ensmnaan, nimitigwaabi1ensmnaa ]
+    2+mtigwaap+NA+Con+ThmPos+1+Pl: [ gimitigwaabi1enymnaan, gimitigwaabi1enymnaa ]
+    2+mtigwaap+NA+Con+ThmPos+2+Pl: gimitigwaabi1enymwaa
+    2+mtigwaap+NA+Dim+ThmPos+1+Pl: [ gimitigwaabi1ensmnaan, gimitigwaabi1ensmnaa ]
+    2+mtigwaap+NA+Dim+ThmPos+2+Pl: gimitigwaabi1ensmwaa
+    3+mtigwaap+NA+Con+ThmPos+3+4: omitigwaabi1enymniw
+    3+mtigwaap+NA+Dim+ThmPos+3+4: omitigwaabi1ensmniw
+    1+mtigwaap+NA+Con+ThmPos+Prt: [ nimitigwaabi1enymiban, nimitigwaabi1enymiba ]
+    1+mtigwaap+NA+Con+ThmPos+Voc+Pl: nimitigwaabi1enymdig
+    1+mtigwaap+NA+Dim+ThmPos+Prt: [ nimitigwaabi1ensmiban, nimitigwaabi1ensmiba ]
+    1+mtigwaap+NA+Dim+ThmPos+Voc+Pl: nimitigwaabi1ensmdig
+    2+mtigwaap+NA+Con+ThmPos+Prt: [ gimitigwaabi1enymiban, gimitigwaabi1enymiba ]
+    2+mtigwaap+NA+Con+ThmPos+Voc+Pl: gimitigwaabi1enymdig
+    2+mtigwaap+NA+Dim+ThmPos+Prt: [ gimitigwaabi1ensmiban, gimitigwaabi1ensmiba ]
+    2+mtigwaap+NA+Dim+ThmPos+Voc+Pl: gimitigwaabi1ensmdig
+    X+mtigwaap+NA+Con+ThmPos+Prt: [ imitigwaabi1enymiban, imitigwaabi1enymiba ]
+    X+mtigwaap+NA+Con+ThmPos+Voc+Pl: imitigwaabi1enymdig
+    X+mtigwaap+NA+Dim+ThmPos+Prt: [ imitigwaabi1ensmiban, imitigwaabi1ensmiba ]
+    X+mtigwaap+NA+Dim+ThmPos+Voc+Pl: imitigwaabi1ensmdig
+    1+mtigwaap+NA+Con+ThmPos+4: nimitigwaabi1enyman
+    1+mtigwaap+NA+Con+ThmPos+Loc: nimitigwaabi1enyming
+    1+mtigwaap+NA+Con+ThmPos+Pl: nimitigwaabi1enymag
+    1+mtigwaap+NA+Dim+ThmPos+4: nimitigwaabi1ensman
+    1+mtigwaap+NA+Dim+ThmPos+Loc: nimitigwaabi1ensming
+    1+mtigwaap+NA+Dim+ThmPos+Pl: nimitigwaabi1ensmag
+    2+mtigwaap+NA+Con+ThmPos+4: gimitigwaabi1enyman
+    2+mtigwaap+NA+Con+ThmPos+Loc: gimitigwaabi1enyming
+    2+mtigwaap+NA+Con+ThmPos+Pl: gimitigwaabi1enymag
+    2+mtigwaap+NA+Dim+ThmPos+4: gimitigwaabi1ensman
+    2+mtigwaap+NA+Dim+ThmPos+Loc: gimitigwaabi1ensming
+    2+mtigwaap+NA+Dim+ThmPos+Pl: gimitigwaabi1ensmag
+    3+mtigwaap+NA+Con+ThmPos+4: omitigwaabi1enyman
+    3+mtigwaap+NA+Con+ThmPos+Loc: omitigwaabi1enyming
+    3+mtigwaap+NA+Dim+ThmPos+4: omitigwaabi1ensman
+    3+mtigwaap+NA+Dim+ThmPos+Loc: omitigwaabi1ensming
+    X+mtigwaap+NA+Con+ThmPos+4: imitigwaabi1enyman
+    X+mtigwaap+NA+Con+ThmPos+Loc: imitigwaabi1enyming
+    X+mtigwaap+NA+Con+ThmPos+Pl: imitigwaabi1enymag
+    X+mtigwaap+NA+Dim+ThmPos+4: imitigwaabi1ensman
+    X+mtigwaap+NA+Dim+ThmPos+Loc: imitigwaabi1ensming
+    X+mtigwaap+NA+Dim+ThmPos+Pl: imitigwaabi1ensmag
+    1+mtigwaap+NA+Con+Pej+1+Pl: [ nimitigwaabi1enyishnaan, nimitigwaabi1enyishnaa ]
+    1+mtigwaap+NA+Dim+Pej+1+Pl: [ nimitigwaabi1ensishnaan, nimitigwaabi1ensishnaa ]
+    2+mtigwaap+NA+Con+Pej+1+Pl: [ gimitigwaabi1enyishnaan, gimitigwaabi1enyishnaa ]
+    2+mtigwaap+NA+Con+Pej+2+Pl: gimitigwaabi1enyishwaa
+    2+mtigwaap+NA+Dim+Pej+1+Pl: [ gimitigwaabi1ensishnaan, gimitigwaabi1ensishnaa ]
+    2+mtigwaap+NA+Dim+Pej+2+Pl: gimitigwaabi1ensishwaa
+    3+mtigwaap+NA+Con+Pej+3+4: omitigwaabi1enyishniw
+    3+mtigwaap+NA+Dim+Pej+3+4: omitigwaabi1ensishniw
+    1+mtigwaap+NA+Con+Pej+Prt: [ nimitigwaabi1enyishiban, nimitigwaabi1enyishiba ]
+    1+mtigwaap+NA+Con+Pej+Voc+Pl: nimitigwaabi1enyishdig
+    1+mtigwaap+NA+Dim+Pej+Prt: [ nimitigwaabi1ensishiban, nimitigwaabi1ensishiba ]
+    1+mtigwaap+NA+Dim+Pej+Voc+Pl: nimitigwaabi1ensishdig
+    2+mtigwaap+NA+Con+Pej+Prt: [ gimitigwaabi1enyishiban, gimitigwaabi1enyishiba ]
+    2+mtigwaap+NA+Con+Pej+Voc+Pl: gimitigwaabi1enyishdig
+    2+mtigwaap+NA+Dim+Pej+Prt: [ gimitigwaabi1ensishiban, gimitigwaabi1ensishiba ]
+    2+mtigwaap+NA+Dim+Pej+Voc+Pl: gimitigwaabi1ensishdig
+    X+mtigwaap+NA+Con+Pej+Prt: [ imitigwaabi1enyishiban, imitigwaabi1enyishiba ]
+    X+mtigwaap+NA+Con+Pej+Voc+Pl: imitigwaabi1enyishdig
+    X+mtigwaap+NA+Dim+Pej+Prt: [ imitigwaabi1ensishiban, imitigwaabi1ensishiba ]
+    X+mtigwaap+NA+Dim+Pej+Voc+Pl: imitigwaabi1ensishdig
+    1+mtigwaap+NA+Con+Pej+4: nimitigwaabi1enyishan
+    1+mtigwaap+NA+Con+Pej+Loc: nimitigwaabi1enyishing
+    1+mtigwaap+NA+Con+Pej+Pl: nimitigwaabi1enyishag
+    1+mtigwaap+NA+Dim+Pej+4: nimitigwaabi1ensishan
+    1+mtigwaap+NA+Dim+Pej+Loc: nimitigwaabi1ensishing
+    1+mtigwaap+NA+Dim+Pej+Pl: nimitigwaabi1ensishag
+    2+mtigwaap+NA+Con+Pej+4: gimitigwaabi1enyishan
+    2+mtigwaap+NA+Con+Pej+Loc: gimitigwaabi1enyishing
+    2+mtigwaap+NA+Con+Pej+Pl: gimitigwaabi1enyishag
+    2+mtigwaap+NA+Dim+Pej+4: gimitigwaabi1ensishan
+    2+mtigwaap+NA+Dim+Pej+Loc: gimitigwaabi1ensishing
+    2+mtigwaap+NA+Dim+Pej+Pl: gimitigwaabi1ensishag
+    3+mtigwaap+NA+Con+Pej+4: omitigwaabi1enyishan
+    3+mtigwaap+NA+Con+Pej+Loc: omitigwaabi1enyishing
+    3+mtigwaap+NA+Dim+Pej+4: omitigwaabi1ensishan
+    3+mtigwaap+NA+Dim+Pej+Loc: omitigwaabi1ensishing
+    X+mtigwaap+NA+Con+Pej+4: imitigwaabi1enyishan
+    X+mtigwaap+NA+Con+Pej+Loc: imitigwaabi1enyishing
+    X+mtigwaap+NA+Con+Pej+Pl: imitigwaabi1enyishag
+    X+mtigwaap+NA+Dim+Pej+4: imitigwaabi1ensishan
+    X+mtigwaap+NA+Dim+Pej+Loc: imitigwaabi1ensishing
+    X+mtigwaap+NA+Dim+Pej+Pl: imitigwaabi1ensishag
+    1+mtigwaap+NA+Con+1+Pl+Prt: [ nimitigwaabi1enynaaniban, nimitigwaabi1enynaaniba ]
+    1+mtigwaap+NA+Con+1+Pl+Voc+Pl: nimitigwaabi1enynaany1dig
+    1+mtigwaap+NA+Dim+1+Pl+Prt: [ nimitigwaabi1ensnaaniban, nimitigwaabi1ensnaaniba ]
+    1+mtigwaap+NA+Dim+1+Pl+Voc+Pl: nimitigwaabi1ensnaany1dig
+    2+mtigwaap+NA+Con+1+Pl+Prt: [ gimitigwaabi1enynaaniban, gimitigwaabi1enynaaniba ]
+    2+mtigwaap+NA+Con+1+Pl+Voc+Pl: gimitigwaabi1enynaany1dig
+    2+mtigwaap+NA+Con+2+Pl+Prt: [ gimitigwaabi1enywaaban, gimitigwaabi1enywaaba ]
+    2+mtigwaap+NA+Con+2+Pl+Voc+Pl: gimitigwaabi1enywaadig
+    2+mtigwaap+NA+Dim+1+Pl+Prt: [ gimitigwaabi1ensnaaniban, gimitigwaabi1ensnaaniba ]
+    2+mtigwaap+NA+Dim+1+Pl+Voc+Pl: gimitigwaabi1ensnaany1dig
+    2+mtigwaap+NA+Dim+2+Pl+Prt: [ gimitigwaabi1enswaaban, gimitigwaabi1enswaaba ]
+    2+mtigwaap+NA+Dim+2+Pl+Voc+Pl: gimitigwaabi1enswaadig
+    3+mtigwaap+NA+Con+3+4+Prt: [ omitigwaabi1enyniwiban, omitigwaabi1enyniwiba, omitigwaabi1enyniiban, omitigwaabi1enyniiba ]
+    3+mtigwaap+NA+Dim+3+4+Prt: [ omitigwaabi1ensniwiban, omitigwaabi1ensniwiba, omitigwaabi1ensniiban, omitigwaabi1ensniiba ]
+    1+mtigwaap+NA+Con+1+Pl+4: nimitigwaabi1enynaanin
+    1+mtigwaap+NA+Con+1+Pl+Loc: nimitigwaabi1enynaaning
+    1+mtigwaap+NA+Con+1+Pl+Pl: nimitigwaabi1enynaany1ag
+    1+mtigwaap+NA+Dim+1+Pl+4: nimitigwaabi1ensnaanin
+    1+mtigwaap+NA+Dim+1+Pl+Loc: nimitigwaabi1ensnaaning
+    1+mtigwaap+NA+Dim+1+Pl+Pl: nimitigwaabi1ensnaany1ag
+    2+mtigwaap+NA+Con+1+Pl+4: gimitigwaabi1enynaanin
+    2+mtigwaap+NA+Con+1+Pl+Loc: gimitigwaabi1enynaaning
+    2+mtigwaap+NA+Con+1+Pl+Pl: gimitigwaabi1enynaany1ag
+    2+mtigwaap+NA+Con+2+Pl+4: gimitigwaabi1enywaan
+    2+mtigwaap+NA+Con+2+Pl+Loc: gimitigwaabi1enywaang
+    2+mtigwaap+NA+Con+2+Pl+Pl: gimitigwaabi1enywaaag
+    2+mtigwaap+NA+Dim+1+Pl+4: gimitigwaabi1ensnaanin
+    2+mtigwaap+NA+Dim+1+Pl+Loc: gimitigwaabi1ensnaaning
+    2+mtigwaap+NA+Dim+1+Pl+Pl: gimitigwaabi1ensnaany1ag
+    2+mtigwaap+NA+Dim+2+Pl+4: gimitigwaabi1enswaan
+    2+mtigwaap+NA+Dim+2+Pl+Loc: gimitigwaabi1enswaang
+    2+mtigwaap+NA+Dim+2+Pl+Pl: gimitigwaabi1enswaaag
+    3+mtigwaap+NA+Con+2+Pl+4: omitigwaabi1enywaan
+    3+mtigwaap+NA+Con+2+Pl+Loc: omitigwaabi1enywaang
+    3+mtigwaap+NA+Con+3+4+4: omitigwaabi1enyniwan
+    3+mtigwaap+NA+Con+3+4+Loc: omitigwaabi1enyniing
+    3+mtigwaap+NA+Dim+2+Pl+4: omitigwaabi1enswaan
+    3+mtigwaap+NA+Dim+2+Pl+Loc: omitigwaabi1enswaang
+    3+mtigwaap+NA+Dim+3+4+4: omitigwaabi1ensniwan
+    3+mtigwaap+NA+Dim+3+4+Loc: omitigwaabi1ensniing
+    1+mtigwaap+NA+Con+Prt+4: nimitigwaabi1enyibaniin
+    1+mtigwaap+NA+Con+Prt+Loc: nimitigwaabi1enyibaniing
+    1+mtigwaap+NA+Con+Prt+Pl: nimitigwaabi1enyibani1ag
+    1+mtigwaap+NA+Dim+Prt+4: nimitigwaabi1ensibaniin
+    1+mtigwaap+NA+Dim+Prt+Loc: nimitigwaabi1ensibaniing
+    1+mtigwaap+NA+Dim+Prt+Pl: nimitigwaabi1ensibani1ag
+    2+mtigwaap+NA+Con+Prt+4: gimitigwaabi1enyibaniin
+    2+mtigwaap+NA+Con+Prt+Loc: gimitigwaabi1enyibaniing
+    2+mtigwaap+NA+Con+Prt+Pl: gimitigwaabi1enyibani1ag
+    2+mtigwaap+NA+Dim+Prt+4: gimitigwaabi1ensibaniin
+    2+mtigwaap+NA+Dim+Prt+Loc: gimitigwaabi1ensibaniing
+    2+mtigwaap+NA+Dim+Prt+Pl: gimitigwaabi1ensibani1ag
+    3+mtigwaap+NA+Con+Prt+4: omitigwaabi1enyibaniin
+    3+mtigwaap+NA+Con+Prt+Loc: omitigwaabi1enyibaniing
+    3+mtigwaap+NA+Dim+Prt+4: omitigwaabi1ensibaniin
+    3+mtigwaap+NA+Dim+Prt+Loc: omitigwaabi1ensibaniing
+    X+mtigwaap+NA+Con+Prt+4: imitigwaabi1enyibaniin
+    X+mtigwaap+NA+Con+Prt+Loc: imitigwaabi1enyibaniing
+    X+mtigwaap+NA+Con+Prt+Pl: imitigwaabi1enyibani1ag
+    X+mtigwaap+NA+Dim+Prt+4: imitigwaabi1ensibaniin
+    X+mtigwaap+NA+Dim+Prt+Loc: imitigwaabi1ensibaniing
+    X+mtigwaap+NA+Dim+Prt+Pl: imitigwaabi1ensibani1ag
+    1+mtigwaap+NA+ThmPos+Pej+1+Pl: [ nimitigwaabi1mishnaan, nimitigwaabi1mishnaa ]
+    2+mtigwaap+NA+ThmPos+Pej+1+Pl: [ gimitigwaabi1mishnaan, gimitigwaabi1mishnaa ]
+    2+mtigwaap+NA+ThmPos+Pej+2+Pl: gimitigwaabi1mishwaa
+    3+mtigwaap+NA+ThmPos+Pej+3+4: omitigwaabi1mishniw
+    1+mtigwaap+NA+ThmPos+Pej+Prt: [ nimitigwaabi1mishiban, nimitigwaabi1mishiba ]
+    1+mtigwaap+NA+ThmPos+Pej+Voc+Pl: nimitigwaabi1mishdig
+    2+mtigwaap+NA+ThmPos+Pej+Prt: [ gimitigwaabi1mishiban, gimitigwaabi1mishiba ]
+    2+mtigwaap+NA+ThmPos+Pej+Voc+Pl: gimitigwaabi1mishdig
+    X+mtigwaap+NA+ThmPos+Pej+Prt: [ imitigwaabi1mishiban, imitigwaabi1mishiba ]
+    X+mtigwaap+NA+ThmPos+Pej+Voc+Pl: imitigwaabi1mishdig
+    1+mtigwaap+NA+ThmPos+Pej+4: nimitigwaabi1mishan
+    1+mtigwaap+NA+ThmPos+Pej+Loc: nimitigwaabi1mishing
+    1+mtigwaap+NA+ThmPos+Pej+Pl: nimitigwaabi1mishag
+    2+mtigwaap+NA+ThmPos+Pej+4: gimitigwaabi1mishan
+    2+mtigwaap+NA+ThmPos+Pej+Loc: gimitigwaabi1mishing
+    2+mtigwaap+NA+ThmPos+Pej+Pl: gimitigwaabi1mishag
+    3+mtigwaap+NA+ThmPos+Pej+4: omitigwaabi1mishan
+    3+mtigwaap+NA+ThmPos+Pej+Loc: omitigwaabi1mishing
+    X+mtigwaap+NA+ThmPos+Pej+4: imitigwaabi1mishan
+    X+mtigwaap+NA+ThmPos+Pej+Loc: imitigwaabi1mishing
+    X+mtigwaap+NA+ThmPos+Pej+Pl: imitigwaabi1mishag
+    1+mtigwaap+NA+ThmPos+1+Pl+Prt: [ nimitigwaabi1mnaaniban, nimitigwaabi1mnaaniba ]
+    1+mtigwaap+NA+ThmPos+1+Pl+Voc+Pl: nimitigwaabi1mnaany1dig
+    2+mtigwaap+NA+ThmPos+1+Pl+Prt: [ gimitigwaabi1mnaaniban, gimitigwaabi1mnaaniba ]
+    2+mtigwaap+NA+ThmPos+1+Pl+Voc+Pl: gimitigwaabi1mnaany1dig
+    2+mtigwaap+NA+ThmPos+2+Pl+Prt: [ gimitigwaabi1mwaaban, gimitigwaabi1mwaaba ]
+    2+mtigwaap+NA+ThmPos+2+Pl+Voc+Pl: gimitigwaabi1mwaadig
+    3+mtigwaap+NA+ThmPos+3+4+Prt: [ omitigwaabi1mniwiban, omitigwaabi1mniwiba, omitigwaabi1mniiban, omitigwaabi1mniiba ]
+    1+mtigwaap+NA+ThmPos+1+Pl+4: nimitigwaabi1mnaanin
+    1+mtigwaap+NA+ThmPos+1+Pl+Loc: nimitigwaabi1mnaaning
+    1+mtigwaap+NA+ThmPos+1+Pl+Pl: nimitigwaabi1mnaany1ag
+    2+mtigwaap+NA+ThmPos+1+Pl+4: gimitigwaabi1mnaanin
+    2+mtigwaap+NA+ThmPos+1+Pl+Loc: gimitigwaabi1mnaaning
+    2+mtigwaap+NA+ThmPos+1+Pl+Pl: gimitigwaabi1mnaany1ag
+    2+mtigwaap+NA+ThmPos+2+Pl+4: gimitigwaabi1mwaan
+    2+mtigwaap+NA+ThmPos+2+Pl+Loc: gimitigwaabi1mwaang
+    2+mtigwaap+NA+ThmPos+2+Pl+Pl: gimitigwaabi1mwaaag
+    3+mtigwaap+NA+ThmPos+2+Pl+4: omitigwaabi1mwaan
+    3+mtigwaap+NA+ThmPos+2+Pl+Loc: omitigwaabi1mwaang
+    3+mtigwaap+NA+ThmPos+3+4+4: omitigwaabi1mniwan
+    3+mtigwaap+NA+ThmPos+3+4+Loc: omitigwaabi1mniing
+    1+mtigwaap+NA+ThmPos+Prt+4: nimitigwaabi1mibaniin
+    1+mtigwaap+NA+ThmPos+Prt+Loc: nimitigwaabi1mibaniing
+    1+mtigwaap+NA+ThmPos+Prt+Pl: nimitigwaabi1mibani1ag
+    2+mtigwaap+NA+ThmPos+Prt+4: gimitigwaabi1mibaniin
+    2+mtigwaap+NA+ThmPos+Prt+Loc: gimitigwaabi1mibaniing
+    2+mtigwaap+NA+ThmPos+Prt+Pl: gimitigwaabi1mibani1ag
+    3+mtigwaap+NA+ThmPos+Prt+4: omitigwaabi1mibaniin
+    3+mtigwaap+NA+ThmPos+Prt+Loc: omitigwaabi1mibaniing
+    X+mtigwaap+NA+ThmPos+Prt+4: imitigwaabi1mibaniin
+    X+mtigwaap+NA+ThmPos+Prt+Loc: imitigwaabi1mibaniing
+    X+mtigwaap+NA+ThmPos+Prt+Pl: imitigwaabi1mibani1ag
+    1+mtigwaap+NA+Pej+1+Pl+Prt: [ nimitigwaabi1shnaaniban, nimitigwaabi1shnaaniba ]
+    1+mtigwaap+NA+Pej+1+Pl+Voc+Pl: nimitigwaabi1shnaany1dig
+    2+mtigwaap+NA+Pej+1+Pl+Prt: [ gimitigwaabi1shnaaniban, gimitigwaabi1shnaaniba ]
+    2+mtigwaap+NA+Pej+1+Pl+Voc+Pl: gimitigwaabi1shnaany1dig
+    2+mtigwaap+NA+Pej+2+Pl+Prt: [ gimitigwaabi1shwaaban, gimitigwaabi1shwaaba ]
+    2+mtigwaap+NA+Pej+2+Pl+Voc+Pl: gimitigwaabi1shwaadig
+    3+mtigwaap+NA+Pej+3+4+Prt: [ omitigwaabi1shniwiban, omitigwaabi1shniwiba, omitigwaabi1shniiban, omitigwaabi1shniiba ]
+    1+mtigwaap+NA+Pej+1+Pl+4: nimitigwaabi1shnaanin
+    1+mtigwaap+NA+Pej+1+Pl+Loc: nimitigwaabi1shnaaning
+    1+mtigwaap+NA+Pej+1+Pl+Pl: nimitigwaabi1shnaany1ag
+    2+mtigwaap+NA+Pej+1+Pl+4: gimitigwaabi1shnaanin
+    2+mtigwaap+NA+Pej+1+Pl+Loc: gimitigwaabi1shnaaning
+    2+mtigwaap+NA+Pej+1+Pl+Pl: gimitigwaabi1shnaany1ag
+    2+mtigwaap+NA+Pej+2+Pl+4: gimitigwaabi1shwaan
+    2+mtigwaap+NA+Pej+2+Pl+Loc: gimitigwaabi1shwaang
+    2+mtigwaap+NA+Pej+2+Pl+Pl: gimitigwaabi1shwaaag
+    3+mtigwaap+NA+Pej+2+Pl+4: omitigwaabi1shwaan
+    3+mtigwaap+NA+Pej+2+Pl+Loc: omitigwaabi1shwaang
+    3+mtigwaap+NA+Pej+3+4+4: omitigwaabi1shniwan
+    3+mtigwaap+NA+Pej+3+4+Loc: omitigwaabi1shniing
+    1+mtigwaap+NA+Pej+Prt+4: nimitigwaabi1shibaniin
+    1+mtigwaap+NA+Pej+Prt+Loc: nimitigwaabi1shibaniing
+    1+mtigwaap+NA+Pej+Prt+Pl: nimitigwaabi1shibani1ag
+    2+mtigwaap+NA+Pej+Prt+4: gimitigwaabi1shibaniin
+    2+mtigwaap+NA+Pej+Prt+Loc: gimitigwaabi1shibaniing
+    2+mtigwaap+NA+Pej+Prt+Pl: gimitigwaabi1shibani1ag
+    3+mtigwaap+NA+Pej+Prt+4: omitigwaabi1shibaniin
+    3+mtigwaap+NA+Pej+Prt+Loc: omitigwaabi1shibaniing
+    X+mtigwaap+NA+Pej+Prt+4: imitigwaabi1shibaniin
+    X+mtigwaap+NA+Pej+Prt+Loc: imitigwaabi1shibaniing
+    X+mtigwaap+NA+Pej+Prt+Pl: imitigwaabi1shibani1ag
+    1+mtigwaap+NA+1+Pl+Prt+4: nimitigwaabi1naanibaniin
+    1+mtigwaap+NA+1+Pl+Prt+Loc: nimitigwaabi1naanibaniing
+    1+mtigwaap+NA+1+Pl+Prt+Pl: nimitigwaabi1naanibani1ag
+    2+mtigwaap+NA+1+Pl+Prt+4: gimitigwaabi1naanibaniin
+    2+mtigwaap+NA+1+Pl+Prt+Loc: gimitigwaabi1naanibaniing
+    2+mtigwaap+NA+1+Pl+Prt+Pl: gimitigwaabi1naanibani1ag
+    2+mtigwaap+NA+2+Pl+Prt+4: gimitigwaabi1waabaniin
+    2+mtigwaap+NA+2+Pl+Prt+Loc: gimitigwaabi1waabaniing
+    2+mtigwaap+NA+2+Pl+Prt+Pl: gimitigwaabi1waabani1ag
+    3+mtigwaap+NA+2+Pl+Prt+4: omitigwaabi1waabaniin
+    3+mtigwaap+NA+2+Pl+Prt+Loc: omitigwaabi1waabaniing
+    3+mtigwaap+NA+3+4+Prt+4: [ omitigwaabi1niwibaniin, omitigwaabi1niibaniin ]
+    3+mtigwaap+NA+3+4+Prt+Loc: [ omitigwaabi1niwibaniing, omitigwaabi1niibaniing ]
+    mtigwaap+NA+Con+Pej+Prt+4: mitigwaabi1enyishibaniin
+    mtigwaap+NA+Con+Pej+Prt+Loc: mitigwaabi1enyishibaniing
+    mtigwaap+NA+Con+Pej+Prt+Pl: mitigwaabi1enyishibani1ag
+    mtigwaap+NA+Dim+Pej+Prt+4: mitigwaabi1ensishibaniin
+    mtigwaap+NA+Dim+Pej+Prt+Loc: mitigwaabi1ensishibaniing
+    mtigwaap+NA+Dim+Pej+Prt+Pl: mitigwaabi1ensishibani1ag
+    1+mtigwaap+NA+Con+ThmPos+Pej+1+Pl: [ nimitigwaabi1enymishnaan, nimitigwaabi1enymishnaa ]
+    1+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl: [ nimitigwaabi1ensmishnaan, nimitigwaabi1ensmishnaa ]
+    2+mtigwaap+NA+Con+ThmPos+Pej+1+Pl: [ gimitigwaabi1enymishnaan, gimitigwaabi1enymishnaa ]
+    2+mtigwaap+NA+Con+ThmPos+Pej+2+Pl: gimitigwaabi1enymishwaa
+    2+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl: [ gimitigwaabi1ensmishnaan, gimitigwaabi1ensmishnaa ]
+    2+mtigwaap+NA+Dim+ThmPos+Pej+2+Pl: gimitigwaabi1ensmishwaa
+    3+mtigwaap+NA+Con+ThmPos+Pej+3+4: omitigwaabi1enymishniw
+    3+mtigwaap+NA+Dim+ThmPos+Pej+3+4: omitigwaabi1ensmishniw
+    1+mtigwaap+NA+Con+ThmPos+Pej+Prt: [ nimitigwaabi1enymishiban, nimitigwaabi1enymishiba ]
+    1+mtigwaap+NA+Con+ThmPos+Pej+Voc+Pl: nimitigwaabi1enymishdig
+    1+mtigwaap+NA+Dim+ThmPos+Pej+Prt: [ nimitigwaabi1ensmishiban, nimitigwaabi1ensmishiba ]
+    1+mtigwaap+NA+Dim+ThmPos+Pej+Voc+Pl: nimitigwaabi1ensmishdig
+    2+mtigwaap+NA+Con+ThmPos+Pej+Prt: [ gimitigwaabi1enymishiban, gimitigwaabi1enymishiba ]
+    2+mtigwaap+NA+Con+ThmPos+Pej+Voc+Pl: gimitigwaabi1enymishdig
+    2+mtigwaap+NA+Dim+ThmPos+Pej+Prt: [ gimitigwaabi1ensmishiban, gimitigwaabi1ensmishiba ]
+    2+mtigwaap+NA+Dim+ThmPos+Pej+Voc+Pl: gimitigwaabi1ensmishdig
+    X+mtigwaap+NA+Con+ThmPos+Pej+Prt: [ imitigwaabi1enymishiban, imitigwaabi1enymishiba ]
+    X+mtigwaap+NA+Con+ThmPos+Pej+Voc+Pl: imitigwaabi1enymishdig
+    X+mtigwaap+NA+Dim+ThmPos+Pej+Prt: [ imitigwaabi1ensmishiban, imitigwaabi1ensmishiba ]
+    X+mtigwaap+NA+Dim+ThmPos+Pej+Voc+Pl: imitigwaabi1ensmishdig
+    1+mtigwaap+NA+Con+ThmPos+Pej+4: nimitigwaabi1enymishan
+    1+mtigwaap+NA+Con+ThmPos+Pej+Loc: nimitigwaabi1enymishing
+    1+mtigwaap+NA+Con+ThmPos+Pej+Pl: nimitigwaabi1enymishag
+    1+mtigwaap+NA+Dim+ThmPos+Pej+4: nimitigwaabi1ensmishan
+    1+mtigwaap+NA+Dim+ThmPos+Pej+Loc: nimitigwaabi1ensmishing
+    1+mtigwaap+NA+Dim+ThmPos+Pej+Pl: nimitigwaabi1ensmishag
+    2+mtigwaap+NA+Con+ThmPos+Pej+4: gimitigwaabi1enymishan
+    2+mtigwaap+NA+Con+ThmPos+Pej+Loc: gimitigwaabi1enymishing
+    2+mtigwaap+NA+Con+ThmPos+Pej+Pl: gimitigwaabi1enymishag
+    2+mtigwaap+NA+Dim+ThmPos+Pej+4: gimitigwaabi1ensmishan
+    2+mtigwaap+NA+Dim+ThmPos+Pej+Loc: gimitigwaabi1ensmishing
+    2+mtigwaap+NA+Dim+ThmPos+Pej+Pl: gimitigwaabi1ensmishag
+    3+mtigwaap+NA+Con+ThmPos+Pej+4: omitigwaabi1enymishan
+    3+mtigwaap+NA+Con+ThmPos+Pej+Loc: omitigwaabi1enymishing
+    3+mtigwaap+NA+Dim+ThmPos+Pej+4: omitigwaabi1ensmishan
+    3+mtigwaap+NA+Dim+ThmPos+Pej+Loc: omitigwaabi1ensmishing
+    X+mtigwaap+NA+Con+ThmPos+Pej+4: imitigwaabi1enymishan
+    X+mtigwaap+NA+Con+ThmPos+Pej+Loc: imitigwaabi1enymishing
+    X+mtigwaap+NA+Con+ThmPos+Pej+Pl: imitigwaabi1enymishag
+    X+mtigwaap+NA+Dim+ThmPos+Pej+4: imitigwaabi1ensmishan
+    X+mtigwaap+NA+Dim+ThmPos+Pej+Loc: imitigwaabi1ensmishing
+    X+mtigwaap+NA+Dim+ThmPos+Pej+Pl: imitigwaabi1ensmishag
+    1+mtigwaap+NA+Con+ThmPos+1+Pl+Prt: [ nimitigwaabi1enymnaaniban, nimitigwaabi1enymnaaniba ]
+    1+mtigwaap+NA+Con+ThmPos+1+Pl+Voc+Pl: nimitigwaabi1enymnaany1dig
+    1+mtigwaap+NA+Dim+ThmPos+1+Pl+Prt: [ nimitigwaabi1ensmnaaniban, nimitigwaabi1ensmnaaniba ]
+    1+mtigwaap+NA+Dim+ThmPos+1+Pl+Voc+Pl: nimitigwaabi1ensmnaany1dig
+    2+mtigwaap+NA+Con+ThmPos+1+Pl+Prt: [ gimitigwaabi1enymnaaniban, gimitigwaabi1enymnaaniba ]
+    2+mtigwaap+NA+Con+ThmPos+1+Pl+Voc+Pl: gimitigwaabi1enymnaany1dig
+    2+mtigwaap+NA+Con+ThmPos+2+Pl+Prt: [ gimitigwaabi1enymwaaban, gimitigwaabi1enymwaaba ]
+    2+mtigwaap+NA+Con+ThmPos+2+Pl+Voc+Pl: gimitigwaabi1enymwaadig
+    2+mtigwaap+NA+Dim+ThmPos+1+Pl+Prt: [ gimitigwaabi1ensmnaaniban, gimitigwaabi1ensmnaaniba ]
+    2+mtigwaap+NA+Dim+ThmPos+1+Pl+Voc+Pl: gimitigwaabi1ensmnaany1dig
+    2+mtigwaap+NA+Dim+ThmPos+2+Pl+Prt: [ gimitigwaabi1ensmwaaban, gimitigwaabi1ensmwaaba ]
+    2+mtigwaap+NA+Dim+ThmPos+2+Pl+Voc+Pl: gimitigwaabi1ensmwaadig
+    3+mtigwaap+NA+Con+ThmPos+3+4+Prt: [ omitigwaabi1enymniwiban, omitigwaabi1enymniwiba, omitigwaabi1enymniiban, omitigwaabi1enymniiba ]
+    3+mtigwaap+NA+Dim+ThmPos+3+4+Prt: [ omitigwaabi1ensmniwiban, omitigwaabi1ensmniwiba, omitigwaabi1ensmniiban, omitigwaabi1ensmniiba ]
+    1+mtigwaap+NA+Con+ThmPos+1+Pl+4: nimitigwaabi1enymnaanin
+    1+mtigwaap+NA+Con+ThmPos+1+Pl+Loc: nimitigwaabi1enymnaaning
+    1+mtigwaap+NA+Con+ThmPos+1+Pl+Pl: nimitigwaabi1enymnaany1ag
+    1+mtigwaap+NA+Dim+ThmPos+1+Pl+4: nimitigwaabi1ensmnaanin
+    1+mtigwaap+NA+Dim+ThmPos+1+Pl+Loc: nimitigwaabi1ensmnaaning
+    1+mtigwaap+NA+Dim+ThmPos+1+Pl+Pl: nimitigwaabi1ensmnaany1ag
+    2+mtigwaap+NA+Con+ThmPos+1+Pl+4: gimitigwaabi1enymnaanin
+    2+mtigwaap+NA+Con+ThmPos+1+Pl+Loc: gimitigwaabi1enymnaaning
+    2+mtigwaap+NA+Con+ThmPos+1+Pl+Pl: gimitigwaabi1enymnaany1ag
+    2+mtigwaap+NA+Con+ThmPos+2+Pl+4: gimitigwaabi1enymwaan
+    2+mtigwaap+NA+Con+ThmPos+2+Pl+Loc: gimitigwaabi1enymwaang
+    2+mtigwaap+NA+Con+ThmPos+2+Pl+Pl: gimitigwaabi1enymwaaag
+    2+mtigwaap+NA+Dim+ThmPos+1+Pl+4: gimitigwaabi1ensmnaanin
+    2+mtigwaap+NA+Dim+ThmPos+1+Pl+Loc: gimitigwaabi1ensmnaaning
+    2+mtigwaap+NA+Dim+ThmPos+1+Pl+Pl: gimitigwaabi1ensmnaany1ag
+    2+mtigwaap+NA+Dim+ThmPos+2+Pl+4: gimitigwaabi1ensmwaan
+    2+mtigwaap+NA+Dim+ThmPos+2+Pl+Loc: gimitigwaabi1ensmwaang
+    2+mtigwaap+NA+Dim+ThmPos+2+Pl+Pl: gimitigwaabi1ensmwaaag
+    3+mtigwaap+NA+Con+ThmPos+2+Pl+4: omitigwaabi1enymwaan
+    3+mtigwaap+NA+Con+ThmPos+2+Pl+Loc: omitigwaabi1enymwaang
+    3+mtigwaap+NA+Con+ThmPos+3+4+4: omitigwaabi1enymniwan
+    3+mtigwaap+NA+Con+ThmPos+3+4+Loc: omitigwaabi1enymniing
+    3+mtigwaap+NA+Dim+ThmPos+2+Pl+4: omitigwaabi1ensmwaan
+    3+mtigwaap+NA+Dim+ThmPos+2+Pl+Loc: omitigwaabi1ensmwaang
+    3+mtigwaap+NA+Dim+ThmPos+3+4+4: omitigwaabi1ensmniwan
+    3+mtigwaap+NA+Dim+ThmPos+3+4+Loc: omitigwaabi1ensmniing
+    1+mtigwaap+NA+Con+ThmPos+Prt+4: nimitigwaabi1enymibaniin
+    1+mtigwaap+NA+Con+ThmPos+Prt+Loc: nimitigwaabi1enymibaniing
+    1+mtigwaap+NA+Con+ThmPos+Prt+Pl: nimitigwaabi1enymibani1ag
+    1+mtigwaap+NA+Dim+ThmPos+Prt+4: nimitigwaabi1ensmibaniin
+    1+mtigwaap+NA+Dim+ThmPos+Prt+Loc: nimitigwaabi1ensmibaniing
+    1+mtigwaap+NA+Dim+ThmPos+Prt+Pl: nimitigwaabi1ensmibani1ag
+    2+mtigwaap+NA+Con+ThmPos+Prt+4: gimitigwaabi1enymibaniin
+    2+mtigwaap+NA+Con+ThmPos+Prt+Loc: gimitigwaabi1enymibaniing
+    2+mtigwaap+NA+Con+ThmPos+Prt+Pl: gimitigwaabi1enymibani1ag
+    2+mtigwaap+NA+Dim+ThmPos+Prt+4: gimitigwaabi1ensmibaniin
+    2+mtigwaap+NA+Dim+ThmPos+Prt+Loc: gimitigwaabi1ensmibaniing
+    2+mtigwaap+NA+Dim+ThmPos+Prt+Pl: gimitigwaabi1ensmibani1ag
+    3+mtigwaap+NA+Con+ThmPos+Prt+4: omitigwaabi1enymibaniin
+    3+mtigwaap+NA+Con+ThmPos+Prt+Loc: omitigwaabi1enymibaniing
+    3+mtigwaap+NA+Dim+ThmPos+Prt+4: omitigwaabi1ensmibaniin
+    3+mtigwaap+NA+Dim+ThmPos+Prt+Loc: omitigwaabi1ensmibaniing
+    X+mtigwaap+NA+Con+ThmPos+Prt+4: imitigwaabi1enymibaniin
+    X+mtigwaap+NA+Con+ThmPos+Prt+Loc: imitigwaabi1enymibaniing
+    X+mtigwaap+NA+Con+ThmPos+Prt+Pl: imitigwaabi1enymibani1ag
+    X+mtigwaap+NA+Dim+ThmPos+Prt+4: imitigwaabi1ensmibaniin
+    X+mtigwaap+NA+Dim+ThmPos+Prt+Loc: imitigwaabi1ensmibaniing
+    X+mtigwaap+NA+Dim+ThmPos+Prt+Pl: imitigwaabi1ensmibani1ag
+    1+mtigwaap+NA+Con+Pej+1+Pl+Prt: [ nimitigwaabi1enyishnaaniban, nimitigwaabi1enyishnaaniba ]
+    1+mtigwaap+NA+Con+Pej+1+Pl+Voc+Pl: nimitigwaabi1enyishnaany1dig
+    1+mtigwaap+NA+Dim+Pej+1+Pl+Prt: [ nimitigwaabi1ensishnaaniban, nimitigwaabi1ensishnaaniba ]
+    1+mtigwaap+NA+Dim+Pej+1+Pl+Voc+Pl: nimitigwaabi1ensishnaany1dig
+    2+mtigwaap+NA+Con+Pej+1+Pl+Prt: [ gimitigwaabi1enyishnaaniban, gimitigwaabi1enyishnaaniba ]
+    2+mtigwaap+NA+Con+Pej+1+Pl+Voc+Pl: gimitigwaabi1enyishnaany1dig
+    2+mtigwaap+NA+Con+Pej+2+Pl+Prt: [ gimitigwaabi1enyishwaaban, gimitigwaabi1enyishwaaba ]
+    2+mtigwaap+NA+Con+Pej+2+Pl+Voc+Pl: gimitigwaabi1enyishwaadig
+    2+mtigwaap+NA+Dim+Pej+1+Pl+Prt: [ gimitigwaabi1ensishnaaniban, gimitigwaabi1ensishnaaniba ]
+    2+mtigwaap+NA+Dim+Pej+1+Pl+Voc+Pl: gimitigwaabi1ensishnaany1dig
+    2+mtigwaap+NA+Dim+Pej+2+Pl+Prt: [ gimitigwaabi1ensishwaaban, gimitigwaabi1ensishwaaba ]
+    2+mtigwaap+NA+Dim+Pej+2+Pl+Voc+Pl: gimitigwaabi1ensishwaadig
+    3+mtigwaap+NA+Con+Pej+3+4+Prt: [ omitigwaabi1enyishniwiban, omitigwaabi1enyishniwiba, omitigwaabi1enyishniiban, omitigwaabi1enyishniiba ]
+    3+mtigwaap+NA+Dim+Pej+3+4+Prt: [ omitigwaabi1ensishniwiban, omitigwaabi1ensishniwiba, omitigwaabi1ensishniiban, omitigwaabi1ensishniiba ]
+    1+mtigwaap+NA+Con+Pej+1+Pl+4: nimitigwaabi1enyishnaanin
+    1+mtigwaap+NA+Con+Pej+1+Pl+Loc: nimitigwaabi1enyishnaaning
+    1+mtigwaap+NA+Con+Pej+1+Pl+Pl: nimitigwaabi1enyishnaany1ag
+    1+mtigwaap+NA+Dim+Pej+1+Pl+4: nimitigwaabi1ensishnaanin
+    1+mtigwaap+NA+Dim+Pej+1+Pl+Loc: nimitigwaabi1ensishnaaning
+    1+mtigwaap+NA+Dim+Pej+1+Pl+Pl: nimitigwaabi1ensishnaany1ag
+    2+mtigwaap+NA+Con+Pej+1+Pl+4: gimitigwaabi1enyishnaanin
+    2+mtigwaap+NA+Con+Pej+1+Pl+Loc: gimitigwaabi1enyishnaaning
+    2+mtigwaap+NA+Con+Pej+1+Pl+Pl: gimitigwaabi1enyishnaany1ag
+    2+mtigwaap+NA+Con+Pej+2+Pl+4: gimitigwaabi1enyishwaan
+    2+mtigwaap+NA+Con+Pej+2+Pl+Loc: gimitigwaabi1enyishwaang
+    2+mtigwaap+NA+Con+Pej+2+Pl+Pl: gimitigwaabi1enyishwaaag
+    2+mtigwaap+NA+Dim+Pej+1+Pl+4: gimitigwaabi1ensishnaanin
+    2+mtigwaap+NA+Dim+Pej+1+Pl+Loc: gimitigwaabi1ensishnaaning
+    2+mtigwaap+NA+Dim+Pej+1+Pl+Pl: gimitigwaabi1ensishnaany1ag
+    2+mtigwaap+NA+Dim+Pej+2+Pl+4: gimitigwaabi1ensishwaan
+    2+mtigwaap+NA+Dim+Pej+2+Pl+Loc: gimitigwaabi1ensishwaang
+    2+mtigwaap+NA+Dim+Pej+2+Pl+Pl: gimitigwaabi1ensishwaaag
+    3+mtigwaap+NA+Con+Pej+2+Pl+4: omitigwaabi1enyishwaan
+    3+mtigwaap+NA+Con+Pej+2+Pl+Loc: omitigwaabi1enyishwaang
+    3+mtigwaap+NA+Con+Pej+3+4+4: omitigwaabi1enyishniwan
+    3+mtigwaap+NA+Con+Pej+3+4+Loc: omitigwaabi1enyishniing
+    3+mtigwaap+NA+Dim+Pej+2+Pl+4: omitigwaabi1ensishwaan
+    3+mtigwaap+NA+Dim+Pej+2+Pl+Loc: omitigwaabi1ensishwaang
+    3+mtigwaap+NA+Dim+Pej+3+4+4: omitigwaabi1ensishniwan
+    3+mtigwaap+NA+Dim+Pej+3+4+Loc: omitigwaabi1ensishniing
+    1+mtigwaap+NA+Con+Pej+Prt+4: nimitigwaabi1enyishibaniin
+    1+mtigwaap+NA+Con+Pej+Prt+Loc: nimitigwaabi1enyishibaniing
+    1+mtigwaap+NA+Con+Pej+Prt+Pl: nimitigwaabi1enyishibani1ag
+    1+mtigwaap+NA+Dim+Pej+Prt+4: nimitigwaabi1ensishibaniin
+    1+mtigwaap+NA+Dim+Pej+Prt+Loc: nimitigwaabi1ensishibaniing
+    1+mtigwaap+NA+Dim+Pej+Prt+Pl: nimitigwaabi1ensishibani1ag
+    2+mtigwaap+NA+Con+Pej+Prt+4: gimitigwaabi1enyishibaniin
+    2+mtigwaap+NA+Con+Pej+Prt+Loc: gimitigwaabi1enyishibaniing
+    2+mtigwaap+NA+Con+Pej+Prt+Pl: gimitigwaabi1enyishibani1ag
+    2+mtigwaap+NA+Dim+Pej+Prt+4: gimitigwaabi1ensishibaniin
+    2+mtigwaap+NA+Dim+Pej+Prt+Loc: gimitigwaabi1ensishibaniing
+    2+mtigwaap+NA+Dim+Pej+Prt+Pl: gimitigwaabi1ensishibani1ag
+    3+mtigwaap+NA+Con+Pej+Prt+4: omitigwaabi1enyishibaniin
+    3+mtigwaap+NA+Con+Pej+Prt+Loc: omitigwaabi1enyishibaniing
+    3+mtigwaap+NA+Dim+Pej+Prt+4: omitigwaabi1ensishibaniin
+    3+mtigwaap+NA+Dim+Pej+Prt+Loc: omitigwaabi1ensishibaniing
+    X+mtigwaap+NA+Con+Pej+Prt+4: imitigwaabi1enyishibaniin
+    X+mtigwaap+NA+Con+Pej+Prt+Loc: imitigwaabi1enyishibaniing
+    X+mtigwaap+NA+Con+Pej+Prt+Pl: imitigwaabi1enyishibani1ag
+    X+mtigwaap+NA+Dim+Pej+Prt+4: imitigwaabi1ensishibaniin
+    X+mtigwaap+NA+Dim+Pej+Prt+Loc: imitigwaabi1ensishibaniing
+    X+mtigwaap+NA+Dim+Pej+Prt+Pl: imitigwaabi1ensishibani1ag
+    1+mtigwaap+NA+Con+1+Pl+Prt+4: nimitigwaabi1enynaanibaniin
+    1+mtigwaap+NA+Con+1+Pl+Prt+Loc: nimitigwaabi1enynaanibaniing
+    1+mtigwaap+NA+Con+1+Pl+Prt+Pl: nimitigwaabi1enynaanibani1ag
+    1+mtigwaap+NA+Dim+1+Pl+Prt+4: nimitigwaabi1ensnaanibaniin
+    1+mtigwaap+NA+Dim+1+Pl+Prt+Loc: nimitigwaabi1ensnaanibaniing
+    1+mtigwaap+NA+Dim+1+Pl+Prt+Pl: nimitigwaabi1ensnaanibani1ag
+    2+mtigwaap+NA+Con+1+Pl+Prt+4: gimitigwaabi1enynaanibaniin
+    2+mtigwaap+NA+Con+1+Pl+Prt+Loc: gimitigwaabi1enynaanibaniing
+    2+mtigwaap+NA+Con+1+Pl+Prt+Pl: gimitigwaabi1enynaanibani1ag
+    2+mtigwaap+NA+Con+2+Pl+Prt+4: gimitigwaabi1enywaabaniin
+    2+mtigwaap+NA+Con+2+Pl+Prt+Loc: gimitigwaabi1enywaabaniing
+    2+mtigwaap+NA+Con+2+Pl+Prt+Pl: gimitigwaabi1enywaabani1ag
+    2+mtigwaap+NA+Dim+1+Pl+Prt+4: gimitigwaabi1ensnaanibaniin
+    2+mtigwaap+NA+Dim+1+Pl+Prt+Loc: gimitigwaabi1ensnaanibaniing
+    2+mtigwaap+NA+Dim+1+Pl+Prt+Pl: gimitigwaabi1ensnaanibani1ag
+    2+mtigwaap+NA+Dim+2+Pl+Prt+4: gimitigwaabi1enswaabaniin
+    2+mtigwaap+NA+Dim+2+Pl+Prt+Loc: gimitigwaabi1enswaabaniing
+    2+mtigwaap+NA+Dim+2+Pl+Prt+Pl: gimitigwaabi1enswaabani1ag
+    3+mtigwaap+NA+Con+2+Pl+Prt+4: omitigwaabi1enywaabaniin
+    3+mtigwaap+NA+Con+2+Pl+Prt+Loc: omitigwaabi1enywaabaniing
+    3+mtigwaap+NA+Con+3+4+Prt+4: [ omitigwaabi1enyniwibaniin, omitigwaabi1enyniibaniin ]
+    3+mtigwaap+NA+Con+3+4+Prt+Loc: [ omitigwaabi1enyniwibaniing, omitigwaabi1enyniibaniing ]
+    3+mtigwaap+NA+Dim+2+Pl+Prt+4: omitigwaabi1enswaabaniin
+    3+mtigwaap+NA+Dim+2+Pl+Prt+Loc: omitigwaabi1enswaabaniing
+    3+mtigwaap+NA+Dim+3+4+Prt+4: [ omitigwaabi1ensniwibaniin, omitigwaabi1ensniibaniin ]
+    3+mtigwaap+NA+Dim+3+4+Prt+Loc: [ omitigwaabi1ensniwibaniing, omitigwaabi1ensniibaniing ]
+    1+mtigwaap+NA+ThmPos+Pej+1+Pl+Prt: [ nimitigwaabi1mishnaaniban, nimitigwaabi1mishnaaniba ]
+    1+mtigwaap+NA+ThmPos+Pej+1+Pl+Voc+Pl: nimitigwaabi1mishnaany1dig
+    2+mtigwaap+NA+ThmPos+Pej+1+Pl+Prt: [ gimitigwaabi1mishnaaniban, gimitigwaabi1mishnaaniba ]
+    2+mtigwaap+NA+ThmPos+Pej+1+Pl+Voc+Pl: gimitigwaabi1mishnaany1dig
+    2+mtigwaap+NA+ThmPos+Pej+2+Pl+Prt: [ gimitigwaabi1mishwaaban, gimitigwaabi1mishwaaba ]
+    2+mtigwaap+NA+ThmPos+Pej+2+Pl+Voc+Pl: gimitigwaabi1mishwaadig
+    3+mtigwaap+NA+ThmPos+Pej+3+4+Prt: [ omitigwaabi1mishniwiban, omitigwaabi1mishniwiba, omitigwaabi1mishniiban, omitigwaabi1mishniiba ]
+    1+mtigwaap+NA+ThmPos+Pej+1+Pl+4: nimitigwaabi1mishnaanin
+    1+mtigwaap+NA+ThmPos+Pej+1+Pl+Loc: nimitigwaabi1mishnaaning
+    1+mtigwaap+NA+ThmPos+Pej+1+Pl+Pl: nimitigwaabi1mishnaany1ag
+    2+mtigwaap+NA+ThmPos+Pej+1+Pl+4: gimitigwaabi1mishnaanin
+    2+mtigwaap+NA+ThmPos+Pej+1+Pl+Loc: gimitigwaabi1mishnaaning
+    2+mtigwaap+NA+ThmPos+Pej+1+Pl+Pl: gimitigwaabi1mishnaany1ag
+    2+mtigwaap+NA+ThmPos+Pej+2+Pl+4: gimitigwaabi1mishwaan
+    2+mtigwaap+NA+ThmPos+Pej+2+Pl+Loc: gimitigwaabi1mishwaang
+    2+mtigwaap+NA+ThmPos+Pej+2+Pl+Pl: gimitigwaabi1mishwaaag
+    3+mtigwaap+NA+ThmPos+Pej+2+Pl+4: omitigwaabi1mishwaan
+    3+mtigwaap+NA+ThmPos+Pej+2+Pl+Loc: omitigwaabi1mishwaang
+    3+mtigwaap+NA+ThmPos+Pej+3+4+4: omitigwaabi1mishniwan
+    3+mtigwaap+NA+ThmPos+Pej+3+4+Loc: omitigwaabi1mishniing
+    1+mtigwaap+NA+ThmPos+Pej+Prt+4: nimitigwaabi1mishibaniin
+    1+mtigwaap+NA+ThmPos+Pej+Prt+Loc: nimitigwaabi1mishibaniing
+    1+mtigwaap+NA+ThmPos+Pej+Prt+Pl: nimitigwaabi1mishibani1ag
+    2+mtigwaap+NA+ThmPos+Pej+Prt+4: gimitigwaabi1mishibaniin
+    2+mtigwaap+NA+ThmPos+Pej+Prt+Loc: gimitigwaabi1mishibaniing
+    2+mtigwaap+NA+ThmPos+Pej+Prt+Pl: gimitigwaabi1mishibani1ag
+    3+mtigwaap+NA+ThmPos+Pej+Prt+4: omitigwaabi1mishibaniin
+    3+mtigwaap+NA+ThmPos+Pej+Prt+Loc: omitigwaabi1mishibaniing
+    X+mtigwaap+NA+ThmPos+Pej+Prt+4: imitigwaabi1mishibaniin
+    X+mtigwaap+NA+ThmPos+Pej+Prt+Loc: imitigwaabi1mishibaniing
+    X+mtigwaap+NA+ThmPos+Pej+Prt+Pl: imitigwaabi1mishibani1ag
+    1+mtigwaap+NA+ThmPos+1+Pl+Prt+4: nimitigwaabi1mnaanibaniin
+    1+mtigwaap+NA+ThmPos+1+Pl+Prt+Loc: nimitigwaabi1mnaanibaniing
+    1+mtigwaap+NA+ThmPos+1+Pl+Prt+Pl: nimitigwaabi1mnaanibani1ag
+    2+mtigwaap+NA+ThmPos+1+Pl+Prt+4: gimitigwaabi1mnaanibaniin
+    2+mtigwaap+NA+ThmPos+1+Pl+Prt+Loc: gimitigwaabi1mnaanibaniing
+    2+mtigwaap+NA+ThmPos+1+Pl+Prt+Pl: gimitigwaabi1mnaanibani1ag
+    2+mtigwaap+NA+ThmPos+2+Pl+Prt+4: gimitigwaabi1mwaabaniin
+    2+mtigwaap+NA+ThmPos+2+Pl+Prt+Loc: gimitigwaabi1mwaabaniing
+    2+mtigwaap+NA+ThmPos+2+Pl+Prt+Pl: gimitigwaabi1mwaabani1ag
+    3+mtigwaap+NA+ThmPos+2+Pl+Prt+4: omitigwaabi1mwaabaniin
+    3+mtigwaap+NA+ThmPos+2+Pl+Prt+Loc: omitigwaabi1mwaabaniing
+    3+mtigwaap+NA+ThmPos+3+4+Prt+4: [ omitigwaabi1mniwibaniin, omitigwaabi1mniibaniin ]
+    3+mtigwaap+NA+ThmPos+3+4+Prt+Loc: [ omitigwaabi1mniwibaniing, omitigwaabi1mniibaniing ]
+    1+mtigwaap+NA+Pej+1+Pl+Prt+4: nimitigwaabi1shnaanibaniin
+    1+mtigwaap+NA+Pej+1+Pl+Prt+Loc: nimitigwaabi1shnaanibaniing
+    1+mtigwaap+NA+Pej+1+Pl+Prt+Pl: nimitigwaabi1shnaanibani1ag
+    2+mtigwaap+NA+Pej+1+Pl+Prt+4: gimitigwaabi1shnaanibaniin
+    2+mtigwaap+NA+Pej+1+Pl+Prt+Loc: gimitigwaabi1shnaanibaniing
+    2+mtigwaap+NA+Pej+1+Pl+Prt+Pl: gimitigwaabi1shnaanibani1ag
+    2+mtigwaap+NA+Pej+2+Pl+Prt+4: gimitigwaabi1shwaabaniin
+    2+mtigwaap+NA+Pej+2+Pl+Prt+Loc: gimitigwaabi1shwaabaniing
+    2+mtigwaap+NA+Pej+2+Pl+Prt+Pl: gimitigwaabi1shwaabani1ag
+    3+mtigwaap+NA+Pej+2+Pl+Prt+4: omitigwaabi1shwaabaniin
+    3+mtigwaap+NA+Pej+2+Pl+Prt+Loc: omitigwaabi1shwaabaniing
+    3+mtigwaap+NA+Pej+3+4+Prt+4: [ omitigwaabi1shniwibaniin, omitigwaabi1shniibaniin ]
+    3+mtigwaap+NA+Pej+3+4+Prt+Loc: [ omitigwaabi1shniwibaniing, omitigwaabi1shniibaniing ]
+    1+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Prt: [ nimitigwaabi1enymishnaaniban, nimitigwaabi1enymishnaaniba ]
+    1+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl: nimitigwaabi1enymishnaany1dig
+    1+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Prt: [ nimitigwaabi1ensmishnaaniban, nimitigwaabi1ensmishnaaniba ]
+    1+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl: nimitigwaabi1ensmishnaany1dig
+    2+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Prt: [ gimitigwaabi1enymishnaaniban, gimitigwaabi1enymishnaaniba ]
+    2+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl: gimitigwaabi1enymishnaany1dig
+    2+mtigwaap+NA+Con+ThmPos+Pej+2+Pl+Prt: [ gimitigwaabi1enymishwaaban, gimitigwaabi1enymishwaaba ]
+    2+mtigwaap+NA+Con+ThmPos+Pej+2+Pl+Voc+Pl: gimitigwaabi1enymishwaadig
+    2+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Prt: [ gimitigwaabi1ensmishnaaniban, gimitigwaabi1ensmishnaaniba ]
+    2+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl: gimitigwaabi1ensmishnaany1dig
+    2+mtigwaap+NA+Dim+ThmPos+Pej+2+Pl+Prt: [ gimitigwaabi1ensmishwaaban, gimitigwaabi1ensmishwaaba ]
+    2+mtigwaap+NA+Dim+ThmPos+Pej+2+Pl+Voc+Pl: gimitigwaabi1ensmishwaadig
+    3+mtigwaap+NA+Con+ThmPos+Pej+3+4+Prt: [ omitigwaabi1enymishniwiban, omitigwaabi1enymishniwiba, omitigwaabi1enymishniiban, omitigwaabi1enymishniiba ]
+    3+mtigwaap+NA+Dim+ThmPos+Pej+3+4+Prt: [ omitigwaabi1ensmishniwiban, omitigwaabi1ensmishniwiba, omitigwaabi1ensmishniiban, omitigwaabi1ensmishniiba ]
+    1+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+4: nimitigwaabi1enymishnaanin
+    1+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Loc: nimitigwaabi1enymishnaaning
+    1+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Pl: nimitigwaabi1enymishnaany1ag
+    1+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+4: nimitigwaabi1ensmishnaanin
+    1+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Loc: nimitigwaabi1ensmishnaaning
+    1+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Pl: nimitigwaabi1ensmishnaany1ag
+    2+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+4: gimitigwaabi1enymishnaanin
+    2+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Loc: gimitigwaabi1enymishnaaning
+    2+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Pl: gimitigwaabi1enymishnaany1ag
+    2+mtigwaap+NA+Con+ThmPos+Pej+2+Pl+4: gimitigwaabi1enymishwaan
+    2+mtigwaap+NA+Con+ThmPos+Pej+2+Pl+Loc: gimitigwaabi1enymishwaang
+    2+mtigwaap+NA+Con+ThmPos+Pej+2+Pl+Pl: gimitigwaabi1enymishwaaag
+    2+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+4: gimitigwaabi1ensmishnaanin
+    2+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Loc: gimitigwaabi1ensmishnaaning
+    2+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Pl: gimitigwaabi1ensmishnaany1ag
+    2+mtigwaap+NA+Dim+ThmPos+Pej+2+Pl+4: gimitigwaabi1ensmishwaan
+    2+mtigwaap+NA+Dim+ThmPos+Pej+2+Pl+Loc: gimitigwaabi1ensmishwaang
+    2+mtigwaap+NA+Dim+ThmPos+Pej+2+Pl+Pl: gimitigwaabi1ensmishwaaag
+    3+mtigwaap+NA+Con+ThmPos+Pej+2+Pl+4: omitigwaabi1enymishwaan
+    3+mtigwaap+NA+Con+ThmPos+Pej+2+Pl+Loc: omitigwaabi1enymishwaang
+    3+mtigwaap+NA+Con+ThmPos+Pej+3+4+4: omitigwaabi1enymishniwan
+    3+mtigwaap+NA+Con+ThmPos+Pej+3+4+Loc: omitigwaabi1enymishniing
+    3+mtigwaap+NA+Dim+ThmPos+Pej+2+Pl+4: omitigwaabi1ensmishwaan
+    3+mtigwaap+NA+Dim+ThmPos+Pej+2+Pl+Loc: omitigwaabi1ensmishwaang
+    3+mtigwaap+NA+Dim+ThmPos+Pej+3+4+4: omitigwaabi1ensmishniwan
+    3+mtigwaap+NA+Dim+ThmPos+Pej+3+4+Loc: omitigwaabi1ensmishniing
+    1+mtigwaap+NA+Con+ThmPos+Pej+Prt+4: nimitigwaabi1enymishibaniin
+    1+mtigwaap+NA+Con+ThmPos+Pej+Prt+Loc: nimitigwaabi1enymishibaniing
+    1+mtigwaap+NA+Con+ThmPos+Pej+Prt+Pl: nimitigwaabi1enymishibani1ag
+    1+mtigwaap+NA+Dim+ThmPos+Pej+Prt+4: nimitigwaabi1ensmishibaniin
+    1+mtigwaap+NA+Dim+ThmPos+Pej+Prt+Loc: nimitigwaabi1ensmishibaniing
+    1+mtigwaap+NA+Dim+ThmPos+Pej+Prt+Pl: nimitigwaabi1ensmishibani1ag
+    2+mtigwaap+NA+Con+ThmPos+Pej+Prt+4: gimitigwaabi1enymishibaniin
+    2+mtigwaap+NA+Con+ThmPos+Pej+Prt+Loc: gimitigwaabi1enymishibaniing
+    2+mtigwaap+NA+Con+ThmPos+Pej+Prt+Pl: gimitigwaabi1enymishibani1ag
+    2+mtigwaap+NA+Dim+ThmPos+Pej+Prt+4: gimitigwaabi1ensmishibaniin
+    2+mtigwaap+NA+Dim+ThmPos+Pej+Prt+Loc: gimitigwaabi1ensmishibaniing
+    2+mtigwaap+NA+Dim+ThmPos+Pej+Prt+Pl: gimitigwaabi1ensmishibani1ag
+    3+mtigwaap+NA+Con+ThmPos+Pej+Prt+4: omitigwaabi1enymishibaniin
+    3+mtigwaap+NA+Con+ThmPos+Pej+Prt+Loc: omitigwaabi1enymishibaniing
+    3+mtigwaap+NA+Dim+ThmPos+Pej+Prt+4: omitigwaabi1ensmishibaniin
+    3+mtigwaap+NA+Dim+ThmPos+Pej+Prt+Loc: omitigwaabi1ensmishibaniing
+    X+mtigwaap+NA+Con+ThmPos+Pej+Prt+4: imitigwaabi1enymishibaniin
+    X+mtigwaap+NA+Con+ThmPos+Pej+Prt+Loc: imitigwaabi1enymishibaniing
+    X+mtigwaap+NA+Con+ThmPos+Pej+Prt+Pl: imitigwaabi1enymishibani1ag
+    X+mtigwaap+NA+Dim+ThmPos+Pej+Prt+4: imitigwaabi1ensmishibaniin
+    X+mtigwaap+NA+Dim+ThmPos+Pej+Prt+Loc: imitigwaabi1ensmishibaniing
+    X+mtigwaap+NA+Dim+ThmPos+Pej+Prt+Pl: imitigwaabi1ensmishibani1ag
+    1+mtigwaap+NA+Con+ThmPos+1+Pl+Prt+4: nimitigwaabi1enymnaanibaniin
+    1+mtigwaap+NA+Con+ThmPos+1+Pl+Prt+Loc: nimitigwaabi1enymnaanibaniing
+    1+mtigwaap+NA+Con+ThmPos+1+Pl+Prt+Pl: nimitigwaabi1enymnaanibani1ag
+    1+mtigwaap+NA+Dim+ThmPos+1+Pl+Prt+4: nimitigwaabi1ensmnaanibaniin
+    1+mtigwaap+NA+Dim+ThmPos+1+Pl+Prt+Loc: nimitigwaabi1ensmnaanibaniing
+    1+mtigwaap+NA+Dim+ThmPos+1+Pl+Prt+Pl: nimitigwaabi1ensmnaanibani1ag
+    2+mtigwaap+NA+Con+ThmPos+1+Pl+Prt+4: gimitigwaabi1enymnaanibaniin
+    2+mtigwaap+NA+Con+ThmPos+1+Pl+Prt+Loc: gimitigwaabi1enymnaanibaniing
+    2+mtigwaap+NA+Con+ThmPos+1+Pl+Prt+Pl: gimitigwaabi1enymnaanibani1ag
+    2+mtigwaap+NA+Con+ThmPos+2+Pl+Prt+4: gimitigwaabi1enymwaabaniin
+    2+mtigwaap+NA+Con+ThmPos+2+Pl+Prt+Loc: gimitigwaabi1enymwaabaniing
+    2+mtigwaap+NA+Con+ThmPos+2+Pl+Prt+Pl: gimitigwaabi1enymwaabani1ag
+    2+mtigwaap+NA+Dim+ThmPos+1+Pl+Prt+4: gimitigwaabi1ensmnaanibaniin
+    2+mtigwaap+NA+Dim+ThmPos+1+Pl+Prt+Loc: gimitigwaabi1ensmnaanibaniing
+    2+mtigwaap+NA+Dim+ThmPos+1+Pl+Prt+Pl: gimitigwaabi1ensmnaanibani1ag
+    2+mtigwaap+NA+Dim+ThmPos+2+Pl+Prt+4: gimitigwaabi1ensmwaabaniin
+    2+mtigwaap+NA+Dim+ThmPos+2+Pl+Prt+Loc: gimitigwaabi1ensmwaabaniing
+    2+mtigwaap+NA+Dim+ThmPos+2+Pl+Prt+Pl: gimitigwaabi1ensmwaabani1ag
+    3+mtigwaap+NA+Con+ThmPos+2+Pl+Prt+4: omitigwaabi1enymwaabaniin
+    3+mtigwaap+NA+Con+ThmPos+2+Pl+Prt+Loc: omitigwaabi1enymwaabaniing
+    3+mtigwaap+NA+Con+ThmPos+3+4+Prt+4: [ omitigwaabi1enymniwibaniin, omitigwaabi1enymniibaniin ]
+    3+mtigwaap+NA+Con+ThmPos+3+4+Prt+Loc: [ omitigwaabi1enymniwibaniing, omitigwaabi1enymniibaniing ]
+    3+mtigwaap+NA+Dim+ThmPos+2+Pl+Prt+4: omitigwaabi1ensmwaabaniin
+    3+mtigwaap+NA+Dim+ThmPos+2+Pl+Prt+Loc: omitigwaabi1ensmwaabaniing
+    3+mtigwaap+NA+Dim+ThmPos+3+4+Prt+4: [ omitigwaabi1ensmniwibaniin, omitigwaabi1ensmniibaniin ]
+    3+mtigwaap+NA+Dim+ThmPos+3+4+Prt+Loc: [ omitigwaabi1ensmniwibaniing, omitigwaabi1ensmniibaniing ]
+    1+mtigwaap+NA+Con+Pej+1+Pl+Prt+4: nimitigwaabi1enyishnaanibaniin
+    1+mtigwaap+NA+Con+Pej+1+Pl+Prt+Loc: nimitigwaabi1enyishnaanibaniing
+    1+mtigwaap+NA+Con+Pej+1+Pl+Prt+Pl: nimitigwaabi1enyishnaanibani1ag
+    1+mtigwaap+NA+Dim+Pej+1+Pl+Prt+4: nimitigwaabi1ensishnaanibaniin
+    1+mtigwaap+NA+Dim+Pej+1+Pl+Prt+Loc: nimitigwaabi1ensishnaanibaniing
+    1+mtigwaap+NA+Dim+Pej+1+Pl+Prt+Pl: nimitigwaabi1ensishnaanibani1ag
+    2+mtigwaap+NA+Con+Pej+1+Pl+Prt+4: gimitigwaabi1enyishnaanibaniin
+    2+mtigwaap+NA+Con+Pej+1+Pl+Prt+Loc: gimitigwaabi1enyishnaanibaniing
+    2+mtigwaap+NA+Con+Pej+1+Pl+Prt+Pl: gimitigwaabi1enyishnaanibani1ag
+    2+mtigwaap+NA+Con+Pej+2+Pl+Prt+4: gimitigwaabi1enyishwaabaniin
+    2+mtigwaap+NA+Con+Pej+2+Pl+Prt+Loc: gimitigwaabi1enyishwaabaniing
+    2+mtigwaap+NA+Con+Pej+2+Pl+Prt+Pl: gimitigwaabi1enyishwaabani1ag
+    2+mtigwaap+NA+Dim+Pej+1+Pl+Prt+4: gimitigwaabi1ensishnaanibaniin
+    2+mtigwaap+NA+Dim+Pej+1+Pl+Prt+Loc: gimitigwaabi1ensishnaanibaniing
+    2+mtigwaap+NA+Dim+Pej+1+Pl+Prt+Pl: gimitigwaabi1ensishnaanibani1ag
+    2+mtigwaap+NA+Dim+Pej+2+Pl+Prt+4: gimitigwaabi1ensishwaabaniin
+    2+mtigwaap+NA+Dim+Pej+2+Pl+Prt+Loc: gimitigwaabi1ensishwaabaniing
+    2+mtigwaap+NA+Dim+Pej+2+Pl+Prt+Pl: gimitigwaabi1ensishwaabani1ag
+    3+mtigwaap+NA+Con+Pej+2+Pl+Prt+4: omitigwaabi1enyishwaabaniin
+    3+mtigwaap+NA+Con+Pej+2+Pl+Prt+Loc: omitigwaabi1enyishwaabaniing
+    3+mtigwaap+NA+Con+Pej+3+4+Prt+4: [ omitigwaabi1enyishniwibaniin, omitigwaabi1enyishniibaniin ]
+    3+mtigwaap+NA+Con+Pej+3+4+Prt+Loc: [ omitigwaabi1enyishniwibaniing, omitigwaabi1enyishniibaniing ]
+    3+mtigwaap+NA+Dim+Pej+2+Pl+Prt+4: omitigwaabi1ensishwaabaniin
+    3+mtigwaap+NA+Dim+Pej+2+Pl+Prt+Loc: omitigwaabi1ensishwaabaniing
+    3+mtigwaap+NA+Dim+Pej+3+4+Prt+4: [ omitigwaabi1ensishniwibaniin, omitigwaabi1ensishniibaniin ]
+    3+mtigwaap+NA+Dim+Pej+3+4+Prt+Loc: [ omitigwaabi1ensishniwibaniing, omitigwaabi1ensishniibaniing ]
+    1+mtigwaap+NA+ThmPos+Pej+1+Pl+Prt+4: nimitigwaabi1mishnaanibaniin
+    1+mtigwaap+NA+ThmPos+Pej+1+Pl+Prt+Loc: nimitigwaabi1mishnaanibaniing
+    1+mtigwaap+NA+ThmPos+Pej+1+Pl+Prt+Pl: nimitigwaabi1mishnaanibani1ag
+    2+mtigwaap+NA+ThmPos+Pej+1+Pl+Prt+4: gimitigwaabi1mishnaanibaniin
+    2+mtigwaap+NA+ThmPos+Pej+1+Pl+Prt+Loc: gimitigwaabi1mishnaanibaniing
+    2+mtigwaap+NA+ThmPos+Pej+1+Pl+Prt+Pl: gimitigwaabi1mishnaanibani1ag
+    2+mtigwaap+NA+ThmPos+Pej+2+Pl+Prt+4: gimitigwaabi1mishwaabaniin
+    2+mtigwaap+NA+ThmPos+Pej+2+Pl+Prt+Loc: gimitigwaabi1mishwaabaniing
+    2+mtigwaap+NA+ThmPos+Pej+2+Pl+Prt+Pl: gimitigwaabi1mishwaabani1ag
+    3+mtigwaap+NA+ThmPos+Pej+2+Pl+Prt+4: omitigwaabi1mishwaabaniin
+    3+mtigwaap+NA+ThmPos+Pej+2+Pl+Prt+Loc: omitigwaabi1mishwaabaniing
+    3+mtigwaap+NA+ThmPos+Pej+3+4+Prt+4: [ omitigwaabi1mishniwibaniin, omitigwaabi1mishniibaniin ]
+    3+mtigwaap+NA+ThmPos+Pej+3+4+Prt+Loc: [ omitigwaabi1mishniwibaniing, omitigwaabi1mishniibaniing ]
+    1+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Prt+4: nimitigwaabi1enymishnaanibaniin
+    1+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc: nimitigwaabi1enymishnaanibaniing
+    1+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl: nimitigwaabi1enymishnaanibani1ag
+    1+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Prt+4: nimitigwaabi1ensmishnaanibaniin
+    1+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc: nimitigwaabi1ensmishnaanibaniing
+    1+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl: nimitigwaabi1ensmishnaanibani1ag
+    2+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Prt+4: gimitigwaabi1enymishnaanibaniin
+    2+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc: gimitigwaabi1enymishnaanibaniing
+    2+mtigwaap+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl: gimitigwaabi1enymishnaanibani1ag
+    2+mtigwaap+NA+Con+ThmPos+Pej+2+Pl+Prt+4: gimitigwaabi1enymishwaabaniin
+    2+mtigwaap+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc: gimitigwaabi1enymishwaabaniing
+    2+mtigwaap+NA+Con+ThmPos+Pej+2+Pl+Prt+Pl: gimitigwaabi1enymishwaabani1ag
+    2+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Prt+4: gimitigwaabi1ensmishnaanibaniin
+    2+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc: gimitigwaabi1ensmishnaanibaniing
+    2+mtigwaap+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl: gimitigwaabi1ensmishnaanibani1ag
+    2+mtigwaap+NA+Dim+ThmPos+Pej+2+Pl+Prt+4: gimitigwaabi1ensmishwaabaniin
+    2+mtigwaap+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc: gimitigwaabi1ensmishwaabaniing
+    2+mtigwaap+NA+Dim+ThmPos+Pej+2+Pl+Prt+Pl: gimitigwaabi1ensmishwaabani1ag
+    3+mtigwaap+NA+Con+ThmPos+Pej+2+Pl+Prt+4: omitigwaabi1enymishwaabaniin
+    3+mtigwaap+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc: omitigwaabi1enymishwaabaniing
+    3+mtigwaap+NA+Con+ThmPos+Pej+3+4+Prt+4: [ omitigwaabi1enymishniwibaniin, omitigwaabi1enymishniibaniin ]
+    3+mtigwaap+NA+Con+ThmPos+Pej+3+4+Prt+Loc: [ omitigwaabi1enymishniwibaniing, omitigwaabi1enymishniibaniing ]
+    3+mtigwaap+NA+Dim+ThmPos+Pej+2+Pl+Prt+4: omitigwaabi1ensmishwaabaniin
+    3+mtigwaap+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc: omitigwaabi1ensmishwaabaniing
+    3+mtigwaap+NA+Dim+ThmPos+Pej+3+4+Prt+4: [ omitigwaabi1ensmishniwibaniin, omitigwaabi1ensmishniibaniin ]
+    3+mtigwaap+NA+Dim+ThmPos+Pej+3+4+Prt+Loc: [ omitigwaabi1ensmishniwibaniing, omitigwaabi1ensmishniibaniing ]

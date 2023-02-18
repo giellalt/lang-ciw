@@ -1,0 +1,168 @@
+1+boodwe+VAI	niboodawe
+
+2+boodwe+VAI	giboodawe
+
+boodwe+VAI+3	boodawew
+
+boodwe+VAI+X	boodawem
+
+1+boodwe+VAI+1+Pl	niboodawemin
+1+boodwe+VAI+1+Pl	niboodawemi
+
+2+boodwe+VAI+1+Pl	giboodawemin
+2+boodwe+VAI+1+Pl	giboodawemi
+
+2+boodwe+VAI+2+Pl	giboodawem
+
+boodwe+VAI+3+3+4	boodawewan
+
+boodwe+VAI+3+3+Pl	boodawewag
+
+1+boodwe+VAI+Prt	niboodawenaaban
+1+boodwe+VAI+Prt	niboodawenaaba
+
+2+boodwe+VAI+Prt	giboodawenaaban
+2+boodwe+VAI+Prt	giboodawenaaba
+
+1+boodwe+VAI+Dub	niboodawenaadig
+
+2+boodwe+VAI+Dub	giboodawenaadig
+
+boodwe+VAI+3+Prt	boodaweoban
+boodwe+VAI+3+Prt	boodaweoba
+boodwe+VAI+3+Prt	boodawewiban
+boodwe+VAI+3+Prt	boodawewiba
+
+boodwe+VAI+3+Dub	boodaweodig
+boodwe+VAI+3+Dub	boodawewidig
+
+boodwe+VAI+X+Prt	boodawemiban
+boodwe+VAI+X+Prt	boodawemiba
+boodwe+VAI+X+Prt	boodawemaban
+boodwe+VAI+X+Prt	boodawemaba
+
+boodwe+VAI+X+Dub	boodawemidig
+
+boodwe+VAI+3+Prt+Dub	boodawegoban
+boodwe+VAI+3+Prt+Dub	boodawegoba
+
+boodwe+VAI+3+4+Prt+Dub	boodaweinigoban
+boodwe+VAI+3+4+Prt+Dub	boodaweinigoba
+
+boodwe+VAI+3+2+Pl+Prt+Dub	boodawewaagoban
+boodwe+VAI+3+2+Pl+Prt+Dub	boodawewaagoba
+
+boodwe+VAI+X+Prt+Dub	boodawemigoban
+boodwe+VAI+X+Prt+Dub	boodawemigoba
+
+1+boodwe+VAI+1+Pl+Prt	niboodaweminaaban
+1+boodwe+VAI+1+Pl+Prt	niboodaweminaaba
+
+2+boodwe+VAI+1+Pl+Prt	giboodaweminaaban
+2+boodwe+VAI+1+Pl+Prt	giboodaweminaaba
+
+2+boodwe+VAI+2+Pl+Prt	giboodawemwaaban
+2+boodwe+VAI+2+Pl+Prt	giboodawemwaaba
+
+1+boodwe+VAI+1+Pl+Dub	niboodaweminaadig
+
+2+boodwe+VAI+1+Pl+Dub	giboodaweminaadig
+
+2+boodwe+VAI+2+Pl+Dub	giboodawemwaadig
+
+boodwe+VAI+3+Prt+3+4	boodaweobaniin
+boodwe+VAI+3+Prt+3+4	boodawewibaniin
+
+boodwe+VAI+3+Prt+3+Pl	boodaweobaniig
+boodwe+VAI+3+Prt+3+Pl	boodawewibaniig
+
+boodwe+VAI+3+Dub+3+4	boodaweodigenan
+boodwe+VAI+3+Dub+3+4	boodawewidigenan
+
+boodwe+VAI+3+Dub+3+Pl	boodaweodigenag
+boodwe+VAI+3+Dub+3+Pl	boodawewidigenag
+
+1+boodwe+VAI+Neg	niboodawesii
+
+2+boodwe+VAI+Neg	giboodawesii
+
+boodwe+VAI+Neg+3	boodawesiiw
+
+boodwe+VAI+Neg+X	boodawesiim
+
+1+boodwe+VAI+Neg+1+Pl	niboodawesiimin
+1+boodwe+VAI+Neg+1+Pl	niboodawesiimi
+
+2+boodwe+VAI+Neg+1+Pl	giboodawesiimin
+2+boodwe+VAI+Neg+1+Pl	giboodawesiimi
+
+2+boodwe+VAI+Neg+2+Pl	giboodawesiim
+
+boodwe+VAI+Neg+3+3+4	boodawesiiwan
+
+boodwe+VAI+Neg+3+3+Pl	boodawesiiwag
+
+1+boodwe+VAI+Neg+Prt	niboodawesiinaaban
+1+boodwe+VAI+Neg+Prt	niboodawesiinaaba
+
+2+boodwe+VAI+Neg+Prt	giboodawesiinaaban
+2+boodwe+VAI+Neg+Prt	giboodawesiinaaba
+
+1+boodwe+VAI+Neg+Dub	niboodawesiinaadig
+
+2+boodwe+VAI+Neg+Dub	giboodawesiinaadig
+
+boodwe+VAI+Neg+3+Prt	boodawesiioban
+boodwe+VAI+Neg+3+Prt	boodawesiioba
+boodwe+VAI+Neg+3+Prt	boodawesiiwiban
+boodwe+VAI+Neg+3+Prt	boodawesiiwiba
+
+boodwe+VAI+Neg+3+Dub	boodawesiiodig
+boodwe+VAI+Neg+3+Dub	boodawesiiwidig
+
+boodwe+VAI+Neg+X+Prt	boodawesiimiban
+boodwe+VAI+Neg+X+Prt	boodawesiimiba
+boodwe+VAI+Neg+X+Prt	boodawesiimaban
+boodwe+VAI+Neg+X+Prt	boodawesiimaba
+
+boodwe+VAI+Neg+X+Dub	boodawesiimidig
+
+boodwe+VAI+Neg+3+Prt+Dub	boodawesiigoban
+boodwe+VAI+Neg+3+Prt+Dub	boodawesiigoba
+
+boodwe+VAI+Neg+3+4+Prt+Dub	boodawesiiinigoban
+boodwe+VAI+Neg+3+4+Prt+Dub	boodawesiiinigoba
+
+boodwe+VAI+Neg+3+2+Pl+Prt+Dub	boodawesiiwaagoban
+boodwe+VAI+Neg+3+2+Pl+Prt+Dub	boodawesiiwaagoba
+
+boodwe+VAI+Neg+X+Prt+Dub	boodawesiimigoban
+boodwe+VAI+Neg+X+Prt+Dub	boodawesiimigoba
+
+1+boodwe+VAI+Neg+1+Pl+Prt	niboodawesiiminaaban
+1+boodwe+VAI+Neg+1+Pl+Prt	niboodawesiiminaaba
+
+2+boodwe+VAI+Neg+1+Pl+Prt	giboodawesiiminaaban
+2+boodwe+VAI+Neg+1+Pl+Prt	giboodawesiiminaaba
+
+2+boodwe+VAI+Neg+2+Pl+Prt	giboodawesiimwaaban
+2+boodwe+VAI+Neg+2+Pl+Prt	giboodawesiimwaaba
+
+1+boodwe+VAI+Neg+1+Pl+Dub	niboodawesiiminaadig
+
+2+boodwe+VAI+Neg+1+Pl+Dub	giboodawesiiminaadig
+
+2+boodwe+VAI+Neg+2+Pl+Dub	giboodawesiimwaadig
+
+boodwe+VAI+Neg+3+Prt+3+4	boodawesiiobaniin
+boodwe+VAI+Neg+3+Prt+3+4	boodawesiiwibaniin
+
+boodwe+VAI+Neg+3+Prt+3+Pl	boodawesiiobaniig
+boodwe+VAI+Neg+3+Prt+3+Pl	boodawesiiwibaniig
+
+boodwe+VAI+Neg+3+Dub+3+4	boodawesiiodigenan
+boodwe+VAI+Neg+3+Dub+3+4	boodawesiiwidigenan
+
+boodwe+VAI+Neg+3+Dub+3+Pl	boodawesiiodigenag
+boodwe+VAI+Neg+3+Dub+3+Pl	boodawesiiwidigenag
+

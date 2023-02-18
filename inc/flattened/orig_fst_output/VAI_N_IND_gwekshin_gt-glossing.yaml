@@ -1,0 +1,64 @@
+Tests:
+  VAI_N_IND_gwekshin_gt-glossing:
+    1+gwekshin+VAI: nigwekishin
+    2+gwekshin+VAI: gigwekishin
+    gwekshin+VAI+3: gwekishinw
+    gwekshin+VAI+X: gwekishinm
+    1+gwekshin+VAI+1+Pl: [ nigwekishinmin, nigwekishinmi ]
+    2+gwekshin+VAI+1+Pl: [ gigwekishinmin, gigwekishinmi ]
+    2+gwekshin+VAI+2+Pl: gigwekishinm
+    gwekshin+VAI+3+3+4: gwekishinwan
+    gwekshin+VAI+3+3+Pl: gwekishinwag
+    1+gwekshin+VAI+Prt: [ nigwekishinnaaban, nigwekishinnaaba ]
+    2+gwekshin+VAI+Prt: [ gigwekishinnaaban, gigwekishinnaaba ]
+    1+gwekshin+VAI+Dub: nigwekishinnaadig
+    2+gwekshin+VAI+Dub: gigwekishinnaadig
+    gwekshin+VAI+3+Prt: [ gwekishinoban, gwekishinoba, gwekishinwiban, gwekishinwiba ]
+    gwekshin+VAI+3+Dub: [ gwekishinodig, gwekishinwidig ]
+    gwekshin+VAI+X+Prt: [ gwekishinmiban, gwekishinmiba, gwekishinmaban, gwekishinmaba ]
+    gwekshin+VAI+X+Dub: gwekishinmidig
+    gwekshin+VAI+3+Prt+Dub: [ gwekishingoban, gwekishingoba ]
+    gwekshin+VAI+3+4+Prt+Dub: [ gwekishininigoban, gwekishininigoba ]
+    gwekshin+VAI+3+2+Pl+Prt+Dub: [ gwekishinwaagoban, gwekishinwaagoba ]
+    gwekshin+VAI+X+Prt+Dub: [ gwekishinmigoban, gwekishinmigoba ]
+    1+gwekshin+VAI+1+Pl+Prt: [ nigwekishinminaaban, nigwekishinminaaba ]
+    2+gwekshin+VAI+1+Pl+Prt: [ gigwekishinminaaban, gigwekishinminaaba ]
+    2+gwekshin+VAI+2+Pl+Prt: [ gigwekishinmwaaban, gigwekishinmwaaba ]
+    1+gwekshin+VAI+1+Pl+Dub: nigwekishinminaadig
+    2+gwekshin+VAI+1+Pl+Dub: gigwekishinminaadig
+    2+gwekshin+VAI+2+Pl+Dub: gigwekishinmwaadig
+    gwekshin+VAI+3+Prt+3+4: [ gwekishinobaniin, gwekishinwibaniin ]
+    gwekshin+VAI+3+Prt+3+Pl: [ gwekishinobaniig, gwekishinwibaniig ]
+    gwekshin+VAI+3+Dub+3+4: [ gwekishinodigenan, gwekishinwidigenan ]
+    gwekshin+VAI+3+Dub+3+Pl: [ gwekishinodigenag, gwekishinwidigenag ]
+    1+gwekshin+VAI+Neg: nigwekishinsii
+    2+gwekshin+VAI+Neg: gigwekishinsii
+    gwekshin+VAI+Neg+3: gwekishinsiiw
+    gwekshin+VAI+Neg+X: gwekishinsiim
+    1+gwekshin+VAI+Neg+1+Pl: [ nigwekishinsiimin, nigwekishinsiimi ]
+    2+gwekshin+VAI+Neg+1+Pl: [ gigwekishinsiimin, gigwekishinsiimi ]
+    2+gwekshin+VAI+Neg+2+Pl: gigwekishinsiim
+    gwekshin+VAI+Neg+3+3+4: gwekishinsiiwan
+    gwekshin+VAI+Neg+3+3+Pl: gwekishinsiiwag
+    1+gwekshin+VAI+Neg+Prt: [ nigwekishinsiinaaban, nigwekishinsiinaaba ]
+    2+gwekshin+VAI+Neg+Prt: [ gigwekishinsiinaaban, gigwekishinsiinaaba ]
+    1+gwekshin+VAI+Neg+Dub: nigwekishinsiinaadig
+    2+gwekshin+VAI+Neg+Dub: gigwekishinsiinaadig
+    gwekshin+VAI+Neg+3+Prt: [ gwekishinsiioban, gwekishinsiioba, gwekishinsiiwiban, gwekishinsiiwiba ]
+    gwekshin+VAI+Neg+3+Dub: [ gwekishinsiiodig, gwekishinsiiwidig ]
+    gwekshin+VAI+Neg+X+Prt: [ gwekishinsiimiban, gwekishinsiimiba, gwekishinsiimaban, gwekishinsiimaba ]
+    gwekshin+VAI+Neg+X+Dub: gwekishinsiimidig
+    gwekshin+VAI+Neg+3+Prt+Dub: [ gwekishinsiigoban, gwekishinsiigoba ]
+    gwekshin+VAI+Neg+3+4+Prt+Dub: [ gwekishinsiiinigoban, gwekishinsiiinigoba ]
+    gwekshin+VAI+Neg+3+2+Pl+Prt+Dub: [ gwekishinsiiwaagoban, gwekishinsiiwaagoba ]
+    gwekshin+VAI+Neg+X+Prt+Dub: [ gwekishinsiimigoban, gwekishinsiimigoba ]
+    1+gwekshin+VAI+Neg+1+Pl+Prt: [ nigwekishinsiiminaaban, nigwekishinsiiminaaba ]
+    2+gwekshin+VAI+Neg+1+Pl+Prt: [ gigwekishinsiiminaaban, gigwekishinsiiminaaba ]
+    2+gwekshin+VAI+Neg+2+Pl+Prt: [ gigwekishinsiimwaaban, gigwekishinsiimwaaba ]
+    1+gwekshin+VAI+Neg+1+Pl+Dub: nigwekishinsiiminaadig
+    2+gwekshin+VAI+Neg+1+Pl+Dub: gigwekishinsiiminaadig
+    2+gwekshin+VAI+Neg+2+Pl+Dub: gigwekishinsiimwaadig
+    gwekshin+VAI+Neg+3+Prt+3+4: [ gwekishinsiiobaniin, gwekishinsiiwibaniin ]
+    gwekshin+VAI+Neg+3+Prt+3+Pl: [ gwekishinsiiobaniig, gwekishinsiiwibaniig ]
+    gwekshin+VAI+Neg+3+Dub+3+4: [ gwekishinsiiodigenan, gwekishinsiiwidigenan ]
+    gwekshin+VAI+Neg+3+Dub+3+Pl: [ gwekishinsiiodigenag, gwekishinsiiwidigenag ]

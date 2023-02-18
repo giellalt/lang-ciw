@@ -1,0 +1,227 @@
+gwekshin+VAI+Cnj+1	gwekishinaanh
+
+gwekshin+VAI+Cnj+2	gwekishinan
+
+gwekshin+VAI+Cnj+3	gwekishind
+
+gwekshin+VAI+Cnj+3+4	gwekishinnid
+
+gwekshin+VAI+Cnj+X	gwekishinng
+
+gwekshin+VAI+Cnj+1+Pl	gwekishinaang
+
+gwekshin+VAI+Cnj+2+1+Pl	gwekishinangw
+
+gwekshin+VAI+Cnj+2+Pl	gwekishinegw
+
+gwekshin+VAI+Cnj+3+Pl	gwekishinwaad
+
+gwekshin+VAI+Cnj+1+Prt	gwekishinaambaanh
+
+gwekshin+VAI+Cnj+2+Prt	gwekishinambani1
+
+gwekshin+VAI+Cnj+3+Prt	gwekishindbani1
+
+gwekshin+VAI+Cnj+3+4+Prt	gwekishinnidbani1
+
+gwekshin+VAI+Cnj+X+Prt	gwekishinngibani1
+
+gwekshin+VAI+Cnj+1+Pl+Prt	gwekishinaangibani1
+
+gwekshin+VAI+Cnj+2+1+Pl+Prt	gwekishinangobani1
+
+gwekshin+VAI+Cnj+2+Pl+Prt	gwekishinegobani1
+
+gwekshin+VAI+Cnj+3+Pl+Prt	gwekishinwaadbani1
+
+gwekshin+VAI+Cnj+1+Dub	gwekishinaanen
+gwekshin+VAI+Cnj+1+Dub	gwekishinaane
+
+gwekshin+VAI+Cnj+2+Dub	gwekishinanen
+gwekshin+VAI+Cnj+2+Dub	gwekishinane
+
+gwekshin+VAI+Cnj+3+Dub	gwekishinden
+gwekshin+VAI+Cnj+3+Dub	gwekishinde
+
+gwekshin+VAI+Cnj+3+4+Dub	gwekishinniden
+gwekshin+VAI+Cnj+3+4+Dub	gwekishinnide
+
+gwekshin+VAI+Cnj+X+Dub	gwekishinngen
+gwekshin+VAI+Cnj+X+Dub	gwekishinnge
+
+gwekshin+VAI+Cnj+1+Pl+Dub	gwekishinaangen
+gwekshin+VAI+Cnj+1+Pl+Dub	gwekishinaange
+
+gwekshin+VAI+Cnj+2+1+Pl+Dub	gwekishinangwen
+gwekshin+VAI+Cnj+2+1+Pl+Dub	gwekishinangwe
+
+gwekshin+VAI+Cnj+2+Pl+Dub	gwekishinegwen
+gwekshin+VAI+Cnj+2+Pl+Dub	gwekishinegwe
+
+gwekshin+VAI+Cnj+3+Pl+Dub	gwekishinwaaden
+gwekshin+VAI+Cnj+3+Pl+Dub	gwekishinwaade
+
+gwekshin+VAI+Cnj+1+Prt+Dub	gwekishinaambaanen
+gwekshin+VAI+Cnj+1+Prt+Dub	gwekishinaambaane
+
+gwekshin+VAI+Cnj+2+Prt+Dub	gwekishinambanen
+gwekshin+VAI+Cnj+2+Prt+Dub	gwekishinambane
+
+gwekshin+VAI+Cnj+3+Prt+Dub	gwekishindbanen
+gwekshin+VAI+Cnj+3+Prt+Dub	gwekishindbane
+
+gwekshin+VAI+Cnj+3+4+Prt+Dub	gwekishinnidbanen
+gwekshin+VAI+Cnj+3+4+Prt+Dub	gwekishinnidbane
+
+gwekshin+VAI+Cnj+X+Prt+Dub	gwekishinngbanen
+gwekshin+VAI+Cnj+X+Prt+Dub	gwekishinngbane
+
+gwekshin+VAI+Cnj+1+Pl+Prt+Dub	gwekishinaangibanen
+gwekshin+VAI+Cnj+1+Pl+Prt+Dub	gwekishinaangibane
+
+gwekshin+VAI+Cnj+2+1+Pl+Prt+Dub	gwekishinangobanen
+gwekshin+VAI+Cnj+2+1+Pl+Prt+Dub	gwekishinangobane
+
+gwekshin+VAI+Cnj+2+Pl+Prt+Dub	gwekishinegobanen
+gwekshin+VAI+Cnj+2+Pl+Prt+Dub	gwekishinegobane
+
+gwekshin+VAI+Cnj+3+Pl+Prt+Dub	gwekishinwaadbanen
+gwekshin+VAI+Cnj+3+Pl+Prt+Dub	gwekishinwaadbane
+
+gwekshin+VAI+Cnj+Neg+1	gwekishinsiaanh
+
+gwekshin+VAI+Cnj+Neg+2	gwekishinsian
+
+gwekshin+VAI+Cnj+Neg+3	gwekishinsid
+
+gwekshin+VAI+Cnj+Neg+3+4	gwekishinsinid
+
+gwekshin+VAI+Cnj+Neg+X	gwekishinsing
+
+gwekshin+VAI+Cnj+Neg+1+Pl	gwekishinsiaang
+
+gwekshin+VAI+Cnj+Neg+2+1+Pl	gwekishinsiangw
+
+gwekshin+VAI+Cnj+Neg+2+Pl	gwekishinsiegw
+
+gwekshin+VAI+Cnj+Neg+3+Pl	gwekishinsigwaa
+
+gwekshin+VAI+Cnj+Neg+1+Prt	gwekishinsiiaambaanh
+gwekshin+VAI+Cnj+Neg+1+Prt	gwekishinsiaambaanh
+
+gwekshin+VAI+Cnj+Neg+2+Prt	gwekishinsiiambani1
+gwekshin+VAI+Cnj+Neg+2+Prt	gwekishinsiambani1
+
+gwekshin+VAI+Cnj+Neg+3+Prt	gwekishinsiidbani1
+gwekshin+VAI+Cnj+Neg+3+Prt	gwekishinsidbani1
+
+gwekshin+VAI+Cnj+Neg+3+4+Prt	gwekishinsiinidbani1
+gwekshin+VAI+Cnj+Neg+3+4+Prt	gwekishinsinidbani1
+
+gwekshin+VAI+Cnj+Neg+X+Prt	gwekishinsiingibani1
+gwekshin+VAI+Cnj+Neg+X+Prt	gwekishinsingibani1
+
+gwekshin+VAI+Cnj+Neg+1+Pl+Prt	gwekishinsiiaangibani1
+gwekshin+VAI+Cnj+Neg+1+Pl+Prt	gwekishinsiaangibani1
+
+gwekshin+VAI+Cnj+Neg+2+1+Pl+Prt	gwekishinsiiangobani1
+gwekshin+VAI+Cnj+Neg+2+1+Pl+Prt	gwekishinsiangobani1
+
+gwekshin+VAI+Cnj+Neg+2+Pl+Prt	gwekishinsiiegobani1
+gwekshin+VAI+Cnj+Neg+2+Pl+Prt	gwekishinsiegobani1
+
+gwekshin+VAI+Cnj+Neg+3+Pl+Prt	gwekishinsiiwaadbani1
+gwekshin+VAI+Cnj+Neg+3+Pl+Prt	gwekishinsiwaadbani1
+
+gwekshin+VAI+Cnj+Neg+1+Dub	gwekishinsiiaanen
+gwekshin+VAI+Cnj+Neg+1+Dub	gwekishinsiiaane
+gwekshin+VAI+Cnj+Neg+1+Dub	gwekishinsiiaanen
+gwekshin+VAI+Cnj+Neg+1+Dub	gwekishinsiiaane
+gwekshin+VAI+Cnj+Neg+1+Dub	gwekishinsiaanen
+gwekshin+VAI+Cnj+Neg+1+Dub	gwekishinsiaane
+
+gwekshin+VAI+Cnj+Neg+2+Dub	gwekishinsiianen
+gwekshin+VAI+Cnj+Neg+2+Dub	gwekishinsiiane
+gwekshin+VAI+Cnj+Neg+2+Dub	gwekishinsianen
+gwekshin+VAI+Cnj+Neg+2+Dub	gwekishinsiane
+
+gwekshin+VAI+Cnj+Neg+3+Dub	gwekishinsiiden
+gwekshin+VAI+Cnj+Neg+3+Dub	gwekishinsiide
+gwekshin+VAI+Cnj+Neg+3+Dub	gwekishinsiden
+gwekshin+VAI+Cnj+Neg+3+Dub	gwekishinside
+
+gwekshin+VAI+Cnj+Neg+3+4+Dub	gwekishinsiiniden
+gwekshin+VAI+Cnj+Neg+3+4+Dub	gwekishinsiinide
+gwekshin+VAI+Cnj+Neg+3+4+Dub	gwekishinsiniden
+gwekshin+VAI+Cnj+Neg+3+4+Dub	gwekishinsinide
+
+gwekshin+VAI+Cnj+Neg+X+Dub	gwekishinsiingen
+gwekshin+VAI+Cnj+Neg+X+Dub	gwekishinsiinge
+gwekshin+VAI+Cnj+Neg+X+Dub	gwekishinsingen
+gwekshin+VAI+Cnj+Neg+X+Dub	gwekishinsinge
+
+gwekshin+VAI+Cnj+Neg+1+Pl+Dub	gwekishinsiiaangen
+gwekshin+VAI+Cnj+Neg+1+Pl+Dub	gwekishinsiiaange
+gwekshin+VAI+Cnj+Neg+1+Pl+Dub	gwekishinsiaangen
+gwekshin+VAI+Cnj+Neg+1+Pl+Dub	gwekishinsiaange
+
+gwekshin+VAI+Cnj+Neg+2+1+Pl+Dub	gwekishinsiiangwen
+gwekshin+VAI+Cnj+Neg+2+1+Pl+Dub	gwekishinsiiangwe
+gwekshin+VAI+Cnj+Neg+2+1+Pl+Dub	gwekishinsiangwen
+gwekshin+VAI+Cnj+Neg+2+1+Pl+Dub	gwekishinsiangwe
+
+gwekshin+VAI+Cnj+Neg+2+Pl+Dub	gwekishinsiiegwen
+gwekshin+VAI+Cnj+Neg+2+Pl+Dub	gwekishinsiiegwe
+gwekshin+VAI+Cnj+Neg+2+Pl+Dub	gwekishinsiegwen
+gwekshin+VAI+Cnj+Neg+2+Pl+Dub	gwekishinsiegwe
+
+gwekshin+VAI+Cnj+Neg+3+Pl+Dub	gwekishinsiiwaaden
+gwekshin+VAI+Cnj+Neg+3+Pl+Dub	gwekishinsiiwaade
+gwekshin+VAI+Cnj+Neg+3+Pl+Dub	gwekishinsiwaaden
+gwekshin+VAI+Cnj+Neg+3+Pl+Dub	gwekishinsiwaade
+
+gwekshin+VAI+Cnj+Neg+1+Prt+Dub	gwekishinsiiaambaanen
+gwekshin+VAI+Cnj+Neg+1+Prt+Dub	gwekishinsiiaambaane
+gwekshin+VAI+Cnj+Neg+1+Prt+Dub	gwekishinsiaambaanen
+gwekshin+VAI+Cnj+Neg+1+Prt+Dub	gwekishinsiaambaane
+
+gwekshin+VAI+Cnj+Neg+2+Prt+Dub	gwekishinsiiambanen
+gwekshin+VAI+Cnj+Neg+2+Prt+Dub	gwekishinsiiambane
+gwekshin+VAI+Cnj+Neg+2+Prt+Dub	gwekishinsiambanen
+gwekshin+VAI+Cnj+Neg+2+Prt+Dub	gwekishinsiambane
+
+gwekshin+VAI+Cnj+Neg+3+Prt+Dub	gwekishinsiidbanen
+gwekshin+VAI+Cnj+Neg+3+Prt+Dub	gwekishinsiidbane
+gwekshin+VAI+Cnj+Neg+3+Prt+Dub	gwekishinsidbanen
+gwekshin+VAI+Cnj+Neg+3+Prt+Dub	gwekishinsidbane
+
+gwekshin+VAI+Cnj+Neg+3+4+Prt+Dub	gwekishinsiinidbanen
+gwekshin+VAI+Cnj+Neg+3+4+Prt+Dub	gwekishinsiinidbane
+gwekshin+VAI+Cnj+Neg+3+4+Prt+Dub	gwekishinsinidbanen
+gwekshin+VAI+Cnj+Neg+3+4+Prt+Dub	gwekishinsinidbane
+
+gwekshin+VAI+Cnj+Neg+X+Prt+Dub	gwekishinsiingbanen
+gwekshin+VAI+Cnj+Neg+X+Prt+Dub	gwekishinsiingbane
+gwekshin+VAI+Cnj+Neg+X+Prt+Dub	gwekishinsingbanen
+gwekshin+VAI+Cnj+Neg+X+Prt+Dub	gwekishinsingbane
+
+gwekshin+VAI+Cnj+Neg+1+Pl+Prt+Dub	gwekishinsiiaangibanen
+gwekshin+VAI+Cnj+Neg+1+Pl+Prt+Dub	gwekishinsiiaangibane
+gwekshin+VAI+Cnj+Neg+1+Pl+Prt+Dub	gwekishinsiaangibanen
+gwekshin+VAI+Cnj+Neg+1+Pl+Prt+Dub	gwekishinsiaangibane
+
+gwekshin+VAI+Cnj+Neg+2+1+Pl+Prt+Dub	gwekishinsiiangobanen
+gwekshin+VAI+Cnj+Neg+2+1+Pl+Prt+Dub	gwekishinsiiangobane
+gwekshin+VAI+Cnj+Neg+2+1+Pl+Prt+Dub	gwekishinsiangobanen
+gwekshin+VAI+Cnj+Neg+2+1+Pl+Prt+Dub	gwekishinsiangobane
+
+gwekshin+VAI+Cnj+Neg+2+Pl+Prt+Dub	gwekishinsiiegobanen
+gwekshin+VAI+Cnj+Neg+2+Pl+Prt+Dub	gwekishinsiiegobane
+gwekshin+VAI+Cnj+Neg+2+Pl+Prt+Dub	gwekishinsiegobanen
+gwekshin+VAI+Cnj+Neg+2+Pl+Prt+Dub	gwekishinsiegobane
+
+gwekshin+VAI+Cnj+Neg+3+Pl+Prt+Dub	gwekishinsiiwaadbanen
+gwekshin+VAI+Cnj+Neg+3+Pl+Prt+Dub	gwekishinsiiwaadbane
+gwekshin+VAI+Cnj+Neg+3+Pl+Prt+Dub	gwekishinsiwaadbanen
+gwekshin+VAI+Cnj+Neg+3+Pl+Prt+Dub	gwekishinsiwaadbane
+

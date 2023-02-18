@@ -1,0 +1,1028 @@
+Tests:
+  NI_I_miskweyaab_gt-glossing:
+    mskweyaap+NI: miskweyaabi1
+    1+mskweyaap+NI: nimiskweyaabi1
+    2+mskweyaap+NI: gimiskweyaabi1
+    3+mskweyaap+NI: omiskweyaabi1
+    X+mskweyaap+NI: imiskweyaabi1
+    mskweyaap+NI+Con: miskweyaabi1enh
+    mskweyaap+NI+Dim: miskweyaabi1ens
+    mskweyaap+NI+Pej: miskweyaabi1sh
+    mskweyaap+NI+Prt: miskweyaabi1bani1
+    mskweyaap+NI+Voc+Pl: miskweyaabi1dig
+    mskweyaap+NI+4: miskweyaabi1an
+    mskweyaap+NI+Loc: miskweyaabi1ng
+    mskweyaap+NI+Pl: miskweyaabi1an
+    1+mskweyaap+NI+Con: nimiskweyaabi1enh
+    1+mskweyaap+NI+Dim: nimiskweyaabi1ens
+    2+mskweyaap+NI+Con: gimiskweyaabi1enh
+    2+mskweyaap+NI+Dim: gimiskweyaabi1ens
+    3+mskweyaap+NI+Con: omiskweyaabi1enh
+    3+mskweyaap+NI+Dim: omiskweyaabi1ens
+    X+mskweyaap+NI+Con: imiskweyaabi1enh
+    X+mskweyaap+NI+Dim: imiskweyaabi1ens
+    1+mskweyaap+NI+ThmPos: nimiskweyaabi1m
+    2+mskweyaap+NI+ThmPos: gimiskweyaabi1m
+    3+mskweyaap+NI+ThmPos: omiskweyaabi1m
+    X+mskweyaap+NI+ThmPos: imiskweyaabi1m
+    1+mskweyaap+NI+Pej: nimiskweyaabi1sh
+    2+mskweyaap+NI+Pej: gimiskweyaabi1sh
+    3+mskweyaap+NI+Pej: omiskweyaabi1sh
+    X+mskweyaap+NI+Pej: imiskweyaabi1sh
+    1+mskweyaap+NI+1+Pl: [ nimiskweyaabi1naan, nimiskweyaabi1naa ]
+    2+mskweyaap+NI+1+Pl: [ gimiskweyaabi1naan, gimiskweyaabi1naa ]
+    2+mskweyaap+NI+2+Pl: gimiskweyaabi1waa
+    3+mskweyaap+NI+2+Pl: omiskweyaabi1waa
+    3+mskweyaap+NI+3+4: omiskweyaabi1niw
+    1+mskweyaap+NI+Prt: nimiskweyaabi1bani1
+    1+mskweyaap+NI+Voc+Pl: nimiskweyaabi1dig
+    2+mskweyaap+NI+Prt: gimiskweyaabi1bani1
+    2+mskweyaap+NI+Voc+Pl: gimiskweyaabi1dig
+    3+mskweyaap+NI+Prt: omiskweyaabi1bani1
+    3+mskweyaap+NI+Voc+Pl: omiskweyaabi1dig
+    X+mskweyaap+NI+Prt: imiskweyaabi1bani1
+    X+mskweyaap+NI+Voc+Pl: imiskweyaabi1dig
+    1+mskweyaap+NI+4: nimiskweyaabi1an
+    1+mskweyaap+NI+Loc: nimiskweyaabi1ng
+    1+mskweyaap+NI+Pl: nimiskweyaabi1an
+    2+mskweyaap+NI+4: gimiskweyaabi1an
+    2+mskweyaap+NI+Loc: gimiskweyaabi1ng
+    2+mskweyaap+NI+Pl: gimiskweyaabi1an
+    3+mskweyaap+NI+4: omiskweyaabi1an
+    3+mskweyaap+NI+Loc: omiskweyaabi1ng
+    3+mskweyaap+NI+Pl: omiskweyaabi1an
+    X+mskweyaap+NI+4: imiskweyaabi1an
+    X+mskweyaap+NI+Loc: imiskweyaabi1ng
+    X+mskweyaap+NI+Pl: imiskweyaabi1an
+    mskweyaap+NI+Con+Pej: miskweyaabi1enyish
+    mskweyaap+NI+Dim+Pej: miskweyaabi1ensish
+    mskweyaap+NI+Con+Prt: [ miskweyaabi1enyiban, miskweyaabi1enyiba ]
+    mskweyaap+NI+Con+Voc+Pl: miskweyaabi1enydig
+    mskweyaap+NI+Dim+Prt: [ miskweyaabi1ensiban, miskweyaabi1ensiba ]
+    mskweyaap+NI+Dim+Voc+Pl: miskweyaabi1ensdig
+    mskweyaap+NI+Con+4: miskweyaabi1enyin
+    mskweyaap+NI+Con+Loc: miskweyaabi1enying
+    mskweyaap+NI+Con+Pl: miskweyaabi1enyan
+    mskweyaap+NI+Dim+4: miskweyaabi1ensan
+    mskweyaap+NI+Dim+Loc: miskweyaabi1ensing
+    mskweyaap+NI+Dim+Pl: miskweyaabi1ensan
+    mskweyaap+NI+Pej+Prt: [ miskweyaabi1shiban, miskweyaabi1shiba ]
+    mskweyaap+NI+Pej+Voc+Pl: miskweyaabi1shdig
+    mskweyaap+NI+Pej+4: miskweyaabi1shan
+    mskweyaap+NI+Pej+Loc: miskweyaabi1shing
+    mskweyaap+NI+Pej+Pl: miskweyaabi1shan
+    mskweyaap+NI+Prt+4: miskweyaabi1baniin
+    mskweyaap+NI+Prt+Loc: miskweyaabi1baniing
+    mskweyaap+NI+Prt+Pl: miskweyaabi1bani1an
+    1+mskweyaap+NI+Con+ThmPos: nimiskweyaabi1enym
+    1+mskweyaap+NI+Dim+ThmPos: nimiskweyaabi1ensm
+    2+mskweyaap+NI+Con+ThmPos: gimiskweyaabi1enym
+    2+mskweyaap+NI+Dim+ThmPos: gimiskweyaabi1ensm
+    3+mskweyaap+NI+Con+ThmPos: omiskweyaabi1enym
+    3+mskweyaap+NI+Dim+ThmPos: omiskweyaabi1ensm
+    X+mskweyaap+NI+Con+ThmPos: imiskweyaabi1enym
+    X+mskweyaap+NI+Dim+ThmPos: imiskweyaabi1ensm
+    1+mskweyaap+NI+Con+Pej: nimiskweyaabi1enyish
+    1+mskweyaap+NI+Dim+Pej: nimiskweyaabi1ensish
+    2+mskweyaap+NI+Con+Pej: gimiskweyaabi1enyish
+    2+mskweyaap+NI+Dim+Pej: gimiskweyaabi1ensish
+    3+mskweyaap+NI+Con+Pej: omiskweyaabi1enyish
+    3+mskweyaap+NI+Dim+Pej: omiskweyaabi1ensish
+    X+mskweyaap+NI+Con+Pej: imiskweyaabi1enyish
+    X+mskweyaap+NI+Dim+Pej: imiskweyaabi1ensish
+    1+mskweyaap+NI+Con+1+Pl: [ nimiskweyaabi1enynaan, nimiskweyaabi1enynaa ]
+    1+mskweyaap+NI+Dim+1+Pl: [ nimiskweyaabi1ensnaan, nimiskweyaabi1ensnaa ]
+    2+mskweyaap+NI+Con+1+Pl: [ gimiskweyaabi1enynaan, gimiskweyaabi1enynaa ]
+    2+mskweyaap+NI+Con+2+Pl: gimiskweyaabi1enywaa
+    2+mskweyaap+NI+Dim+1+Pl: [ gimiskweyaabi1ensnaan, gimiskweyaabi1ensnaa ]
+    2+mskweyaap+NI+Dim+2+Pl: gimiskweyaabi1enswaa
+    3+mskweyaap+NI+Con+2+Pl: omiskweyaabi1enywaa
+    3+mskweyaap+NI+Con+3+4: omiskweyaabi1enyniw
+    3+mskweyaap+NI+Dim+2+Pl: omiskweyaabi1enswaa
+    3+mskweyaap+NI+Dim+3+4: omiskweyaabi1ensniw
+    1+mskweyaap+NI+Con+Prt: [ nimiskweyaabi1enyiban, nimiskweyaabi1enyiba ]
+    1+mskweyaap+NI+Con+Voc+Pl: nimiskweyaabi1enydig
+    1+mskweyaap+NI+Dim+Prt: [ nimiskweyaabi1ensiban, nimiskweyaabi1ensiba ]
+    1+mskweyaap+NI+Dim+Voc+Pl: nimiskweyaabi1ensdig
+    2+mskweyaap+NI+Con+Prt: [ gimiskweyaabi1enyiban, gimiskweyaabi1enyiba ]
+    2+mskweyaap+NI+Con+Voc+Pl: gimiskweyaabi1enydig
+    2+mskweyaap+NI+Dim+Prt: [ gimiskweyaabi1ensiban, gimiskweyaabi1ensiba ]
+    2+mskweyaap+NI+Dim+Voc+Pl: gimiskweyaabi1ensdig
+    3+mskweyaap+NI+Con+Prt: [ omiskweyaabi1enyiban, omiskweyaabi1enyiba ]
+    3+mskweyaap+NI+Con+Voc+Pl: omiskweyaabi1enydig
+    3+mskweyaap+NI+Dim+Prt: [ omiskweyaabi1ensiban, omiskweyaabi1ensiba ]
+    3+mskweyaap+NI+Dim+Voc+Pl: omiskweyaabi1ensdig
+    X+mskweyaap+NI+Con+Prt: [ imiskweyaabi1enyiban, imiskweyaabi1enyiba ]
+    X+mskweyaap+NI+Con+Voc+Pl: imiskweyaabi1enydig
+    X+mskweyaap+NI+Dim+Prt: [ imiskweyaabi1ensiban, imiskweyaabi1ensiba ]
+    X+mskweyaap+NI+Dim+Voc+Pl: imiskweyaabi1ensdig
+    1+mskweyaap+NI+Con+4: nimiskweyaabi1enyin
+    1+mskweyaap+NI+Con+Loc: nimiskweyaabi1enying
+    1+mskweyaap+NI+Con+Pl: nimiskweyaabi1enyan
+    1+mskweyaap+NI+Dim+4: nimiskweyaabi1ensan
+    1+mskweyaap+NI+Dim+Loc: nimiskweyaabi1ensing
+    1+mskweyaap+NI+Dim+Pl: nimiskweyaabi1ensan
+    2+mskweyaap+NI+Con+4: gimiskweyaabi1enyin
+    2+mskweyaap+NI+Con+Loc: gimiskweyaabi1enying
+    2+mskweyaap+NI+Con+Pl: gimiskweyaabi1enyan
+    2+mskweyaap+NI+Dim+4: gimiskweyaabi1ensan
+    2+mskweyaap+NI+Dim+Loc: gimiskweyaabi1ensing
+    2+mskweyaap+NI+Dim+Pl: gimiskweyaabi1ensan
+    3+mskweyaap+NI+Con+4: omiskweyaabi1enyin
+    3+mskweyaap+NI+Con+Loc: omiskweyaabi1enying
+    3+mskweyaap+NI+Con+Pl: omiskweyaabi1enyan
+    3+mskweyaap+NI+Dim+4: omiskweyaabi1ensan
+    3+mskweyaap+NI+Dim+Loc: omiskweyaabi1ensing
+    3+mskweyaap+NI+Dim+Pl: omiskweyaabi1ensan
+    X+mskweyaap+NI+Con+4: imiskweyaabi1enyin
+    X+mskweyaap+NI+Con+Loc: imiskweyaabi1enying
+    X+mskweyaap+NI+Con+Pl: imiskweyaabi1enyan
+    X+mskweyaap+NI+Dim+4: imiskweyaabi1ensan
+    X+mskweyaap+NI+Dim+Loc: imiskweyaabi1ensing
+    X+mskweyaap+NI+Dim+Pl: imiskweyaabi1ensan
+    1+mskweyaap+NI+ThmPos+Pej: nimiskweyaabi1mish
+    2+mskweyaap+NI+ThmPos+Pej: gimiskweyaabi1mish
+    3+mskweyaap+NI+ThmPos+Pej: omiskweyaabi1mish
+    X+mskweyaap+NI+ThmPos+Pej: imiskweyaabi1mish
+    1+mskweyaap+NI+ThmPos+1+Pl: [ nimiskweyaabi1mnaan, nimiskweyaabi1mnaa ]
+    2+mskweyaap+NI+ThmPos+1+Pl: [ gimiskweyaabi1mnaan, gimiskweyaabi1mnaa ]
+    2+mskweyaap+NI+ThmPos+2+Pl: gimiskweyaabi1mwaa
+    3+mskweyaap+NI+ThmPos+2+Pl: omiskweyaabi1mwaa
+    3+mskweyaap+NI+ThmPos+3+4: omiskweyaabi1mniw
+    1+mskweyaap+NI+ThmPos+Prt: [ nimiskweyaabi1miban, nimiskweyaabi1miba ]
+    1+mskweyaap+NI+ThmPos+Voc+Pl: nimiskweyaabi1mdig
+    2+mskweyaap+NI+ThmPos+Prt: [ gimiskweyaabi1miban, gimiskweyaabi1miba ]
+    2+mskweyaap+NI+ThmPos+Voc+Pl: gimiskweyaabi1mdig
+    3+mskweyaap+NI+ThmPos+Prt: [ omiskweyaabi1miban, omiskweyaabi1miba ]
+    3+mskweyaap+NI+ThmPos+Voc+Pl: omiskweyaabi1mdig
+    X+mskweyaap+NI+ThmPos+Prt: [ imiskweyaabi1miban, imiskweyaabi1miba ]
+    X+mskweyaap+NI+ThmPos+Voc+Pl: imiskweyaabi1mdig
+    1+mskweyaap+NI+ThmPos+4: nimiskweyaabi1man
+    1+mskweyaap+NI+ThmPos+Loc: nimiskweyaabi1ming
+    1+mskweyaap+NI+ThmPos+Pl: nimiskweyaabi1man
+    2+mskweyaap+NI+ThmPos+4: gimiskweyaabi1man
+    2+mskweyaap+NI+ThmPos+Loc: gimiskweyaabi1ming
+    2+mskweyaap+NI+ThmPos+Pl: gimiskweyaabi1man
+    3+mskweyaap+NI+ThmPos+4: omiskweyaabi1man
+    3+mskweyaap+NI+ThmPos+Loc: omiskweyaabi1ming
+    3+mskweyaap+NI+ThmPos+Pl: omiskweyaabi1man
+    X+mskweyaap+NI+ThmPos+4: imiskweyaabi1man
+    X+mskweyaap+NI+ThmPos+Loc: imiskweyaabi1ming
+    X+mskweyaap+NI+ThmPos+Pl: imiskweyaabi1man
+    1+mskweyaap+NI+Pej+1+Pl: [ nimiskweyaabi1shnaan, nimiskweyaabi1shnaa ]
+    2+mskweyaap+NI+Pej+1+Pl: [ gimiskweyaabi1shnaan, gimiskweyaabi1shnaa ]
+    2+mskweyaap+NI+Pej+2+Pl: gimiskweyaabi1shwaa
+    3+mskweyaap+NI+Pej+2+Pl: omiskweyaabi1shwaa
+    3+mskweyaap+NI+Pej+3+4: omiskweyaabi1shniw
+    1+mskweyaap+NI+Pej+Prt: [ nimiskweyaabi1shiban, nimiskweyaabi1shiba ]
+    1+mskweyaap+NI+Pej+Voc+Pl: nimiskweyaabi1shdig
+    2+mskweyaap+NI+Pej+Prt: [ gimiskweyaabi1shiban, gimiskweyaabi1shiba ]
+    2+mskweyaap+NI+Pej+Voc+Pl: gimiskweyaabi1shdig
+    3+mskweyaap+NI+Pej+Prt: [ omiskweyaabi1shiban, omiskweyaabi1shiba ]
+    3+mskweyaap+NI+Pej+Voc+Pl: omiskweyaabi1shdig
+    X+mskweyaap+NI+Pej+Prt: [ imiskweyaabi1shiban, imiskweyaabi1shiba ]
+    X+mskweyaap+NI+Pej+Voc+Pl: imiskweyaabi1shdig
+    1+mskweyaap+NI+Pej+4: nimiskweyaabi1shan
+    1+mskweyaap+NI+Pej+Loc: nimiskweyaabi1shing
+    1+mskweyaap+NI+Pej+Pl: nimiskweyaabi1shan
+    2+mskweyaap+NI+Pej+4: gimiskweyaabi1shan
+    2+mskweyaap+NI+Pej+Loc: gimiskweyaabi1shing
+    2+mskweyaap+NI+Pej+Pl: gimiskweyaabi1shan
+    3+mskweyaap+NI+Pej+4: omiskweyaabi1shan
+    3+mskweyaap+NI+Pej+Loc: omiskweyaabi1shing
+    3+mskweyaap+NI+Pej+Pl: omiskweyaabi1shan
+    X+mskweyaap+NI+Pej+4: imiskweyaabi1shan
+    X+mskweyaap+NI+Pej+Loc: imiskweyaabi1shing
+    X+mskweyaap+NI+Pej+Pl: imiskweyaabi1shan
+    1+mskweyaap+NI+1+Pl+Prt: [ nimiskweyaabi1naaniban, nimiskweyaabi1naaniba ]
+    1+mskweyaap+NI+1+Pl+Voc+Pl: nimiskweyaabi1naany1dig
+    2+mskweyaap+NI+1+Pl+Prt: [ gimiskweyaabi1naaniban, gimiskweyaabi1naaniba ]
+    2+mskweyaap+NI+1+Pl+Voc+Pl: gimiskweyaabi1naany1dig
+    2+mskweyaap+NI+2+Pl+Prt: [ gimiskweyaabi1waaban, gimiskweyaabi1waaba ]
+    2+mskweyaap+NI+2+Pl+Voc+Pl: gimiskweyaabi1waadig
+    3+mskweyaap+NI+2+Pl+Prt: [ omiskweyaabi1waaban, omiskweyaabi1waaba ]
+    3+mskweyaap+NI+2+Pl+Voc+Pl: omiskweyaabi1waadig
+    3+mskweyaap+NI+3+4+Prt: [ omiskweyaabi1niwiban, omiskweyaabi1niwiba, omiskweyaabi1niiban, omiskweyaabi1niiba ]
+    3+mskweyaap+NI+3+4+Voc+Pl: omiskweyaabi1niwdig
+    1+mskweyaap+NI+1+Pl+4: nimiskweyaabi1naanin
+    1+mskweyaap+NI+1+Pl+Loc: nimiskweyaabi1naaning
+    1+mskweyaap+NI+1+Pl+Pl: nimiskweyaabi1naany1an
+    2+mskweyaap+NI+1+Pl+4: gimiskweyaabi1naanin
+    2+mskweyaap+NI+1+Pl+Loc: gimiskweyaabi1naaning
+    2+mskweyaap+NI+1+Pl+Pl: gimiskweyaabi1naany1an
+    2+mskweyaap+NI+2+Pl+4: gimiskweyaabi1waan
+    2+mskweyaap+NI+2+Pl+Loc: gimiskweyaabi1waang
+    2+mskweyaap+NI+2+Pl+Pl: gimiskweyaabi1waaan
+    3+mskweyaap+NI+2+Pl+4: omiskweyaabi1waan
+    3+mskweyaap+NI+2+Pl+Loc: omiskweyaabi1waang
+    3+mskweyaap+NI+2+Pl+Pl: omiskweyaabi1waaan
+    3+mskweyaap+NI+3+4+4: omiskweyaabi1niwan
+    3+mskweyaap+NI+3+4+Loc: omiskweyaabi1niing
+    3+mskweyaap+NI+3+4+Pl: omiskweyaabi1niwan
+    1+mskweyaap+NI+Prt+4: nimiskweyaabi1baniin
+    1+mskweyaap+NI+Prt+Loc: nimiskweyaabi1baniing
+    1+mskweyaap+NI+Prt+Pl: nimiskweyaabi1bani1an
+    2+mskweyaap+NI+Prt+4: gimiskweyaabi1baniin
+    2+mskweyaap+NI+Prt+Loc: gimiskweyaabi1baniing
+    2+mskweyaap+NI+Prt+Pl: gimiskweyaabi1bani1an
+    3+mskweyaap+NI+Prt+4: omiskweyaabi1baniin
+    3+mskweyaap+NI+Prt+Loc: omiskweyaabi1baniing
+    3+mskweyaap+NI+Prt+Pl: omiskweyaabi1bani1an
+    X+mskweyaap+NI+Prt+4: imiskweyaabi1baniin
+    X+mskweyaap+NI+Prt+Loc: imiskweyaabi1baniing
+    X+mskweyaap+NI+Prt+Pl: imiskweyaabi1bani1an
+    mskweyaap+NI+Con+Pej+Prt: [ miskweyaabi1enyishiban, miskweyaabi1enyishiba ]
+    mskweyaap+NI+Con+Pej+Voc+Pl: miskweyaabi1enyishdig
+    mskweyaap+NI+Dim+Pej+Prt: [ miskweyaabi1ensishiban, miskweyaabi1ensishiba ]
+    mskweyaap+NI+Dim+Pej+Voc+Pl: miskweyaabi1ensishdig
+    mskweyaap+NI+Con+Pej+4: miskweyaabi1enyishan
+    mskweyaap+NI+Con+Pej+Loc: miskweyaabi1enyishing
+    mskweyaap+NI+Con+Pej+Pl: miskweyaabi1enyishan
+    mskweyaap+NI+Dim+Pej+4: miskweyaabi1ensishan
+    mskweyaap+NI+Dim+Pej+Loc: miskweyaabi1ensishing
+    mskweyaap+NI+Dim+Pej+Pl: miskweyaabi1ensishan
+    mskweyaap+NI+Con+Prt+4: miskweyaabi1enyibaniin
+    mskweyaap+NI+Con+Prt+Loc: miskweyaabi1enyibaniing
+    mskweyaap+NI+Con+Prt+Pl: miskweyaabi1enyibani1an
+    mskweyaap+NI+Dim+Prt+4: miskweyaabi1ensibaniin
+    mskweyaap+NI+Dim+Prt+Loc: miskweyaabi1ensibaniing
+    mskweyaap+NI+Dim+Prt+Pl: miskweyaabi1ensibani1an
+    mskweyaap+NI+Pej+Prt+4: miskweyaabi1shibaniin
+    mskweyaap+NI+Pej+Prt+Loc: miskweyaabi1shibaniing
+    mskweyaap+NI+Pej+Prt+Pl: miskweyaabi1shibani1an
+    1+mskweyaap+NI+Con+ThmPos+Pej: nimiskweyaabi1enymish
+    1+mskweyaap+NI+Dim+ThmPos+Pej: nimiskweyaabi1ensmish
+    2+mskweyaap+NI+Con+ThmPos+Pej: gimiskweyaabi1enymish
+    2+mskweyaap+NI+Dim+ThmPos+Pej: gimiskweyaabi1ensmish
+    3+mskweyaap+NI+Con+ThmPos+Pej: omiskweyaabi1enymish
+    3+mskweyaap+NI+Dim+ThmPos+Pej: omiskweyaabi1ensmish
+    X+mskweyaap+NI+Con+ThmPos+Pej: imiskweyaabi1enymish
+    X+mskweyaap+NI+Dim+ThmPos+Pej: imiskweyaabi1ensmish
+    1+mskweyaap+NI+Con+ThmPos+1+Pl: [ nimiskweyaabi1enymnaan, nimiskweyaabi1enymnaa ]
+    1+mskweyaap+NI+Dim+ThmPos+1+Pl: [ nimiskweyaabi1ensmnaan, nimiskweyaabi1ensmnaa ]
+    2+mskweyaap+NI+Con+ThmPos+1+Pl: [ gimiskweyaabi1enymnaan, gimiskweyaabi1enymnaa ]
+    2+mskweyaap+NI+Con+ThmPos+2+Pl: gimiskweyaabi1enymwaa
+    2+mskweyaap+NI+Dim+ThmPos+1+Pl: [ gimiskweyaabi1ensmnaan, gimiskweyaabi1ensmnaa ]
+    2+mskweyaap+NI+Dim+ThmPos+2+Pl: gimiskweyaabi1ensmwaa
+    3+mskweyaap+NI+Con+ThmPos+2+Pl: omiskweyaabi1enymwaa
+    3+mskweyaap+NI+Con+ThmPos+3+4: omiskweyaabi1enymniw
+    3+mskweyaap+NI+Dim+ThmPos+2+Pl: omiskweyaabi1ensmwaa
+    3+mskweyaap+NI+Dim+ThmPos+3+4: omiskweyaabi1ensmniw
+    1+mskweyaap+NI+Con+ThmPos+Prt: [ nimiskweyaabi1enymiban, nimiskweyaabi1enymiba ]
+    1+mskweyaap+NI+Con+ThmPos+Voc+Pl: nimiskweyaabi1enymdig
+    1+mskweyaap+NI+Dim+ThmPos+Prt: [ nimiskweyaabi1ensmiban, nimiskweyaabi1ensmiba ]
+    1+mskweyaap+NI+Dim+ThmPos+Voc+Pl: nimiskweyaabi1ensmdig
+    2+mskweyaap+NI+Con+ThmPos+Prt: [ gimiskweyaabi1enymiban, gimiskweyaabi1enymiba ]
+    2+mskweyaap+NI+Con+ThmPos+Voc+Pl: gimiskweyaabi1enymdig
+    2+mskweyaap+NI+Dim+ThmPos+Prt: [ gimiskweyaabi1ensmiban, gimiskweyaabi1ensmiba ]
+    2+mskweyaap+NI+Dim+ThmPos+Voc+Pl: gimiskweyaabi1ensmdig
+    3+mskweyaap+NI+Con+ThmPos+Prt: [ omiskweyaabi1enymiban, omiskweyaabi1enymiba ]
+    3+mskweyaap+NI+Con+ThmPos+Voc+Pl: omiskweyaabi1enymdig
+    3+mskweyaap+NI+Dim+ThmPos+Prt: [ omiskweyaabi1ensmiban, omiskweyaabi1ensmiba ]
+    3+mskweyaap+NI+Dim+ThmPos+Voc+Pl: omiskweyaabi1ensmdig
+    X+mskweyaap+NI+Con+ThmPos+Prt: [ imiskweyaabi1enymiban, imiskweyaabi1enymiba ]
+    X+mskweyaap+NI+Con+ThmPos+Voc+Pl: imiskweyaabi1enymdig
+    X+mskweyaap+NI+Dim+ThmPos+Prt: [ imiskweyaabi1ensmiban, imiskweyaabi1ensmiba ]
+    X+mskweyaap+NI+Dim+ThmPos+Voc+Pl: imiskweyaabi1ensmdig
+    1+mskweyaap+NI+Con+ThmPos+4: nimiskweyaabi1enyman
+    1+mskweyaap+NI+Con+ThmPos+Loc: nimiskweyaabi1enyming
+    1+mskweyaap+NI+Con+ThmPos+Pl: nimiskweyaabi1enyman
+    1+mskweyaap+NI+Dim+ThmPos+4: nimiskweyaabi1ensman
+    1+mskweyaap+NI+Dim+ThmPos+Loc: nimiskweyaabi1ensming
+    1+mskweyaap+NI+Dim+ThmPos+Pl: nimiskweyaabi1ensman
+    2+mskweyaap+NI+Con+ThmPos+4: gimiskweyaabi1enyman
+    2+mskweyaap+NI+Con+ThmPos+Loc: gimiskweyaabi1enyming
+    2+mskweyaap+NI+Con+ThmPos+Pl: gimiskweyaabi1enyman
+    2+mskweyaap+NI+Dim+ThmPos+4: gimiskweyaabi1ensman
+    2+mskweyaap+NI+Dim+ThmPos+Loc: gimiskweyaabi1ensming
+    2+mskweyaap+NI+Dim+ThmPos+Pl: gimiskweyaabi1ensman
+    3+mskweyaap+NI+Con+ThmPos+4: omiskweyaabi1enyman
+    3+mskweyaap+NI+Con+ThmPos+Loc: omiskweyaabi1enyming
+    3+mskweyaap+NI+Con+ThmPos+Pl: omiskweyaabi1enyman
+    3+mskweyaap+NI+Dim+ThmPos+4: omiskweyaabi1ensman
+    3+mskweyaap+NI+Dim+ThmPos+Loc: omiskweyaabi1ensming
+    3+mskweyaap+NI+Dim+ThmPos+Pl: omiskweyaabi1ensman
+    X+mskweyaap+NI+Con+ThmPos+4: imiskweyaabi1enyman
+    X+mskweyaap+NI+Con+ThmPos+Loc: imiskweyaabi1enyming
+    X+mskweyaap+NI+Con+ThmPos+Pl: imiskweyaabi1enyman
+    X+mskweyaap+NI+Dim+ThmPos+4: imiskweyaabi1ensman
+    X+mskweyaap+NI+Dim+ThmPos+Loc: imiskweyaabi1ensming
+    X+mskweyaap+NI+Dim+ThmPos+Pl: imiskweyaabi1ensman
+    1+mskweyaap+NI+Con+Pej+1+Pl: [ nimiskweyaabi1enyishnaan, nimiskweyaabi1enyishnaa ]
+    1+mskweyaap+NI+Dim+Pej+1+Pl: [ nimiskweyaabi1ensishnaan, nimiskweyaabi1ensishnaa ]
+    2+mskweyaap+NI+Con+Pej+1+Pl: [ gimiskweyaabi1enyishnaan, gimiskweyaabi1enyishnaa ]
+    2+mskweyaap+NI+Con+Pej+2+Pl: gimiskweyaabi1enyishwaa
+    2+mskweyaap+NI+Dim+Pej+1+Pl: [ gimiskweyaabi1ensishnaan, gimiskweyaabi1ensishnaa ]
+    2+mskweyaap+NI+Dim+Pej+2+Pl: gimiskweyaabi1ensishwaa
+    3+mskweyaap+NI+Con+Pej+2+Pl: omiskweyaabi1enyishwaa
+    3+mskweyaap+NI+Con+Pej+3+4: omiskweyaabi1enyishniw
+    3+mskweyaap+NI+Dim+Pej+2+Pl: omiskweyaabi1ensishwaa
+    3+mskweyaap+NI+Dim+Pej+3+4: omiskweyaabi1ensishniw
+    1+mskweyaap+NI+Con+Pej+Prt: [ nimiskweyaabi1enyishiban, nimiskweyaabi1enyishiba ]
+    1+mskweyaap+NI+Con+Pej+Voc+Pl: nimiskweyaabi1enyishdig
+    1+mskweyaap+NI+Dim+Pej+Prt: [ nimiskweyaabi1ensishiban, nimiskweyaabi1ensishiba ]
+    1+mskweyaap+NI+Dim+Pej+Voc+Pl: nimiskweyaabi1ensishdig
+    2+mskweyaap+NI+Con+Pej+Prt: [ gimiskweyaabi1enyishiban, gimiskweyaabi1enyishiba ]
+    2+mskweyaap+NI+Con+Pej+Voc+Pl: gimiskweyaabi1enyishdig
+    2+mskweyaap+NI+Dim+Pej+Prt: [ gimiskweyaabi1ensishiban, gimiskweyaabi1ensishiba ]
+    2+mskweyaap+NI+Dim+Pej+Voc+Pl: gimiskweyaabi1ensishdig
+    3+mskweyaap+NI+Con+Pej+Prt: [ omiskweyaabi1enyishiban, omiskweyaabi1enyishiba ]
+    3+mskweyaap+NI+Con+Pej+Voc+Pl: omiskweyaabi1enyishdig
+    3+mskweyaap+NI+Dim+Pej+Prt: [ omiskweyaabi1ensishiban, omiskweyaabi1ensishiba ]
+    3+mskweyaap+NI+Dim+Pej+Voc+Pl: omiskweyaabi1ensishdig
+    X+mskweyaap+NI+Con+Pej+Prt: [ imiskweyaabi1enyishiban, imiskweyaabi1enyishiba ]
+    X+mskweyaap+NI+Con+Pej+Voc+Pl: imiskweyaabi1enyishdig
+    X+mskweyaap+NI+Dim+Pej+Prt: [ imiskweyaabi1ensishiban, imiskweyaabi1ensishiba ]
+    X+mskweyaap+NI+Dim+Pej+Voc+Pl: imiskweyaabi1ensishdig
+    1+mskweyaap+NI+Con+Pej+4: nimiskweyaabi1enyishan
+    1+mskweyaap+NI+Con+Pej+Loc: nimiskweyaabi1enyishing
+    1+mskweyaap+NI+Con+Pej+Pl: nimiskweyaabi1enyishan
+    1+mskweyaap+NI+Dim+Pej+4: nimiskweyaabi1ensishan
+    1+mskweyaap+NI+Dim+Pej+Loc: nimiskweyaabi1ensishing
+    1+mskweyaap+NI+Dim+Pej+Pl: nimiskweyaabi1ensishan
+    2+mskweyaap+NI+Con+Pej+4: gimiskweyaabi1enyishan
+    2+mskweyaap+NI+Con+Pej+Loc: gimiskweyaabi1enyishing
+    2+mskweyaap+NI+Con+Pej+Pl: gimiskweyaabi1enyishan
+    2+mskweyaap+NI+Dim+Pej+4: gimiskweyaabi1ensishan
+    2+mskweyaap+NI+Dim+Pej+Loc: gimiskweyaabi1ensishing
+    2+mskweyaap+NI+Dim+Pej+Pl: gimiskweyaabi1ensishan
+    3+mskweyaap+NI+Con+Pej+4: omiskweyaabi1enyishan
+    3+mskweyaap+NI+Con+Pej+Loc: omiskweyaabi1enyishing
+    3+mskweyaap+NI+Con+Pej+Pl: omiskweyaabi1enyishan
+    3+mskweyaap+NI+Dim+Pej+4: omiskweyaabi1ensishan
+    3+mskweyaap+NI+Dim+Pej+Loc: omiskweyaabi1ensishing
+    3+mskweyaap+NI+Dim+Pej+Pl: omiskweyaabi1ensishan
+    X+mskweyaap+NI+Con+Pej+4: imiskweyaabi1enyishan
+    X+mskweyaap+NI+Con+Pej+Loc: imiskweyaabi1enyishing
+    X+mskweyaap+NI+Con+Pej+Pl: imiskweyaabi1enyishan
+    X+mskweyaap+NI+Dim+Pej+4: imiskweyaabi1ensishan
+    X+mskweyaap+NI+Dim+Pej+Loc: imiskweyaabi1ensishing
+    X+mskweyaap+NI+Dim+Pej+Pl: imiskweyaabi1ensishan
+    1+mskweyaap+NI+Con+1+Pl+Prt: [ nimiskweyaabi1enynaaniban, nimiskweyaabi1enynaaniba ]
+    1+mskweyaap+NI+Con+1+Pl+Voc+Pl: nimiskweyaabi1enynaany1dig
+    1+mskweyaap+NI+Dim+1+Pl+Prt: [ nimiskweyaabi1ensnaaniban, nimiskweyaabi1ensnaaniba ]
+    1+mskweyaap+NI+Dim+1+Pl+Voc+Pl: nimiskweyaabi1ensnaany1dig
+    2+mskweyaap+NI+Con+1+Pl+Prt: [ gimiskweyaabi1enynaaniban, gimiskweyaabi1enynaaniba ]
+    2+mskweyaap+NI+Con+1+Pl+Voc+Pl: gimiskweyaabi1enynaany1dig
+    2+mskweyaap+NI+Con+2+Pl+Prt: [ gimiskweyaabi1enywaaban, gimiskweyaabi1enywaaba ]
+    2+mskweyaap+NI+Con+2+Pl+Voc+Pl: gimiskweyaabi1enywaadig
+    2+mskweyaap+NI+Dim+1+Pl+Prt: [ gimiskweyaabi1ensnaaniban, gimiskweyaabi1ensnaaniba ]
+    2+mskweyaap+NI+Dim+1+Pl+Voc+Pl: gimiskweyaabi1ensnaany1dig
+    2+mskweyaap+NI+Dim+2+Pl+Prt: [ gimiskweyaabi1enswaaban, gimiskweyaabi1enswaaba ]
+    2+mskweyaap+NI+Dim+2+Pl+Voc+Pl: gimiskweyaabi1enswaadig
+    3+mskweyaap+NI+Con+2+Pl+Prt: [ omiskweyaabi1enywaaban, omiskweyaabi1enywaaba ]
+    3+mskweyaap+NI+Con+2+Pl+Voc+Pl: omiskweyaabi1enywaadig
+    3+mskweyaap+NI+Con+3+4+Prt: [ omiskweyaabi1enyniwiban, omiskweyaabi1enyniwiba, omiskweyaabi1enyniiban, omiskweyaabi1enyniiba ]
+    3+mskweyaap+NI+Con+3+4+Voc+Pl: omiskweyaabi1enyniwdig
+    3+mskweyaap+NI+Dim+2+Pl+Prt: [ omiskweyaabi1enswaaban, omiskweyaabi1enswaaba ]
+    3+mskweyaap+NI+Dim+2+Pl+Voc+Pl: omiskweyaabi1enswaadig
+    3+mskweyaap+NI+Dim+3+4+Prt: [ omiskweyaabi1ensniwiban, omiskweyaabi1ensniwiba, omiskweyaabi1ensniiban, omiskweyaabi1ensniiba ]
+    3+mskweyaap+NI+Dim+3+4+Voc+Pl: omiskweyaabi1ensniwdig
+    1+mskweyaap+NI+Con+1+Pl+4: nimiskweyaabi1enynaanin
+    1+mskweyaap+NI+Con+1+Pl+Loc: nimiskweyaabi1enynaaning
+    1+mskweyaap+NI+Con+1+Pl+Pl: nimiskweyaabi1enynaany1an
+    1+mskweyaap+NI+Dim+1+Pl+4: nimiskweyaabi1ensnaanin
+    1+mskweyaap+NI+Dim+1+Pl+Loc: nimiskweyaabi1ensnaaning
+    1+mskweyaap+NI+Dim+1+Pl+Pl: nimiskweyaabi1ensnaany1an
+    2+mskweyaap+NI+Con+1+Pl+4: gimiskweyaabi1enynaanin
+    2+mskweyaap+NI+Con+1+Pl+Loc: gimiskweyaabi1enynaaning
+    2+mskweyaap+NI+Con+1+Pl+Pl: gimiskweyaabi1enynaany1an
+    2+mskweyaap+NI+Con+2+Pl+4: gimiskweyaabi1enywaan
+    2+mskweyaap+NI+Con+2+Pl+Loc: gimiskweyaabi1enywaang
+    2+mskweyaap+NI+Con+2+Pl+Pl: gimiskweyaabi1enywaaan
+    2+mskweyaap+NI+Dim+1+Pl+4: gimiskweyaabi1ensnaanin
+    2+mskweyaap+NI+Dim+1+Pl+Loc: gimiskweyaabi1ensnaaning
+    2+mskweyaap+NI+Dim+1+Pl+Pl: gimiskweyaabi1ensnaany1an
+    2+mskweyaap+NI+Dim+2+Pl+4: gimiskweyaabi1enswaan
+    2+mskweyaap+NI+Dim+2+Pl+Loc: gimiskweyaabi1enswaang
+    2+mskweyaap+NI+Dim+2+Pl+Pl: gimiskweyaabi1enswaaan
+    3+mskweyaap+NI+Con+2+Pl+4: omiskweyaabi1enywaan
+    3+mskweyaap+NI+Con+2+Pl+Loc: omiskweyaabi1enywaang
+    3+mskweyaap+NI+Con+2+Pl+Pl: omiskweyaabi1enywaaan
+    3+mskweyaap+NI+Con+3+4+4: omiskweyaabi1enyniwan
+    3+mskweyaap+NI+Con+3+4+Loc: omiskweyaabi1enyniing
+    3+mskweyaap+NI+Con+3+4+Pl: omiskweyaabi1enyniwan
+    3+mskweyaap+NI+Dim+2+Pl+4: omiskweyaabi1enswaan
+    3+mskweyaap+NI+Dim+2+Pl+Loc: omiskweyaabi1enswaang
+    3+mskweyaap+NI+Dim+2+Pl+Pl: omiskweyaabi1enswaaan
+    3+mskweyaap+NI+Dim+3+4+4: omiskweyaabi1ensniwan
+    3+mskweyaap+NI+Dim+3+4+Loc: omiskweyaabi1ensniing
+    3+mskweyaap+NI+Dim+3+4+Pl: omiskweyaabi1ensniwan
+    1+mskweyaap+NI+Con+Prt+4: nimiskweyaabi1enyibaniin
+    1+mskweyaap+NI+Con+Prt+Loc: nimiskweyaabi1enyibaniing
+    1+mskweyaap+NI+Con+Prt+Pl: nimiskweyaabi1enyibani1an
+    1+mskweyaap+NI+Dim+Prt+4: nimiskweyaabi1ensibaniin
+    1+mskweyaap+NI+Dim+Prt+Loc: nimiskweyaabi1ensibaniing
+    1+mskweyaap+NI+Dim+Prt+Pl: nimiskweyaabi1ensibani1an
+    2+mskweyaap+NI+Con+Prt+4: gimiskweyaabi1enyibaniin
+    2+mskweyaap+NI+Con+Prt+Loc: gimiskweyaabi1enyibaniing
+    2+mskweyaap+NI+Con+Prt+Pl: gimiskweyaabi1enyibani1an
+    2+mskweyaap+NI+Dim+Prt+4: gimiskweyaabi1ensibaniin
+    2+mskweyaap+NI+Dim+Prt+Loc: gimiskweyaabi1ensibaniing
+    2+mskweyaap+NI+Dim+Prt+Pl: gimiskweyaabi1ensibani1an
+    3+mskweyaap+NI+Con+Prt+4: omiskweyaabi1enyibaniin
+    3+mskweyaap+NI+Con+Prt+Loc: omiskweyaabi1enyibaniing
+    3+mskweyaap+NI+Con+Prt+Pl: omiskweyaabi1enyibani1an
+    3+mskweyaap+NI+Dim+Prt+4: omiskweyaabi1ensibaniin
+    3+mskweyaap+NI+Dim+Prt+Loc: omiskweyaabi1ensibaniing
+    3+mskweyaap+NI+Dim+Prt+Pl: omiskweyaabi1ensibani1an
+    X+mskweyaap+NI+Con+Prt+4: imiskweyaabi1enyibaniin
+    X+mskweyaap+NI+Con+Prt+Loc: imiskweyaabi1enyibaniing
+    X+mskweyaap+NI+Con+Prt+Pl: imiskweyaabi1enyibani1an
+    X+mskweyaap+NI+Dim+Prt+4: imiskweyaabi1ensibaniin
+    X+mskweyaap+NI+Dim+Prt+Loc: imiskweyaabi1ensibaniing
+    X+mskweyaap+NI+Dim+Prt+Pl: imiskweyaabi1ensibani1an
+    1+mskweyaap+NI+ThmPos+Pej+1+Pl: [ nimiskweyaabi1mishnaan, nimiskweyaabi1mishnaa ]
+    2+mskweyaap+NI+ThmPos+Pej+1+Pl: [ gimiskweyaabi1mishnaan, gimiskweyaabi1mishnaa ]
+    2+mskweyaap+NI+ThmPos+Pej+2+Pl: gimiskweyaabi1mishwaa
+    3+mskweyaap+NI+ThmPos+Pej+2+Pl: omiskweyaabi1mishwaa
+    3+mskweyaap+NI+ThmPos+Pej+3+4: omiskweyaabi1mishniw
+    1+mskweyaap+NI+ThmPos+Pej+Prt: [ nimiskweyaabi1mishiban, nimiskweyaabi1mishiba ]
+    1+mskweyaap+NI+ThmPos+Pej+Voc+Pl: nimiskweyaabi1mishdig
+    2+mskweyaap+NI+ThmPos+Pej+Prt: [ gimiskweyaabi1mishiban, gimiskweyaabi1mishiba ]
+    2+mskweyaap+NI+ThmPos+Pej+Voc+Pl: gimiskweyaabi1mishdig
+    3+mskweyaap+NI+ThmPos+Pej+Prt: [ omiskweyaabi1mishiban, omiskweyaabi1mishiba ]
+    3+mskweyaap+NI+ThmPos+Pej+Voc+Pl: omiskweyaabi1mishdig
+    X+mskweyaap+NI+ThmPos+Pej+Prt: [ imiskweyaabi1mishiban, imiskweyaabi1mishiba ]
+    X+mskweyaap+NI+ThmPos+Pej+Voc+Pl: imiskweyaabi1mishdig
+    1+mskweyaap+NI+ThmPos+Pej+4: nimiskweyaabi1mishan
+    1+mskweyaap+NI+ThmPos+Pej+Loc: nimiskweyaabi1mishing
+    1+mskweyaap+NI+ThmPos+Pej+Pl: nimiskweyaabi1mishan
+    2+mskweyaap+NI+ThmPos+Pej+4: gimiskweyaabi1mishan
+    2+mskweyaap+NI+ThmPos+Pej+Loc: gimiskweyaabi1mishing
+    2+mskweyaap+NI+ThmPos+Pej+Pl: gimiskweyaabi1mishan
+    3+mskweyaap+NI+ThmPos+Pej+4: omiskweyaabi1mishan
+    3+mskweyaap+NI+ThmPos+Pej+Loc: omiskweyaabi1mishing
+    3+mskweyaap+NI+ThmPos+Pej+Pl: omiskweyaabi1mishan
+    X+mskweyaap+NI+ThmPos+Pej+4: imiskweyaabi1mishan
+    X+mskweyaap+NI+ThmPos+Pej+Loc: imiskweyaabi1mishing
+    X+mskweyaap+NI+ThmPos+Pej+Pl: imiskweyaabi1mishan
+    1+mskweyaap+NI+ThmPos+1+Pl+Prt: [ nimiskweyaabi1mnaaniban, nimiskweyaabi1mnaaniba ]
+    1+mskweyaap+NI+ThmPos+1+Pl+Voc+Pl: nimiskweyaabi1mnaany1dig
+    2+mskweyaap+NI+ThmPos+1+Pl+Prt: [ gimiskweyaabi1mnaaniban, gimiskweyaabi1mnaaniba ]
+    2+mskweyaap+NI+ThmPos+1+Pl+Voc+Pl: gimiskweyaabi1mnaany1dig
+    2+mskweyaap+NI+ThmPos+2+Pl+Prt: [ gimiskweyaabi1mwaaban, gimiskweyaabi1mwaaba ]
+    2+mskweyaap+NI+ThmPos+2+Pl+Voc+Pl: gimiskweyaabi1mwaadig
+    3+mskweyaap+NI+ThmPos+2+Pl+Prt: [ omiskweyaabi1mwaaban, omiskweyaabi1mwaaba ]
+    3+mskweyaap+NI+ThmPos+2+Pl+Voc+Pl: omiskweyaabi1mwaadig
+    3+mskweyaap+NI+ThmPos+3+4+Prt: [ omiskweyaabi1mniwiban, omiskweyaabi1mniwiba, omiskweyaabi1mniiban, omiskweyaabi1mniiba ]
+    3+mskweyaap+NI+ThmPos+3+4+Voc+Pl: omiskweyaabi1mniwdig
+    1+mskweyaap+NI+ThmPos+1+Pl+4: nimiskweyaabi1mnaanin
+    1+mskweyaap+NI+ThmPos+1+Pl+Loc: nimiskweyaabi1mnaaning
+    1+mskweyaap+NI+ThmPos+1+Pl+Pl: nimiskweyaabi1mnaany1an
+    2+mskweyaap+NI+ThmPos+1+Pl+4: gimiskweyaabi1mnaanin
+    2+mskweyaap+NI+ThmPos+1+Pl+Loc: gimiskweyaabi1mnaaning
+    2+mskweyaap+NI+ThmPos+1+Pl+Pl: gimiskweyaabi1mnaany1an
+    2+mskweyaap+NI+ThmPos+2+Pl+4: gimiskweyaabi1mwaan
+    2+mskweyaap+NI+ThmPos+2+Pl+Loc: gimiskweyaabi1mwaang
+    2+mskweyaap+NI+ThmPos+2+Pl+Pl: gimiskweyaabi1mwaaan
+    3+mskweyaap+NI+ThmPos+2+Pl+4: omiskweyaabi1mwaan
+    3+mskweyaap+NI+ThmPos+2+Pl+Loc: omiskweyaabi1mwaang
+    3+mskweyaap+NI+ThmPos+2+Pl+Pl: omiskweyaabi1mwaaan
+    3+mskweyaap+NI+ThmPos+3+4+4: omiskweyaabi1mniwan
+    3+mskweyaap+NI+ThmPos+3+4+Loc: omiskweyaabi1mniing
+    3+mskweyaap+NI+ThmPos+3+4+Pl: omiskweyaabi1mniwan
+    1+mskweyaap+NI+ThmPos+Prt+4: nimiskweyaabi1mibaniin
+    1+mskweyaap+NI+ThmPos+Prt+Loc: nimiskweyaabi1mibaniing
+    1+mskweyaap+NI+ThmPos+Prt+Pl: nimiskweyaabi1mibani1an
+    2+mskweyaap+NI+ThmPos+Prt+4: gimiskweyaabi1mibaniin
+    2+mskweyaap+NI+ThmPos+Prt+Loc: gimiskweyaabi1mibaniing
+    2+mskweyaap+NI+ThmPos+Prt+Pl: gimiskweyaabi1mibani1an
+    3+mskweyaap+NI+ThmPos+Prt+4: omiskweyaabi1mibaniin
+    3+mskweyaap+NI+ThmPos+Prt+Loc: omiskweyaabi1mibaniing
+    3+mskweyaap+NI+ThmPos+Prt+Pl: omiskweyaabi1mibani1an
+    X+mskweyaap+NI+ThmPos+Prt+4: imiskweyaabi1mibaniin
+    X+mskweyaap+NI+ThmPos+Prt+Loc: imiskweyaabi1mibaniing
+    X+mskweyaap+NI+ThmPos+Prt+Pl: imiskweyaabi1mibani1an
+    1+mskweyaap+NI+Pej+1+Pl+Prt: [ nimiskweyaabi1shnaaniban, nimiskweyaabi1shnaaniba ]
+    1+mskweyaap+NI+Pej+1+Pl+Voc+Pl: nimiskweyaabi1shnaany1dig
+    2+mskweyaap+NI+Pej+1+Pl+Prt: [ gimiskweyaabi1shnaaniban, gimiskweyaabi1shnaaniba ]
+    2+mskweyaap+NI+Pej+1+Pl+Voc+Pl: gimiskweyaabi1shnaany1dig
+    2+mskweyaap+NI+Pej+2+Pl+Prt: [ gimiskweyaabi1shwaaban, gimiskweyaabi1shwaaba ]
+    2+mskweyaap+NI+Pej+2+Pl+Voc+Pl: gimiskweyaabi1shwaadig
+    3+mskweyaap+NI+Pej+2+Pl+Prt: [ omiskweyaabi1shwaaban, omiskweyaabi1shwaaba ]
+    3+mskweyaap+NI+Pej+2+Pl+Voc+Pl: omiskweyaabi1shwaadig
+    3+mskweyaap+NI+Pej+3+4+Prt: [ omiskweyaabi1shniwiban, omiskweyaabi1shniwiba, omiskweyaabi1shniiban, omiskweyaabi1shniiba ]
+    3+mskweyaap+NI+Pej+3+4+Voc+Pl: omiskweyaabi1shniwdig
+    1+mskweyaap+NI+Pej+1+Pl+4: nimiskweyaabi1shnaanin
+    1+mskweyaap+NI+Pej+1+Pl+Loc: nimiskweyaabi1shnaaning
+    1+mskweyaap+NI+Pej+1+Pl+Pl: nimiskweyaabi1shnaany1an
+    2+mskweyaap+NI+Pej+1+Pl+4: gimiskweyaabi1shnaanin
+    2+mskweyaap+NI+Pej+1+Pl+Loc: gimiskweyaabi1shnaaning
+    2+mskweyaap+NI+Pej+1+Pl+Pl: gimiskweyaabi1shnaany1an
+    2+mskweyaap+NI+Pej+2+Pl+4: gimiskweyaabi1shwaan
+    2+mskweyaap+NI+Pej+2+Pl+Loc: gimiskweyaabi1shwaang
+    2+mskweyaap+NI+Pej+2+Pl+Pl: gimiskweyaabi1shwaaan
+    3+mskweyaap+NI+Pej+2+Pl+4: omiskweyaabi1shwaan
+    3+mskweyaap+NI+Pej+2+Pl+Loc: omiskweyaabi1shwaang
+    3+mskweyaap+NI+Pej+2+Pl+Pl: omiskweyaabi1shwaaan
+    3+mskweyaap+NI+Pej+3+4+4: omiskweyaabi1shniwan
+    3+mskweyaap+NI+Pej+3+4+Loc: omiskweyaabi1shniing
+    3+mskweyaap+NI+Pej+3+4+Pl: omiskweyaabi1shniwan
+    1+mskweyaap+NI+Pej+Prt+4: nimiskweyaabi1shibaniin
+    1+mskweyaap+NI+Pej+Prt+Loc: nimiskweyaabi1shibaniing
+    1+mskweyaap+NI+Pej+Prt+Pl: nimiskweyaabi1shibani1an
+    2+mskweyaap+NI+Pej+Prt+4: gimiskweyaabi1shibaniin
+    2+mskweyaap+NI+Pej+Prt+Loc: gimiskweyaabi1shibaniing
+    2+mskweyaap+NI+Pej+Prt+Pl: gimiskweyaabi1shibani1an
+    3+mskweyaap+NI+Pej+Prt+4: omiskweyaabi1shibaniin
+    3+mskweyaap+NI+Pej+Prt+Loc: omiskweyaabi1shibaniing
+    3+mskweyaap+NI+Pej+Prt+Pl: omiskweyaabi1shibani1an
+    X+mskweyaap+NI+Pej+Prt+4: imiskweyaabi1shibaniin
+    X+mskweyaap+NI+Pej+Prt+Loc: imiskweyaabi1shibaniing
+    X+mskweyaap+NI+Pej+Prt+Pl: imiskweyaabi1shibani1an
+    1+mskweyaap+NI+1+Pl+Prt+4: nimiskweyaabi1naanibaniin
+    1+mskweyaap+NI+1+Pl+Prt+Loc: nimiskweyaabi1naanibaniing
+    1+mskweyaap+NI+1+Pl+Prt+Pl: nimiskweyaabi1naanibani1an
+    2+mskweyaap+NI+1+Pl+Prt+4: gimiskweyaabi1naanibaniin
+    2+mskweyaap+NI+1+Pl+Prt+Loc: gimiskweyaabi1naanibaniing
+    2+mskweyaap+NI+1+Pl+Prt+Pl: gimiskweyaabi1naanibani1an
+    2+mskweyaap+NI+2+Pl+Prt+4: gimiskweyaabi1waabaniin
+    2+mskweyaap+NI+2+Pl+Prt+Loc: gimiskweyaabi1waabaniing
+    2+mskweyaap+NI+2+Pl+Prt+Pl: gimiskweyaabi1waabani1an
+    3+mskweyaap+NI+2+Pl+Prt+4: omiskweyaabi1waabaniin
+    3+mskweyaap+NI+2+Pl+Prt+Loc: omiskweyaabi1waabaniing
+    3+mskweyaap+NI+2+Pl+Prt+Pl: omiskweyaabi1waabani1an
+    3+mskweyaap+NI+3+4+Prt+4: [ omiskweyaabi1niwibaniin, omiskweyaabi1niibaniin ]
+    3+mskweyaap+NI+3+4+Prt+Loc: [ omiskweyaabi1niwibaniing, omiskweyaabi1niibaniing ]
+    3+mskweyaap+NI+3+4+Prt+Pl: [ omiskweyaabi1niwibani1an, omiskweyaabi1niibani1an ]
+    mskweyaap+NI+Con+Pej+Prt+4: miskweyaabi1enyishibaniin
+    mskweyaap+NI+Con+Pej+Prt+Loc: miskweyaabi1enyishibaniing
+    mskweyaap+NI+Con+Pej+Prt+Pl: miskweyaabi1enyishibani1an
+    mskweyaap+NI+Dim+Pej+Prt+4: miskweyaabi1ensishibaniin
+    mskweyaap+NI+Dim+Pej+Prt+Loc: miskweyaabi1ensishibaniing
+    mskweyaap+NI+Dim+Pej+Prt+Pl: miskweyaabi1ensishibani1an
+    1+mskweyaap+NI+Con+ThmPos+Pej+1+Pl: [ nimiskweyaabi1enymishnaan, nimiskweyaabi1enymishnaa ]
+    1+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl: [ nimiskweyaabi1ensmishnaan, nimiskweyaabi1ensmishnaa ]
+    2+mskweyaap+NI+Con+ThmPos+Pej+1+Pl: [ gimiskweyaabi1enymishnaan, gimiskweyaabi1enymishnaa ]
+    2+mskweyaap+NI+Con+ThmPos+Pej+2+Pl: gimiskweyaabi1enymishwaa
+    2+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl: [ gimiskweyaabi1ensmishnaan, gimiskweyaabi1ensmishnaa ]
+    2+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl: gimiskweyaabi1ensmishwaa
+    3+mskweyaap+NI+Con+ThmPos+Pej+2+Pl: omiskweyaabi1enymishwaa
+    3+mskweyaap+NI+Con+ThmPos+Pej+3+4: omiskweyaabi1enymishniw
+    3+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl: omiskweyaabi1ensmishwaa
+    3+mskweyaap+NI+Dim+ThmPos+Pej+3+4: omiskweyaabi1ensmishniw
+    1+mskweyaap+NI+Con+ThmPos+Pej+Prt: [ nimiskweyaabi1enymishiban, nimiskweyaabi1enymishiba ]
+    1+mskweyaap+NI+Con+ThmPos+Pej+Voc+Pl: nimiskweyaabi1enymishdig
+    1+mskweyaap+NI+Dim+ThmPos+Pej+Prt: [ nimiskweyaabi1ensmishiban, nimiskweyaabi1ensmishiba ]
+    1+mskweyaap+NI+Dim+ThmPos+Pej+Voc+Pl: nimiskweyaabi1ensmishdig
+    2+mskweyaap+NI+Con+ThmPos+Pej+Prt: [ gimiskweyaabi1enymishiban, gimiskweyaabi1enymishiba ]
+    2+mskweyaap+NI+Con+ThmPos+Pej+Voc+Pl: gimiskweyaabi1enymishdig
+    2+mskweyaap+NI+Dim+ThmPos+Pej+Prt: [ gimiskweyaabi1ensmishiban, gimiskweyaabi1ensmishiba ]
+    2+mskweyaap+NI+Dim+ThmPos+Pej+Voc+Pl: gimiskweyaabi1ensmishdig
+    3+mskweyaap+NI+Con+ThmPos+Pej+Prt: [ omiskweyaabi1enymishiban, omiskweyaabi1enymishiba ]
+    3+mskweyaap+NI+Con+ThmPos+Pej+Voc+Pl: omiskweyaabi1enymishdig
+    3+mskweyaap+NI+Dim+ThmPos+Pej+Prt: [ omiskweyaabi1ensmishiban, omiskweyaabi1ensmishiba ]
+    3+mskweyaap+NI+Dim+ThmPos+Pej+Voc+Pl: omiskweyaabi1ensmishdig
+    X+mskweyaap+NI+Con+ThmPos+Pej+Prt: [ imiskweyaabi1enymishiban, imiskweyaabi1enymishiba ]
+    X+mskweyaap+NI+Con+ThmPos+Pej+Voc+Pl: imiskweyaabi1enymishdig
+    X+mskweyaap+NI+Dim+ThmPos+Pej+Prt: [ imiskweyaabi1ensmishiban, imiskweyaabi1ensmishiba ]
+    X+mskweyaap+NI+Dim+ThmPos+Pej+Voc+Pl: imiskweyaabi1ensmishdig
+    1+mskweyaap+NI+Con+ThmPos+Pej+4: nimiskweyaabi1enymishan
+    1+mskweyaap+NI+Con+ThmPos+Pej+Loc: nimiskweyaabi1enymishing
+    1+mskweyaap+NI+Con+ThmPos+Pej+Pl: nimiskweyaabi1enymishan
+    1+mskweyaap+NI+Dim+ThmPos+Pej+4: nimiskweyaabi1ensmishan
+    1+mskweyaap+NI+Dim+ThmPos+Pej+Loc: nimiskweyaabi1ensmishing
+    1+mskweyaap+NI+Dim+ThmPos+Pej+Pl: nimiskweyaabi1ensmishan
+    2+mskweyaap+NI+Con+ThmPos+Pej+4: gimiskweyaabi1enymishan
+    2+mskweyaap+NI+Con+ThmPos+Pej+Loc: gimiskweyaabi1enymishing
+    2+mskweyaap+NI+Con+ThmPos+Pej+Pl: gimiskweyaabi1enymishan
+    2+mskweyaap+NI+Dim+ThmPos+Pej+4: gimiskweyaabi1ensmishan
+    2+mskweyaap+NI+Dim+ThmPos+Pej+Loc: gimiskweyaabi1ensmishing
+    2+mskweyaap+NI+Dim+ThmPos+Pej+Pl: gimiskweyaabi1ensmishan
+    3+mskweyaap+NI+Con+ThmPos+Pej+4: omiskweyaabi1enymishan
+    3+mskweyaap+NI+Con+ThmPos+Pej+Loc: omiskweyaabi1enymishing
+    3+mskweyaap+NI+Con+ThmPos+Pej+Pl: omiskweyaabi1enymishan
+    3+mskweyaap+NI+Dim+ThmPos+Pej+4: omiskweyaabi1ensmishan
+    3+mskweyaap+NI+Dim+ThmPos+Pej+Loc: omiskweyaabi1ensmishing
+    3+mskweyaap+NI+Dim+ThmPos+Pej+Pl: omiskweyaabi1ensmishan
+    X+mskweyaap+NI+Con+ThmPos+Pej+4: imiskweyaabi1enymishan
+    X+mskweyaap+NI+Con+ThmPos+Pej+Loc: imiskweyaabi1enymishing
+    X+mskweyaap+NI+Con+ThmPos+Pej+Pl: imiskweyaabi1enymishan
+    X+mskweyaap+NI+Dim+ThmPos+Pej+4: imiskweyaabi1ensmishan
+    X+mskweyaap+NI+Dim+ThmPos+Pej+Loc: imiskweyaabi1ensmishing
+    X+mskweyaap+NI+Dim+ThmPos+Pej+Pl: imiskweyaabi1ensmishan
+    1+mskweyaap+NI+Con+ThmPos+1+Pl+Prt: [ nimiskweyaabi1enymnaaniban, nimiskweyaabi1enymnaaniba ]
+    1+mskweyaap+NI+Con+ThmPos+1+Pl+Voc+Pl: nimiskweyaabi1enymnaany1dig
+    1+mskweyaap+NI+Dim+ThmPos+1+Pl+Prt: [ nimiskweyaabi1ensmnaaniban, nimiskweyaabi1ensmnaaniba ]
+    1+mskweyaap+NI+Dim+ThmPos+1+Pl+Voc+Pl: nimiskweyaabi1ensmnaany1dig
+    2+mskweyaap+NI+Con+ThmPos+1+Pl+Prt: [ gimiskweyaabi1enymnaaniban, gimiskweyaabi1enymnaaniba ]
+    2+mskweyaap+NI+Con+ThmPos+1+Pl+Voc+Pl: gimiskweyaabi1enymnaany1dig
+    2+mskweyaap+NI+Con+ThmPos+2+Pl+Prt: [ gimiskweyaabi1enymwaaban, gimiskweyaabi1enymwaaba ]
+    2+mskweyaap+NI+Con+ThmPos+2+Pl+Voc+Pl: gimiskweyaabi1enymwaadig
+    2+mskweyaap+NI+Dim+ThmPos+1+Pl+Prt: [ gimiskweyaabi1ensmnaaniban, gimiskweyaabi1ensmnaaniba ]
+    2+mskweyaap+NI+Dim+ThmPos+1+Pl+Voc+Pl: gimiskweyaabi1ensmnaany1dig
+    2+mskweyaap+NI+Dim+ThmPos+2+Pl+Prt: [ gimiskweyaabi1ensmwaaban, gimiskweyaabi1ensmwaaba ]
+    2+mskweyaap+NI+Dim+ThmPos+2+Pl+Voc+Pl: gimiskweyaabi1ensmwaadig
+    3+mskweyaap+NI+Con+ThmPos+2+Pl+Prt: [ omiskweyaabi1enymwaaban, omiskweyaabi1enymwaaba ]
+    3+mskweyaap+NI+Con+ThmPos+2+Pl+Voc+Pl: omiskweyaabi1enymwaadig
+    3+mskweyaap+NI+Con+ThmPos+3+4+Prt: [ omiskweyaabi1enymniwiban, omiskweyaabi1enymniwiba, omiskweyaabi1enymniiban, omiskweyaabi1enymniiba ]
+    3+mskweyaap+NI+Con+ThmPos+3+4+Voc+Pl: omiskweyaabi1enymniwdig
+    3+mskweyaap+NI+Dim+ThmPos+2+Pl+Prt: [ omiskweyaabi1ensmwaaban, omiskweyaabi1ensmwaaba ]
+    3+mskweyaap+NI+Dim+ThmPos+2+Pl+Voc+Pl: omiskweyaabi1ensmwaadig
+    3+mskweyaap+NI+Dim+ThmPos+3+4+Prt: [ omiskweyaabi1ensmniwiban, omiskweyaabi1ensmniwiba, omiskweyaabi1ensmniiban, omiskweyaabi1ensmniiba ]
+    3+mskweyaap+NI+Dim+ThmPos+3+4+Voc+Pl: omiskweyaabi1ensmniwdig
+    1+mskweyaap+NI+Con+ThmPos+1+Pl+4: nimiskweyaabi1enymnaanin
+    1+mskweyaap+NI+Con+ThmPos+1+Pl+Loc: nimiskweyaabi1enymnaaning
+    1+mskweyaap+NI+Con+ThmPos+1+Pl+Pl: nimiskweyaabi1enymnaany1an
+    1+mskweyaap+NI+Dim+ThmPos+1+Pl+4: nimiskweyaabi1ensmnaanin
+    1+mskweyaap+NI+Dim+ThmPos+1+Pl+Loc: nimiskweyaabi1ensmnaaning
+    1+mskweyaap+NI+Dim+ThmPos+1+Pl+Pl: nimiskweyaabi1ensmnaany1an
+    2+mskweyaap+NI+Con+ThmPos+1+Pl+4: gimiskweyaabi1enymnaanin
+    2+mskweyaap+NI+Con+ThmPos+1+Pl+Loc: gimiskweyaabi1enymnaaning
+    2+mskweyaap+NI+Con+ThmPos+1+Pl+Pl: gimiskweyaabi1enymnaany1an
+    2+mskweyaap+NI+Con+ThmPos+2+Pl+4: gimiskweyaabi1enymwaan
+    2+mskweyaap+NI+Con+ThmPos+2+Pl+Loc: gimiskweyaabi1enymwaang
+    2+mskweyaap+NI+Con+ThmPos+2+Pl+Pl: gimiskweyaabi1enymwaaan
+    2+mskweyaap+NI+Dim+ThmPos+1+Pl+4: gimiskweyaabi1ensmnaanin
+    2+mskweyaap+NI+Dim+ThmPos+1+Pl+Loc: gimiskweyaabi1ensmnaaning
+    2+mskweyaap+NI+Dim+ThmPos+1+Pl+Pl: gimiskweyaabi1ensmnaany1an
+    2+mskweyaap+NI+Dim+ThmPos+2+Pl+4: gimiskweyaabi1ensmwaan
+    2+mskweyaap+NI+Dim+ThmPos+2+Pl+Loc: gimiskweyaabi1ensmwaang
+    2+mskweyaap+NI+Dim+ThmPos+2+Pl+Pl: gimiskweyaabi1ensmwaaan
+    3+mskweyaap+NI+Con+ThmPos+2+Pl+4: omiskweyaabi1enymwaan
+    3+mskweyaap+NI+Con+ThmPos+2+Pl+Loc: omiskweyaabi1enymwaang
+    3+mskweyaap+NI+Con+ThmPos+2+Pl+Pl: omiskweyaabi1enymwaaan
+    3+mskweyaap+NI+Con+ThmPos+3+4+4: omiskweyaabi1enymniwan
+    3+mskweyaap+NI+Con+ThmPos+3+4+Loc: omiskweyaabi1enymniing
+    3+mskweyaap+NI+Con+ThmPos+3+4+Pl: omiskweyaabi1enymniwan
+    3+mskweyaap+NI+Dim+ThmPos+2+Pl+4: omiskweyaabi1ensmwaan
+    3+mskweyaap+NI+Dim+ThmPos+2+Pl+Loc: omiskweyaabi1ensmwaang
+    3+mskweyaap+NI+Dim+ThmPos+2+Pl+Pl: omiskweyaabi1ensmwaaan
+    3+mskweyaap+NI+Dim+ThmPos+3+4+4: omiskweyaabi1ensmniwan
+    3+mskweyaap+NI+Dim+ThmPos+3+4+Loc: omiskweyaabi1ensmniing
+    3+mskweyaap+NI+Dim+ThmPos+3+4+Pl: omiskweyaabi1ensmniwan
+    1+mskweyaap+NI+Con+ThmPos+Prt+4: nimiskweyaabi1enymibaniin
+    1+mskweyaap+NI+Con+ThmPos+Prt+Loc: nimiskweyaabi1enymibaniing
+    1+mskweyaap+NI+Con+ThmPos+Prt+Pl: nimiskweyaabi1enymibani1an
+    1+mskweyaap+NI+Dim+ThmPos+Prt+4: nimiskweyaabi1ensmibaniin
+    1+mskweyaap+NI+Dim+ThmPos+Prt+Loc: nimiskweyaabi1ensmibaniing
+    1+mskweyaap+NI+Dim+ThmPos+Prt+Pl: nimiskweyaabi1ensmibani1an
+    2+mskweyaap+NI+Con+ThmPos+Prt+4: gimiskweyaabi1enymibaniin
+    2+mskweyaap+NI+Con+ThmPos+Prt+Loc: gimiskweyaabi1enymibaniing
+    2+mskweyaap+NI+Con+ThmPos+Prt+Pl: gimiskweyaabi1enymibani1an
+    2+mskweyaap+NI+Dim+ThmPos+Prt+4: gimiskweyaabi1ensmibaniin
+    2+mskweyaap+NI+Dim+ThmPos+Prt+Loc: gimiskweyaabi1ensmibaniing
+    2+mskweyaap+NI+Dim+ThmPos+Prt+Pl: gimiskweyaabi1ensmibani1an
+    3+mskweyaap+NI+Con+ThmPos+Prt+4: omiskweyaabi1enymibaniin
+    3+mskweyaap+NI+Con+ThmPos+Prt+Loc: omiskweyaabi1enymibaniing
+    3+mskweyaap+NI+Con+ThmPos+Prt+Pl: omiskweyaabi1enymibani1an
+    3+mskweyaap+NI+Dim+ThmPos+Prt+4: omiskweyaabi1ensmibaniin
+    3+mskweyaap+NI+Dim+ThmPos+Prt+Loc: omiskweyaabi1ensmibaniing
+    3+mskweyaap+NI+Dim+ThmPos+Prt+Pl: omiskweyaabi1ensmibani1an
+    X+mskweyaap+NI+Con+ThmPos+Prt+4: imiskweyaabi1enymibaniin
+    X+mskweyaap+NI+Con+ThmPos+Prt+Loc: imiskweyaabi1enymibaniing
+    X+mskweyaap+NI+Con+ThmPos+Prt+Pl: imiskweyaabi1enymibani1an
+    X+mskweyaap+NI+Dim+ThmPos+Prt+4: imiskweyaabi1ensmibaniin
+    X+mskweyaap+NI+Dim+ThmPos+Prt+Loc: imiskweyaabi1ensmibaniing
+    X+mskweyaap+NI+Dim+ThmPos+Prt+Pl: imiskweyaabi1ensmibani1an
+    1+mskweyaap+NI+Con+Pej+1+Pl+Prt: [ nimiskweyaabi1enyishnaaniban, nimiskweyaabi1enyishnaaniba ]
+    1+mskweyaap+NI+Con+Pej+1+Pl+Voc+Pl: nimiskweyaabi1enyishnaany1dig
+    1+mskweyaap+NI+Dim+Pej+1+Pl+Prt: [ nimiskweyaabi1ensishnaaniban, nimiskweyaabi1ensishnaaniba ]
+    1+mskweyaap+NI+Dim+Pej+1+Pl+Voc+Pl: nimiskweyaabi1ensishnaany1dig
+    2+mskweyaap+NI+Con+Pej+1+Pl+Prt: [ gimiskweyaabi1enyishnaaniban, gimiskweyaabi1enyishnaaniba ]
+    2+mskweyaap+NI+Con+Pej+1+Pl+Voc+Pl: gimiskweyaabi1enyishnaany1dig
+    2+mskweyaap+NI+Con+Pej+2+Pl+Prt: [ gimiskweyaabi1enyishwaaban, gimiskweyaabi1enyishwaaba ]
+    2+mskweyaap+NI+Con+Pej+2+Pl+Voc+Pl: gimiskweyaabi1enyishwaadig
+    2+mskweyaap+NI+Dim+Pej+1+Pl+Prt: [ gimiskweyaabi1ensishnaaniban, gimiskweyaabi1ensishnaaniba ]
+    2+mskweyaap+NI+Dim+Pej+1+Pl+Voc+Pl: gimiskweyaabi1ensishnaany1dig
+    2+mskweyaap+NI+Dim+Pej+2+Pl+Prt: [ gimiskweyaabi1ensishwaaban, gimiskweyaabi1ensishwaaba ]
+    2+mskweyaap+NI+Dim+Pej+2+Pl+Voc+Pl: gimiskweyaabi1ensishwaadig
+    3+mskweyaap+NI+Con+Pej+2+Pl+Prt: [ omiskweyaabi1enyishwaaban, omiskweyaabi1enyishwaaba ]
+    3+mskweyaap+NI+Con+Pej+2+Pl+Voc+Pl: omiskweyaabi1enyishwaadig
+    3+mskweyaap+NI+Con+Pej+3+4+Prt: [ omiskweyaabi1enyishniwiban, omiskweyaabi1enyishniwiba, omiskweyaabi1enyishniiban, omiskweyaabi1enyishniiba ]
+    3+mskweyaap+NI+Con+Pej+3+4+Voc+Pl: omiskweyaabi1enyishniwdig
+    3+mskweyaap+NI+Dim+Pej+2+Pl+Prt: [ omiskweyaabi1ensishwaaban, omiskweyaabi1ensishwaaba ]
+    3+mskweyaap+NI+Dim+Pej+2+Pl+Voc+Pl: omiskweyaabi1ensishwaadig
+    3+mskweyaap+NI+Dim+Pej+3+4+Prt: [ omiskweyaabi1ensishniwiban, omiskweyaabi1ensishniwiba, omiskweyaabi1ensishniiban, omiskweyaabi1ensishniiba ]
+    3+mskweyaap+NI+Dim+Pej+3+4+Voc+Pl: omiskweyaabi1ensishniwdig
+    1+mskweyaap+NI+Con+Pej+1+Pl+4: nimiskweyaabi1enyishnaanin
+    1+mskweyaap+NI+Con+Pej+1+Pl+Loc: nimiskweyaabi1enyishnaaning
+    1+mskweyaap+NI+Con+Pej+1+Pl+Pl: nimiskweyaabi1enyishnaany1an
+    1+mskweyaap+NI+Dim+Pej+1+Pl+4: nimiskweyaabi1ensishnaanin
+    1+mskweyaap+NI+Dim+Pej+1+Pl+Loc: nimiskweyaabi1ensishnaaning
+    1+mskweyaap+NI+Dim+Pej+1+Pl+Pl: nimiskweyaabi1ensishnaany1an
+    2+mskweyaap+NI+Con+Pej+1+Pl+4: gimiskweyaabi1enyishnaanin
+    2+mskweyaap+NI+Con+Pej+1+Pl+Loc: gimiskweyaabi1enyishnaaning
+    2+mskweyaap+NI+Con+Pej+1+Pl+Pl: gimiskweyaabi1enyishnaany1an
+    2+mskweyaap+NI+Con+Pej+2+Pl+4: gimiskweyaabi1enyishwaan
+    2+mskweyaap+NI+Con+Pej+2+Pl+Loc: gimiskweyaabi1enyishwaang
+    2+mskweyaap+NI+Con+Pej+2+Pl+Pl: gimiskweyaabi1enyishwaaan
+    2+mskweyaap+NI+Dim+Pej+1+Pl+4: gimiskweyaabi1ensishnaanin
+    2+mskweyaap+NI+Dim+Pej+1+Pl+Loc: gimiskweyaabi1ensishnaaning
+    2+mskweyaap+NI+Dim+Pej+1+Pl+Pl: gimiskweyaabi1ensishnaany1an
+    2+mskweyaap+NI+Dim+Pej+2+Pl+4: gimiskweyaabi1ensishwaan
+    2+mskweyaap+NI+Dim+Pej+2+Pl+Loc: gimiskweyaabi1ensishwaang
+    2+mskweyaap+NI+Dim+Pej+2+Pl+Pl: gimiskweyaabi1ensishwaaan
+    3+mskweyaap+NI+Con+Pej+2+Pl+4: omiskweyaabi1enyishwaan
+    3+mskweyaap+NI+Con+Pej+2+Pl+Loc: omiskweyaabi1enyishwaang
+    3+mskweyaap+NI+Con+Pej+2+Pl+Pl: omiskweyaabi1enyishwaaan
+    3+mskweyaap+NI+Con+Pej+3+4+4: omiskweyaabi1enyishniwan
+    3+mskweyaap+NI+Con+Pej+3+4+Loc: omiskweyaabi1enyishniing
+    3+mskweyaap+NI+Con+Pej+3+4+Pl: omiskweyaabi1enyishniwan
+    3+mskweyaap+NI+Dim+Pej+2+Pl+4: omiskweyaabi1ensishwaan
+    3+mskweyaap+NI+Dim+Pej+2+Pl+Loc: omiskweyaabi1ensishwaang
+    3+mskweyaap+NI+Dim+Pej+2+Pl+Pl: omiskweyaabi1ensishwaaan
+    3+mskweyaap+NI+Dim+Pej+3+4+4: omiskweyaabi1ensishniwan
+    3+mskweyaap+NI+Dim+Pej+3+4+Loc: omiskweyaabi1ensishniing
+    3+mskweyaap+NI+Dim+Pej+3+4+Pl: omiskweyaabi1ensishniwan
+    1+mskweyaap+NI+Con+Pej+Prt+4: nimiskweyaabi1enyishibaniin
+    1+mskweyaap+NI+Con+Pej+Prt+Loc: nimiskweyaabi1enyishibaniing
+    1+mskweyaap+NI+Con+Pej+Prt+Pl: nimiskweyaabi1enyishibani1an
+    1+mskweyaap+NI+Dim+Pej+Prt+4: nimiskweyaabi1ensishibaniin
+    1+mskweyaap+NI+Dim+Pej+Prt+Loc: nimiskweyaabi1ensishibaniing
+    1+mskweyaap+NI+Dim+Pej+Prt+Pl: nimiskweyaabi1ensishibani1an
+    2+mskweyaap+NI+Con+Pej+Prt+4: gimiskweyaabi1enyishibaniin
+    2+mskweyaap+NI+Con+Pej+Prt+Loc: gimiskweyaabi1enyishibaniing
+    2+mskweyaap+NI+Con+Pej+Prt+Pl: gimiskweyaabi1enyishibani1an
+    2+mskweyaap+NI+Dim+Pej+Prt+4: gimiskweyaabi1ensishibaniin
+    2+mskweyaap+NI+Dim+Pej+Prt+Loc: gimiskweyaabi1ensishibaniing
+    2+mskweyaap+NI+Dim+Pej+Prt+Pl: gimiskweyaabi1ensishibani1an
+    3+mskweyaap+NI+Con+Pej+Prt+4: omiskweyaabi1enyishibaniin
+    3+mskweyaap+NI+Con+Pej+Prt+Loc: omiskweyaabi1enyishibaniing
+    3+mskweyaap+NI+Con+Pej+Prt+Pl: omiskweyaabi1enyishibani1an
+    3+mskweyaap+NI+Dim+Pej+Prt+4: omiskweyaabi1ensishibaniin
+    3+mskweyaap+NI+Dim+Pej+Prt+Loc: omiskweyaabi1ensishibaniing
+    3+mskweyaap+NI+Dim+Pej+Prt+Pl: omiskweyaabi1ensishibani1an
+    X+mskweyaap+NI+Con+Pej+Prt+4: imiskweyaabi1enyishibaniin
+    X+mskweyaap+NI+Con+Pej+Prt+Loc: imiskweyaabi1enyishibaniing
+    X+mskweyaap+NI+Con+Pej+Prt+Pl: imiskweyaabi1enyishibani1an
+    X+mskweyaap+NI+Dim+Pej+Prt+4: imiskweyaabi1ensishibaniin
+    X+mskweyaap+NI+Dim+Pej+Prt+Loc: imiskweyaabi1ensishibaniing
+    X+mskweyaap+NI+Dim+Pej+Prt+Pl: imiskweyaabi1ensishibani1an
+    1+mskweyaap+NI+Con+1+Pl+Prt+4: nimiskweyaabi1enynaanibaniin
+    1+mskweyaap+NI+Con+1+Pl+Prt+Loc: nimiskweyaabi1enynaanibaniing
+    1+mskweyaap+NI+Con+1+Pl+Prt+Pl: nimiskweyaabi1enynaanibani1an
+    1+mskweyaap+NI+Dim+1+Pl+Prt+4: nimiskweyaabi1ensnaanibaniin
+    1+mskweyaap+NI+Dim+1+Pl+Prt+Loc: nimiskweyaabi1ensnaanibaniing
+    1+mskweyaap+NI+Dim+1+Pl+Prt+Pl: nimiskweyaabi1ensnaanibani1an
+    2+mskweyaap+NI+Con+1+Pl+Prt+4: gimiskweyaabi1enynaanibaniin
+    2+mskweyaap+NI+Con+1+Pl+Prt+Loc: gimiskweyaabi1enynaanibaniing
+    2+mskweyaap+NI+Con+1+Pl+Prt+Pl: gimiskweyaabi1enynaanibani1an
+    2+mskweyaap+NI+Con+2+Pl+Prt+4: gimiskweyaabi1enywaabaniin
+    2+mskweyaap+NI+Con+2+Pl+Prt+Loc: gimiskweyaabi1enywaabaniing
+    2+mskweyaap+NI+Con+2+Pl+Prt+Pl: gimiskweyaabi1enywaabani1an
+    2+mskweyaap+NI+Dim+1+Pl+Prt+4: gimiskweyaabi1ensnaanibaniin
+    2+mskweyaap+NI+Dim+1+Pl+Prt+Loc: gimiskweyaabi1ensnaanibaniing
+    2+mskweyaap+NI+Dim+1+Pl+Prt+Pl: gimiskweyaabi1ensnaanibani1an
+    2+mskweyaap+NI+Dim+2+Pl+Prt+4: gimiskweyaabi1enswaabaniin
+    2+mskweyaap+NI+Dim+2+Pl+Prt+Loc: gimiskweyaabi1enswaabaniing
+    2+mskweyaap+NI+Dim+2+Pl+Prt+Pl: gimiskweyaabi1enswaabani1an
+    3+mskweyaap+NI+Con+2+Pl+Prt+4: omiskweyaabi1enywaabaniin
+    3+mskweyaap+NI+Con+2+Pl+Prt+Loc: omiskweyaabi1enywaabaniing
+    3+mskweyaap+NI+Con+2+Pl+Prt+Pl: omiskweyaabi1enywaabani1an
+    3+mskweyaap+NI+Con+3+4+Prt+4: [ omiskweyaabi1enyniwibaniin, omiskweyaabi1enyniibaniin ]
+    3+mskweyaap+NI+Con+3+4+Prt+Loc: [ omiskweyaabi1enyniwibaniing, omiskweyaabi1enyniibaniing ]
+    3+mskweyaap+NI+Con+3+4+Prt+Pl: [ omiskweyaabi1enyniwibani1an, omiskweyaabi1enyniibani1an ]
+    3+mskweyaap+NI+Dim+2+Pl+Prt+4: omiskweyaabi1enswaabaniin
+    3+mskweyaap+NI+Dim+2+Pl+Prt+Loc: omiskweyaabi1enswaabaniing
+    3+mskweyaap+NI+Dim+2+Pl+Prt+Pl: omiskweyaabi1enswaabani1an
+    3+mskweyaap+NI+Dim+3+4+Prt+4: [ omiskweyaabi1ensniwibaniin, omiskweyaabi1ensniibaniin ]
+    3+mskweyaap+NI+Dim+3+4+Prt+Loc: [ omiskweyaabi1ensniwibaniing, omiskweyaabi1ensniibaniing ]
+    3+mskweyaap+NI+Dim+3+4+Prt+Pl: [ omiskweyaabi1ensniwibani1an, omiskweyaabi1ensniibani1an ]
+    1+mskweyaap+NI+ThmPos+Pej+1+Pl+Prt: [ nimiskweyaabi1mishnaaniban, nimiskweyaabi1mishnaaniba ]
+    1+mskweyaap+NI+ThmPos+Pej+1+Pl+Voc+Pl: nimiskweyaabi1mishnaany1dig
+    2+mskweyaap+NI+ThmPos+Pej+1+Pl+Prt: [ gimiskweyaabi1mishnaaniban, gimiskweyaabi1mishnaaniba ]
+    2+mskweyaap+NI+ThmPos+Pej+1+Pl+Voc+Pl: gimiskweyaabi1mishnaany1dig
+    2+mskweyaap+NI+ThmPos+Pej+2+Pl+Prt: [ gimiskweyaabi1mishwaaban, gimiskweyaabi1mishwaaba ]
+    2+mskweyaap+NI+ThmPos+Pej+2+Pl+Voc+Pl: gimiskweyaabi1mishwaadig
+    3+mskweyaap+NI+ThmPos+Pej+2+Pl+Prt: [ omiskweyaabi1mishwaaban, omiskweyaabi1mishwaaba ]
+    3+mskweyaap+NI+ThmPos+Pej+2+Pl+Voc+Pl: omiskweyaabi1mishwaadig
+    3+mskweyaap+NI+ThmPos+Pej+3+4+Prt: [ omiskweyaabi1mishniwiban, omiskweyaabi1mishniwiba, omiskweyaabi1mishniiban, omiskweyaabi1mishniiba ]
+    3+mskweyaap+NI+ThmPos+Pej+3+4+Voc+Pl: omiskweyaabi1mishniwdig
+    1+mskweyaap+NI+ThmPos+Pej+1+Pl+4: nimiskweyaabi1mishnaanin
+    1+mskweyaap+NI+ThmPos+Pej+1+Pl+Loc: nimiskweyaabi1mishnaaning
+    1+mskweyaap+NI+ThmPos+Pej+1+Pl+Pl: nimiskweyaabi1mishnaany1an
+    2+mskweyaap+NI+ThmPos+Pej+1+Pl+4: gimiskweyaabi1mishnaanin
+    2+mskweyaap+NI+ThmPos+Pej+1+Pl+Loc: gimiskweyaabi1mishnaaning
+    2+mskweyaap+NI+ThmPos+Pej+1+Pl+Pl: gimiskweyaabi1mishnaany1an
+    2+mskweyaap+NI+ThmPos+Pej+2+Pl+4: gimiskweyaabi1mishwaan
+    2+mskweyaap+NI+ThmPos+Pej+2+Pl+Loc: gimiskweyaabi1mishwaang
+    2+mskweyaap+NI+ThmPos+Pej+2+Pl+Pl: gimiskweyaabi1mishwaaan
+    3+mskweyaap+NI+ThmPos+Pej+2+Pl+4: omiskweyaabi1mishwaan
+    3+mskweyaap+NI+ThmPos+Pej+2+Pl+Loc: omiskweyaabi1mishwaang
+    3+mskweyaap+NI+ThmPos+Pej+2+Pl+Pl: omiskweyaabi1mishwaaan
+    3+mskweyaap+NI+ThmPos+Pej+3+4+4: omiskweyaabi1mishniwan
+    3+mskweyaap+NI+ThmPos+Pej+3+4+Loc: omiskweyaabi1mishniing
+    3+mskweyaap+NI+ThmPos+Pej+3+4+Pl: omiskweyaabi1mishniwan
+    1+mskweyaap+NI+ThmPos+Pej+Prt+4: nimiskweyaabi1mishibaniin
+    1+mskweyaap+NI+ThmPos+Pej+Prt+Loc: nimiskweyaabi1mishibaniing
+    1+mskweyaap+NI+ThmPos+Pej+Prt+Pl: nimiskweyaabi1mishibani1an
+    2+mskweyaap+NI+ThmPos+Pej+Prt+4: gimiskweyaabi1mishibaniin
+    2+mskweyaap+NI+ThmPos+Pej+Prt+Loc: gimiskweyaabi1mishibaniing
+    2+mskweyaap+NI+ThmPos+Pej+Prt+Pl: gimiskweyaabi1mishibani1an
+    3+mskweyaap+NI+ThmPos+Pej+Prt+4: omiskweyaabi1mishibaniin
+    3+mskweyaap+NI+ThmPos+Pej+Prt+Loc: omiskweyaabi1mishibaniing
+    3+mskweyaap+NI+ThmPos+Pej+Prt+Pl: omiskweyaabi1mishibani1an
+    X+mskweyaap+NI+ThmPos+Pej+Prt+4: imiskweyaabi1mishibaniin
+    X+mskweyaap+NI+ThmPos+Pej+Prt+Loc: imiskweyaabi1mishibaniing
+    X+mskweyaap+NI+ThmPos+Pej+Prt+Pl: imiskweyaabi1mishibani1an
+    1+mskweyaap+NI+ThmPos+1+Pl+Prt+4: nimiskweyaabi1mnaanibaniin
+    1+mskweyaap+NI+ThmPos+1+Pl+Prt+Loc: nimiskweyaabi1mnaanibaniing
+    1+mskweyaap+NI+ThmPos+1+Pl+Prt+Pl: nimiskweyaabi1mnaanibani1an
+    2+mskweyaap+NI+ThmPos+1+Pl+Prt+4: gimiskweyaabi1mnaanibaniin
+    2+mskweyaap+NI+ThmPos+1+Pl+Prt+Loc: gimiskweyaabi1mnaanibaniing
+    2+mskweyaap+NI+ThmPos+1+Pl+Prt+Pl: gimiskweyaabi1mnaanibani1an
+    2+mskweyaap+NI+ThmPos+2+Pl+Prt+4: gimiskweyaabi1mwaabaniin
+    2+mskweyaap+NI+ThmPos+2+Pl+Prt+Loc: gimiskweyaabi1mwaabaniing
+    2+mskweyaap+NI+ThmPos+2+Pl+Prt+Pl: gimiskweyaabi1mwaabani1an
+    3+mskweyaap+NI+ThmPos+2+Pl+Prt+4: omiskweyaabi1mwaabaniin
+    3+mskweyaap+NI+ThmPos+2+Pl+Prt+Loc: omiskweyaabi1mwaabaniing
+    3+mskweyaap+NI+ThmPos+2+Pl+Prt+Pl: omiskweyaabi1mwaabani1an
+    3+mskweyaap+NI+ThmPos+3+4+Prt+4: [ omiskweyaabi1mniwibaniin, omiskweyaabi1mniibaniin ]
+    3+mskweyaap+NI+ThmPos+3+4+Prt+Loc: [ omiskweyaabi1mniwibaniing, omiskweyaabi1mniibaniing ]
+    3+mskweyaap+NI+ThmPos+3+4+Prt+Pl: [ omiskweyaabi1mniwibani1an, omiskweyaabi1mniibani1an ]
+    1+mskweyaap+NI+Pej+1+Pl+Prt+4: nimiskweyaabi1shnaanibaniin
+    1+mskweyaap+NI+Pej+1+Pl+Prt+Loc: nimiskweyaabi1shnaanibaniing
+    1+mskweyaap+NI+Pej+1+Pl+Prt+Pl: nimiskweyaabi1shnaanibani1an
+    2+mskweyaap+NI+Pej+1+Pl+Prt+4: gimiskweyaabi1shnaanibaniin
+    2+mskweyaap+NI+Pej+1+Pl+Prt+Loc: gimiskweyaabi1shnaanibaniing
+    2+mskweyaap+NI+Pej+1+Pl+Prt+Pl: gimiskweyaabi1shnaanibani1an
+    2+mskweyaap+NI+Pej+2+Pl+Prt+4: gimiskweyaabi1shwaabaniin
+    2+mskweyaap+NI+Pej+2+Pl+Prt+Loc: gimiskweyaabi1shwaabaniing
+    2+mskweyaap+NI+Pej+2+Pl+Prt+Pl: gimiskweyaabi1shwaabani1an
+    3+mskweyaap+NI+Pej+2+Pl+Prt+4: omiskweyaabi1shwaabaniin
+    3+mskweyaap+NI+Pej+2+Pl+Prt+Loc: omiskweyaabi1shwaabaniing
+    3+mskweyaap+NI+Pej+2+Pl+Prt+Pl: omiskweyaabi1shwaabani1an
+    3+mskweyaap+NI+Pej+3+4+Prt+4: [ omiskweyaabi1shniwibaniin, omiskweyaabi1shniibaniin ]
+    3+mskweyaap+NI+Pej+3+4+Prt+Loc: [ omiskweyaabi1shniwibaniing, omiskweyaabi1shniibaniing ]
+    3+mskweyaap+NI+Pej+3+4+Prt+Pl: [ omiskweyaabi1shniwibani1an, omiskweyaabi1shniibani1an ]
+    1+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Prt: [ nimiskweyaabi1enymishnaaniban, nimiskweyaabi1enymishnaaniba ]
+    1+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Voc+Pl: nimiskweyaabi1enymishnaany1dig
+    1+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Prt: [ nimiskweyaabi1ensmishnaaniban, nimiskweyaabi1ensmishnaaniba ]
+    1+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Voc+Pl: nimiskweyaabi1ensmishnaany1dig
+    2+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Prt: [ gimiskweyaabi1enymishnaaniban, gimiskweyaabi1enymishnaaniba ]
+    2+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Voc+Pl: gimiskweyaabi1enymishnaany1dig
+    2+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Prt: [ gimiskweyaabi1enymishwaaban, gimiskweyaabi1enymishwaaba ]
+    2+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Voc+Pl: gimiskweyaabi1enymishwaadig
+    2+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Prt: [ gimiskweyaabi1ensmishnaaniban, gimiskweyaabi1ensmishnaaniba ]
+    2+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Voc+Pl: gimiskweyaabi1ensmishnaany1dig
+    2+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Prt: [ gimiskweyaabi1ensmishwaaban, gimiskweyaabi1ensmishwaaba ]
+    2+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Voc+Pl: gimiskweyaabi1ensmishwaadig
+    3+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Prt: [ omiskweyaabi1enymishwaaban, omiskweyaabi1enymishwaaba ]
+    3+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Voc+Pl: omiskweyaabi1enymishwaadig
+    3+mskweyaap+NI+Con+ThmPos+Pej+3+4+Prt: [ omiskweyaabi1enymishniwiban, omiskweyaabi1enymishniwiba, omiskweyaabi1enymishniiban, omiskweyaabi1enymishniiba ]
+    3+mskweyaap+NI+Con+ThmPos+Pej+3+4+Voc+Pl: omiskweyaabi1enymishniwdig
+    3+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Prt: [ omiskweyaabi1ensmishwaaban, omiskweyaabi1ensmishwaaba ]
+    3+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Voc+Pl: omiskweyaabi1ensmishwaadig
+    3+mskweyaap+NI+Dim+ThmPos+Pej+3+4+Prt: [ omiskweyaabi1ensmishniwiban, omiskweyaabi1ensmishniwiba, omiskweyaabi1ensmishniiban, omiskweyaabi1ensmishniiba ]
+    3+mskweyaap+NI+Dim+ThmPos+Pej+3+4+Voc+Pl: omiskweyaabi1ensmishniwdig
+    1+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+4: nimiskweyaabi1enymishnaanin
+    1+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Loc: nimiskweyaabi1enymishnaaning
+    1+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Pl: nimiskweyaabi1enymishnaany1an
+    1+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+4: nimiskweyaabi1ensmishnaanin
+    1+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Loc: nimiskweyaabi1ensmishnaaning
+    1+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Pl: nimiskweyaabi1ensmishnaany1an
+    2+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+4: gimiskweyaabi1enymishnaanin
+    2+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Loc: gimiskweyaabi1enymishnaaning
+    2+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Pl: gimiskweyaabi1enymishnaany1an
+    2+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+4: gimiskweyaabi1enymishwaan
+    2+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Loc: gimiskweyaabi1enymishwaang
+    2+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Pl: gimiskweyaabi1enymishwaaan
+    2+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+4: gimiskweyaabi1ensmishnaanin
+    2+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Loc: gimiskweyaabi1ensmishnaaning
+    2+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Pl: gimiskweyaabi1ensmishnaany1an
+    2+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+4: gimiskweyaabi1ensmishwaan
+    2+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Loc: gimiskweyaabi1ensmishwaang
+    2+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Pl: gimiskweyaabi1ensmishwaaan
+    3+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+4: omiskweyaabi1enymishwaan
+    3+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Loc: omiskweyaabi1enymishwaang
+    3+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Pl: omiskweyaabi1enymishwaaan
+    3+mskweyaap+NI+Con+ThmPos+Pej+3+4+4: omiskweyaabi1enymishniwan
+    3+mskweyaap+NI+Con+ThmPos+Pej+3+4+Loc: omiskweyaabi1enymishniing
+    3+mskweyaap+NI+Con+ThmPos+Pej+3+4+Pl: omiskweyaabi1enymishniwan
+    3+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+4: omiskweyaabi1ensmishwaan
+    3+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Loc: omiskweyaabi1ensmishwaang
+    3+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Pl: omiskweyaabi1ensmishwaaan
+    3+mskweyaap+NI+Dim+ThmPos+Pej+3+4+4: omiskweyaabi1ensmishniwan
+    3+mskweyaap+NI+Dim+ThmPos+Pej+3+4+Loc: omiskweyaabi1ensmishniing
+    3+mskweyaap+NI+Dim+ThmPos+Pej+3+4+Pl: omiskweyaabi1ensmishniwan
+    1+mskweyaap+NI+Con+ThmPos+Pej+Prt+4: nimiskweyaabi1enymishibaniin
+    1+mskweyaap+NI+Con+ThmPos+Pej+Prt+Loc: nimiskweyaabi1enymishibaniing
+    1+mskweyaap+NI+Con+ThmPos+Pej+Prt+Pl: nimiskweyaabi1enymishibani1an
+    1+mskweyaap+NI+Dim+ThmPos+Pej+Prt+4: nimiskweyaabi1ensmishibaniin
+    1+mskweyaap+NI+Dim+ThmPos+Pej+Prt+Loc: nimiskweyaabi1ensmishibaniing
+    1+mskweyaap+NI+Dim+ThmPos+Pej+Prt+Pl: nimiskweyaabi1ensmishibani1an
+    2+mskweyaap+NI+Con+ThmPos+Pej+Prt+4: gimiskweyaabi1enymishibaniin
+    2+mskweyaap+NI+Con+ThmPos+Pej+Prt+Loc: gimiskweyaabi1enymishibaniing
+    2+mskweyaap+NI+Con+ThmPos+Pej+Prt+Pl: gimiskweyaabi1enymishibani1an
+    2+mskweyaap+NI+Dim+ThmPos+Pej+Prt+4: gimiskweyaabi1ensmishibaniin
+    2+mskweyaap+NI+Dim+ThmPos+Pej+Prt+Loc: gimiskweyaabi1ensmishibaniing
+    2+mskweyaap+NI+Dim+ThmPos+Pej+Prt+Pl: gimiskweyaabi1ensmishibani1an
+    3+mskweyaap+NI+Con+ThmPos+Pej+Prt+4: omiskweyaabi1enymishibaniin
+    3+mskweyaap+NI+Con+ThmPos+Pej+Prt+Loc: omiskweyaabi1enymishibaniing
+    3+mskweyaap+NI+Con+ThmPos+Pej+Prt+Pl: omiskweyaabi1enymishibani1an
+    3+mskweyaap+NI+Dim+ThmPos+Pej+Prt+4: omiskweyaabi1ensmishibaniin
+    3+mskweyaap+NI+Dim+ThmPos+Pej+Prt+Loc: omiskweyaabi1ensmishibaniing
+    3+mskweyaap+NI+Dim+ThmPos+Pej+Prt+Pl: omiskweyaabi1ensmishibani1an
+    X+mskweyaap+NI+Con+ThmPos+Pej+Prt+4: imiskweyaabi1enymishibaniin
+    X+mskweyaap+NI+Con+ThmPos+Pej+Prt+Loc: imiskweyaabi1enymishibaniing
+    X+mskweyaap+NI+Con+ThmPos+Pej+Prt+Pl: imiskweyaabi1enymishibani1an
+    X+mskweyaap+NI+Dim+ThmPos+Pej+Prt+4: imiskweyaabi1ensmishibaniin
+    X+mskweyaap+NI+Dim+ThmPos+Pej+Prt+Loc: imiskweyaabi1ensmishibaniing
+    X+mskweyaap+NI+Dim+ThmPos+Pej+Prt+Pl: imiskweyaabi1ensmishibani1an
+    1+mskweyaap+NI+Con+ThmPos+1+Pl+Prt+4: nimiskweyaabi1enymnaanibaniin
+    1+mskweyaap+NI+Con+ThmPos+1+Pl+Prt+Loc: nimiskweyaabi1enymnaanibaniing
+    1+mskweyaap+NI+Con+ThmPos+1+Pl+Prt+Pl: nimiskweyaabi1enymnaanibani1an
+    1+mskweyaap+NI+Dim+ThmPos+1+Pl+Prt+4: nimiskweyaabi1ensmnaanibaniin
+    1+mskweyaap+NI+Dim+ThmPos+1+Pl+Prt+Loc: nimiskweyaabi1ensmnaanibaniing
+    1+mskweyaap+NI+Dim+ThmPos+1+Pl+Prt+Pl: nimiskweyaabi1ensmnaanibani1an
+    2+mskweyaap+NI+Con+ThmPos+1+Pl+Prt+4: gimiskweyaabi1enymnaanibaniin
+    2+mskweyaap+NI+Con+ThmPos+1+Pl+Prt+Loc: gimiskweyaabi1enymnaanibaniing
+    2+mskweyaap+NI+Con+ThmPos+1+Pl+Prt+Pl: gimiskweyaabi1enymnaanibani1an
+    2+mskweyaap+NI+Con+ThmPos+2+Pl+Prt+4: gimiskweyaabi1enymwaabaniin
+    2+mskweyaap+NI+Con+ThmPos+2+Pl+Prt+Loc: gimiskweyaabi1enymwaabaniing
+    2+mskweyaap+NI+Con+ThmPos+2+Pl+Prt+Pl: gimiskweyaabi1enymwaabani1an
+    2+mskweyaap+NI+Dim+ThmPos+1+Pl+Prt+4: gimiskweyaabi1ensmnaanibaniin
+    2+mskweyaap+NI+Dim+ThmPos+1+Pl+Prt+Loc: gimiskweyaabi1ensmnaanibaniing
+    2+mskweyaap+NI+Dim+ThmPos+1+Pl+Prt+Pl: gimiskweyaabi1ensmnaanibani1an
+    2+mskweyaap+NI+Dim+ThmPos+2+Pl+Prt+4: gimiskweyaabi1ensmwaabaniin
+    2+mskweyaap+NI+Dim+ThmPos+2+Pl+Prt+Loc: gimiskweyaabi1ensmwaabaniing
+    2+mskweyaap+NI+Dim+ThmPos+2+Pl+Prt+Pl: gimiskweyaabi1ensmwaabani1an
+    3+mskweyaap+NI+Con+ThmPos+2+Pl+Prt+4: omiskweyaabi1enymwaabaniin
+    3+mskweyaap+NI+Con+ThmPos+2+Pl+Prt+Loc: omiskweyaabi1enymwaabaniing
+    3+mskweyaap+NI+Con+ThmPos+2+Pl+Prt+Pl: omiskweyaabi1enymwaabani1an
+    3+mskweyaap+NI+Con+ThmPos+3+4+Prt+4: [ omiskweyaabi1enymniwibaniin, omiskweyaabi1enymniibaniin ]
+    3+mskweyaap+NI+Con+ThmPos+3+4+Prt+Loc: [ omiskweyaabi1enymniwibaniing, omiskweyaabi1enymniibaniing ]
+    3+mskweyaap+NI+Con+ThmPos+3+4+Prt+Pl: [ omiskweyaabi1enymniwibani1an, omiskweyaabi1enymniibani1an ]
+    3+mskweyaap+NI+Dim+ThmPos+2+Pl+Prt+4: omiskweyaabi1ensmwaabaniin
+    3+mskweyaap+NI+Dim+ThmPos+2+Pl+Prt+Loc: omiskweyaabi1ensmwaabaniing
+    3+mskweyaap+NI+Dim+ThmPos+2+Pl+Prt+Pl: omiskweyaabi1ensmwaabani1an
+    3+mskweyaap+NI+Dim+ThmPos+3+4+Prt+4: [ omiskweyaabi1ensmniwibaniin, omiskweyaabi1ensmniibaniin ]
+    3+mskweyaap+NI+Dim+ThmPos+3+4+Prt+Loc: [ omiskweyaabi1ensmniwibaniing, omiskweyaabi1ensmniibaniing ]
+    3+mskweyaap+NI+Dim+ThmPos+3+4+Prt+Pl: [ omiskweyaabi1ensmniwibani1an, omiskweyaabi1ensmniibani1an ]
+    1+mskweyaap+NI+Con+Pej+1+Pl+Prt+4: nimiskweyaabi1enyishnaanibaniin
+    1+mskweyaap+NI+Con+Pej+1+Pl+Prt+Loc: nimiskweyaabi1enyishnaanibaniing
+    1+mskweyaap+NI+Con+Pej+1+Pl+Prt+Pl: nimiskweyaabi1enyishnaanibani1an
+    1+mskweyaap+NI+Dim+Pej+1+Pl+Prt+4: nimiskweyaabi1ensishnaanibaniin
+    1+mskweyaap+NI+Dim+Pej+1+Pl+Prt+Loc: nimiskweyaabi1ensishnaanibaniing
+    1+mskweyaap+NI+Dim+Pej+1+Pl+Prt+Pl: nimiskweyaabi1ensishnaanibani1an
+    2+mskweyaap+NI+Con+Pej+1+Pl+Prt+4: gimiskweyaabi1enyishnaanibaniin
+    2+mskweyaap+NI+Con+Pej+1+Pl+Prt+Loc: gimiskweyaabi1enyishnaanibaniing
+    2+mskweyaap+NI+Con+Pej+1+Pl+Prt+Pl: gimiskweyaabi1enyishnaanibani1an
+    2+mskweyaap+NI+Con+Pej+2+Pl+Prt+4: gimiskweyaabi1enyishwaabaniin
+    2+mskweyaap+NI+Con+Pej+2+Pl+Prt+Loc: gimiskweyaabi1enyishwaabaniing
+    2+mskweyaap+NI+Con+Pej+2+Pl+Prt+Pl: gimiskweyaabi1enyishwaabani1an
+    2+mskweyaap+NI+Dim+Pej+1+Pl+Prt+4: gimiskweyaabi1ensishnaanibaniin
+    2+mskweyaap+NI+Dim+Pej+1+Pl+Prt+Loc: gimiskweyaabi1ensishnaanibaniing
+    2+mskweyaap+NI+Dim+Pej+1+Pl+Prt+Pl: gimiskweyaabi1ensishnaanibani1an
+    2+mskweyaap+NI+Dim+Pej+2+Pl+Prt+4: gimiskweyaabi1ensishwaabaniin
+    2+mskweyaap+NI+Dim+Pej+2+Pl+Prt+Loc: gimiskweyaabi1ensishwaabaniing
+    2+mskweyaap+NI+Dim+Pej+2+Pl+Prt+Pl: gimiskweyaabi1ensishwaabani1an
+    3+mskweyaap+NI+Con+Pej+2+Pl+Prt+4: omiskweyaabi1enyishwaabaniin
+    3+mskweyaap+NI+Con+Pej+2+Pl+Prt+Loc: omiskweyaabi1enyishwaabaniing
+    3+mskweyaap+NI+Con+Pej+2+Pl+Prt+Pl: omiskweyaabi1enyishwaabani1an
+    3+mskweyaap+NI+Con+Pej+3+4+Prt+4: [ omiskweyaabi1enyishniwibaniin, omiskweyaabi1enyishniibaniin ]
+    3+mskweyaap+NI+Con+Pej+3+4+Prt+Loc: [ omiskweyaabi1enyishniwibaniing, omiskweyaabi1enyishniibaniing ]
+    3+mskweyaap+NI+Con+Pej+3+4+Prt+Pl: [ omiskweyaabi1enyishniwibani1an, omiskweyaabi1enyishniibani1an ]
+    3+mskweyaap+NI+Dim+Pej+2+Pl+Prt+4: omiskweyaabi1ensishwaabaniin
+    3+mskweyaap+NI+Dim+Pej+2+Pl+Prt+Loc: omiskweyaabi1ensishwaabaniing
+    3+mskweyaap+NI+Dim+Pej+2+Pl+Prt+Pl: omiskweyaabi1ensishwaabani1an
+    3+mskweyaap+NI+Dim+Pej+3+4+Prt+4: [ omiskweyaabi1ensishniwibaniin, omiskweyaabi1ensishniibaniin ]
+    3+mskweyaap+NI+Dim+Pej+3+4+Prt+Loc: [ omiskweyaabi1ensishniwibaniing, omiskweyaabi1ensishniibaniing ]
+    3+mskweyaap+NI+Dim+Pej+3+4+Prt+Pl: [ omiskweyaabi1ensishniwibani1an, omiskweyaabi1ensishniibani1an ]
+    1+mskweyaap+NI+ThmPos+Pej+1+Pl+Prt+4: nimiskweyaabi1mishnaanibaniin
+    1+mskweyaap+NI+ThmPos+Pej+1+Pl+Prt+Loc: nimiskweyaabi1mishnaanibaniing
+    1+mskweyaap+NI+ThmPos+Pej+1+Pl+Prt+Pl: nimiskweyaabi1mishnaanibani1an
+    2+mskweyaap+NI+ThmPos+Pej+1+Pl+Prt+4: gimiskweyaabi1mishnaanibaniin
+    2+mskweyaap+NI+ThmPos+Pej+1+Pl+Prt+Loc: gimiskweyaabi1mishnaanibaniing
+    2+mskweyaap+NI+ThmPos+Pej+1+Pl+Prt+Pl: gimiskweyaabi1mishnaanibani1an
+    2+mskweyaap+NI+ThmPos+Pej+2+Pl+Prt+4: gimiskweyaabi1mishwaabaniin
+    2+mskweyaap+NI+ThmPos+Pej+2+Pl+Prt+Loc: gimiskweyaabi1mishwaabaniing
+    2+mskweyaap+NI+ThmPos+Pej+2+Pl+Prt+Pl: gimiskweyaabi1mishwaabani1an
+    3+mskweyaap+NI+ThmPos+Pej+2+Pl+Prt+4: omiskweyaabi1mishwaabaniin
+    3+mskweyaap+NI+ThmPos+Pej+2+Pl+Prt+Loc: omiskweyaabi1mishwaabaniing
+    3+mskweyaap+NI+ThmPos+Pej+2+Pl+Prt+Pl: omiskweyaabi1mishwaabani1an
+    3+mskweyaap+NI+ThmPos+Pej+3+4+Prt+4: [ omiskweyaabi1mishniwibaniin, omiskweyaabi1mishniibaniin ]
+    3+mskweyaap+NI+ThmPos+Pej+3+4+Prt+Loc: [ omiskweyaabi1mishniwibaniing, omiskweyaabi1mishniibaniing ]
+    3+mskweyaap+NI+ThmPos+Pej+3+4+Prt+Pl: [ omiskweyaabi1mishniwibani1an, omiskweyaabi1mishniibani1an ]
+    1+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Prt+4: nimiskweyaabi1enymishnaanibaniin
+    1+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Prt+Loc: nimiskweyaabi1enymishnaanibaniing
+    1+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Prt+Pl: nimiskweyaabi1enymishnaanibani1an
+    1+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Prt+4: nimiskweyaabi1ensmishnaanibaniin
+    1+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Prt+Loc: nimiskweyaabi1ensmishnaanibaniing
+    1+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Prt+Pl: nimiskweyaabi1ensmishnaanibani1an
+    2+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Prt+4: gimiskweyaabi1enymishnaanibaniin
+    2+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Prt+Loc: gimiskweyaabi1enymishnaanibaniing
+    2+mskweyaap+NI+Con+ThmPos+Pej+1+Pl+Prt+Pl: gimiskweyaabi1enymishnaanibani1an
+    2+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Prt+4: gimiskweyaabi1enymishwaabaniin
+    2+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Prt+Loc: gimiskweyaabi1enymishwaabaniing
+    2+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Prt+Pl: gimiskweyaabi1enymishwaabani1an
+    2+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Prt+4: gimiskweyaabi1ensmishnaanibaniin
+    2+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Prt+Loc: gimiskweyaabi1ensmishnaanibaniing
+    2+mskweyaap+NI+Dim+ThmPos+Pej+1+Pl+Prt+Pl: gimiskweyaabi1ensmishnaanibani1an
+    2+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Prt+4: gimiskweyaabi1ensmishwaabaniin
+    2+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Prt+Loc: gimiskweyaabi1ensmishwaabaniing
+    2+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Prt+Pl: gimiskweyaabi1ensmishwaabani1an
+    3+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Prt+4: omiskweyaabi1enymishwaabaniin
+    3+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Prt+Loc: omiskweyaabi1enymishwaabaniing
+    3+mskweyaap+NI+Con+ThmPos+Pej+2+Pl+Prt+Pl: omiskweyaabi1enymishwaabani1an
+    3+mskweyaap+NI+Con+ThmPos+Pej+3+4+Prt+4: [ omiskweyaabi1enymishniwibaniin, omiskweyaabi1enymishniibaniin ]
+    3+mskweyaap+NI+Con+ThmPos+Pej+3+4+Prt+Loc: [ omiskweyaabi1enymishniwibaniing, omiskweyaabi1enymishniibaniing ]
+    3+mskweyaap+NI+Con+ThmPos+Pej+3+4+Prt+Pl: [ omiskweyaabi1enymishniwibani1an, omiskweyaabi1enymishniibani1an ]
+    3+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Prt+4: omiskweyaabi1ensmishwaabaniin
+    3+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Prt+Loc: omiskweyaabi1ensmishwaabaniing
+    3+mskweyaap+NI+Dim+ThmPos+Pej+2+Pl+Prt+Pl: omiskweyaabi1ensmishwaabani1an
+    3+mskweyaap+NI+Dim+ThmPos+Pej+3+4+Prt+4: [ omiskweyaabi1ensmishniwibaniin, omiskweyaabi1ensmishniibaniin ]
+    3+mskweyaap+NI+Dim+ThmPos+Pej+3+4+Prt+Loc: [ omiskweyaabi1ensmishniwibaniing, omiskweyaabi1ensmishniibaniing ]
+    3+mskweyaap+NI+Dim+ThmPos+Pej+3+4+Prt+Pl: [ omiskweyaabi1ensmishniwibani1an, omiskweyaabi1ensmishniibani1an ]

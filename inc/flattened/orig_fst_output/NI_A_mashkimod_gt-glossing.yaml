@@ -1,0 +1,1028 @@
+Tests:
+  NI_A_mashkimod_gt-glossing:
+    mshkimot+NI: mashkimoda1
+    1+mshkimot+NI: nimashkimoda1
+    2+mshkimot+NI: gimashkimoda1
+    3+mshkimot+NI: omashkimoda1
+    X+mshkimot+NI: imashkimoda1
+    mshkimot+NI+Con: mashkimoda1enh
+    mshkimot+NI+Dim: mashkimoda1ens
+    mshkimot+NI+Pej: mashkimoda1sh
+    mshkimot+NI+Prt: mashkimoda1bani1
+    mshkimot+NI+Voc+Pl: mashkimoda1dig
+    mshkimot+NI+4: mashkimoda1an
+    mshkimot+NI+Loc: mashkimoda1ng
+    mshkimot+NI+Pl: mashkimoda1an
+    1+mshkimot+NI+Con: nimashkimoda1enh
+    1+mshkimot+NI+Dim: nimashkimoda1ens
+    2+mshkimot+NI+Con: gimashkimoda1enh
+    2+mshkimot+NI+Dim: gimashkimoda1ens
+    3+mshkimot+NI+Con: omashkimoda1enh
+    3+mshkimot+NI+Dim: omashkimoda1ens
+    X+mshkimot+NI+Con: imashkimoda1enh
+    X+mshkimot+NI+Dim: imashkimoda1ens
+    1+mshkimot+NI+ThmPos: nimashkimoda1m
+    2+mshkimot+NI+ThmPos: gimashkimoda1m
+    3+mshkimot+NI+ThmPos: omashkimoda1m
+    X+mshkimot+NI+ThmPos: imashkimoda1m
+    1+mshkimot+NI+Pej: nimashkimoda1sh
+    2+mshkimot+NI+Pej: gimashkimoda1sh
+    3+mshkimot+NI+Pej: omashkimoda1sh
+    X+mshkimot+NI+Pej: imashkimoda1sh
+    1+mshkimot+NI+1+Pl: [ nimashkimoda1naan, nimashkimoda1naa ]
+    2+mshkimot+NI+1+Pl: [ gimashkimoda1naan, gimashkimoda1naa ]
+    2+mshkimot+NI+2+Pl: gimashkimoda1waa
+    3+mshkimot+NI+2+Pl: omashkimoda1waa
+    3+mshkimot+NI+3+4: omashkimoda1niw
+    1+mshkimot+NI+Prt: nimashkimoda1bani1
+    1+mshkimot+NI+Voc+Pl: nimashkimoda1dig
+    2+mshkimot+NI+Prt: gimashkimoda1bani1
+    2+mshkimot+NI+Voc+Pl: gimashkimoda1dig
+    3+mshkimot+NI+Prt: omashkimoda1bani1
+    3+mshkimot+NI+Voc+Pl: omashkimoda1dig
+    X+mshkimot+NI+Prt: imashkimoda1bani1
+    X+mshkimot+NI+Voc+Pl: imashkimoda1dig
+    1+mshkimot+NI+4: nimashkimoda1an
+    1+mshkimot+NI+Loc: nimashkimoda1ng
+    1+mshkimot+NI+Pl: nimashkimoda1an
+    2+mshkimot+NI+4: gimashkimoda1an
+    2+mshkimot+NI+Loc: gimashkimoda1ng
+    2+mshkimot+NI+Pl: gimashkimoda1an
+    3+mshkimot+NI+4: omashkimoda1an
+    3+mshkimot+NI+Loc: omashkimoda1ng
+    3+mshkimot+NI+Pl: omashkimoda1an
+    X+mshkimot+NI+4: imashkimoda1an
+    X+mshkimot+NI+Loc: imashkimoda1ng
+    X+mshkimot+NI+Pl: imashkimoda1an
+    mshkimot+NI+Con+Pej: mashkimoda1enyish
+    mshkimot+NI+Dim+Pej: mashkimoda1ensish
+    mshkimot+NI+Con+Prt: [ mashkimoda1enyiban, mashkimoda1enyiba ]
+    mshkimot+NI+Con+Voc+Pl: mashkimoda1enydig
+    mshkimot+NI+Dim+Prt: [ mashkimoda1ensiban, mashkimoda1ensiba ]
+    mshkimot+NI+Dim+Voc+Pl: mashkimoda1ensdig
+    mshkimot+NI+Con+4: mashkimoda1enyin
+    mshkimot+NI+Con+Loc: mashkimoda1enying
+    mshkimot+NI+Con+Pl: mashkimoda1enyan
+    mshkimot+NI+Dim+4: mashkimoda1ensan
+    mshkimot+NI+Dim+Loc: mashkimoda1ensing
+    mshkimot+NI+Dim+Pl: mashkimoda1ensan
+    mshkimot+NI+Pej+Prt: [ mashkimoda1shiban, mashkimoda1shiba ]
+    mshkimot+NI+Pej+Voc+Pl: mashkimoda1shdig
+    mshkimot+NI+Pej+4: mashkimoda1shan
+    mshkimot+NI+Pej+Loc: mashkimoda1shing
+    mshkimot+NI+Pej+Pl: mashkimoda1shan
+    mshkimot+NI+Prt+4: mashkimoda1baniin
+    mshkimot+NI+Prt+Loc: mashkimoda1baniing
+    mshkimot+NI+Prt+Pl: mashkimoda1bani1an
+    1+mshkimot+NI+Con+ThmPos: nimashkimoda1enym
+    1+mshkimot+NI+Dim+ThmPos: nimashkimoda1ensm
+    2+mshkimot+NI+Con+ThmPos: gimashkimoda1enym
+    2+mshkimot+NI+Dim+ThmPos: gimashkimoda1ensm
+    3+mshkimot+NI+Con+ThmPos: omashkimoda1enym
+    3+mshkimot+NI+Dim+ThmPos: omashkimoda1ensm
+    X+mshkimot+NI+Con+ThmPos: imashkimoda1enym
+    X+mshkimot+NI+Dim+ThmPos: imashkimoda1ensm
+    1+mshkimot+NI+Con+Pej: nimashkimoda1enyish
+    1+mshkimot+NI+Dim+Pej: nimashkimoda1ensish
+    2+mshkimot+NI+Con+Pej: gimashkimoda1enyish
+    2+mshkimot+NI+Dim+Pej: gimashkimoda1ensish
+    3+mshkimot+NI+Con+Pej: omashkimoda1enyish
+    3+mshkimot+NI+Dim+Pej: omashkimoda1ensish
+    X+mshkimot+NI+Con+Pej: imashkimoda1enyish
+    X+mshkimot+NI+Dim+Pej: imashkimoda1ensish
+    1+mshkimot+NI+Con+1+Pl: [ nimashkimoda1enynaan, nimashkimoda1enynaa ]
+    1+mshkimot+NI+Dim+1+Pl: [ nimashkimoda1ensnaan, nimashkimoda1ensnaa ]
+    2+mshkimot+NI+Con+1+Pl: [ gimashkimoda1enynaan, gimashkimoda1enynaa ]
+    2+mshkimot+NI+Con+2+Pl: gimashkimoda1enywaa
+    2+mshkimot+NI+Dim+1+Pl: [ gimashkimoda1ensnaan, gimashkimoda1ensnaa ]
+    2+mshkimot+NI+Dim+2+Pl: gimashkimoda1enswaa
+    3+mshkimot+NI+Con+2+Pl: omashkimoda1enywaa
+    3+mshkimot+NI+Con+3+4: omashkimoda1enyniw
+    3+mshkimot+NI+Dim+2+Pl: omashkimoda1enswaa
+    3+mshkimot+NI+Dim+3+4: omashkimoda1ensniw
+    1+mshkimot+NI+Con+Prt: [ nimashkimoda1enyiban, nimashkimoda1enyiba ]
+    1+mshkimot+NI+Con+Voc+Pl: nimashkimoda1enydig
+    1+mshkimot+NI+Dim+Prt: [ nimashkimoda1ensiban, nimashkimoda1ensiba ]
+    1+mshkimot+NI+Dim+Voc+Pl: nimashkimoda1ensdig
+    2+mshkimot+NI+Con+Prt: [ gimashkimoda1enyiban, gimashkimoda1enyiba ]
+    2+mshkimot+NI+Con+Voc+Pl: gimashkimoda1enydig
+    2+mshkimot+NI+Dim+Prt: [ gimashkimoda1ensiban, gimashkimoda1ensiba ]
+    2+mshkimot+NI+Dim+Voc+Pl: gimashkimoda1ensdig
+    3+mshkimot+NI+Con+Prt: [ omashkimoda1enyiban, omashkimoda1enyiba ]
+    3+mshkimot+NI+Con+Voc+Pl: omashkimoda1enydig
+    3+mshkimot+NI+Dim+Prt: [ omashkimoda1ensiban, omashkimoda1ensiba ]
+    3+mshkimot+NI+Dim+Voc+Pl: omashkimoda1ensdig
+    X+mshkimot+NI+Con+Prt: [ imashkimoda1enyiban, imashkimoda1enyiba ]
+    X+mshkimot+NI+Con+Voc+Pl: imashkimoda1enydig
+    X+mshkimot+NI+Dim+Prt: [ imashkimoda1ensiban, imashkimoda1ensiba ]
+    X+mshkimot+NI+Dim+Voc+Pl: imashkimoda1ensdig
+    1+mshkimot+NI+Con+4: nimashkimoda1enyin
+    1+mshkimot+NI+Con+Loc: nimashkimoda1enying
+    1+mshkimot+NI+Con+Pl: nimashkimoda1enyan
+    1+mshkimot+NI+Dim+4: nimashkimoda1ensan
+    1+mshkimot+NI+Dim+Loc: nimashkimoda1ensing
+    1+mshkimot+NI+Dim+Pl: nimashkimoda1ensan
+    2+mshkimot+NI+Con+4: gimashkimoda1enyin
+    2+mshkimot+NI+Con+Loc: gimashkimoda1enying
+    2+mshkimot+NI+Con+Pl: gimashkimoda1enyan
+    2+mshkimot+NI+Dim+4: gimashkimoda1ensan
+    2+mshkimot+NI+Dim+Loc: gimashkimoda1ensing
+    2+mshkimot+NI+Dim+Pl: gimashkimoda1ensan
+    3+mshkimot+NI+Con+4: omashkimoda1enyin
+    3+mshkimot+NI+Con+Loc: omashkimoda1enying
+    3+mshkimot+NI+Con+Pl: omashkimoda1enyan
+    3+mshkimot+NI+Dim+4: omashkimoda1ensan
+    3+mshkimot+NI+Dim+Loc: omashkimoda1ensing
+    3+mshkimot+NI+Dim+Pl: omashkimoda1ensan
+    X+mshkimot+NI+Con+4: imashkimoda1enyin
+    X+mshkimot+NI+Con+Loc: imashkimoda1enying
+    X+mshkimot+NI+Con+Pl: imashkimoda1enyan
+    X+mshkimot+NI+Dim+4: imashkimoda1ensan
+    X+mshkimot+NI+Dim+Loc: imashkimoda1ensing
+    X+mshkimot+NI+Dim+Pl: imashkimoda1ensan
+    1+mshkimot+NI+ThmPos+Pej: nimashkimoda1mish
+    2+mshkimot+NI+ThmPos+Pej: gimashkimoda1mish
+    3+mshkimot+NI+ThmPos+Pej: omashkimoda1mish
+    X+mshkimot+NI+ThmPos+Pej: imashkimoda1mish
+    1+mshkimot+NI+ThmPos+1+Pl: [ nimashkimoda1mnaan, nimashkimoda1mnaa ]
+    2+mshkimot+NI+ThmPos+1+Pl: [ gimashkimoda1mnaan, gimashkimoda1mnaa ]
+    2+mshkimot+NI+ThmPos+2+Pl: gimashkimoda1mwaa
+    3+mshkimot+NI+ThmPos+2+Pl: omashkimoda1mwaa
+    3+mshkimot+NI+ThmPos+3+4: omashkimoda1mniw
+    1+mshkimot+NI+ThmPos+Prt: [ nimashkimoda1miban, nimashkimoda1miba ]
+    1+mshkimot+NI+ThmPos+Voc+Pl: nimashkimoda1mdig
+    2+mshkimot+NI+ThmPos+Prt: [ gimashkimoda1miban, gimashkimoda1miba ]
+    2+mshkimot+NI+ThmPos+Voc+Pl: gimashkimoda1mdig
+    3+mshkimot+NI+ThmPos+Prt: [ omashkimoda1miban, omashkimoda1miba ]
+    3+mshkimot+NI+ThmPos+Voc+Pl: omashkimoda1mdig
+    X+mshkimot+NI+ThmPos+Prt: [ imashkimoda1miban, imashkimoda1miba ]
+    X+mshkimot+NI+ThmPos+Voc+Pl: imashkimoda1mdig
+    1+mshkimot+NI+ThmPos+4: nimashkimoda1man
+    1+mshkimot+NI+ThmPos+Loc: nimashkimoda1ming
+    1+mshkimot+NI+ThmPos+Pl: nimashkimoda1man
+    2+mshkimot+NI+ThmPos+4: gimashkimoda1man
+    2+mshkimot+NI+ThmPos+Loc: gimashkimoda1ming
+    2+mshkimot+NI+ThmPos+Pl: gimashkimoda1man
+    3+mshkimot+NI+ThmPos+4: omashkimoda1man
+    3+mshkimot+NI+ThmPos+Loc: omashkimoda1ming
+    3+mshkimot+NI+ThmPos+Pl: omashkimoda1man
+    X+mshkimot+NI+ThmPos+4: imashkimoda1man
+    X+mshkimot+NI+ThmPos+Loc: imashkimoda1ming
+    X+mshkimot+NI+ThmPos+Pl: imashkimoda1man
+    1+mshkimot+NI+Pej+1+Pl: [ nimashkimoda1shnaan, nimashkimoda1shnaa ]
+    2+mshkimot+NI+Pej+1+Pl: [ gimashkimoda1shnaan, gimashkimoda1shnaa ]
+    2+mshkimot+NI+Pej+2+Pl: gimashkimoda1shwaa
+    3+mshkimot+NI+Pej+2+Pl: omashkimoda1shwaa
+    3+mshkimot+NI+Pej+3+4: omashkimoda1shniw
+    1+mshkimot+NI+Pej+Prt: [ nimashkimoda1shiban, nimashkimoda1shiba ]
+    1+mshkimot+NI+Pej+Voc+Pl: nimashkimoda1shdig
+    2+mshkimot+NI+Pej+Prt: [ gimashkimoda1shiban, gimashkimoda1shiba ]
+    2+mshkimot+NI+Pej+Voc+Pl: gimashkimoda1shdig
+    3+mshkimot+NI+Pej+Prt: [ omashkimoda1shiban, omashkimoda1shiba ]
+    3+mshkimot+NI+Pej+Voc+Pl: omashkimoda1shdig
+    X+mshkimot+NI+Pej+Prt: [ imashkimoda1shiban, imashkimoda1shiba ]
+    X+mshkimot+NI+Pej+Voc+Pl: imashkimoda1shdig
+    1+mshkimot+NI+Pej+4: nimashkimoda1shan
+    1+mshkimot+NI+Pej+Loc: nimashkimoda1shing
+    1+mshkimot+NI+Pej+Pl: nimashkimoda1shan
+    2+mshkimot+NI+Pej+4: gimashkimoda1shan
+    2+mshkimot+NI+Pej+Loc: gimashkimoda1shing
+    2+mshkimot+NI+Pej+Pl: gimashkimoda1shan
+    3+mshkimot+NI+Pej+4: omashkimoda1shan
+    3+mshkimot+NI+Pej+Loc: omashkimoda1shing
+    3+mshkimot+NI+Pej+Pl: omashkimoda1shan
+    X+mshkimot+NI+Pej+4: imashkimoda1shan
+    X+mshkimot+NI+Pej+Loc: imashkimoda1shing
+    X+mshkimot+NI+Pej+Pl: imashkimoda1shan
+    1+mshkimot+NI+1+Pl+Prt: [ nimashkimoda1naaniban, nimashkimoda1naaniba ]
+    1+mshkimot+NI+1+Pl+Voc+Pl: nimashkimoda1naany1dig
+    2+mshkimot+NI+1+Pl+Prt: [ gimashkimoda1naaniban, gimashkimoda1naaniba ]
+    2+mshkimot+NI+1+Pl+Voc+Pl: gimashkimoda1naany1dig
+    2+mshkimot+NI+2+Pl+Prt: [ gimashkimoda1waaban, gimashkimoda1waaba ]
+    2+mshkimot+NI+2+Pl+Voc+Pl: gimashkimoda1waadig
+    3+mshkimot+NI+2+Pl+Prt: [ omashkimoda1waaban, omashkimoda1waaba ]
+    3+mshkimot+NI+2+Pl+Voc+Pl: omashkimoda1waadig
+    3+mshkimot+NI+3+4+Prt: [ omashkimoda1niwiban, omashkimoda1niwiba, omashkimoda1niiban, omashkimoda1niiba ]
+    3+mshkimot+NI+3+4+Voc+Pl: omashkimoda1niwdig
+    1+mshkimot+NI+1+Pl+4: nimashkimoda1naanin
+    1+mshkimot+NI+1+Pl+Loc: nimashkimoda1naaning
+    1+mshkimot+NI+1+Pl+Pl: nimashkimoda1naany1an
+    2+mshkimot+NI+1+Pl+4: gimashkimoda1naanin
+    2+mshkimot+NI+1+Pl+Loc: gimashkimoda1naaning
+    2+mshkimot+NI+1+Pl+Pl: gimashkimoda1naany1an
+    2+mshkimot+NI+2+Pl+4: gimashkimoda1waan
+    2+mshkimot+NI+2+Pl+Loc: gimashkimoda1waang
+    2+mshkimot+NI+2+Pl+Pl: gimashkimoda1waaan
+    3+mshkimot+NI+2+Pl+4: omashkimoda1waan
+    3+mshkimot+NI+2+Pl+Loc: omashkimoda1waang
+    3+mshkimot+NI+2+Pl+Pl: omashkimoda1waaan
+    3+mshkimot+NI+3+4+4: omashkimoda1niwan
+    3+mshkimot+NI+3+4+Loc: omashkimoda1niing
+    3+mshkimot+NI+3+4+Pl: omashkimoda1niwan
+    1+mshkimot+NI+Prt+4: nimashkimoda1baniin
+    1+mshkimot+NI+Prt+Loc: nimashkimoda1baniing
+    1+mshkimot+NI+Prt+Pl: nimashkimoda1bani1an
+    2+mshkimot+NI+Prt+4: gimashkimoda1baniin
+    2+mshkimot+NI+Prt+Loc: gimashkimoda1baniing
+    2+mshkimot+NI+Prt+Pl: gimashkimoda1bani1an
+    3+mshkimot+NI+Prt+4: omashkimoda1baniin
+    3+mshkimot+NI+Prt+Loc: omashkimoda1baniing
+    3+mshkimot+NI+Prt+Pl: omashkimoda1bani1an
+    X+mshkimot+NI+Prt+4: imashkimoda1baniin
+    X+mshkimot+NI+Prt+Loc: imashkimoda1baniing
+    X+mshkimot+NI+Prt+Pl: imashkimoda1bani1an
+    mshkimot+NI+Con+Pej+Prt: [ mashkimoda1enyishiban, mashkimoda1enyishiba ]
+    mshkimot+NI+Con+Pej+Voc+Pl: mashkimoda1enyishdig
+    mshkimot+NI+Dim+Pej+Prt: [ mashkimoda1ensishiban, mashkimoda1ensishiba ]
+    mshkimot+NI+Dim+Pej+Voc+Pl: mashkimoda1ensishdig
+    mshkimot+NI+Con+Pej+4: mashkimoda1enyishan
+    mshkimot+NI+Con+Pej+Loc: mashkimoda1enyishing
+    mshkimot+NI+Con+Pej+Pl: mashkimoda1enyishan
+    mshkimot+NI+Dim+Pej+4: mashkimoda1ensishan
+    mshkimot+NI+Dim+Pej+Loc: mashkimoda1ensishing
+    mshkimot+NI+Dim+Pej+Pl: mashkimoda1ensishan
+    mshkimot+NI+Con+Prt+4: mashkimoda1enyibaniin
+    mshkimot+NI+Con+Prt+Loc: mashkimoda1enyibaniing
+    mshkimot+NI+Con+Prt+Pl: mashkimoda1enyibani1an
+    mshkimot+NI+Dim+Prt+4: mashkimoda1ensibaniin
+    mshkimot+NI+Dim+Prt+Loc: mashkimoda1ensibaniing
+    mshkimot+NI+Dim+Prt+Pl: mashkimoda1ensibani1an
+    mshkimot+NI+Pej+Prt+4: mashkimoda1shibaniin
+    mshkimot+NI+Pej+Prt+Loc: mashkimoda1shibaniing
+    mshkimot+NI+Pej+Prt+Pl: mashkimoda1shibani1an
+    1+mshkimot+NI+Con+ThmPos+Pej: nimashkimoda1enymish
+    1+mshkimot+NI+Dim+ThmPos+Pej: nimashkimoda1ensmish
+    2+mshkimot+NI+Con+ThmPos+Pej: gimashkimoda1enymish
+    2+mshkimot+NI+Dim+ThmPos+Pej: gimashkimoda1ensmish
+    3+mshkimot+NI+Con+ThmPos+Pej: omashkimoda1enymish
+    3+mshkimot+NI+Dim+ThmPos+Pej: omashkimoda1ensmish
+    X+mshkimot+NI+Con+ThmPos+Pej: imashkimoda1enymish
+    X+mshkimot+NI+Dim+ThmPos+Pej: imashkimoda1ensmish
+    1+mshkimot+NI+Con+ThmPos+1+Pl: [ nimashkimoda1enymnaan, nimashkimoda1enymnaa ]
+    1+mshkimot+NI+Dim+ThmPos+1+Pl: [ nimashkimoda1ensmnaan, nimashkimoda1ensmnaa ]
+    2+mshkimot+NI+Con+ThmPos+1+Pl: [ gimashkimoda1enymnaan, gimashkimoda1enymnaa ]
+    2+mshkimot+NI+Con+ThmPos+2+Pl: gimashkimoda1enymwaa
+    2+mshkimot+NI+Dim+ThmPos+1+Pl: [ gimashkimoda1ensmnaan, gimashkimoda1ensmnaa ]
+    2+mshkimot+NI+Dim+ThmPos+2+Pl: gimashkimoda1ensmwaa
+    3+mshkimot+NI+Con+ThmPos+2+Pl: omashkimoda1enymwaa
+    3+mshkimot+NI+Con+ThmPos+3+4: omashkimoda1enymniw
+    3+mshkimot+NI+Dim+ThmPos+2+Pl: omashkimoda1ensmwaa
+    3+mshkimot+NI+Dim+ThmPos+3+4: omashkimoda1ensmniw
+    1+mshkimot+NI+Con+ThmPos+Prt: [ nimashkimoda1enymiban, nimashkimoda1enymiba ]
+    1+mshkimot+NI+Con+ThmPos+Voc+Pl: nimashkimoda1enymdig
+    1+mshkimot+NI+Dim+ThmPos+Prt: [ nimashkimoda1ensmiban, nimashkimoda1ensmiba ]
+    1+mshkimot+NI+Dim+ThmPos+Voc+Pl: nimashkimoda1ensmdig
+    2+mshkimot+NI+Con+ThmPos+Prt: [ gimashkimoda1enymiban, gimashkimoda1enymiba ]
+    2+mshkimot+NI+Con+ThmPos+Voc+Pl: gimashkimoda1enymdig
+    2+mshkimot+NI+Dim+ThmPos+Prt: [ gimashkimoda1ensmiban, gimashkimoda1ensmiba ]
+    2+mshkimot+NI+Dim+ThmPos+Voc+Pl: gimashkimoda1ensmdig
+    3+mshkimot+NI+Con+ThmPos+Prt: [ omashkimoda1enymiban, omashkimoda1enymiba ]
+    3+mshkimot+NI+Con+ThmPos+Voc+Pl: omashkimoda1enymdig
+    3+mshkimot+NI+Dim+ThmPos+Prt: [ omashkimoda1ensmiban, omashkimoda1ensmiba ]
+    3+mshkimot+NI+Dim+ThmPos+Voc+Pl: omashkimoda1ensmdig
+    X+mshkimot+NI+Con+ThmPos+Prt: [ imashkimoda1enymiban, imashkimoda1enymiba ]
+    X+mshkimot+NI+Con+ThmPos+Voc+Pl: imashkimoda1enymdig
+    X+mshkimot+NI+Dim+ThmPos+Prt: [ imashkimoda1ensmiban, imashkimoda1ensmiba ]
+    X+mshkimot+NI+Dim+ThmPos+Voc+Pl: imashkimoda1ensmdig
+    1+mshkimot+NI+Con+ThmPos+4: nimashkimoda1enyman
+    1+mshkimot+NI+Con+ThmPos+Loc: nimashkimoda1enyming
+    1+mshkimot+NI+Con+ThmPos+Pl: nimashkimoda1enyman
+    1+mshkimot+NI+Dim+ThmPos+4: nimashkimoda1ensman
+    1+mshkimot+NI+Dim+ThmPos+Loc: nimashkimoda1ensming
+    1+mshkimot+NI+Dim+ThmPos+Pl: nimashkimoda1ensman
+    2+mshkimot+NI+Con+ThmPos+4: gimashkimoda1enyman
+    2+mshkimot+NI+Con+ThmPos+Loc: gimashkimoda1enyming
+    2+mshkimot+NI+Con+ThmPos+Pl: gimashkimoda1enyman
+    2+mshkimot+NI+Dim+ThmPos+4: gimashkimoda1ensman
+    2+mshkimot+NI+Dim+ThmPos+Loc: gimashkimoda1ensming
+    2+mshkimot+NI+Dim+ThmPos+Pl: gimashkimoda1ensman
+    3+mshkimot+NI+Con+ThmPos+4: omashkimoda1enyman
+    3+mshkimot+NI+Con+ThmPos+Loc: omashkimoda1enyming
+    3+mshkimot+NI+Con+ThmPos+Pl: omashkimoda1enyman
+    3+mshkimot+NI+Dim+ThmPos+4: omashkimoda1ensman
+    3+mshkimot+NI+Dim+ThmPos+Loc: omashkimoda1ensming
+    3+mshkimot+NI+Dim+ThmPos+Pl: omashkimoda1ensman
+    X+mshkimot+NI+Con+ThmPos+4: imashkimoda1enyman
+    X+mshkimot+NI+Con+ThmPos+Loc: imashkimoda1enyming
+    X+mshkimot+NI+Con+ThmPos+Pl: imashkimoda1enyman
+    X+mshkimot+NI+Dim+ThmPos+4: imashkimoda1ensman
+    X+mshkimot+NI+Dim+ThmPos+Loc: imashkimoda1ensming
+    X+mshkimot+NI+Dim+ThmPos+Pl: imashkimoda1ensman
+    1+mshkimot+NI+Con+Pej+1+Pl: [ nimashkimoda1enyishnaan, nimashkimoda1enyishnaa ]
+    1+mshkimot+NI+Dim+Pej+1+Pl: [ nimashkimoda1ensishnaan, nimashkimoda1ensishnaa ]
+    2+mshkimot+NI+Con+Pej+1+Pl: [ gimashkimoda1enyishnaan, gimashkimoda1enyishnaa ]
+    2+mshkimot+NI+Con+Pej+2+Pl: gimashkimoda1enyishwaa
+    2+mshkimot+NI+Dim+Pej+1+Pl: [ gimashkimoda1ensishnaan, gimashkimoda1ensishnaa ]
+    2+mshkimot+NI+Dim+Pej+2+Pl: gimashkimoda1ensishwaa
+    3+mshkimot+NI+Con+Pej+2+Pl: omashkimoda1enyishwaa
+    3+mshkimot+NI+Con+Pej+3+4: omashkimoda1enyishniw
+    3+mshkimot+NI+Dim+Pej+2+Pl: omashkimoda1ensishwaa
+    3+mshkimot+NI+Dim+Pej+3+4: omashkimoda1ensishniw
+    1+mshkimot+NI+Con+Pej+Prt: [ nimashkimoda1enyishiban, nimashkimoda1enyishiba ]
+    1+mshkimot+NI+Con+Pej+Voc+Pl: nimashkimoda1enyishdig
+    1+mshkimot+NI+Dim+Pej+Prt: [ nimashkimoda1ensishiban, nimashkimoda1ensishiba ]
+    1+mshkimot+NI+Dim+Pej+Voc+Pl: nimashkimoda1ensishdig
+    2+mshkimot+NI+Con+Pej+Prt: [ gimashkimoda1enyishiban, gimashkimoda1enyishiba ]
+    2+mshkimot+NI+Con+Pej+Voc+Pl: gimashkimoda1enyishdig
+    2+mshkimot+NI+Dim+Pej+Prt: [ gimashkimoda1ensishiban, gimashkimoda1ensishiba ]
+    2+mshkimot+NI+Dim+Pej+Voc+Pl: gimashkimoda1ensishdig
+    3+mshkimot+NI+Con+Pej+Prt: [ omashkimoda1enyishiban, omashkimoda1enyishiba ]
+    3+mshkimot+NI+Con+Pej+Voc+Pl: omashkimoda1enyishdig
+    3+mshkimot+NI+Dim+Pej+Prt: [ omashkimoda1ensishiban, omashkimoda1ensishiba ]
+    3+mshkimot+NI+Dim+Pej+Voc+Pl: omashkimoda1ensishdig
+    X+mshkimot+NI+Con+Pej+Prt: [ imashkimoda1enyishiban, imashkimoda1enyishiba ]
+    X+mshkimot+NI+Con+Pej+Voc+Pl: imashkimoda1enyishdig
+    X+mshkimot+NI+Dim+Pej+Prt: [ imashkimoda1ensishiban, imashkimoda1ensishiba ]
+    X+mshkimot+NI+Dim+Pej+Voc+Pl: imashkimoda1ensishdig
+    1+mshkimot+NI+Con+Pej+4: nimashkimoda1enyishan
+    1+mshkimot+NI+Con+Pej+Loc: nimashkimoda1enyishing
+    1+mshkimot+NI+Con+Pej+Pl: nimashkimoda1enyishan
+    1+mshkimot+NI+Dim+Pej+4: nimashkimoda1ensishan
+    1+mshkimot+NI+Dim+Pej+Loc: nimashkimoda1ensishing
+    1+mshkimot+NI+Dim+Pej+Pl: nimashkimoda1ensishan
+    2+mshkimot+NI+Con+Pej+4: gimashkimoda1enyishan
+    2+mshkimot+NI+Con+Pej+Loc: gimashkimoda1enyishing
+    2+mshkimot+NI+Con+Pej+Pl: gimashkimoda1enyishan
+    2+mshkimot+NI+Dim+Pej+4: gimashkimoda1ensishan
+    2+mshkimot+NI+Dim+Pej+Loc: gimashkimoda1ensishing
+    2+mshkimot+NI+Dim+Pej+Pl: gimashkimoda1ensishan
+    3+mshkimot+NI+Con+Pej+4: omashkimoda1enyishan
+    3+mshkimot+NI+Con+Pej+Loc: omashkimoda1enyishing
+    3+mshkimot+NI+Con+Pej+Pl: omashkimoda1enyishan
+    3+mshkimot+NI+Dim+Pej+4: omashkimoda1ensishan
+    3+mshkimot+NI+Dim+Pej+Loc: omashkimoda1ensishing
+    3+mshkimot+NI+Dim+Pej+Pl: omashkimoda1ensishan
+    X+mshkimot+NI+Con+Pej+4: imashkimoda1enyishan
+    X+mshkimot+NI+Con+Pej+Loc: imashkimoda1enyishing
+    X+mshkimot+NI+Con+Pej+Pl: imashkimoda1enyishan
+    X+mshkimot+NI+Dim+Pej+4: imashkimoda1ensishan
+    X+mshkimot+NI+Dim+Pej+Loc: imashkimoda1ensishing
+    X+mshkimot+NI+Dim+Pej+Pl: imashkimoda1ensishan
+    1+mshkimot+NI+Con+1+Pl+Prt: [ nimashkimoda1enynaaniban, nimashkimoda1enynaaniba ]
+    1+mshkimot+NI+Con+1+Pl+Voc+Pl: nimashkimoda1enynaany1dig
+    1+mshkimot+NI+Dim+1+Pl+Prt: [ nimashkimoda1ensnaaniban, nimashkimoda1ensnaaniba ]
+    1+mshkimot+NI+Dim+1+Pl+Voc+Pl: nimashkimoda1ensnaany1dig
+    2+mshkimot+NI+Con+1+Pl+Prt: [ gimashkimoda1enynaaniban, gimashkimoda1enynaaniba ]
+    2+mshkimot+NI+Con+1+Pl+Voc+Pl: gimashkimoda1enynaany1dig
+    2+mshkimot+NI+Con+2+Pl+Prt: [ gimashkimoda1enywaaban, gimashkimoda1enywaaba ]
+    2+mshkimot+NI+Con+2+Pl+Voc+Pl: gimashkimoda1enywaadig
+    2+mshkimot+NI+Dim+1+Pl+Prt: [ gimashkimoda1ensnaaniban, gimashkimoda1ensnaaniba ]
+    2+mshkimot+NI+Dim+1+Pl+Voc+Pl: gimashkimoda1ensnaany1dig
+    2+mshkimot+NI+Dim+2+Pl+Prt: [ gimashkimoda1enswaaban, gimashkimoda1enswaaba ]
+    2+mshkimot+NI+Dim+2+Pl+Voc+Pl: gimashkimoda1enswaadig
+    3+mshkimot+NI+Con+2+Pl+Prt: [ omashkimoda1enywaaban, omashkimoda1enywaaba ]
+    3+mshkimot+NI+Con+2+Pl+Voc+Pl: omashkimoda1enywaadig
+    3+mshkimot+NI+Con+3+4+Prt: [ omashkimoda1enyniwiban, omashkimoda1enyniwiba, omashkimoda1enyniiban, omashkimoda1enyniiba ]
+    3+mshkimot+NI+Con+3+4+Voc+Pl: omashkimoda1enyniwdig
+    3+mshkimot+NI+Dim+2+Pl+Prt: [ omashkimoda1enswaaban, omashkimoda1enswaaba ]
+    3+mshkimot+NI+Dim+2+Pl+Voc+Pl: omashkimoda1enswaadig
+    3+mshkimot+NI+Dim+3+4+Prt: [ omashkimoda1ensniwiban, omashkimoda1ensniwiba, omashkimoda1ensniiban, omashkimoda1ensniiba ]
+    3+mshkimot+NI+Dim+3+4+Voc+Pl: omashkimoda1ensniwdig
+    1+mshkimot+NI+Con+1+Pl+4: nimashkimoda1enynaanin
+    1+mshkimot+NI+Con+1+Pl+Loc: nimashkimoda1enynaaning
+    1+mshkimot+NI+Con+1+Pl+Pl: nimashkimoda1enynaany1an
+    1+mshkimot+NI+Dim+1+Pl+4: nimashkimoda1ensnaanin
+    1+mshkimot+NI+Dim+1+Pl+Loc: nimashkimoda1ensnaaning
+    1+mshkimot+NI+Dim+1+Pl+Pl: nimashkimoda1ensnaany1an
+    2+mshkimot+NI+Con+1+Pl+4: gimashkimoda1enynaanin
+    2+mshkimot+NI+Con+1+Pl+Loc: gimashkimoda1enynaaning
+    2+mshkimot+NI+Con+1+Pl+Pl: gimashkimoda1enynaany1an
+    2+mshkimot+NI+Con+2+Pl+4: gimashkimoda1enywaan
+    2+mshkimot+NI+Con+2+Pl+Loc: gimashkimoda1enywaang
+    2+mshkimot+NI+Con+2+Pl+Pl: gimashkimoda1enywaaan
+    2+mshkimot+NI+Dim+1+Pl+4: gimashkimoda1ensnaanin
+    2+mshkimot+NI+Dim+1+Pl+Loc: gimashkimoda1ensnaaning
+    2+mshkimot+NI+Dim+1+Pl+Pl: gimashkimoda1ensnaany1an
+    2+mshkimot+NI+Dim+2+Pl+4: gimashkimoda1enswaan
+    2+mshkimot+NI+Dim+2+Pl+Loc: gimashkimoda1enswaang
+    2+mshkimot+NI+Dim+2+Pl+Pl: gimashkimoda1enswaaan
+    3+mshkimot+NI+Con+2+Pl+4: omashkimoda1enywaan
+    3+mshkimot+NI+Con+2+Pl+Loc: omashkimoda1enywaang
+    3+mshkimot+NI+Con+2+Pl+Pl: omashkimoda1enywaaan
+    3+mshkimot+NI+Con+3+4+4: omashkimoda1enyniwan
+    3+mshkimot+NI+Con+3+4+Loc: omashkimoda1enyniing
+    3+mshkimot+NI+Con+3+4+Pl: omashkimoda1enyniwan
+    3+mshkimot+NI+Dim+2+Pl+4: omashkimoda1enswaan
+    3+mshkimot+NI+Dim+2+Pl+Loc: omashkimoda1enswaang
+    3+mshkimot+NI+Dim+2+Pl+Pl: omashkimoda1enswaaan
+    3+mshkimot+NI+Dim+3+4+4: omashkimoda1ensniwan
+    3+mshkimot+NI+Dim+3+4+Loc: omashkimoda1ensniing
+    3+mshkimot+NI+Dim+3+4+Pl: omashkimoda1ensniwan
+    1+mshkimot+NI+Con+Prt+4: nimashkimoda1enyibaniin
+    1+mshkimot+NI+Con+Prt+Loc: nimashkimoda1enyibaniing
+    1+mshkimot+NI+Con+Prt+Pl: nimashkimoda1enyibani1an
+    1+mshkimot+NI+Dim+Prt+4: nimashkimoda1ensibaniin
+    1+mshkimot+NI+Dim+Prt+Loc: nimashkimoda1ensibaniing
+    1+mshkimot+NI+Dim+Prt+Pl: nimashkimoda1ensibani1an
+    2+mshkimot+NI+Con+Prt+4: gimashkimoda1enyibaniin
+    2+mshkimot+NI+Con+Prt+Loc: gimashkimoda1enyibaniing
+    2+mshkimot+NI+Con+Prt+Pl: gimashkimoda1enyibani1an
+    2+mshkimot+NI+Dim+Prt+4: gimashkimoda1ensibaniin
+    2+mshkimot+NI+Dim+Prt+Loc: gimashkimoda1ensibaniing
+    2+mshkimot+NI+Dim+Prt+Pl: gimashkimoda1ensibani1an
+    3+mshkimot+NI+Con+Prt+4: omashkimoda1enyibaniin
+    3+mshkimot+NI+Con+Prt+Loc: omashkimoda1enyibaniing
+    3+mshkimot+NI+Con+Prt+Pl: omashkimoda1enyibani1an
+    3+mshkimot+NI+Dim+Prt+4: omashkimoda1ensibaniin
+    3+mshkimot+NI+Dim+Prt+Loc: omashkimoda1ensibaniing
+    3+mshkimot+NI+Dim+Prt+Pl: omashkimoda1ensibani1an
+    X+mshkimot+NI+Con+Prt+4: imashkimoda1enyibaniin
+    X+mshkimot+NI+Con+Prt+Loc: imashkimoda1enyibaniing
+    X+mshkimot+NI+Con+Prt+Pl: imashkimoda1enyibani1an
+    X+mshkimot+NI+Dim+Prt+4: imashkimoda1ensibaniin
+    X+mshkimot+NI+Dim+Prt+Loc: imashkimoda1ensibaniing
+    X+mshkimot+NI+Dim+Prt+Pl: imashkimoda1ensibani1an
+    1+mshkimot+NI+ThmPos+Pej+1+Pl: [ nimashkimoda1mishnaan, nimashkimoda1mishnaa ]
+    2+mshkimot+NI+ThmPos+Pej+1+Pl: [ gimashkimoda1mishnaan, gimashkimoda1mishnaa ]
+    2+mshkimot+NI+ThmPos+Pej+2+Pl: gimashkimoda1mishwaa
+    3+mshkimot+NI+ThmPos+Pej+2+Pl: omashkimoda1mishwaa
+    3+mshkimot+NI+ThmPos+Pej+3+4: omashkimoda1mishniw
+    1+mshkimot+NI+ThmPos+Pej+Prt: [ nimashkimoda1mishiban, nimashkimoda1mishiba ]
+    1+mshkimot+NI+ThmPos+Pej+Voc+Pl: nimashkimoda1mishdig
+    2+mshkimot+NI+ThmPos+Pej+Prt: [ gimashkimoda1mishiban, gimashkimoda1mishiba ]
+    2+mshkimot+NI+ThmPos+Pej+Voc+Pl: gimashkimoda1mishdig
+    3+mshkimot+NI+ThmPos+Pej+Prt: [ omashkimoda1mishiban, omashkimoda1mishiba ]
+    3+mshkimot+NI+ThmPos+Pej+Voc+Pl: omashkimoda1mishdig
+    X+mshkimot+NI+ThmPos+Pej+Prt: [ imashkimoda1mishiban, imashkimoda1mishiba ]
+    X+mshkimot+NI+ThmPos+Pej+Voc+Pl: imashkimoda1mishdig
+    1+mshkimot+NI+ThmPos+Pej+4: nimashkimoda1mishan
+    1+mshkimot+NI+ThmPos+Pej+Loc: nimashkimoda1mishing
+    1+mshkimot+NI+ThmPos+Pej+Pl: nimashkimoda1mishan
+    2+mshkimot+NI+ThmPos+Pej+4: gimashkimoda1mishan
+    2+mshkimot+NI+ThmPos+Pej+Loc: gimashkimoda1mishing
+    2+mshkimot+NI+ThmPos+Pej+Pl: gimashkimoda1mishan
+    3+mshkimot+NI+ThmPos+Pej+4: omashkimoda1mishan
+    3+mshkimot+NI+ThmPos+Pej+Loc: omashkimoda1mishing
+    3+mshkimot+NI+ThmPos+Pej+Pl: omashkimoda1mishan
+    X+mshkimot+NI+ThmPos+Pej+4: imashkimoda1mishan
+    X+mshkimot+NI+ThmPos+Pej+Loc: imashkimoda1mishing
+    X+mshkimot+NI+ThmPos+Pej+Pl: imashkimoda1mishan
+    1+mshkimot+NI+ThmPos+1+Pl+Prt: [ nimashkimoda1mnaaniban, nimashkimoda1mnaaniba ]
+    1+mshkimot+NI+ThmPos+1+Pl+Voc+Pl: nimashkimoda1mnaany1dig
+    2+mshkimot+NI+ThmPos+1+Pl+Prt: [ gimashkimoda1mnaaniban, gimashkimoda1mnaaniba ]
+    2+mshkimot+NI+ThmPos+1+Pl+Voc+Pl: gimashkimoda1mnaany1dig
+    2+mshkimot+NI+ThmPos+2+Pl+Prt: [ gimashkimoda1mwaaban, gimashkimoda1mwaaba ]
+    2+mshkimot+NI+ThmPos+2+Pl+Voc+Pl: gimashkimoda1mwaadig
+    3+mshkimot+NI+ThmPos+2+Pl+Prt: [ omashkimoda1mwaaban, omashkimoda1mwaaba ]
+    3+mshkimot+NI+ThmPos+2+Pl+Voc+Pl: omashkimoda1mwaadig
+    3+mshkimot+NI+ThmPos+3+4+Prt: [ omashkimoda1mniwiban, omashkimoda1mniwiba, omashkimoda1mniiban, omashkimoda1mniiba ]
+    3+mshkimot+NI+ThmPos+3+4+Voc+Pl: omashkimoda1mniwdig
+    1+mshkimot+NI+ThmPos+1+Pl+4: nimashkimoda1mnaanin
+    1+mshkimot+NI+ThmPos+1+Pl+Loc: nimashkimoda1mnaaning
+    1+mshkimot+NI+ThmPos+1+Pl+Pl: nimashkimoda1mnaany1an
+    2+mshkimot+NI+ThmPos+1+Pl+4: gimashkimoda1mnaanin
+    2+mshkimot+NI+ThmPos+1+Pl+Loc: gimashkimoda1mnaaning
+    2+mshkimot+NI+ThmPos+1+Pl+Pl: gimashkimoda1mnaany1an
+    2+mshkimot+NI+ThmPos+2+Pl+4: gimashkimoda1mwaan
+    2+mshkimot+NI+ThmPos+2+Pl+Loc: gimashkimoda1mwaang
+    2+mshkimot+NI+ThmPos+2+Pl+Pl: gimashkimoda1mwaaan
+    3+mshkimot+NI+ThmPos+2+Pl+4: omashkimoda1mwaan
+    3+mshkimot+NI+ThmPos+2+Pl+Loc: omashkimoda1mwaang
+    3+mshkimot+NI+ThmPos+2+Pl+Pl: omashkimoda1mwaaan
+    3+mshkimot+NI+ThmPos+3+4+4: omashkimoda1mniwan
+    3+mshkimot+NI+ThmPos+3+4+Loc: omashkimoda1mniing
+    3+mshkimot+NI+ThmPos+3+4+Pl: omashkimoda1mniwan
+    1+mshkimot+NI+ThmPos+Prt+4: nimashkimoda1mibaniin
+    1+mshkimot+NI+ThmPos+Prt+Loc: nimashkimoda1mibaniing
+    1+mshkimot+NI+ThmPos+Prt+Pl: nimashkimoda1mibani1an
+    2+mshkimot+NI+ThmPos+Prt+4: gimashkimoda1mibaniin
+    2+mshkimot+NI+ThmPos+Prt+Loc: gimashkimoda1mibaniing
+    2+mshkimot+NI+ThmPos+Prt+Pl: gimashkimoda1mibani1an
+    3+mshkimot+NI+ThmPos+Prt+4: omashkimoda1mibaniin
+    3+mshkimot+NI+ThmPos+Prt+Loc: omashkimoda1mibaniing
+    3+mshkimot+NI+ThmPos+Prt+Pl: omashkimoda1mibani1an
+    X+mshkimot+NI+ThmPos+Prt+4: imashkimoda1mibaniin
+    X+mshkimot+NI+ThmPos+Prt+Loc: imashkimoda1mibaniing
+    X+mshkimot+NI+ThmPos+Prt+Pl: imashkimoda1mibani1an
+    1+mshkimot+NI+Pej+1+Pl+Prt: [ nimashkimoda1shnaaniban, nimashkimoda1shnaaniba ]
+    1+mshkimot+NI+Pej+1+Pl+Voc+Pl: nimashkimoda1shnaany1dig
+    2+mshkimot+NI+Pej+1+Pl+Prt: [ gimashkimoda1shnaaniban, gimashkimoda1shnaaniba ]
+    2+mshkimot+NI+Pej+1+Pl+Voc+Pl: gimashkimoda1shnaany1dig
+    2+mshkimot+NI+Pej+2+Pl+Prt: [ gimashkimoda1shwaaban, gimashkimoda1shwaaba ]
+    2+mshkimot+NI+Pej+2+Pl+Voc+Pl: gimashkimoda1shwaadig
+    3+mshkimot+NI+Pej+2+Pl+Prt: [ omashkimoda1shwaaban, omashkimoda1shwaaba ]
+    3+mshkimot+NI+Pej+2+Pl+Voc+Pl: omashkimoda1shwaadig
+    3+mshkimot+NI+Pej+3+4+Prt: [ omashkimoda1shniwiban, omashkimoda1shniwiba, omashkimoda1shniiban, omashkimoda1shniiba ]
+    3+mshkimot+NI+Pej+3+4+Voc+Pl: omashkimoda1shniwdig
+    1+mshkimot+NI+Pej+1+Pl+4: nimashkimoda1shnaanin
+    1+mshkimot+NI+Pej+1+Pl+Loc: nimashkimoda1shnaaning
+    1+mshkimot+NI+Pej+1+Pl+Pl: nimashkimoda1shnaany1an
+    2+mshkimot+NI+Pej+1+Pl+4: gimashkimoda1shnaanin
+    2+mshkimot+NI+Pej+1+Pl+Loc: gimashkimoda1shnaaning
+    2+mshkimot+NI+Pej+1+Pl+Pl: gimashkimoda1shnaany1an
+    2+mshkimot+NI+Pej+2+Pl+4: gimashkimoda1shwaan
+    2+mshkimot+NI+Pej+2+Pl+Loc: gimashkimoda1shwaang
+    2+mshkimot+NI+Pej+2+Pl+Pl: gimashkimoda1shwaaan
+    3+mshkimot+NI+Pej+2+Pl+4: omashkimoda1shwaan
+    3+mshkimot+NI+Pej+2+Pl+Loc: omashkimoda1shwaang
+    3+mshkimot+NI+Pej+2+Pl+Pl: omashkimoda1shwaaan
+    3+mshkimot+NI+Pej+3+4+4: omashkimoda1shniwan
+    3+mshkimot+NI+Pej+3+4+Loc: omashkimoda1shniing
+    3+mshkimot+NI+Pej+3+4+Pl: omashkimoda1shniwan
+    1+mshkimot+NI+Pej+Prt+4: nimashkimoda1shibaniin
+    1+mshkimot+NI+Pej+Prt+Loc: nimashkimoda1shibaniing
+    1+mshkimot+NI+Pej+Prt+Pl: nimashkimoda1shibani1an
+    2+mshkimot+NI+Pej+Prt+4: gimashkimoda1shibaniin
+    2+mshkimot+NI+Pej+Prt+Loc: gimashkimoda1shibaniing
+    2+mshkimot+NI+Pej+Prt+Pl: gimashkimoda1shibani1an
+    3+mshkimot+NI+Pej+Prt+4: omashkimoda1shibaniin
+    3+mshkimot+NI+Pej+Prt+Loc: omashkimoda1shibaniing
+    3+mshkimot+NI+Pej+Prt+Pl: omashkimoda1shibani1an
+    X+mshkimot+NI+Pej+Prt+4: imashkimoda1shibaniin
+    X+mshkimot+NI+Pej+Prt+Loc: imashkimoda1shibaniing
+    X+mshkimot+NI+Pej+Prt+Pl: imashkimoda1shibani1an
+    1+mshkimot+NI+1+Pl+Prt+4: nimashkimoda1naanibaniin
+    1+mshkimot+NI+1+Pl+Prt+Loc: nimashkimoda1naanibaniing
+    1+mshkimot+NI+1+Pl+Prt+Pl: nimashkimoda1naanibani1an
+    2+mshkimot+NI+1+Pl+Prt+4: gimashkimoda1naanibaniin
+    2+mshkimot+NI+1+Pl+Prt+Loc: gimashkimoda1naanibaniing
+    2+mshkimot+NI+1+Pl+Prt+Pl: gimashkimoda1naanibani1an
+    2+mshkimot+NI+2+Pl+Prt+4: gimashkimoda1waabaniin
+    2+mshkimot+NI+2+Pl+Prt+Loc: gimashkimoda1waabaniing
+    2+mshkimot+NI+2+Pl+Prt+Pl: gimashkimoda1waabani1an
+    3+mshkimot+NI+2+Pl+Prt+4: omashkimoda1waabaniin
+    3+mshkimot+NI+2+Pl+Prt+Loc: omashkimoda1waabaniing
+    3+mshkimot+NI+2+Pl+Prt+Pl: omashkimoda1waabani1an
+    3+mshkimot+NI+3+4+Prt+4: [ omashkimoda1niwibaniin, omashkimoda1niibaniin ]
+    3+mshkimot+NI+3+4+Prt+Loc: [ omashkimoda1niwibaniing, omashkimoda1niibaniing ]
+    3+mshkimot+NI+3+4+Prt+Pl: [ omashkimoda1niwibani1an, omashkimoda1niibani1an ]
+    mshkimot+NI+Con+Pej+Prt+4: mashkimoda1enyishibaniin
+    mshkimot+NI+Con+Pej+Prt+Loc: mashkimoda1enyishibaniing
+    mshkimot+NI+Con+Pej+Prt+Pl: mashkimoda1enyishibani1an
+    mshkimot+NI+Dim+Pej+Prt+4: mashkimoda1ensishibaniin
+    mshkimot+NI+Dim+Pej+Prt+Loc: mashkimoda1ensishibaniing
+    mshkimot+NI+Dim+Pej+Prt+Pl: mashkimoda1ensishibani1an
+    1+mshkimot+NI+Con+ThmPos+Pej+1+Pl: [ nimashkimoda1enymishnaan, nimashkimoda1enymishnaa ]
+    1+mshkimot+NI+Dim+ThmPos+Pej+1+Pl: [ nimashkimoda1ensmishnaan, nimashkimoda1ensmishnaa ]
+    2+mshkimot+NI+Con+ThmPos+Pej+1+Pl: [ gimashkimoda1enymishnaan, gimashkimoda1enymishnaa ]
+    2+mshkimot+NI+Con+ThmPos+Pej+2+Pl: gimashkimoda1enymishwaa
+    2+mshkimot+NI+Dim+ThmPos+Pej+1+Pl: [ gimashkimoda1ensmishnaan, gimashkimoda1ensmishnaa ]
+    2+mshkimot+NI+Dim+ThmPos+Pej+2+Pl: gimashkimoda1ensmishwaa
+    3+mshkimot+NI+Con+ThmPos+Pej+2+Pl: omashkimoda1enymishwaa
+    3+mshkimot+NI+Con+ThmPos+Pej+3+4: omashkimoda1enymishniw
+    3+mshkimot+NI+Dim+ThmPos+Pej+2+Pl: omashkimoda1ensmishwaa
+    3+mshkimot+NI+Dim+ThmPos+Pej+3+4: omashkimoda1ensmishniw
+    1+mshkimot+NI+Con+ThmPos+Pej+Prt: [ nimashkimoda1enymishiban, nimashkimoda1enymishiba ]
+    1+mshkimot+NI+Con+ThmPos+Pej+Voc+Pl: nimashkimoda1enymishdig
+    1+mshkimot+NI+Dim+ThmPos+Pej+Prt: [ nimashkimoda1ensmishiban, nimashkimoda1ensmishiba ]
+    1+mshkimot+NI+Dim+ThmPos+Pej+Voc+Pl: nimashkimoda1ensmishdig
+    2+mshkimot+NI+Con+ThmPos+Pej+Prt: [ gimashkimoda1enymishiban, gimashkimoda1enymishiba ]
+    2+mshkimot+NI+Con+ThmPos+Pej+Voc+Pl: gimashkimoda1enymishdig
+    2+mshkimot+NI+Dim+ThmPos+Pej+Prt: [ gimashkimoda1ensmishiban, gimashkimoda1ensmishiba ]
+    2+mshkimot+NI+Dim+ThmPos+Pej+Voc+Pl: gimashkimoda1ensmishdig
+    3+mshkimot+NI+Con+ThmPos+Pej+Prt: [ omashkimoda1enymishiban, omashkimoda1enymishiba ]
+    3+mshkimot+NI+Con+ThmPos+Pej+Voc+Pl: omashkimoda1enymishdig
+    3+mshkimot+NI+Dim+ThmPos+Pej+Prt: [ omashkimoda1ensmishiban, omashkimoda1ensmishiba ]
+    3+mshkimot+NI+Dim+ThmPos+Pej+Voc+Pl: omashkimoda1ensmishdig
+    X+mshkimot+NI+Con+ThmPos+Pej+Prt: [ imashkimoda1enymishiban, imashkimoda1enymishiba ]
+    X+mshkimot+NI+Con+ThmPos+Pej+Voc+Pl: imashkimoda1enymishdig
+    X+mshkimot+NI+Dim+ThmPos+Pej+Prt: [ imashkimoda1ensmishiban, imashkimoda1ensmishiba ]
+    X+mshkimot+NI+Dim+ThmPos+Pej+Voc+Pl: imashkimoda1ensmishdig
+    1+mshkimot+NI+Con+ThmPos+Pej+4: nimashkimoda1enymishan
+    1+mshkimot+NI+Con+ThmPos+Pej+Loc: nimashkimoda1enymishing
+    1+mshkimot+NI+Con+ThmPos+Pej+Pl: nimashkimoda1enymishan
+    1+mshkimot+NI+Dim+ThmPos+Pej+4: nimashkimoda1ensmishan
+    1+mshkimot+NI+Dim+ThmPos+Pej+Loc: nimashkimoda1ensmishing
+    1+mshkimot+NI+Dim+ThmPos+Pej+Pl: nimashkimoda1ensmishan
+    2+mshkimot+NI+Con+ThmPos+Pej+4: gimashkimoda1enymishan
+    2+mshkimot+NI+Con+ThmPos+Pej+Loc: gimashkimoda1enymishing
+    2+mshkimot+NI+Con+ThmPos+Pej+Pl: gimashkimoda1enymishan
+    2+mshkimot+NI+Dim+ThmPos+Pej+4: gimashkimoda1ensmishan
+    2+mshkimot+NI+Dim+ThmPos+Pej+Loc: gimashkimoda1ensmishing
+    2+mshkimot+NI+Dim+ThmPos+Pej+Pl: gimashkimoda1ensmishan
+    3+mshkimot+NI+Con+ThmPos+Pej+4: omashkimoda1enymishan
+    3+mshkimot+NI+Con+ThmPos+Pej+Loc: omashkimoda1enymishing
+    3+mshkimot+NI+Con+ThmPos+Pej+Pl: omashkimoda1enymishan
+    3+mshkimot+NI+Dim+ThmPos+Pej+4: omashkimoda1ensmishan
+    3+mshkimot+NI+Dim+ThmPos+Pej+Loc: omashkimoda1ensmishing
+    3+mshkimot+NI+Dim+ThmPos+Pej+Pl: omashkimoda1ensmishan
+    X+mshkimot+NI+Con+ThmPos+Pej+4: imashkimoda1enymishan
+    X+mshkimot+NI+Con+ThmPos+Pej+Loc: imashkimoda1enymishing
+    X+mshkimot+NI+Con+ThmPos+Pej+Pl: imashkimoda1enymishan
+    X+mshkimot+NI+Dim+ThmPos+Pej+4: imashkimoda1ensmishan
+    X+mshkimot+NI+Dim+ThmPos+Pej+Loc: imashkimoda1ensmishing
+    X+mshkimot+NI+Dim+ThmPos+Pej+Pl: imashkimoda1ensmishan
+    1+mshkimot+NI+Con+ThmPos+1+Pl+Prt: [ nimashkimoda1enymnaaniban, nimashkimoda1enymnaaniba ]
+    1+mshkimot+NI+Con+ThmPos+1+Pl+Voc+Pl: nimashkimoda1enymnaany1dig
+    1+mshkimot+NI+Dim+ThmPos+1+Pl+Prt: [ nimashkimoda1ensmnaaniban, nimashkimoda1ensmnaaniba ]
+    1+mshkimot+NI+Dim+ThmPos+1+Pl+Voc+Pl: nimashkimoda1ensmnaany1dig
+    2+mshkimot+NI+Con+ThmPos+1+Pl+Prt: [ gimashkimoda1enymnaaniban, gimashkimoda1enymnaaniba ]
+    2+mshkimot+NI+Con+ThmPos+1+Pl+Voc+Pl: gimashkimoda1enymnaany1dig
+    2+mshkimot+NI+Con+ThmPos+2+Pl+Prt: [ gimashkimoda1enymwaaban, gimashkimoda1enymwaaba ]
+    2+mshkimot+NI+Con+ThmPos+2+Pl+Voc+Pl: gimashkimoda1enymwaadig
+    2+mshkimot+NI+Dim+ThmPos+1+Pl+Prt: [ gimashkimoda1ensmnaaniban, gimashkimoda1ensmnaaniba ]
+    2+mshkimot+NI+Dim+ThmPos+1+Pl+Voc+Pl: gimashkimoda1ensmnaany1dig
+    2+mshkimot+NI+Dim+ThmPos+2+Pl+Prt: [ gimashkimoda1ensmwaaban, gimashkimoda1ensmwaaba ]
+    2+mshkimot+NI+Dim+ThmPos+2+Pl+Voc+Pl: gimashkimoda1ensmwaadig
+    3+mshkimot+NI+Con+ThmPos+2+Pl+Prt: [ omashkimoda1enymwaaban, omashkimoda1enymwaaba ]
+    3+mshkimot+NI+Con+ThmPos+2+Pl+Voc+Pl: omashkimoda1enymwaadig
+    3+mshkimot+NI+Con+ThmPos+3+4+Prt: [ omashkimoda1enymniwiban, omashkimoda1enymniwiba, omashkimoda1enymniiban, omashkimoda1enymniiba ]
+    3+mshkimot+NI+Con+ThmPos+3+4+Voc+Pl: omashkimoda1enymniwdig
+    3+mshkimot+NI+Dim+ThmPos+2+Pl+Prt: [ omashkimoda1ensmwaaban, omashkimoda1ensmwaaba ]
+    3+mshkimot+NI+Dim+ThmPos+2+Pl+Voc+Pl: omashkimoda1ensmwaadig
+    3+mshkimot+NI+Dim+ThmPos+3+4+Prt: [ omashkimoda1ensmniwiban, omashkimoda1ensmniwiba, omashkimoda1ensmniiban, omashkimoda1ensmniiba ]
+    3+mshkimot+NI+Dim+ThmPos+3+4+Voc+Pl: omashkimoda1ensmniwdig
+    1+mshkimot+NI+Con+ThmPos+1+Pl+4: nimashkimoda1enymnaanin
+    1+mshkimot+NI+Con+ThmPos+1+Pl+Loc: nimashkimoda1enymnaaning
+    1+mshkimot+NI+Con+ThmPos+1+Pl+Pl: nimashkimoda1enymnaany1an
+    1+mshkimot+NI+Dim+ThmPos+1+Pl+4: nimashkimoda1ensmnaanin
+    1+mshkimot+NI+Dim+ThmPos+1+Pl+Loc: nimashkimoda1ensmnaaning
+    1+mshkimot+NI+Dim+ThmPos+1+Pl+Pl: nimashkimoda1ensmnaany1an
+    2+mshkimot+NI+Con+ThmPos+1+Pl+4: gimashkimoda1enymnaanin
+    2+mshkimot+NI+Con+ThmPos+1+Pl+Loc: gimashkimoda1enymnaaning
+    2+mshkimot+NI+Con+ThmPos+1+Pl+Pl: gimashkimoda1enymnaany1an
+    2+mshkimot+NI+Con+ThmPos+2+Pl+4: gimashkimoda1enymwaan
+    2+mshkimot+NI+Con+ThmPos+2+Pl+Loc: gimashkimoda1enymwaang
+    2+mshkimot+NI+Con+ThmPos+2+Pl+Pl: gimashkimoda1enymwaaan
+    2+mshkimot+NI+Dim+ThmPos+1+Pl+4: gimashkimoda1ensmnaanin
+    2+mshkimot+NI+Dim+ThmPos+1+Pl+Loc: gimashkimoda1ensmnaaning
+    2+mshkimot+NI+Dim+ThmPos+1+Pl+Pl: gimashkimoda1ensmnaany1an
+    2+mshkimot+NI+Dim+ThmPos+2+Pl+4: gimashkimoda1ensmwaan
+    2+mshkimot+NI+Dim+ThmPos+2+Pl+Loc: gimashkimoda1ensmwaang
+    2+mshkimot+NI+Dim+ThmPos+2+Pl+Pl: gimashkimoda1ensmwaaan
+    3+mshkimot+NI+Con+ThmPos+2+Pl+4: omashkimoda1enymwaan
+    3+mshkimot+NI+Con+ThmPos+2+Pl+Loc: omashkimoda1enymwaang
+    3+mshkimot+NI+Con+ThmPos+2+Pl+Pl: omashkimoda1enymwaaan
+    3+mshkimot+NI+Con+ThmPos+3+4+4: omashkimoda1enymniwan
+    3+mshkimot+NI+Con+ThmPos+3+4+Loc: omashkimoda1enymniing
+    3+mshkimot+NI+Con+ThmPos+3+4+Pl: omashkimoda1enymniwan
+    3+mshkimot+NI+Dim+ThmPos+2+Pl+4: omashkimoda1ensmwaan
+    3+mshkimot+NI+Dim+ThmPos+2+Pl+Loc: omashkimoda1ensmwaang
+    3+mshkimot+NI+Dim+ThmPos+2+Pl+Pl: omashkimoda1ensmwaaan
+    3+mshkimot+NI+Dim+ThmPos+3+4+4: omashkimoda1ensmniwan
+    3+mshkimot+NI+Dim+ThmPos+3+4+Loc: omashkimoda1ensmniing
+    3+mshkimot+NI+Dim+ThmPos+3+4+Pl: omashkimoda1ensmniwan
+    1+mshkimot+NI+Con+ThmPos+Prt+4: nimashkimoda1enymibaniin
+    1+mshkimot+NI+Con+ThmPos+Prt+Loc: nimashkimoda1enymibaniing
+    1+mshkimot+NI+Con+ThmPos+Prt+Pl: nimashkimoda1enymibani1an
+    1+mshkimot+NI+Dim+ThmPos+Prt+4: nimashkimoda1ensmibaniin
+    1+mshkimot+NI+Dim+ThmPos+Prt+Loc: nimashkimoda1ensmibaniing
+    1+mshkimot+NI+Dim+ThmPos+Prt+Pl: nimashkimoda1ensmibani1an
+    2+mshkimot+NI+Con+ThmPos+Prt+4: gimashkimoda1enymibaniin
+    2+mshkimot+NI+Con+ThmPos+Prt+Loc: gimashkimoda1enymibaniing
+    2+mshkimot+NI+Con+ThmPos+Prt+Pl: gimashkimoda1enymibani1an
+    2+mshkimot+NI+Dim+ThmPos+Prt+4: gimashkimoda1ensmibaniin
+    2+mshkimot+NI+Dim+ThmPos+Prt+Loc: gimashkimoda1ensmibaniing
+    2+mshkimot+NI+Dim+ThmPos+Prt+Pl: gimashkimoda1ensmibani1an
+    3+mshkimot+NI+Con+ThmPos+Prt+4: omashkimoda1enymibaniin
+    3+mshkimot+NI+Con+ThmPos+Prt+Loc: omashkimoda1enymibaniing
+    3+mshkimot+NI+Con+ThmPos+Prt+Pl: omashkimoda1enymibani1an
+    3+mshkimot+NI+Dim+ThmPos+Prt+4: omashkimoda1ensmibaniin
+    3+mshkimot+NI+Dim+ThmPos+Prt+Loc: omashkimoda1ensmibaniing
+    3+mshkimot+NI+Dim+ThmPos+Prt+Pl: omashkimoda1ensmibani1an
+    X+mshkimot+NI+Con+ThmPos+Prt+4: imashkimoda1enymibaniin
+    X+mshkimot+NI+Con+ThmPos+Prt+Loc: imashkimoda1enymibaniing
+    X+mshkimot+NI+Con+ThmPos+Prt+Pl: imashkimoda1enymibani1an
+    X+mshkimot+NI+Dim+ThmPos+Prt+4: imashkimoda1ensmibaniin
+    X+mshkimot+NI+Dim+ThmPos+Prt+Loc: imashkimoda1ensmibaniing
+    X+mshkimot+NI+Dim+ThmPos+Prt+Pl: imashkimoda1ensmibani1an
+    1+mshkimot+NI+Con+Pej+1+Pl+Prt: [ nimashkimoda1enyishnaaniban, nimashkimoda1enyishnaaniba ]
+    1+mshkimot+NI+Con+Pej+1+Pl+Voc+Pl: nimashkimoda1enyishnaany1dig
+    1+mshkimot+NI+Dim+Pej+1+Pl+Prt: [ nimashkimoda1ensishnaaniban, nimashkimoda1ensishnaaniba ]
+    1+mshkimot+NI+Dim+Pej+1+Pl+Voc+Pl: nimashkimoda1ensishnaany1dig
+    2+mshkimot+NI+Con+Pej+1+Pl+Prt: [ gimashkimoda1enyishnaaniban, gimashkimoda1enyishnaaniba ]
+    2+mshkimot+NI+Con+Pej+1+Pl+Voc+Pl: gimashkimoda1enyishnaany1dig
+    2+mshkimot+NI+Con+Pej+2+Pl+Prt: [ gimashkimoda1enyishwaaban, gimashkimoda1enyishwaaba ]
+    2+mshkimot+NI+Con+Pej+2+Pl+Voc+Pl: gimashkimoda1enyishwaadig
+    2+mshkimot+NI+Dim+Pej+1+Pl+Prt: [ gimashkimoda1ensishnaaniban, gimashkimoda1ensishnaaniba ]
+    2+mshkimot+NI+Dim+Pej+1+Pl+Voc+Pl: gimashkimoda1ensishnaany1dig
+    2+mshkimot+NI+Dim+Pej+2+Pl+Prt: [ gimashkimoda1ensishwaaban, gimashkimoda1ensishwaaba ]
+    2+mshkimot+NI+Dim+Pej+2+Pl+Voc+Pl: gimashkimoda1ensishwaadig
+    3+mshkimot+NI+Con+Pej+2+Pl+Prt: [ omashkimoda1enyishwaaban, omashkimoda1enyishwaaba ]
+    3+mshkimot+NI+Con+Pej+2+Pl+Voc+Pl: omashkimoda1enyishwaadig
+    3+mshkimot+NI+Con+Pej+3+4+Prt: [ omashkimoda1enyishniwiban, omashkimoda1enyishniwiba, omashkimoda1enyishniiban, omashkimoda1enyishniiba ]
+    3+mshkimot+NI+Con+Pej+3+4+Voc+Pl: omashkimoda1enyishniwdig
+    3+mshkimot+NI+Dim+Pej+2+Pl+Prt: [ omashkimoda1ensishwaaban, omashkimoda1ensishwaaba ]
+    3+mshkimot+NI+Dim+Pej+2+Pl+Voc+Pl: omashkimoda1ensishwaadig
+    3+mshkimot+NI+Dim+Pej+3+4+Prt: [ omashkimoda1ensishniwiban, omashkimoda1ensishniwiba, omashkimoda1ensishniiban, omashkimoda1ensishniiba ]
+    3+mshkimot+NI+Dim+Pej+3+4+Voc+Pl: omashkimoda1ensishniwdig
+    1+mshkimot+NI+Con+Pej+1+Pl+4: nimashkimoda1enyishnaanin
+    1+mshkimot+NI+Con+Pej+1+Pl+Loc: nimashkimoda1enyishnaaning
+    1+mshkimot+NI+Con+Pej+1+Pl+Pl: nimashkimoda1enyishnaany1an
+    1+mshkimot+NI+Dim+Pej+1+Pl+4: nimashkimoda1ensishnaanin
+    1+mshkimot+NI+Dim+Pej+1+Pl+Loc: nimashkimoda1ensishnaaning
+    1+mshkimot+NI+Dim+Pej+1+Pl+Pl: nimashkimoda1ensishnaany1an
+    2+mshkimot+NI+Con+Pej+1+Pl+4: gimashkimoda1enyishnaanin
+    2+mshkimot+NI+Con+Pej+1+Pl+Loc: gimashkimoda1enyishnaaning
+    2+mshkimot+NI+Con+Pej+1+Pl+Pl: gimashkimoda1enyishnaany1an
+    2+mshkimot+NI+Con+Pej+2+Pl+4: gimashkimoda1enyishwaan
+    2+mshkimot+NI+Con+Pej+2+Pl+Loc: gimashkimoda1enyishwaang
+    2+mshkimot+NI+Con+Pej+2+Pl+Pl: gimashkimoda1enyishwaaan
+    2+mshkimot+NI+Dim+Pej+1+Pl+4: gimashkimoda1ensishnaanin
+    2+mshkimot+NI+Dim+Pej+1+Pl+Loc: gimashkimoda1ensishnaaning
+    2+mshkimot+NI+Dim+Pej+1+Pl+Pl: gimashkimoda1ensishnaany1an
+    2+mshkimot+NI+Dim+Pej+2+Pl+4: gimashkimoda1ensishwaan
+    2+mshkimot+NI+Dim+Pej+2+Pl+Loc: gimashkimoda1ensishwaang
+    2+mshkimot+NI+Dim+Pej+2+Pl+Pl: gimashkimoda1ensishwaaan
+    3+mshkimot+NI+Con+Pej+2+Pl+4: omashkimoda1enyishwaan
+    3+mshkimot+NI+Con+Pej+2+Pl+Loc: omashkimoda1enyishwaang
+    3+mshkimot+NI+Con+Pej+2+Pl+Pl: omashkimoda1enyishwaaan
+    3+mshkimot+NI+Con+Pej+3+4+4: omashkimoda1enyishniwan
+    3+mshkimot+NI+Con+Pej+3+4+Loc: omashkimoda1enyishniing
+    3+mshkimot+NI+Con+Pej+3+4+Pl: omashkimoda1enyishniwan
+    3+mshkimot+NI+Dim+Pej+2+Pl+4: omashkimoda1ensishwaan
+    3+mshkimot+NI+Dim+Pej+2+Pl+Loc: omashkimoda1ensishwaang
+    3+mshkimot+NI+Dim+Pej+2+Pl+Pl: omashkimoda1ensishwaaan
+    3+mshkimot+NI+Dim+Pej+3+4+4: omashkimoda1ensishniwan
+    3+mshkimot+NI+Dim+Pej+3+4+Loc: omashkimoda1ensishniing
+    3+mshkimot+NI+Dim+Pej+3+4+Pl: omashkimoda1ensishniwan
+    1+mshkimot+NI+Con+Pej+Prt+4: nimashkimoda1enyishibaniin
+    1+mshkimot+NI+Con+Pej+Prt+Loc: nimashkimoda1enyishibaniing
+    1+mshkimot+NI+Con+Pej+Prt+Pl: nimashkimoda1enyishibani1an
+    1+mshkimot+NI+Dim+Pej+Prt+4: nimashkimoda1ensishibaniin
+    1+mshkimot+NI+Dim+Pej+Prt+Loc: nimashkimoda1ensishibaniing
+    1+mshkimot+NI+Dim+Pej+Prt+Pl: nimashkimoda1ensishibani1an
+    2+mshkimot+NI+Con+Pej+Prt+4: gimashkimoda1enyishibaniin
+    2+mshkimot+NI+Con+Pej+Prt+Loc: gimashkimoda1enyishibaniing
+    2+mshkimot+NI+Con+Pej+Prt+Pl: gimashkimoda1enyishibani1an
+    2+mshkimot+NI+Dim+Pej+Prt+4: gimashkimoda1ensishibaniin
+    2+mshkimot+NI+Dim+Pej+Prt+Loc: gimashkimoda1ensishibaniing
+    2+mshkimot+NI+Dim+Pej+Prt+Pl: gimashkimoda1ensishibani1an
+    3+mshkimot+NI+Con+Pej+Prt+4: omashkimoda1enyishibaniin
+    3+mshkimot+NI+Con+Pej+Prt+Loc: omashkimoda1enyishibaniing
+    3+mshkimot+NI+Con+Pej+Prt+Pl: omashkimoda1enyishibani1an
+    3+mshkimot+NI+Dim+Pej+Prt+4: omashkimoda1ensishibaniin
+    3+mshkimot+NI+Dim+Pej+Prt+Loc: omashkimoda1ensishibaniing
+    3+mshkimot+NI+Dim+Pej+Prt+Pl: omashkimoda1ensishibani1an
+    X+mshkimot+NI+Con+Pej+Prt+4: imashkimoda1enyishibaniin
+    X+mshkimot+NI+Con+Pej+Prt+Loc: imashkimoda1enyishibaniing
+    X+mshkimot+NI+Con+Pej+Prt+Pl: imashkimoda1enyishibani1an
+    X+mshkimot+NI+Dim+Pej+Prt+4: imashkimoda1ensishibaniin
+    X+mshkimot+NI+Dim+Pej+Prt+Loc: imashkimoda1ensishibaniing
+    X+mshkimot+NI+Dim+Pej+Prt+Pl: imashkimoda1ensishibani1an
+    1+mshkimot+NI+Con+1+Pl+Prt+4: nimashkimoda1enynaanibaniin
+    1+mshkimot+NI+Con+1+Pl+Prt+Loc: nimashkimoda1enynaanibaniing
+    1+mshkimot+NI+Con+1+Pl+Prt+Pl: nimashkimoda1enynaanibani1an
+    1+mshkimot+NI+Dim+1+Pl+Prt+4: nimashkimoda1ensnaanibaniin
+    1+mshkimot+NI+Dim+1+Pl+Prt+Loc: nimashkimoda1ensnaanibaniing
+    1+mshkimot+NI+Dim+1+Pl+Prt+Pl: nimashkimoda1ensnaanibani1an
+    2+mshkimot+NI+Con+1+Pl+Prt+4: gimashkimoda1enynaanibaniin
+    2+mshkimot+NI+Con+1+Pl+Prt+Loc: gimashkimoda1enynaanibaniing
+    2+mshkimot+NI+Con+1+Pl+Prt+Pl: gimashkimoda1enynaanibani1an
+    2+mshkimot+NI+Con+2+Pl+Prt+4: gimashkimoda1enywaabaniin
+    2+mshkimot+NI+Con+2+Pl+Prt+Loc: gimashkimoda1enywaabaniing
+    2+mshkimot+NI+Con+2+Pl+Prt+Pl: gimashkimoda1enywaabani1an
+    2+mshkimot+NI+Dim+1+Pl+Prt+4: gimashkimoda1ensnaanibaniin
+    2+mshkimot+NI+Dim+1+Pl+Prt+Loc: gimashkimoda1ensnaanibaniing
+    2+mshkimot+NI+Dim+1+Pl+Prt+Pl: gimashkimoda1ensnaanibani1an
+    2+mshkimot+NI+Dim+2+Pl+Prt+4: gimashkimoda1enswaabaniin
+    2+mshkimot+NI+Dim+2+Pl+Prt+Loc: gimashkimoda1enswaabaniing
+    2+mshkimot+NI+Dim+2+Pl+Prt+Pl: gimashkimoda1enswaabani1an
+    3+mshkimot+NI+Con+2+Pl+Prt+4: omashkimoda1enywaabaniin
+    3+mshkimot+NI+Con+2+Pl+Prt+Loc: omashkimoda1enywaabaniing
+    3+mshkimot+NI+Con+2+Pl+Prt+Pl: omashkimoda1enywaabani1an
+    3+mshkimot+NI+Con+3+4+Prt+4: [ omashkimoda1enyniwibaniin, omashkimoda1enyniibaniin ]
+    3+mshkimot+NI+Con+3+4+Prt+Loc: [ omashkimoda1enyniwibaniing, omashkimoda1enyniibaniing ]
+    3+mshkimot+NI+Con+3+4+Prt+Pl: [ omashkimoda1enyniwibani1an, omashkimoda1enyniibani1an ]
+    3+mshkimot+NI+Dim+2+Pl+Prt+4: omashkimoda1enswaabaniin
+    3+mshkimot+NI+Dim+2+Pl+Prt+Loc: omashkimoda1enswaabaniing
+    3+mshkimot+NI+Dim+2+Pl+Prt+Pl: omashkimoda1enswaabani1an
+    3+mshkimot+NI+Dim+3+4+Prt+4: [ omashkimoda1ensniwibaniin, omashkimoda1ensniibaniin ]
+    3+mshkimot+NI+Dim+3+4+Prt+Loc: [ omashkimoda1ensniwibaniing, omashkimoda1ensniibaniing ]
+    3+mshkimot+NI+Dim+3+4+Prt+Pl: [ omashkimoda1ensniwibani1an, omashkimoda1ensniibani1an ]
+    1+mshkimot+NI+ThmPos+Pej+1+Pl+Prt: [ nimashkimoda1mishnaaniban, nimashkimoda1mishnaaniba ]
+    1+mshkimot+NI+ThmPos+Pej+1+Pl+Voc+Pl: nimashkimoda1mishnaany1dig
+    2+mshkimot+NI+ThmPos+Pej+1+Pl+Prt: [ gimashkimoda1mishnaaniban, gimashkimoda1mishnaaniba ]
+    2+mshkimot+NI+ThmPos+Pej+1+Pl+Voc+Pl: gimashkimoda1mishnaany1dig
+    2+mshkimot+NI+ThmPos+Pej+2+Pl+Prt: [ gimashkimoda1mishwaaban, gimashkimoda1mishwaaba ]
+    2+mshkimot+NI+ThmPos+Pej+2+Pl+Voc+Pl: gimashkimoda1mishwaadig
+    3+mshkimot+NI+ThmPos+Pej+2+Pl+Prt: [ omashkimoda1mishwaaban, omashkimoda1mishwaaba ]
+    3+mshkimot+NI+ThmPos+Pej+2+Pl+Voc+Pl: omashkimoda1mishwaadig
+    3+mshkimot+NI+ThmPos+Pej+3+4+Prt: [ omashkimoda1mishniwiban, omashkimoda1mishniwiba, omashkimoda1mishniiban, omashkimoda1mishniiba ]
+    3+mshkimot+NI+ThmPos+Pej+3+4+Voc+Pl: omashkimoda1mishniwdig
+    1+mshkimot+NI+ThmPos+Pej+1+Pl+4: nimashkimoda1mishnaanin
+    1+mshkimot+NI+ThmPos+Pej+1+Pl+Loc: nimashkimoda1mishnaaning
+    1+mshkimot+NI+ThmPos+Pej+1+Pl+Pl: nimashkimoda1mishnaany1an
+    2+mshkimot+NI+ThmPos+Pej+1+Pl+4: gimashkimoda1mishnaanin
+    2+mshkimot+NI+ThmPos+Pej+1+Pl+Loc: gimashkimoda1mishnaaning
+    2+mshkimot+NI+ThmPos+Pej+1+Pl+Pl: gimashkimoda1mishnaany1an
+    2+mshkimot+NI+ThmPos+Pej+2+Pl+4: gimashkimoda1mishwaan
+    2+mshkimot+NI+ThmPos+Pej+2+Pl+Loc: gimashkimoda1mishwaang
+    2+mshkimot+NI+ThmPos+Pej+2+Pl+Pl: gimashkimoda1mishwaaan
+    3+mshkimot+NI+ThmPos+Pej+2+Pl+4: omashkimoda1mishwaan
+    3+mshkimot+NI+ThmPos+Pej+2+Pl+Loc: omashkimoda1mishwaang
+    3+mshkimot+NI+ThmPos+Pej+2+Pl+Pl: omashkimoda1mishwaaan
+    3+mshkimot+NI+ThmPos+Pej+3+4+4: omashkimoda1mishniwan
+    3+mshkimot+NI+ThmPos+Pej+3+4+Loc: omashkimoda1mishniing
+    3+mshkimot+NI+ThmPos+Pej+3+4+Pl: omashkimoda1mishniwan
+    1+mshkimot+NI+ThmPos+Pej+Prt+4: nimashkimoda1mishibaniin
+    1+mshkimot+NI+ThmPos+Pej+Prt+Loc: nimashkimoda1mishibaniing
+    1+mshkimot+NI+ThmPos+Pej+Prt+Pl: nimashkimoda1mishibani1an
+    2+mshkimot+NI+ThmPos+Pej+Prt+4: gimashkimoda1mishibaniin
+    2+mshkimot+NI+ThmPos+Pej+Prt+Loc: gimashkimoda1mishibaniing
+    2+mshkimot+NI+ThmPos+Pej+Prt+Pl: gimashkimoda1mishibani1an
+    3+mshkimot+NI+ThmPos+Pej+Prt+4: omashkimoda1mishibaniin
+    3+mshkimot+NI+ThmPos+Pej+Prt+Loc: omashkimoda1mishibaniing
+    3+mshkimot+NI+ThmPos+Pej+Prt+Pl: omashkimoda1mishibani1an
+    X+mshkimot+NI+ThmPos+Pej+Prt+4: imashkimoda1mishibaniin
+    X+mshkimot+NI+ThmPos+Pej+Prt+Loc: imashkimoda1mishibaniing
+    X+mshkimot+NI+ThmPos+Pej+Prt+Pl: imashkimoda1mishibani1an
+    1+mshkimot+NI+ThmPos+1+Pl+Prt+4: nimashkimoda1mnaanibaniin
+    1+mshkimot+NI+ThmPos+1+Pl+Prt+Loc: nimashkimoda1mnaanibaniing
+    1+mshkimot+NI+ThmPos+1+Pl+Prt+Pl: nimashkimoda1mnaanibani1an
+    2+mshkimot+NI+ThmPos+1+Pl+Prt+4: gimashkimoda1mnaanibaniin
+    2+mshkimot+NI+ThmPos+1+Pl+Prt+Loc: gimashkimoda1mnaanibaniing
+    2+mshkimot+NI+ThmPos+1+Pl+Prt+Pl: gimashkimoda1mnaanibani1an
+    2+mshkimot+NI+ThmPos+2+Pl+Prt+4: gimashkimoda1mwaabaniin
+    2+mshkimot+NI+ThmPos+2+Pl+Prt+Loc: gimashkimoda1mwaabaniing
+    2+mshkimot+NI+ThmPos+2+Pl+Prt+Pl: gimashkimoda1mwaabani1an
+    3+mshkimot+NI+ThmPos+2+Pl+Prt+4: omashkimoda1mwaabaniin
+    3+mshkimot+NI+ThmPos+2+Pl+Prt+Loc: omashkimoda1mwaabaniing
+    3+mshkimot+NI+ThmPos+2+Pl+Prt+Pl: omashkimoda1mwaabani1an
+    3+mshkimot+NI+ThmPos+3+4+Prt+4: [ omashkimoda1mniwibaniin, omashkimoda1mniibaniin ]
+    3+mshkimot+NI+ThmPos+3+4+Prt+Loc: [ omashkimoda1mniwibaniing, omashkimoda1mniibaniing ]
+    3+mshkimot+NI+ThmPos+3+4+Prt+Pl: [ omashkimoda1mniwibani1an, omashkimoda1mniibani1an ]
+    1+mshkimot+NI+Pej+1+Pl+Prt+4: nimashkimoda1shnaanibaniin
+    1+mshkimot+NI+Pej+1+Pl+Prt+Loc: nimashkimoda1shnaanibaniing
+    1+mshkimot+NI+Pej+1+Pl+Prt+Pl: nimashkimoda1shnaanibani1an
+    2+mshkimot+NI+Pej+1+Pl+Prt+4: gimashkimoda1shnaanibaniin
+    2+mshkimot+NI+Pej+1+Pl+Prt+Loc: gimashkimoda1shnaanibaniing
+    2+mshkimot+NI+Pej+1+Pl+Prt+Pl: gimashkimoda1shnaanibani1an
+    2+mshkimot+NI+Pej+2+Pl+Prt+4: gimashkimoda1shwaabaniin
+    2+mshkimot+NI+Pej+2+Pl+Prt+Loc: gimashkimoda1shwaabaniing
+    2+mshkimot+NI+Pej+2+Pl+Prt+Pl: gimashkimoda1shwaabani1an
+    3+mshkimot+NI+Pej+2+Pl+Prt+4: omashkimoda1shwaabaniin
+    3+mshkimot+NI+Pej+2+Pl+Prt+Loc: omashkimoda1shwaabaniing
+    3+mshkimot+NI+Pej+2+Pl+Prt+Pl: omashkimoda1shwaabani1an
+    3+mshkimot+NI+Pej+3+4+Prt+4: [ omashkimoda1shniwibaniin, omashkimoda1shniibaniin ]
+    3+mshkimot+NI+Pej+3+4+Prt+Loc: [ omashkimoda1shniwibaniing, omashkimoda1shniibaniing ]
+    3+mshkimot+NI+Pej+3+4+Prt+Pl: [ omashkimoda1shniwibani1an, omashkimoda1shniibani1an ]
+    1+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Prt: [ nimashkimoda1enymishnaaniban, nimashkimoda1enymishnaaniba ]
+    1+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Voc+Pl: nimashkimoda1enymishnaany1dig
+    1+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Prt: [ nimashkimoda1ensmishnaaniban, nimashkimoda1ensmishnaaniba ]
+    1+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Voc+Pl: nimashkimoda1ensmishnaany1dig
+    2+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Prt: [ gimashkimoda1enymishnaaniban, gimashkimoda1enymishnaaniba ]
+    2+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Voc+Pl: gimashkimoda1enymishnaany1dig
+    2+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Prt: [ gimashkimoda1enymishwaaban, gimashkimoda1enymishwaaba ]
+    2+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Voc+Pl: gimashkimoda1enymishwaadig
+    2+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Prt: [ gimashkimoda1ensmishnaaniban, gimashkimoda1ensmishnaaniba ]
+    2+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Voc+Pl: gimashkimoda1ensmishnaany1dig
+    2+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Prt: [ gimashkimoda1ensmishwaaban, gimashkimoda1ensmishwaaba ]
+    2+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Voc+Pl: gimashkimoda1ensmishwaadig
+    3+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Prt: [ omashkimoda1enymishwaaban, omashkimoda1enymishwaaba ]
+    3+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Voc+Pl: omashkimoda1enymishwaadig
+    3+mshkimot+NI+Con+ThmPos+Pej+3+4+Prt: [ omashkimoda1enymishniwiban, omashkimoda1enymishniwiba, omashkimoda1enymishniiban, omashkimoda1enymishniiba ]
+    3+mshkimot+NI+Con+ThmPos+Pej+3+4+Voc+Pl: omashkimoda1enymishniwdig
+    3+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Prt: [ omashkimoda1ensmishwaaban, omashkimoda1ensmishwaaba ]
+    3+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Voc+Pl: omashkimoda1ensmishwaadig
+    3+mshkimot+NI+Dim+ThmPos+Pej+3+4+Prt: [ omashkimoda1ensmishniwiban, omashkimoda1ensmishniwiba, omashkimoda1ensmishniiban, omashkimoda1ensmishniiba ]
+    3+mshkimot+NI+Dim+ThmPos+Pej+3+4+Voc+Pl: omashkimoda1ensmishniwdig
+    1+mshkimot+NI+Con+ThmPos+Pej+1+Pl+4: nimashkimoda1enymishnaanin
+    1+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Loc: nimashkimoda1enymishnaaning
+    1+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Pl: nimashkimoda1enymishnaany1an
+    1+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+4: nimashkimoda1ensmishnaanin
+    1+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Loc: nimashkimoda1ensmishnaaning
+    1+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Pl: nimashkimoda1ensmishnaany1an
+    2+mshkimot+NI+Con+ThmPos+Pej+1+Pl+4: gimashkimoda1enymishnaanin
+    2+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Loc: gimashkimoda1enymishnaaning
+    2+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Pl: gimashkimoda1enymishnaany1an
+    2+mshkimot+NI+Con+ThmPos+Pej+2+Pl+4: gimashkimoda1enymishwaan
+    2+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Loc: gimashkimoda1enymishwaang
+    2+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Pl: gimashkimoda1enymishwaaan
+    2+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+4: gimashkimoda1ensmishnaanin
+    2+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Loc: gimashkimoda1ensmishnaaning
+    2+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Pl: gimashkimoda1ensmishnaany1an
+    2+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+4: gimashkimoda1ensmishwaan
+    2+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Loc: gimashkimoda1ensmishwaang
+    2+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Pl: gimashkimoda1ensmishwaaan
+    3+mshkimot+NI+Con+ThmPos+Pej+2+Pl+4: omashkimoda1enymishwaan
+    3+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Loc: omashkimoda1enymishwaang
+    3+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Pl: omashkimoda1enymishwaaan
+    3+mshkimot+NI+Con+ThmPos+Pej+3+4+4: omashkimoda1enymishniwan
+    3+mshkimot+NI+Con+ThmPos+Pej+3+4+Loc: omashkimoda1enymishniing
+    3+mshkimot+NI+Con+ThmPos+Pej+3+4+Pl: omashkimoda1enymishniwan
+    3+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+4: omashkimoda1ensmishwaan
+    3+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Loc: omashkimoda1ensmishwaang
+    3+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Pl: omashkimoda1ensmishwaaan
+    3+mshkimot+NI+Dim+ThmPos+Pej+3+4+4: omashkimoda1ensmishniwan
+    3+mshkimot+NI+Dim+ThmPos+Pej+3+4+Loc: omashkimoda1ensmishniing
+    3+mshkimot+NI+Dim+ThmPos+Pej+3+4+Pl: omashkimoda1ensmishniwan
+    1+mshkimot+NI+Con+ThmPos+Pej+Prt+4: nimashkimoda1enymishibaniin
+    1+mshkimot+NI+Con+ThmPos+Pej+Prt+Loc: nimashkimoda1enymishibaniing
+    1+mshkimot+NI+Con+ThmPos+Pej+Prt+Pl: nimashkimoda1enymishibani1an
+    1+mshkimot+NI+Dim+ThmPos+Pej+Prt+4: nimashkimoda1ensmishibaniin
+    1+mshkimot+NI+Dim+ThmPos+Pej+Prt+Loc: nimashkimoda1ensmishibaniing
+    1+mshkimot+NI+Dim+ThmPos+Pej+Prt+Pl: nimashkimoda1ensmishibani1an
+    2+mshkimot+NI+Con+ThmPos+Pej+Prt+4: gimashkimoda1enymishibaniin
+    2+mshkimot+NI+Con+ThmPos+Pej+Prt+Loc: gimashkimoda1enymishibaniing
+    2+mshkimot+NI+Con+ThmPos+Pej+Prt+Pl: gimashkimoda1enymishibani1an
+    2+mshkimot+NI+Dim+ThmPos+Pej+Prt+4: gimashkimoda1ensmishibaniin
+    2+mshkimot+NI+Dim+ThmPos+Pej+Prt+Loc: gimashkimoda1ensmishibaniing
+    2+mshkimot+NI+Dim+ThmPos+Pej+Prt+Pl: gimashkimoda1ensmishibani1an
+    3+mshkimot+NI+Con+ThmPos+Pej+Prt+4: omashkimoda1enymishibaniin
+    3+mshkimot+NI+Con+ThmPos+Pej+Prt+Loc: omashkimoda1enymishibaniing
+    3+mshkimot+NI+Con+ThmPos+Pej+Prt+Pl: omashkimoda1enymishibani1an
+    3+mshkimot+NI+Dim+ThmPos+Pej+Prt+4: omashkimoda1ensmishibaniin
+    3+mshkimot+NI+Dim+ThmPos+Pej+Prt+Loc: omashkimoda1ensmishibaniing
+    3+mshkimot+NI+Dim+ThmPos+Pej+Prt+Pl: omashkimoda1ensmishibani1an
+    X+mshkimot+NI+Con+ThmPos+Pej+Prt+4: imashkimoda1enymishibaniin
+    X+mshkimot+NI+Con+ThmPos+Pej+Prt+Loc: imashkimoda1enymishibaniing
+    X+mshkimot+NI+Con+ThmPos+Pej+Prt+Pl: imashkimoda1enymishibani1an
+    X+mshkimot+NI+Dim+ThmPos+Pej+Prt+4: imashkimoda1ensmishibaniin
+    X+mshkimot+NI+Dim+ThmPos+Pej+Prt+Loc: imashkimoda1ensmishibaniing
+    X+mshkimot+NI+Dim+ThmPos+Pej+Prt+Pl: imashkimoda1ensmishibani1an
+    1+mshkimot+NI+Con+ThmPos+1+Pl+Prt+4: nimashkimoda1enymnaanibaniin
+    1+mshkimot+NI+Con+ThmPos+1+Pl+Prt+Loc: nimashkimoda1enymnaanibaniing
+    1+mshkimot+NI+Con+ThmPos+1+Pl+Prt+Pl: nimashkimoda1enymnaanibani1an
+    1+mshkimot+NI+Dim+ThmPos+1+Pl+Prt+4: nimashkimoda1ensmnaanibaniin
+    1+mshkimot+NI+Dim+ThmPos+1+Pl+Prt+Loc: nimashkimoda1ensmnaanibaniing
+    1+mshkimot+NI+Dim+ThmPos+1+Pl+Prt+Pl: nimashkimoda1ensmnaanibani1an
+    2+mshkimot+NI+Con+ThmPos+1+Pl+Prt+4: gimashkimoda1enymnaanibaniin
+    2+mshkimot+NI+Con+ThmPos+1+Pl+Prt+Loc: gimashkimoda1enymnaanibaniing
+    2+mshkimot+NI+Con+ThmPos+1+Pl+Prt+Pl: gimashkimoda1enymnaanibani1an
+    2+mshkimot+NI+Con+ThmPos+2+Pl+Prt+4: gimashkimoda1enymwaabaniin
+    2+mshkimot+NI+Con+ThmPos+2+Pl+Prt+Loc: gimashkimoda1enymwaabaniing
+    2+mshkimot+NI+Con+ThmPos+2+Pl+Prt+Pl: gimashkimoda1enymwaabani1an
+    2+mshkimot+NI+Dim+ThmPos+1+Pl+Prt+4: gimashkimoda1ensmnaanibaniin
+    2+mshkimot+NI+Dim+ThmPos+1+Pl+Prt+Loc: gimashkimoda1ensmnaanibaniing
+    2+mshkimot+NI+Dim+ThmPos+1+Pl+Prt+Pl: gimashkimoda1ensmnaanibani1an
+    2+mshkimot+NI+Dim+ThmPos+2+Pl+Prt+4: gimashkimoda1ensmwaabaniin
+    2+mshkimot+NI+Dim+ThmPos+2+Pl+Prt+Loc: gimashkimoda1ensmwaabaniing
+    2+mshkimot+NI+Dim+ThmPos+2+Pl+Prt+Pl: gimashkimoda1ensmwaabani1an
+    3+mshkimot+NI+Con+ThmPos+2+Pl+Prt+4: omashkimoda1enymwaabaniin
+    3+mshkimot+NI+Con+ThmPos+2+Pl+Prt+Loc: omashkimoda1enymwaabaniing
+    3+mshkimot+NI+Con+ThmPos+2+Pl+Prt+Pl: omashkimoda1enymwaabani1an
+    3+mshkimot+NI+Con+ThmPos+3+4+Prt+4: [ omashkimoda1enymniwibaniin, omashkimoda1enymniibaniin ]
+    3+mshkimot+NI+Con+ThmPos+3+4+Prt+Loc: [ omashkimoda1enymniwibaniing, omashkimoda1enymniibaniing ]
+    3+mshkimot+NI+Con+ThmPos+3+4+Prt+Pl: [ omashkimoda1enymniwibani1an, omashkimoda1enymniibani1an ]
+    3+mshkimot+NI+Dim+ThmPos+2+Pl+Prt+4: omashkimoda1ensmwaabaniin
+    3+mshkimot+NI+Dim+ThmPos+2+Pl+Prt+Loc: omashkimoda1ensmwaabaniing
+    3+mshkimot+NI+Dim+ThmPos+2+Pl+Prt+Pl: omashkimoda1ensmwaabani1an
+    3+mshkimot+NI+Dim+ThmPos+3+4+Prt+4: [ omashkimoda1ensmniwibaniin, omashkimoda1ensmniibaniin ]
+    3+mshkimot+NI+Dim+ThmPos+3+4+Prt+Loc: [ omashkimoda1ensmniwibaniing, omashkimoda1ensmniibaniing ]
+    3+mshkimot+NI+Dim+ThmPos+3+4+Prt+Pl: [ omashkimoda1ensmniwibani1an, omashkimoda1ensmniibani1an ]
+    1+mshkimot+NI+Con+Pej+1+Pl+Prt+4: nimashkimoda1enyishnaanibaniin
+    1+mshkimot+NI+Con+Pej+1+Pl+Prt+Loc: nimashkimoda1enyishnaanibaniing
+    1+mshkimot+NI+Con+Pej+1+Pl+Prt+Pl: nimashkimoda1enyishnaanibani1an
+    1+mshkimot+NI+Dim+Pej+1+Pl+Prt+4: nimashkimoda1ensishnaanibaniin
+    1+mshkimot+NI+Dim+Pej+1+Pl+Prt+Loc: nimashkimoda1ensishnaanibaniing
+    1+mshkimot+NI+Dim+Pej+1+Pl+Prt+Pl: nimashkimoda1ensishnaanibani1an
+    2+mshkimot+NI+Con+Pej+1+Pl+Prt+4: gimashkimoda1enyishnaanibaniin
+    2+mshkimot+NI+Con+Pej+1+Pl+Prt+Loc: gimashkimoda1enyishnaanibaniing
+    2+mshkimot+NI+Con+Pej+1+Pl+Prt+Pl: gimashkimoda1enyishnaanibani1an
+    2+mshkimot+NI+Con+Pej+2+Pl+Prt+4: gimashkimoda1enyishwaabaniin
+    2+mshkimot+NI+Con+Pej+2+Pl+Prt+Loc: gimashkimoda1enyishwaabaniing
+    2+mshkimot+NI+Con+Pej+2+Pl+Prt+Pl: gimashkimoda1enyishwaabani1an
+    2+mshkimot+NI+Dim+Pej+1+Pl+Prt+4: gimashkimoda1ensishnaanibaniin
+    2+mshkimot+NI+Dim+Pej+1+Pl+Prt+Loc: gimashkimoda1ensishnaanibaniing
+    2+mshkimot+NI+Dim+Pej+1+Pl+Prt+Pl: gimashkimoda1ensishnaanibani1an
+    2+mshkimot+NI+Dim+Pej+2+Pl+Prt+4: gimashkimoda1ensishwaabaniin
+    2+mshkimot+NI+Dim+Pej+2+Pl+Prt+Loc: gimashkimoda1ensishwaabaniing
+    2+mshkimot+NI+Dim+Pej+2+Pl+Prt+Pl: gimashkimoda1ensishwaabani1an
+    3+mshkimot+NI+Con+Pej+2+Pl+Prt+4: omashkimoda1enyishwaabaniin
+    3+mshkimot+NI+Con+Pej+2+Pl+Prt+Loc: omashkimoda1enyishwaabaniing
+    3+mshkimot+NI+Con+Pej+2+Pl+Prt+Pl: omashkimoda1enyishwaabani1an
+    3+mshkimot+NI+Con+Pej+3+4+Prt+4: [ omashkimoda1enyishniwibaniin, omashkimoda1enyishniibaniin ]
+    3+mshkimot+NI+Con+Pej+3+4+Prt+Loc: [ omashkimoda1enyishniwibaniing, omashkimoda1enyishniibaniing ]
+    3+mshkimot+NI+Con+Pej+3+4+Prt+Pl: [ omashkimoda1enyishniwibani1an, omashkimoda1enyishniibani1an ]
+    3+mshkimot+NI+Dim+Pej+2+Pl+Prt+4: omashkimoda1ensishwaabaniin
+    3+mshkimot+NI+Dim+Pej+2+Pl+Prt+Loc: omashkimoda1ensishwaabaniing
+    3+mshkimot+NI+Dim+Pej+2+Pl+Prt+Pl: omashkimoda1ensishwaabani1an
+    3+mshkimot+NI+Dim+Pej+3+4+Prt+4: [ omashkimoda1ensishniwibaniin, omashkimoda1ensishniibaniin ]
+    3+mshkimot+NI+Dim+Pej+3+4+Prt+Loc: [ omashkimoda1ensishniwibaniing, omashkimoda1ensishniibaniing ]
+    3+mshkimot+NI+Dim+Pej+3+4+Prt+Pl: [ omashkimoda1ensishniwibani1an, omashkimoda1ensishniibani1an ]
+    1+mshkimot+NI+ThmPos+Pej+1+Pl+Prt+4: nimashkimoda1mishnaanibaniin
+    1+mshkimot+NI+ThmPos+Pej+1+Pl+Prt+Loc: nimashkimoda1mishnaanibaniing
+    1+mshkimot+NI+ThmPos+Pej+1+Pl+Prt+Pl: nimashkimoda1mishnaanibani1an
+    2+mshkimot+NI+ThmPos+Pej+1+Pl+Prt+4: gimashkimoda1mishnaanibaniin
+    2+mshkimot+NI+ThmPos+Pej+1+Pl+Prt+Loc: gimashkimoda1mishnaanibaniing
+    2+mshkimot+NI+ThmPos+Pej+1+Pl+Prt+Pl: gimashkimoda1mishnaanibani1an
+    2+mshkimot+NI+ThmPos+Pej+2+Pl+Prt+4: gimashkimoda1mishwaabaniin
+    2+mshkimot+NI+ThmPos+Pej+2+Pl+Prt+Loc: gimashkimoda1mishwaabaniing
+    2+mshkimot+NI+ThmPos+Pej+2+Pl+Prt+Pl: gimashkimoda1mishwaabani1an
+    3+mshkimot+NI+ThmPos+Pej+2+Pl+Prt+4: omashkimoda1mishwaabaniin
+    3+mshkimot+NI+ThmPos+Pej+2+Pl+Prt+Loc: omashkimoda1mishwaabaniing
+    3+mshkimot+NI+ThmPos+Pej+2+Pl+Prt+Pl: omashkimoda1mishwaabani1an
+    3+mshkimot+NI+ThmPos+Pej+3+4+Prt+4: [ omashkimoda1mishniwibaniin, omashkimoda1mishniibaniin ]
+    3+mshkimot+NI+ThmPos+Pej+3+4+Prt+Loc: [ omashkimoda1mishniwibaniing, omashkimoda1mishniibaniing ]
+    3+mshkimot+NI+ThmPos+Pej+3+4+Prt+Pl: [ omashkimoda1mishniwibani1an, omashkimoda1mishniibani1an ]
+    1+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Prt+4: nimashkimoda1enymishnaanibaniin
+    1+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Prt+Loc: nimashkimoda1enymishnaanibaniing
+    1+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Prt+Pl: nimashkimoda1enymishnaanibani1an
+    1+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Prt+4: nimashkimoda1ensmishnaanibaniin
+    1+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Prt+Loc: nimashkimoda1ensmishnaanibaniing
+    1+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Prt+Pl: nimashkimoda1ensmishnaanibani1an
+    2+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Prt+4: gimashkimoda1enymishnaanibaniin
+    2+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Prt+Loc: gimashkimoda1enymishnaanibaniing
+    2+mshkimot+NI+Con+ThmPos+Pej+1+Pl+Prt+Pl: gimashkimoda1enymishnaanibani1an
+    2+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Prt+4: gimashkimoda1enymishwaabaniin
+    2+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Prt+Loc: gimashkimoda1enymishwaabaniing
+    2+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Prt+Pl: gimashkimoda1enymishwaabani1an
+    2+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Prt+4: gimashkimoda1ensmishnaanibaniin
+    2+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Prt+Loc: gimashkimoda1ensmishnaanibaniing
+    2+mshkimot+NI+Dim+ThmPos+Pej+1+Pl+Prt+Pl: gimashkimoda1ensmishnaanibani1an
+    2+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Prt+4: gimashkimoda1ensmishwaabaniin
+    2+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Prt+Loc: gimashkimoda1ensmishwaabaniing
+    2+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Prt+Pl: gimashkimoda1ensmishwaabani1an
+    3+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Prt+4: omashkimoda1enymishwaabaniin
+    3+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Prt+Loc: omashkimoda1enymishwaabaniing
+    3+mshkimot+NI+Con+ThmPos+Pej+2+Pl+Prt+Pl: omashkimoda1enymishwaabani1an
+    3+mshkimot+NI+Con+ThmPos+Pej+3+4+Prt+4: [ omashkimoda1enymishniwibaniin, omashkimoda1enymishniibaniin ]
+    3+mshkimot+NI+Con+ThmPos+Pej+3+4+Prt+Loc: [ omashkimoda1enymishniwibaniing, omashkimoda1enymishniibaniing ]
+    3+mshkimot+NI+Con+ThmPos+Pej+3+4+Prt+Pl: [ omashkimoda1enymishniwibani1an, omashkimoda1enymishniibani1an ]
+    3+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Prt+4: omashkimoda1ensmishwaabaniin
+    3+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Prt+Loc: omashkimoda1ensmishwaabaniing
+    3+mshkimot+NI+Dim+ThmPos+Pej+2+Pl+Prt+Pl: omashkimoda1ensmishwaabani1an
+    3+mshkimot+NI+Dim+ThmPos+Pej+3+4+Prt+4: [ omashkimoda1ensmishniwibaniin, omashkimoda1ensmishniibaniin ]
+    3+mshkimot+NI+Dim+ThmPos+Pej+3+4+Prt+Loc: [ omashkimoda1ensmishniwibaniing, omashkimoda1ensmishniibaniing ]
+    3+mshkimot+NI+Dim+ThmPos+Pej+3+4+Prt+Pl: [ omashkimoda1ensmishniwibani1an, omashkimoda1ensmishniibani1an ]

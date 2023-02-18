@@ -1,0 +1,168 @@
+1+gwekshin+VAI	nigwekishin
+
+2+gwekshin+VAI	gigwekishin
+
+gwekshin+VAI+3	gwekishinw
+
+gwekshin+VAI+X	gwekishinm
+
+1+gwekshin+VAI+1+Pl	nigwekishinmin
+1+gwekshin+VAI+1+Pl	nigwekishinmi
+
+2+gwekshin+VAI+1+Pl	gigwekishinmin
+2+gwekshin+VAI+1+Pl	gigwekishinmi
+
+2+gwekshin+VAI+2+Pl	gigwekishinm
+
+gwekshin+VAI+3+3+4	gwekishinwan
+
+gwekshin+VAI+3+3+Pl	gwekishinwag
+
+1+gwekshin+VAI+Prt	nigwekishinnaaban
+1+gwekshin+VAI+Prt	nigwekishinnaaba
+
+2+gwekshin+VAI+Prt	gigwekishinnaaban
+2+gwekshin+VAI+Prt	gigwekishinnaaba
+
+1+gwekshin+VAI+Dub	nigwekishinnaadig
+
+2+gwekshin+VAI+Dub	gigwekishinnaadig
+
+gwekshin+VAI+3+Prt	gwekishinoban
+gwekshin+VAI+3+Prt	gwekishinoba
+gwekshin+VAI+3+Prt	gwekishinwiban
+gwekshin+VAI+3+Prt	gwekishinwiba
+
+gwekshin+VAI+3+Dub	gwekishinodig
+gwekshin+VAI+3+Dub	gwekishinwidig
+
+gwekshin+VAI+X+Prt	gwekishinmiban
+gwekshin+VAI+X+Prt	gwekishinmiba
+gwekshin+VAI+X+Prt	gwekishinmaban
+gwekshin+VAI+X+Prt	gwekishinmaba
+
+gwekshin+VAI+X+Dub	gwekishinmidig
+
+gwekshin+VAI+3+Prt+Dub	gwekishingoban
+gwekshin+VAI+3+Prt+Dub	gwekishingoba
+
+gwekshin+VAI+3+4+Prt+Dub	gwekishininigoban
+gwekshin+VAI+3+4+Prt+Dub	gwekishininigoba
+
+gwekshin+VAI+3+2+Pl+Prt+Dub	gwekishinwaagoban
+gwekshin+VAI+3+2+Pl+Prt+Dub	gwekishinwaagoba
+
+gwekshin+VAI+X+Prt+Dub	gwekishinmigoban
+gwekshin+VAI+X+Prt+Dub	gwekishinmigoba
+
+1+gwekshin+VAI+1+Pl+Prt	nigwekishinminaaban
+1+gwekshin+VAI+1+Pl+Prt	nigwekishinminaaba
+
+2+gwekshin+VAI+1+Pl+Prt	gigwekishinminaaban
+2+gwekshin+VAI+1+Pl+Prt	gigwekishinminaaba
+
+2+gwekshin+VAI+2+Pl+Prt	gigwekishinmwaaban
+2+gwekshin+VAI+2+Pl+Prt	gigwekishinmwaaba
+
+1+gwekshin+VAI+1+Pl+Dub	nigwekishinminaadig
+
+2+gwekshin+VAI+1+Pl+Dub	gigwekishinminaadig
+
+2+gwekshin+VAI+2+Pl+Dub	gigwekishinmwaadig
+
+gwekshin+VAI+3+Prt+3+4	gwekishinobaniin
+gwekshin+VAI+3+Prt+3+4	gwekishinwibaniin
+
+gwekshin+VAI+3+Prt+3+Pl	gwekishinobaniig
+gwekshin+VAI+3+Prt+3+Pl	gwekishinwibaniig
+
+gwekshin+VAI+3+Dub+3+4	gwekishinodigenan
+gwekshin+VAI+3+Dub+3+4	gwekishinwidigenan
+
+gwekshin+VAI+3+Dub+3+Pl	gwekishinodigenag
+gwekshin+VAI+3+Dub+3+Pl	gwekishinwidigenag
+
+1+gwekshin+VAI+Neg	nigwekishinsii
+
+2+gwekshin+VAI+Neg	gigwekishinsii
+
+gwekshin+VAI+Neg+3	gwekishinsiiw
+
+gwekshin+VAI+Neg+X	gwekishinsiim
+
+1+gwekshin+VAI+Neg+1+Pl	nigwekishinsiimin
+1+gwekshin+VAI+Neg+1+Pl	nigwekishinsiimi
+
+2+gwekshin+VAI+Neg+1+Pl	gigwekishinsiimin
+2+gwekshin+VAI+Neg+1+Pl	gigwekishinsiimi
+
+2+gwekshin+VAI+Neg+2+Pl	gigwekishinsiim
+
+gwekshin+VAI+Neg+3+3+4	gwekishinsiiwan
+
+gwekshin+VAI+Neg+3+3+Pl	gwekishinsiiwag
+
+1+gwekshin+VAI+Neg+Prt	nigwekishinsiinaaban
+1+gwekshin+VAI+Neg+Prt	nigwekishinsiinaaba
+
+2+gwekshin+VAI+Neg+Prt	gigwekishinsiinaaban
+2+gwekshin+VAI+Neg+Prt	gigwekishinsiinaaba
+
+1+gwekshin+VAI+Neg+Dub	nigwekishinsiinaadig
+
+2+gwekshin+VAI+Neg+Dub	gigwekishinsiinaadig
+
+gwekshin+VAI+Neg+3+Prt	gwekishinsiioban
+gwekshin+VAI+Neg+3+Prt	gwekishinsiioba
+gwekshin+VAI+Neg+3+Prt	gwekishinsiiwiban
+gwekshin+VAI+Neg+3+Prt	gwekishinsiiwiba
+
+gwekshin+VAI+Neg+3+Dub	gwekishinsiiodig
+gwekshin+VAI+Neg+3+Dub	gwekishinsiiwidig
+
+gwekshin+VAI+Neg+X+Prt	gwekishinsiimiban
+gwekshin+VAI+Neg+X+Prt	gwekishinsiimiba
+gwekshin+VAI+Neg+X+Prt	gwekishinsiimaban
+gwekshin+VAI+Neg+X+Prt	gwekishinsiimaba
+
+gwekshin+VAI+Neg+X+Dub	gwekishinsiimidig
+
+gwekshin+VAI+Neg+3+Prt+Dub	gwekishinsiigoban
+gwekshin+VAI+Neg+3+Prt+Dub	gwekishinsiigoba
+
+gwekshin+VAI+Neg+3+4+Prt+Dub	gwekishinsiiinigoban
+gwekshin+VAI+Neg+3+4+Prt+Dub	gwekishinsiiinigoba
+
+gwekshin+VAI+Neg+3+2+Pl+Prt+Dub	gwekishinsiiwaagoban
+gwekshin+VAI+Neg+3+2+Pl+Prt+Dub	gwekishinsiiwaagoba
+
+gwekshin+VAI+Neg+X+Prt+Dub	gwekishinsiimigoban
+gwekshin+VAI+Neg+X+Prt+Dub	gwekishinsiimigoba
+
+1+gwekshin+VAI+Neg+1+Pl+Prt	nigwekishinsiiminaaban
+1+gwekshin+VAI+Neg+1+Pl+Prt	nigwekishinsiiminaaba
+
+2+gwekshin+VAI+Neg+1+Pl+Prt	gigwekishinsiiminaaban
+2+gwekshin+VAI+Neg+1+Pl+Prt	gigwekishinsiiminaaba
+
+2+gwekshin+VAI+Neg+2+Pl+Prt	gigwekishinsiimwaaban
+2+gwekshin+VAI+Neg+2+Pl+Prt	gigwekishinsiimwaaba
+
+1+gwekshin+VAI+Neg+1+Pl+Dub	nigwekishinsiiminaadig
+
+2+gwekshin+VAI+Neg+1+Pl+Dub	gigwekishinsiiminaadig
+
+2+gwekshin+VAI+Neg+2+Pl+Dub	gigwekishinsiimwaadig
+
+gwekshin+VAI+Neg+3+Prt+3+4	gwekishinsiiobaniin
+gwekshin+VAI+Neg+3+Prt+3+4	gwekishinsiiwibaniin
+
+gwekshin+VAI+Neg+3+Prt+3+Pl	gwekishinsiiobaniig
+gwekshin+VAI+Neg+3+Prt+3+Pl	gwekishinsiiwibaniig
+
+gwekshin+VAI+Neg+3+Dub+3+4	gwekishinsiiodigenan
+gwekshin+VAI+Neg+3+Dub+3+4	gwekishinsiiwidigenan
+
+gwekshin+VAI+Neg+3+Dub+3+Pl	gwekishinsiiodigenag
+gwekshin+VAI+Neg+3+Dub+3+Pl	gwekishinsiiwidigenag
+

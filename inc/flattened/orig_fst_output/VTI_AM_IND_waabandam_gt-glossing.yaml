@@ -1,0 +1,94 @@
+Tests:
+  VTI_AM_IND_waabandam_gt-glossing:
+    waabndaan+VTI+3+4: waabandamini
+    1+waabndaan+VTI+0: niwaabandamn
+    1+waabndaan+VTI+1+Pl: [ niwaabandamnaan, niwaabandamnaa, niwaabandammin, niwaabandammi ]
+    2+waabndaan+VTI+0: giwaabandamn
+    2+waabndaan+VTI+1+Pl: [ giwaabandamnaan, giwaabandamnaa, giwaabandammin, giwaabandammi ]
+    2+waabndaan+VTI+2+Pl: giwaabandamnaawaa
+    3+waabndaan+VTI+0: owaabandamn
+    3+waabndaan+VTI+2+Pl: owaabandamnaawaa
+    waabndaan+VTI+3+4+Prt+Dub: [ waabandaminigoban, waabandaminigoba ]
+    1+waabndaan+VTI+0+Prt: [ niwaabandamnaaban, niwaabandamnaaba ]
+    1+waabndaan+VTI+1+Pl+Prt: [ niwaabandamminaaban, niwaabandamminaaba ]
+    2+waabndaan+VTI+0+Prt: [ giwaabandamnaaban, giwaabandamnaaba ]
+    2+waabndaan+VTI+1+Pl+Prt: [ giwaabandamminaaban, giwaabandamminaaba ]
+    2+waabndaan+VTI+2+Pl+Prt: [ giwaabandamnaawaaban, giwaabandamnaawaaba ]
+    3+waabndaan+VTI+0+Prt: [ owaabandamnaaban, owaabandamnaaba ]
+    3+waabndaan+VTI+2+Pl+Prt: [ owaabandamnaawaaban, owaabandamnaawaaba ]
+    1+waabndaan+VTI+0+Dub: niwaabandamnaadig
+    1+waabndaan+VTI+1+Pl+Dub: niwaabandamminaadig
+    2+waabndaan+VTI+0+Dub: giwaabandamnaadig
+    2+waabndaan+VTI+1+Pl+Dub: giwaabandamminaadig
+    2+waabndaan+VTI+2+Pl+Dub: giwaabandamnaawaadig
+    3+waabndaan+VTI+0+Dub: owaabandamnaadig
+    3+waabndaan+VTI+2+Pl+Dub: owaabandamnaawaadig
+    3+waabndaan+VTI+Prt+Dub: [ owaabandamgoban, owaabandamgoba ]
+    3+waabndaan+VTI+2+Pl+Prt+Dub: [ owaabandamgwaaban, owaabandamgwaaba ]
+    1+waabndaan+VTI+0+0+Pl: niwaabandamnan
+    1+waabndaan+VTI+1+Pl+0+Pl: [ niwaabandamnaanin, niwaabandamminan ]
+    2+waabndaan+VTI+0+0+Pl: giwaabandamnan
+    2+waabndaan+VTI+1+Pl+0+Pl: [ giwaabandamnaanin, giwaabandamminan ]
+    2+waabndaan+VTI+2+Pl+0+Pl: giwaabandamnaawaan
+    3+waabndaan+VTI+0+0+Pl: owaabandamnan
+    3+waabndaan+VTI+2+Pl+0+Pl: owaabandamnaawaan
+    1+waabndaan+VTI+0+Prt+0+Pl: niwaabandamnaabaniin
+    1+waabndaan+VTI+1+Pl+Prt+0+Pl: niwaabandamminaabaniin
+    2+waabndaan+VTI+0+Prt+0+Pl: giwaabandamnaabaniin
+    2+waabndaan+VTI+1+Pl+Prt+0+Pl: giwaabandamminaabaniin
+    2+waabndaan+VTI+2+Pl+Prt+0+Pl: giwaabandamnaawaabaniin
+    3+waabndaan+VTI+0+Prt+0+Pl: owaabandamnaabaniin
+    3+waabndaan+VTI+2+Pl+Prt+0+Pl: owaabandamnaawaabaniin
+    1+waabndaan+VTI+0+Dub+0+Pl: niwaabandamnaadigenan
+    1+waabndaan+VTI+1+Pl+Dub+0+Pl: niwaabandamminaadigenan
+    2+waabndaan+VTI+0+Dub+0+Pl: giwaabandamnaadigenan
+    2+waabndaan+VTI+1+Pl+Dub+0+Pl: giwaabandamminaadigenan
+    2+waabndaan+VTI+2+Pl+Dub+0+Pl: giwaabandamnaawaadigenan
+    3+waabndaan+VTI+0+Dub+0+Pl: owaabandamnaadigenan
+    3+waabndaan+VTI+2+Pl+Dub+0+Pl: owaabandamnaawaadigenan
+    waabndaan+VTI+Neg+3+4: waabandamsiiini
+    1+waabndaan+VTI+Neg+0: niwaabandamsiin
+    1+waabndaan+VTI+Neg+1+Pl: [ niwaabandamsiinaan, niwaabandamsiinaa, niwaabandamsiimin, niwaabandamsiimi ]
+    2+waabndaan+VTI+Neg+0: giwaabandamsiin
+    2+waabndaan+VTI+Neg+1+Pl: [ giwaabandamsiinaan, giwaabandamsiinaa, giwaabandamsiimin, giwaabandamsiimi ]
+    2+waabndaan+VTI+Neg+2+Pl: giwaabandamsiinaawaa
+    3+waabndaan+VTI+Neg+0: owaabandamsiin
+    3+waabndaan+VTI+Neg+2+Pl: owaabandamsiinaawaa
+    waabndaan+VTI+Neg+3+4+Prt+Dub: [ waabandamsiiinigoban, waabandamsiiinigoba ]
+    1+waabndaan+VTI+Neg+0+Prt: [ niwaabandamsiinaaban, niwaabandamsiinaaba ]
+    1+waabndaan+VTI+Neg+1+Pl+Prt: [ niwaabandamsiiminaaban, niwaabandamsiiminaaba ]
+    2+waabndaan+VTI+Neg+0+Prt: [ giwaabandamsiinaaban, giwaabandamsiinaaba ]
+    2+waabndaan+VTI+Neg+1+Pl+Prt: [ giwaabandamsiiminaaban, giwaabandamsiiminaaba ]
+    2+waabndaan+VTI+Neg+2+Pl+Prt: [ giwaabandamsiinaawaaban, giwaabandamsiinaawaaba ]
+    3+waabndaan+VTI+Neg+0+Prt: [ owaabandamsiinaaban, owaabandamsiinaaba ]
+    3+waabndaan+VTI+Neg+2+Pl+Prt: [ owaabandamsiinaawaaban, owaabandamsiinaawaaba ]
+    1+waabndaan+VTI+Neg+0+Dub: niwaabandamsiinaadig
+    1+waabndaan+VTI+Neg+1+Pl+Dub: niwaabandamsiiminaadig
+    2+waabndaan+VTI+Neg+0+Dub: giwaabandamsiinaadig
+    2+waabndaan+VTI+Neg+1+Pl+Dub: giwaabandamsiiminaadig
+    2+waabndaan+VTI+Neg+2+Pl+Dub: giwaabandamsiinaawaadig
+    3+waabndaan+VTI+Neg+0+Dub: owaabandamsiinaadig
+    3+waabndaan+VTI+Neg+2+Pl+Dub: owaabandamsiinaawaadig
+    3+waabndaan+VTI+Neg+Prt+Dub: [ owaabandamsiigoban, owaabandamsiigoba ]
+    3+waabndaan+VTI+Neg+2+Pl+Prt+Dub: [ owaabandamsiigwaaban, owaabandamsiigwaaba ]
+    1+waabndaan+VTI+Neg+0+0+Pl: niwaabandamsiinan
+    1+waabndaan+VTI+Neg+1+Pl+0+Pl: [ niwaabandamsiinaanin, niwaabandamsiiminan ]
+    2+waabndaan+VTI+Neg+0+0+Pl: giwaabandamsiinan
+    2+waabndaan+VTI+Neg+1+Pl+0+Pl: [ giwaabandamsiinaanin, giwaabandamsiiminan ]
+    2+waabndaan+VTI+Neg+2+Pl+0+Pl: giwaabandamsiinaawaan
+    3+waabndaan+VTI+Neg+0+0+Pl: owaabandamsiinan
+    3+waabndaan+VTI+Neg+2+Pl+0+Pl: owaabandamsiinaawaan
+    1+waabndaan+VTI+Neg+0+Prt+0+Pl: niwaabandamsiinaabaniin
+    1+waabndaan+VTI+Neg+1+Pl+Prt+0+Pl: niwaabandamsiiminaabaniin
+    2+waabndaan+VTI+Neg+0+Prt+0+Pl: giwaabandamsiinaabaniin
+    2+waabndaan+VTI+Neg+1+Pl+Prt+0+Pl: giwaabandamsiiminaabaniin
+    2+waabndaan+VTI+Neg+2+Pl+Prt+0+Pl: giwaabandamsiinaawaabaniin
+    3+waabndaan+VTI+Neg+0+Prt+0+Pl: owaabandamsiinaabaniin
+    3+waabndaan+VTI+Neg+2+Pl+Prt+0+Pl: owaabandamsiinaawaabaniin
+    1+waabndaan+VTI+Neg+0+Dub+0+Pl: niwaabandamsiinaadigenan
+    1+waabndaan+VTI+Neg+1+Pl+Dub+0+Pl: niwaabandamsiiminaadigenan
+    2+waabndaan+VTI+Neg+0+Dub+0+Pl: giwaabandamsiinaadigenan
+    2+waabndaan+VTI+Neg+1+Pl+Dub+0+Pl: giwaabandamsiiminaadigenan
+    2+waabndaan+VTI+Neg+2+Pl+Dub+0+Pl: giwaabandamsiinaawaadigenan
+    3+waabndaan+VTI+Neg+0+Dub+0+Pl: owaabandamsiinaadigenan
+    3+waabndaan+VTI+Neg+2+Pl+Dub+0+Pl: owaabandamsiinaawaadigenan

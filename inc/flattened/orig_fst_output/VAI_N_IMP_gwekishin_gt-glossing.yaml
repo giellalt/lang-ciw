@@ -1,0 +1,10 @@
+Tests:
+  VAI_N_IMP_gwekishin_gt-glossing:
+    gwekshin+VAI+Imp+Imm+2: gwekishinn
+    gwekshin+VAI+Imp+Imm+2+Pl: gwekishing
+    gwekshin+VAI+Imp+Imm+2+1+Pl: gwekishindaa
+    gwekshin+VAI+Imp+Del+2: gwekishinkan
+    gwekshin+VAI+Imp+Del+2+Pl: gwekishinkeg
+    gwekshin+VAI+Imp+Neg+2: [ gwekishinken, gwekishinke ]
+    gwekshin+VAI+Imp+Neg+2+Pl: [ gwekishinkegon, gwekishinkego ]
+    gwekshin+VAI+Imp+Neg+2+1+Pl: gwekishinsiidaa

@@ -1,0 +1,220 @@
+waabndaan+VTI+3+4	waabandamini
+
+1+waabndaan+VTI+0	niwaabandamn
+
+1+waabndaan+VTI+1+Pl	niwaabandamnaan
+1+waabndaan+VTI+1+Pl	niwaabandamnaa
+1+waabndaan+VTI+1+Pl	niwaabandammin
+1+waabndaan+VTI+1+Pl	niwaabandammi
+
+2+waabndaan+VTI+0	giwaabandamn
+
+2+waabndaan+VTI+1+Pl	giwaabandamnaan
+2+waabndaan+VTI+1+Pl	giwaabandamnaa
+2+waabndaan+VTI+1+Pl	giwaabandammin
+2+waabndaan+VTI+1+Pl	giwaabandammi
+
+2+waabndaan+VTI+2+Pl	giwaabandamnaawaa
+
+3+waabndaan+VTI+0	owaabandamn
+
+3+waabndaan+VTI+2+Pl	owaabandamnaawaa
+
+waabndaan+VTI+3+4+Prt+Dub	waabandaminigoban
+waabndaan+VTI+3+4+Prt+Dub	waabandaminigoba
+
+1+waabndaan+VTI+0+Prt	niwaabandamnaaban
+1+waabndaan+VTI+0+Prt	niwaabandamnaaba
+
+1+waabndaan+VTI+1+Pl+Prt	niwaabandamminaaban
+1+waabndaan+VTI+1+Pl+Prt	niwaabandamminaaba
+
+2+waabndaan+VTI+0+Prt	giwaabandamnaaban
+2+waabndaan+VTI+0+Prt	giwaabandamnaaba
+
+2+waabndaan+VTI+1+Pl+Prt	giwaabandamminaaban
+2+waabndaan+VTI+1+Pl+Prt	giwaabandamminaaba
+
+2+waabndaan+VTI+2+Pl+Prt	giwaabandamnaawaaban
+2+waabndaan+VTI+2+Pl+Prt	giwaabandamnaawaaba
+
+3+waabndaan+VTI+0+Prt	owaabandamnaaban
+3+waabndaan+VTI+0+Prt	owaabandamnaaba
+
+3+waabndaan+VTI+2+Pl+Prt	owaabandamnaawaaban
+3+waabndaan+VTI+2+Pl+Prt	owaabandamnaawaaba
+
+1+waabndaan+VTI+0+Dub	niwaabandamnaadig
+
+1+waabndaan+VTI+1+Pl+Dub	niwaabandamminaadig
+
+2+waabndaan+VTI+0+Dub	giwaabandamnaadig
+
+2+waabndaan+VTI+1+Pl+Dub	giwaabandamminaadig
+
+2+waabndaan+VTI+2+Pl+Dub	giwaabandamnaawaadig
+
+3+waabndaan+VTI+0+Dub	owaabandamnaadig
+
+3+waabndaan+VTI+2+Pl+Dub	owaabandamnaawaadig
+
+3+waabndaan+VTI+Prt+Dub	owaabandamgoban
+3+waabndaan+VTI+Prt+Dub	owaabandamgoba
+
+3+waabndaan+VTI+2+Pl+Prt+Dub	owaabandamgwaaban
+3+waabndaan+VTI+2+Pl+Prt+Dub	owaabandamgwaaba
+
+1+waabndaan+VTI+0+0+Pl	niwaabandamnan
+
+1+waabndaan+VTI+1+Pl+0+Pl	niwaabandamnaanin
+1+waabndaan+VTI+1+Pl+0+Pl	niwaabandamminan
+
+2+waabndaan+VTI+0+0+Pl	giwaabandamnan
+
+2+waabndaan+VTI+1+Pl+0+Pl	giwaabandamnaanin
+2+waabndaan+VTI+1+Pl+0+Pl	giwaabandamminan
+
+2+waabndaan+VTI+2+Pl+0+Pl	giwaabandamnaawaan
+
+3+waabndaan+VTI+0+0+Pl	owaabandamnan
+
+3+waabndaan+VTI+2+Pl+0+Pl	owaabandamnaawaan
+
+1+waabndaan+VTI+0+Prt+0+Pl	niwaabandamnaabaniin
+
+1+waabndaan+VTI+1+Pl+Prt+0+Pl	niwaabandamminaabaniin
+
+2+waabndaan+VTI+0+Prt+0+Pl	giwaabandamnaabaniin
+
+2+waabndaan+VTI+1+Pl+Prt+0+Pl	giwaabandamminaabaniin
+
+2+waabndaan+VTI+2+Pl+Prt+0+Pl	giwaabandamnaawaabaniin
+
+3+waabndaan+VTI+0+Prt+0+Pl	owaabandamnaabaniin
+
+3+waabndaan+VTI+2+Pl+Prt+0+Pl	owaabandamnaawaabaniin
+
+1+waabndaan+VTI+0+Dub+0+Pl	niwaabandamnaadigenan
+
+1+waabndaan+VTI+1+Pl+Dub+0+Pl	niwaabandamminaadigenan
+
+2+waabndaan+VTI+0+Dub+0+Pl	giwaabandamnaadigenan
+
+2+waabndaan+VTI+1+Pl+Dub+0+Pl	giwaabandamminaadigenan
+
+2+waabndaan+VTI+2+Pl+Dub+0+Pl	giwaabandamnaawaadigenan
+
+3+waabndaan+VTI+0+Dub+0+Pl	owaabandamnaadigenan
+
+3+waabndaan+VTI+2+Pl+Dub+0+Pl	owaabandamnaawaadigenan
+
+waabndaan+VTI+Neg+3+4	waabandamsiiini
+
+1+waabndaan+VTI+Neg+0	niwaabandamsiin
+
+1+waabndaan+VTI+Neg+1+Pl	niwaabandamsiinaan
+1+waabndaan+VTI+Neg+1+Pl	niwaabandamsiinaa
+1+waabndaan+VTI+Neg+1+Pl	niwaabandamsiimin
+1+waabndaan+VTI+Neg+1+Pl	niwaabandamsiimi
+
+2+waabndaan+VTI+Neg+0	giwaabandamsiin
+
+2+waabndaan+VTI+Neg+1+Pl	giwaabandamsiinaan
+2+waabndaan+VTI+Neg+1+Pl	giwaabandamsiinaa
+2+waabndaan+VTI+Neg+1+Pl	giwaabandamsiimin
+2+waabndaan+VTI+Neg+1+Pl	giwaabandamsiimi
+
+2+waabndaan+VTI+Neg+2+Pl	giwaabandamsiinaawaa
+
+3+waabndaan+VTI+Neg+0	owaabandamsiin
+
+3+waabndaan+VTI+Neg+2+Pl	owaabandamsiinaawaa
+
+waabndaan+VTI+Neg+3+4+Prt+Dub	waabandamsiiinigoban
+waabndaan+VTI+Neg+3+4+Prt+Dub	waabandamsiiinigoba
+
+1+waabndaan+VTI+Neg+0+Prt	niwaabandamsiinaaban
+1+waabndaan+VTI+Neg+0+Prt	niwaabandamsiinaaba
+
+1+waabndaan+VTI+Neg+1+Pl+Prt	niwaabandamsiiminaaban
+1+waabndaan+VTI+Neg+1+Pl+Prt	niwaabandamsiiminaaba
+
+2+waabndaan+VTI+Neg+0+Prt	giwaabandamsiinaaban
+2+waabndaan+VTI+Neg+0+Prt	giwaabandamsiinaaba
+
+2+waabndaan+VTI+Neg+1+Pl+Prt	giwaabandamsiiminaaban
+2+waabndaan+VTI+Neg+1+Pl+Prt	giwaabandamsiiminaaba
+
+2+waabndaan+VTI+Neg+2+Pl+Prt	giwaabandamsiinaawaaban
+2+waabndaan+VTI+Neg+2+Pl+Prt	giwaabandamsiinaawaaba
+
+3+waabndaan+VTI+Neg+0+Prt	owaabandamsiinaaban
+3+waabndaan+VTI+Neg+0+Prt	owaabandamsiinaaba
+
+3+waabndaan+VTI+Neg+2+Pl+Prt	owaabandamsiinaawaaban
+3+waabndaan+VTI+Neg+2+Pl+Prt	owaabandamsiinaawaaba
+
+1+waabndaan+VTI+Neg+0+Dub	niwaabandamsiinaadig
+
+1+waabndaan+VTI+Neg+1+Pl+Dub	niwaabandamsiiminaadig
+
+2+waabndaan+VTI+Neg+0+Dub	giwaabandamsiinaadig
+
+2+waabndaan+VTI+Neg+1+Pl+Dub	giwaabandamsiiminaadig
+
+2+waabndaan+VTI+Neg+2+Pl+Dub	giwaabandamsiinaawaadig
+
+3+waabndaan+VTI+Neg+0+Dub	owaabandamsiinaadig
+
+3+waabndaan+VTI+Neg+2+Pl+Dub	owaabandamsiinaawaadig
+
+3+waabndaan+VTI+Neg+Prt+Dub	owaabandamsiigoban
+3+waabndaan+VTI+Neg+Prt+Dub	owaabandamsiigoba
+
+3+waabndaan+VTI+Neg+2+Pl+Prt+Dub	owaabandamsiigwaaban
+3+waabndaan+VTI+Neg+2+Pl+Prt+Dub	owaabandamsiigwaaba
+
+1+waabndaan+VTI+Neg+0+0+Pl	niwaabandamsiinan
+
+1+waabndaan+VTI+Neg+1+Pl+0+Pl	niwaabandamsiinaanin
+1+waabndaan+VTI+Neg+1+Pl+0+Pl	niwaabandamsiiminan
+
+2+waabndaan+VTI+Neg+0+0+Pl	giwaabandamsiinan
+
+2+waabndaan+VTI+Neg+1+Pl+0+Pl	giwaabandamsiinaanin
+2+waabndaan+VTI+Neg+1+Pl+0+Pl	giwaabandamsiiminan
+
+2+waabndaan+VTI+Neg+2+Pl+0+Pl	giwaabandamsiinaawaan
+
+3+waabndaan+VTI+Neg+0+0+Pl	owaabandamsiinan
+
+3+waabndaan+VTI+Neg+2+Pl+0+Pl	owaabandamsiinaawaan
+
+1+waabndaan+VTI+Neg+0+Prt+0+Pl	niwaabandamsiinaabaniin
+
+1+waabndaan+VTI+Neg+1+Pl+Prt+0+Pl	niwaabandamsiiminaabaniin
+
+2+waabndaan+VTI+Neg+0+Prt+0+Pl	giwaabandamsiinaabaniin
+
+2+waabndaan+VTI+Neg+1+Pl+Prt+0+Pl	giwaabandamsiiminaabaniin
+
+2+waabndaan+VTI+Neg+2+Pl+Prt+0+Pl	giwaabandamsiinaawaabaniin
+
+3+waabndaan+VTI+Neg+0+Prt+0+Pl	owaabandamsiinaabaniin
+
+3+waabndaan+VTI+Neg+2+Pl+Prt+0+Pl	owaabandamsiinaawaabaniin
+
+1+waabndaan+VTI+Neg+0+Dub+0+Pl	niwaabandamsiinaadigenan
+
+1+waabndaan+VTI+Neg+1+Pl+Dub+0+Pl	niwaabandamsiiminaadigenan
+
+2+waabndaan+VTI+Neg+0+Dub+0+Pl	giwaabandamsiinaadigenan
+
+2+waabndaan+VTI+Neg+1+Pl+Dub+0+Pl	giwaabandamsiiminaadigenan
+
+2+waabndaan+VTI+Neg+2+Pl+Dub+0+Pl	giwaabandamsiinaawaadigenan
+
+3+waabndaan+VTI+Neg+0+Dub+0+Pl	owaabandamsiinaadigenan
+
+3+waabndaan+VTI+Neg+2+Pl+Dub+0+Pl	owaabandamsiinaawaadigenan
+

@@ -1,0 +1,87 @@
+!!!!!
+! Script with commands to compile flattened otw FST for verbs
+!!!!!
+
+! Definition of stem place-holders as special multichar symbols.
+
+define StemPlaceHolders [ "^VERB^" | "^VERB_d2^" | "^VERB_m1^" | "^VERB_n1^" | "^VERB_s1^" | "^VERB_m^" | "^VERB_n^" ];
+
+! Definition of person prefix tags (as special multichar symbols).
+
+define PrefixTags [ "1+" | "2+" | "3+" | "X+" ];
+
+! Definition of rule to remove all (prefixal) elements preceding stem place-holders,
+! except person prefix tags and flags (achieved by setting 'flag-is-epsilon' ON).
+
+! regex [ ? - [ PrefixTags | Flags ] -> 0 || _ ?* StemPlaceHolders ];
+regex [ ? - PrefixTags -> 0 || _ ?* StemPlaceHolders ];
+define rmNonMinimalPrefixes
+
+! Reminder that the various LEXC files need to be concatenated together as: 'verb_lexicon_lexc'
+
+! cat root.lexc verb_prefixes.lexc verb_stems_placeholders.lexc verb_suffixes_minimalist.lexc > verb_lexicon_minimalist.lexc
+
+read lexc verb_lexicon_minimalist.lexc
+define Morphology
+
+set flag-is-epsilon ON
+
+! Rule for remove all prefixal elements, except 1+, 2+, 3+, and X+, and flags.
+! 1) Underlying/input side: remove all tags except 1+, 2+, 3+, X+, and flags.
+! 2) Output/surface side: remove everything except flags.
+
+regex [ [ [ Morphology .o. rmNonMinimalPrefixes ].i .o. rmNonMinimalPrefixes ].i ];
+define MinimalMorphology
+
+set flag-is-epsilon OFF
+
+! Read in phonological rules that only apply in the context of suffix boundaries '>'.
+
+source phonology-only-suffix-rules.xfscript
+define Phonology
+
+! Specify rule for retaining morpheme boundaries.
+! 1) Attach flags to simple prefix and suffix boundary markers '<' or '>'.
+! 2) Convert additional prefix and suffix boundary markers '<<' and '>>' into flags.
+
+regex [ [..] -> "@P.Bx.Pref@" || "<" _ ,, [..] -> "@P.Bx.Suff@" || ">" _
+,, "<<" -> "@P.Bx.Pref2@" ,, ">>" -> "@P.Bx.Suff2@"
+];
+define Bx2Flags
+
+! Compose 1) morphological model with 2) rule attaching or convert boundaries to flags.
+
+regex [ MinimalMorphology .o. Bx2Flags ] ;
+define MorphologyBx
+
+! Ignore flags when applying suffix phonology toggled by basic suffix boundaries '>'.
+
+set flag-is-epsilon ON
+regex [ MorphologyBx .o. Phonology ] ;
+define MorphologyBx2
+
+! Recognize flags again as characters
+set flag-is-epsilon OFF
+
+! Rule for converting flags back into the corresponding boundaries.
+
+regex [ "@P.Bx.Pref@" -> "<" ] .o. [ "@P.Bx.Suff@" -> ">" ]
+.o. [ "@P.Bx.Pref2@" -> "<<" ] .o. [ "@P.Bx.Suff2@" -> ">>" ] ;
+define Flags2Bx
+
+! Composing 1) morphology with flags for boundaries with 2) rule to convert flags
+! back into boundaries.
+
+regex [ MorphologyBx2 .o. Flags2Bx ] ;
+
+! Outputting analysis-form pairs without flags for easier examination
+
+set show-flags OFF
+pairs > otw-verbs-flattened.pairs
+
+! Outputting analysis-form pairs with flags for actual flattening
+
+set show-flags ON
+pairs > otw-verbs-flattened-w-flags.pairs
+
+quit

@@ -1,0 +1,90 @@
+mnopgot+VII+0	minopogodw
+
+mnopgot+VII+0+4	minopogodini
+
+mnopgot+VII+0+Prt	minopogodbani1
+
+mnopgot+VII+0+4+Prt	minopogodiniwiban
+mnopgot+VII+0+4+Prt	minopogodiniwiba
+mnopgot+VII+0+4+Prt	minopogodiniiban
+mnopgot+VII+0+4+Prt	minopogodiniiba
+
+mnopgot+VII+0+Dub	minopogoddig
+
+mnopgot+VII+0+4+Dub	minopogodiniwidig
+mnopgot+VII+0+4+Dub	minopogodiniidig
+
+mnopgot+VII+0+Prt+Dub	minopogodgoban
+mnopgot+VII+0+Prt+Dub	minopogodgoba
+
+mnopgot+VII+0+4+Prt+Dub	minopogodiniwigoban
+mnopgot+VII+0+4+Prt+Dub	minopogodiniwigoba
+mnopgot+VII+0+4+Prt+Dub	minopogodiniigoban
+mnopgot+VII+0+4+Prt+Dub	minopogodiniigoba
+
+mnopgot+VII+0+Prt+0+Pl	minopogodbaniin
+
+mnopgot+VII+0+4+Prt+0+Pl	minopogodiniwibaniin
+mnopgot+VII+0+4+Prt+0+Pl	minopogodiniibaniin
+
+mnopgot+VII+0+Dub+0+Pl	minopogoddigenan
+
+mnopgot+VII+0+4+Dub+0+Pl	minopogodiniwidigenan
+mnopgot+VII+0+4+Dub+0+Pl	minopogodiniidigenan
+
+mnopgot+VII+0+Prt+Dub+0+Pl	minopogodgobaniin
+
+mnopgot+VII+0+4+Prt+Dub+0+Pl	minopogodiniwigobaniin
+mnopgot+VII+0+4+Prt+Dub+0+Pl	minopogodiniigobaniin
+
+mnopgot+VII+0+4+Prt+Dub+0+Pl	minopogodiniwigobaniin
+mnopgot+VII+0+4+Prt+Dub+0+Pl	minopogodiniigobaniin
+
+mnopgot+VII+0+0+Pl	minopogodwan
+
+mnopgot+VII+0+4+0+Pl	minopogodiniwan
+
+mnopgot+VII+Neg+0	minopogodsinoo
+
+mnopgot+VII+Neg+0+4	minopogodsinooni
+
+mnopgot+VII+Neg+0+Prt	minopogodsinooban
+mnopgot+VII+Neg+0+Prt	minopogodsinooba
+
+mnopgot+VII+Neg+0+4+Prt	minopogodsinooniwiban
+mnopgot+VII+Neg+0+4+Prt	minopogodsinooniwiba
+mnopgot+VII+Neg+0+4+Prt	minopogodsinooniiban
+mnopgot+VII+Neg+0+4+Prt	minopogodsinooniiba
+
+mnopgot+VII+Neg+0+Dub	minopogodsinoodig
+
+mnopgot+VII+Neg+0+4+Dub	minopogodsinooniwidig
+mnopgot+VII+Neg+0+4+Dub	minopogodsinooniidig
+
+mnopgot+VII+Neg+0+Prt+Dub	minopogodsinoogoban
+mnopgot+VII+Neg+0+Prt+Dub	minopogodsinoogoba
+
+mnopgot+VII+Neg+0+4+Prt+Dub	minopogodsinooniwigoban
+mnopgot+VII+Neg+0+4+Prt+Dub	minopogodsinooniwigoba
+mnopgot+VII+Neg+0+4+Prt+Dub	minopogodsinooniigoban
+mnopgot+VII+Neg+0+4+Prt+Dub	minopogodsinooniigoba
+
+mnopgot+VII+Neg+0+Prt+0+Pl	minopogodsinoobaniin
+
+mnopgot+VII+Neg+0+4+Prt+0+Pl	minopogodsinooniwibaniin
+mnopgot+VII+Neg+0+4+Prt+0+Pl	minopogodsinooniibaniin
+
+mnopgot+VII+Neg+0+Dub+0+Pl	minopogodsinoodigenan
+
+mnopgot+VII+Neg+0+4+Dub+0+Pl	minopogodsinooniwidigenan
+mnopgot+VII+Neg+0+4+Dub+0+Pl	minopogodsinooniidigenan
+
+mnopgot+VII+Neg+0+Prt+Dub+0+Pl	minopogodsinoogobaniin
+
+mnopgot+VII+Neg+0+4+Prt+Dub+0+Pl	minopogodsinooniwigobaniin
+mnopgot+VII+Neg+0+4+Prt+Dub+0+Pl	minopogodsinooniigobaniin
+
+mnopgot+VII+Neg+0+0+Pl	minopogodsinoowan
+
+mnopgot+VII+Neg+0+4+0+Pl	minopogodsinooniwan
+

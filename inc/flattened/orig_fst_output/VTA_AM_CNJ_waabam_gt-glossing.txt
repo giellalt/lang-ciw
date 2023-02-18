@@ -1,0 +1,481 @@
+waabmaa+VTA+Cnj+Thm1+Neg+1+Pl	waabamisiwaang
+
+waabmaa+VTA+Cnj+Thm1+Neg+2+Pl	waabamisiweg
+
+waabmaa+VTA+Cnj+Thm1+Neg+2	waabamisiwan
+
+waabmaa+VTA+Cnj+ThmInv+Neg+1	waabamigosiwaanh
+
+waabmaa+VTA+Cnj+ThmInv+Neg+1+Pl	waabamigosiwaang
+
+waabmaa+VTA+Cnj+ThmInv+Neg+2+1+Pl	waabamigosiwang
+
+waabmaa+VTA+Cnj+ThmInv+Neg+2+Pl	waabamigosiweg
+
+waabmaa+VTA+Cnj+ThmInv+Neg+2	waabamigosiwan
+
+waabmaa+VTA+Cnj+Thm1Pl+Neg+2+Pl	waabamigoosiweg
+
+waabmaa+VTA+Cnj+Thm1Pl+Neg+2	waabamigoosiwan
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+Pl	waabamisinoonagog
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2	waabamisinoonaanh
+
+waabmaa+VTA+Cnj+ThmDir+Neg+1+Pl+3+Pl	waabamaasiwangidwaa
+
+waabmaa+VTA+Cnj+ThmDir+Neg+1+Pl+3	waabamaasiwangid
+
+waabmaa+VTA+Cnj+ThmDir+Neg+1+3+Pl	waabamaasiwagwaa
+
+waabmaa+VTA+Cnj+ThmDir+Neg+1+3	waabamaasiwag
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+1+Pl+3+Pl	waabamaasiwangwaa
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+1+Pl+3	waabamaasiwang
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+Pl+3+Pl	waabamaasiwegwaa
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+Pl+3	waabamaasiweg
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+3+Pl	waabamaasiwadwaa
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+3	waabamaasiwad
+
+waabmaa+VTA+Cnj+Thm1+Neg+1+Pl+3+Pl	waabamisiwangidwaa
+
+waabmaa+VTA+Cnj+Thm1+Neg+1+Pl+3	waabamisiwangid
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+1+Pl+3+Pl	waabamisinowangwaa
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+1+Pl+3	waabamisinowang
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+Pl+3+Pl	waabamisinoowegwaa
+
+waabmaa+VTA+Cnj+ThmInv+Neg+2+Pl+3	waabamigosiweg
+
+waabmaa+VTA+Cnj+ThmDir+Neg+1+Pl+3+Pl+Prt	waabamaasiwangidwaaban
+waabmaa+VTA+Cnj+ThmDir+Neg+1+Pl+3+Pl+Prt	waabamaasiwangidwaaba
+
+waabmaa+VTA+Cnj+ThmDir+Neg+1+Pl+3+Prt	waabamaasiwangidbani1
+
+waabmaa+VTA+Cnj+ThmDir+Neg+1+3+Pl+Prt	waabamaasiwagwaaban
+waabmaa+VTA+Cnj+ThmDir+Neg+1+3+Pl+Prt	waabamaasiwagwaaba
+
+waabmaa+VTA+Cnj+ThmDir+Neg+1+3+Prt	waabamaasiwagbani1
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+1+Pl+3+Pl+Prt	waabamaasiwangwaaban
+waabmaa+VTA+Cnj+ThmDir+Neg+2+1+Pl+3+Pl+Prt	waabamaasiwangwaaba
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+1+Pl+3+Prt	waabamaasiwangbani1
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+Pl+3+Pl+Prt	waabamaasiwegwaaban
+waabmaa+VTA+Cnj+ThmDir+Neg+2+Pl+3+Pl+Prt	waabamaasiwegwaaba
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+Pl+3+Prt	waabamaasiwegbani1
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+3+Pl+Prt	waabamaasiwadwaaban
+waabmaa+VTA+Cnj+ThmDir+Neg+2+3+Pl+Prt	waabamaasiwadwaaba
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+3+Prt	waabamaasiwadbani1
+
+waabmaa+VTA+Cnj+Thm1+Neg+1+Pl+3+Pl+Prt	waabamisiwangidwaaban
+waabmaa+VTA+Cnj+Thm1+Neg+1+Pl+3+Pl+Prt	waabamisiwangidwaaba
+
+waabmaa+VTA+Cnj+Thm1+Neg+1+Pl+3+Prt	waabamisiwangidbani1
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+1+Pl+3+Pl+Prt	waabamisinowangwaaban
+waabmaa+VTA+Cnj+Thm2a+Neg+2+1+Pl+3+Pl+Prt	waabamisinowangwaaba
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+1+Pl+3+Prt	waabamisinowangbani1
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+Pl+3+Pl+Prt	waabamisinoowegwaaban
+waabmaa+VTA+Cnj+Thm2a+Neg+2+Pl+3+Pl+Prt	waabamisinoowegwaaba
+
+waabmaa+VTA+Cnj+ThmInv+Neg+2+Pl+3+Prt	waabamigosiwegbani1
+
+waabmaa+VTA+Cnj+ThmDir+Neg+1+Pl+3+Pl+Dub	waabamaasiiwangidwaawenh
+
+waabmaa+VTA+Cnj+ThmDir+Neg+1+Pl+3+Dub	waabamaasiiwangidenh
+
+waabmaa+VTA+Cnj+ThmDir+Neg+1+3+Pl+Dub	waabamaasiiwagwaawenh
+
+waabmaa+VTA+Cnj+ThmDir+Neg+1+3+Dub	waabamaasiiwagenh
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+1+Pl+3+Pl+Dub	waabamaasiiwangwaawenh
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+1+Pl+3+Dub	waabamaasiiwangenh
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+Pl+3+Pl+Dub	waabamaasiiwegwaawenh
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+Pl+3+Dub	waabamaasiiwegenh
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+3+Pl+Dub	waabamaasiiwadwaawenh
+
+waabmaa+VTA+Cnj+ThmDir+Neg+2+3+Dub	waabamaasiiwadenh
+
+waabmaa+VTA+Cnj+Thm1+Neg+1+Pl+3+Pl+Dub	waabamisiiwangidwaawenh
+
+waabmaa+VTA+Cnj+Thm1+Neg+1+Pl+3+Dub	waabamisiiwangidenh
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+1+Pl+3+Pl+Dub	waabamisinoowangwaawenh
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+1+Pl+3+Dub	waabamisinoowangenh
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+Pl+3+Pl+Dub	waabamisinoowegwaawenh
+
+waabmaa+VTA+Cnj+ThmInv+Neg+2+Pl+3+Dub	waabamigosiiwegenh
+
+waabmaa+VTA+Cnj+Thm1+Neg+1+Pl+Prt	waabamisiwaangiban
+waabmaa+VTA+Cnj+Thm1+Neg+1+Pl+Prt	waabamisiwaangiba
+
+waabmaa+VTA+Cnj+Thm1+Neg+2+Pl+Prt	waabamisiwegoban
+waabmaa+VTA+Cnj+Thm1+Neg+2+Pl+Prt	waabamisiwegoba
+
+waabmaa+VTA+Cnj+Thm1+Neg+2+Prt	waabamisiwamban
+waabmaa+VTA+Cnj+Thm1+Neg+2+Prt	waabamisiwamba
+
+waabmaa+VTA+Cnj+ThmInv+Neg+1+Pl+Prt	waabamigosiwaangbani1
+
+waabmaa+VTA+Cnj+ThmInv+Neg+1+Prt	waabamigosiwaamban
+waabmaa+VTA+Cnj+ThmInv+Neg+1+Prt	waabamigosiwaamba
+
+waabmaa+VTA+Cnj+ThmInv+Neg+2+1+Pl+Prt	waabamigosiwangbani1
+
+waabmaa+VTA+Cnj+ThmInv+Neg+2+Pl+Prt	waabamigosiwegbani1
+
+waabmaa+VTA+Cnj+ThmInv+Neg+2+Prt	waabamigosiwanbani1
+
+waabmaa+VTA+Cnj+Thm1Pl+Neg+2+Pl+Prt	waabamigoosiwegoban
+waabmaa+VTA+Cnj+Thm1Pl+Neg+2+Pl+Prt	waabamigoosiwegoba
+
+waabmaa+VTA+Cnj+Thm1Pl+Neg+2+Prt	waabamigoosiwamban
+waabmaa+VTA+Cnj+Thm1Pl+Neg+2+Prt	waabamigoosiwamba
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+Pl+Prt	waabamisinoonagogoban
+waabmaa+VTA+Cnj+Thm2a+Neg+2+Pl+Prt	waabamisinoonagogoba
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+Prt	waabamisinoonaambaanh
+
+waabmaa+VTA+Cnj+Thm1+Neg+1+Pl+Dub	waabamisiiwaangenh
+
+waabmaa+VTA+Cnj+Thm1+Neg+2+Pl+Dub	waabamisiiwegwenh
+
+waabmaa+VTA+Cnj+Thm1+Neg+2+Dub	waabamisiiwanenh
+
+waabmaa+VTA+Cnj+ThmInv+Neg+1+Dub	waabamigosiiwaanenh
+
+waabmaa+VTA+Cnj+ThmInv+Neg+1+Pl+Dub	waabamigosiiwaangenh
+
+waabmaa+VTA+Cnj+ThmInv+Neg+2+1+Pl+Dub	waabamigosiiwangenh
+
+waabmaa+VTA+Cnj+ThmInv+Neg+2+Pl+Dub	waabamigosiiwegenh
+
+waabmaa+VTA+Cnj+ThmInv+Neg+2+Dub	waabamigosiiwanenh
+
+waabmaa+VTA+Cnj+Thm1Pl+Neg+2+Pl+Dub	waabamigoosiwegwenh
+
+waabmaa+VTA+Cnj+Thm1Pl+Neg+2+Dub	waabamigoosiwanenh
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+Pl+Dub	waabamisinoonagogwenh
+
+waabmaa+VTA+Cnj+Thm2a+Neg+2+Dub	waabamisinoonaanenh
+
+waabmaa+VTA+Cnj+ThmDir+Neg+3+Pl	waabamaasigwaa
+waabmaa+VTA+Cnj+ThmDir+Neg+3+Pl	waabamaasigwaa
+
+waabmaa+VTA+Cnj+ThmDir+Neg+3	waabamaasig
+
+waabmaa+VTA+Cnj+Thm1+Neg+3+Pl	waabamisigwaa
+
+waabmaa+VTA+Cnj+Thm1+Neg+3	waabamisig
+
+waabmaa+VTA+Cnj+ThmInv+Neg+3+Pl	waabamigosigwaa
+
+waabmaa+VTA+Cnj+ThmInv+Neg+3	waabamigosig
+
+waabmaa+VTA+Cnj+Thm2a+Neg+3+Pl	waabamisinokwaa
+
+waabmaa+VTA+Cnj+Thm2a+Neg+3	waabamisinog
+
+waabmaa+VTA+Cnj+ThmDir+Neg+3+Pl+Prt	waabamaasiiwaadbani1
+waabmaa+VTA+Cnj+ThmDir+Neg+3+Pl+Prt	waabamaasiiwaadbani1
+
+waabmaa+VTA+Cnj+ThmDir+Neg+3+Prt	waabamaasiidbani1
+
+waabmaa+VTA+Cnj+Thm1+Neg+3+Pl+Prt	waabamisigwaaban
+waabmaa+VTA+Cnj+Thm1+Neg+3+Pl+Prt	waabamisigwaaba
+
+waabmaa+VTA+Cnj+Thm1+Neg+3+Prt	waabamisigbani1
+
+waabmaa+VTA+Cnj+ThmInv+Neg+3+Pl+Prt	waabamigosigwaaban
+waabmaa+VTA+Cnj+ThmInv+Neg+3+Pl+Prt	waabamigosigwaaba
+
+waabmaa+VTA+Cnj+ThmInv+Neg+3+Prt	waabamigosigbani1
+
+waabmaa+VTA+Cnj+Thm2a+Neg+3+Pl+Prt	waabamisinokwaaban
+waabmaa+VTA+Cnj+Thm2a+Neg+3+Pl+Prt	waabamisinokwaaba
+
+waabmaa+VTA+Cnj+Thm2a+Neg+3+Prt	waabamisinogbani1
+
+waabmaa+VTA+Cnj+ThmDir+Neg+3+Pl+Dub	waabamaasiigwaaenh
+waabmaa+VTA+Cnj+ThmDir+Neg+3+Pl+Dub	waabamaasiigwaaenh
+
+waabmaa+VTA+Cnj+ThmDir+Neg+3+Dub	waabamaasiigenh
+
+waabmaa+VTA+Cnj+Thm1+Neg+3+Pl+Dub	waabamisiigwaawenh
+
+waabmaa+VTA+Cnj+Thm1+Neg+3+Dub	waabamisiigwenh
+
+waabmaa+VTA+Cnj+ThmInv+Neg+3+Pl+Dub	waabamigosiigwaawenh
+
+waabmaa+VTA+Cnj+ThmInv+Neg+3+Dub	waabamigosiigenh
+
+waabmaa+VTA+Cnj+Thm2a+Neg+3+Pl+Dub	waabamisinokwaawenh
+
+waabmaa+VTA+Cnj+Thm2a+Neg+3+Dub	waabamisinogwenh
+
+waabmaa+VTA+Cnj+Thm1+1+Pl	waabamiyaang
+
+waabmaa+VTA+Cnj+Thm1+2+Pl	waabamiyeg
+
+waabmaa+VTA+Cnj+Thm1+2	waabamiyan
+
+waabmaa+VTA+Cnj+ThmInv+1	waabamigoyaanh
+
+waabmaa+VTA+Cnj+ThmInv+1+Pl	waabamigoyaang
+
+waabmaa+VTA+Cnj+ThmInv+2+1+Pl	waabamigoyang
+
+waabmaa+VTA+Cnj+ThmInv+2+Pl	waabamigoyeg
+
+waabmaa+VTA+Cnj+ThmInv+2	waabamigoyan
+
+waabmaa+VTA+Cnj+Thm1Pl+2+Pl	waabamigooyeg
+
+waabmaa+VTA+Cnj+Thm1Pl+2	waabamigooyan
+
+waabmaa+VTA+Cnj+Thm2a+2+Pl	waabamininagog
+
+waabmaa+VTA+Cnj+Thm2a+2	waabamininaan
+waabmaa+VTA+Cnj+Thm2a+2	waabamininaa
+
+waabmaa+VTA+Cnj+Thm1+1+Pl+3+Pl	waabamiyangidwaa
+
+waabmaa+VTA+Cnj+Thm1+1+Pl+3	waabamiyangid
+
+waabmaa+VTA+Cnj+Thm2a+2+1+Pl+3+Pl	waabamininangwaa
+
+waabmaa+VTA+Cnj+Thm2a+2+1+Pl+3	waabamininang
+
+waabmaa+VTA+Cnj+Thm2a+2+Pl+3+Pl	waabamininegwaa
+
+waabmaa+VTA+Cnj+Thm2a+2+Pl+3	waabaminineg
+
+waabmaa+VTA+Cnj+ThmNul+1+Pl+3+Pl	waabamangidwaa
+
+waabmaa+VTA+Cnj+ThmNul+1+Pl+3	waabamangid
+
+waabmaa+VTA+Cnj+ThmNul+1+3+Pl	waabamagwaa
+
+waabmaa+VTA+Cnj+ThmNul+1+3	waabamag
+
+waabmaa+VTA+Cnj+ThmNul+2+1+Pl+3+Pl	waabamangwaa
+
+waabmaa+VTA+Cnj+ThmNul+2+1+Pl+3	waabamang
+
+waabmaa+VTA+Cnj+ThmNul+2+Pl+3+Pl	waabamegwaa
+
+waabmaa+VTA+Cnj+ThmNul+2+Pl+3	waabameg
+
+waabmaa+VTA+Cnj+ThmNul+2+3+Pl	waabamadwaa
+
+waabmaa+VTA+Cnj+ThmNul+2+3	waabamad
+
+waabmaa+VTA+Cnj+Thm1+1+Pl+3+Pl+Prt	waabamiyangidwaaban
+waabmaa+VTA+Cnj+Thm1+1+Pl+3+Pl+Prt	waabamiyangidwaaba
+
+waabmaa+VTA+Cnj+Thm1+1+Pl+3+Prt	waabamiyangidbani1
+
+waabmaa+VTA+Cnj+Thm2a+2+1+Pl+3+Pl+Prt	waabamininangwaaban
+waabmaa+VTA+Cnj+Thm2a+2+1+Pl+3+Pl+Prt	waabamininangwaaba
+
+waabmaa+VTA+Cnj+Thm2a+2+1+Pl+3+Prt	waabamininangbani1
+
+waabmaa+VTA+Cnj+Thm2a+2+Pl+3+Pl+Prt	waabamininegwaaban
+waabmaa+VTA+Cnj+Thm2a+2+Pl+3+Pl+Prt	waabamininegwaaba
+
+waabmaa+VTA+Cnj+Thm2a+2+Pl+3+Prt	waabamininegbani1
+
+waabmaa+VTA+Cnj+ThmNul+1+Pl+3+Pl+Prt	waabamangidwaaban
+waabmaa+VTA+Cnj+ThmNul+1+Pl+3+Pl+Prt	waabamangidwaaba
+
+waabmaa+VTA+Cnj+ThmNul+1+Pl+3+Prt	waabamangidbani1
+
+waabmaa+VTA+Cnj+ThmNul+1+3+Pl+Prt	waabamagwaaban
+waabmaa+VTA+Cnj+ThmNul+1+3+Pl+Prt	waabamagwaaba
+
+waabmaa+VTA+Cnj+ThmNul+1+3+Prt	waabamagbani1
+
+waabmaa+VTA+Cnj+ThmNul+2+1+Pl+3+Pl+Prt	waabamangwaaban
+waabmaa+VTA+Cnj+ThmNul+2+1+Pl+3+Pl+Prt	waabamangwaaba
+
+waabmaa+VTA+Cnj+ThmNul+2+1+Pl+3+Prt	waabamangbani1
+
+waabmaa+VTA+Cnj+ThmNul+2+Pl+3+Pl+Prt	waabamegwaaban
+waabmaa+VTA+Cnj+ThmNul+2+Pl+3+Pl+Prt	waabamegwaaba
+
+waabmaa+VTA+Cnj+ThmNul+2+Pl+3+Prt	waabamegbani1
+
+waabmaa+VTA+Cnj+ThmNul+2+3+Pl+Prt	waabamadwaaban
+waabmaa+VTA+Cnj+ThmNul+2+3+Pl+Prt	waabamadwaaba
+
+waabmaa+VTA+Cnj+ThmNul+2+3+Prt	waabamadbani1
+
+waabmaa+VTA+Cnj+Thm1+1+Pl+3+Pl+Dub	waabamiwangidwaawenh
+
+waabmaa+VTA+Cnj+Thm1+1+Pl+3+Dub	waabamiwangidenh
+
+waabmaa+VTA+Cnj+Thm2a+2+1+Pl+3+Pl+Dub	waabamininangwaawenh
+
+waabmaa+VTA+Cnj+Thm2a+2+1+Pl+3+Dub	waabamininangenh
+
+waabmaa+VTA+Cnj+Thm2a+2+Pl+3+Pl+Dub	waabamininegwaawenh
+
+waabmaa+VTA+Cnj+Thm2a+2+Pl+3+Dub	waabamininegenh
+
+waabmaa+VTA+Cnj+ThmNul+1+Pl+3+Pl+Dub	waabamaawangidwaawenh
+
+waabmaa+VTA+Cnj+ThmNul+1+Pl+3+Dub	waabamaawangidenh
+
+waabmaa+VTA+Cnj+ThmNul+1+3+Pl+Dub	waabamaawagwaawenh
+
+waabmaa+VTA+Cnj+ThmNul+1+3+Dub	waabamaawagenh
+
+waabmaa+VTA+Cnj+ThmNul+2+1+Pl+3+Pl+Dub	waabamaawangwaawenh
+
+waabmaa+VTA+Cnj+ThmNul+2+1+Pl+3+Dub	waabamaawangenh
+
+waabmaa+VTA+Cnj+ThmNul+2+Pl+3+Pl+Dub	waabamaawegwaawenh
+
+waabmaa+VTA+Cnj+ThmNul+2+Pl+3+Dub	waabamaawegenh
+
+waabmaa+VTA+Cnj+ThmNul+2+3+Pl+Dub	waabamaawadwaawenh
+
+waabmaa+VTA+Cnj+ThmNul+2+3+Dub	waabamaawadenh
+
+waabmaa+VTA+Cnj+Thm1+1+Pl+Prt	waabamiyaangiban
+waabmaa+VTA+Cnj+Thm1+1+Pl+Prt	waabamiyaangiba
+
+waabmaa+VTA+Cnj+Thm1+2+Pl+Prt	waabamiyegoban
+waabmaa+VTA+Cnj+Thm1+2+Pl+Prt	waabamiyegoba
+
+waabmaa+VTA+Cnj+Thm1+2+Prt	waabamiyamban
+waabmaa+VTA+Cnj+Thm1+2+Prt	waabamiyamba
+
+waabmaa+VTA+Cnj+ThmInv+1+Pl+Prt	waabamigoyaangbani1
+
+waabmaa+VTA+Cnj+ThmInv+1+Prt	waabamigoyaambaanh
+
+waabmaa+VTA+Cnj+ThmInv+2+1+Pl+Prt	waabamigoyangbani1
+
+waabmaa+VTA+Cnj+ThmInv+2+Pl+Prt	waabamigoyegbani1
+
+waabmaa+VTA+Cnj+ThmInv+2+Prt	waabamigoyanbani1
+
+waabmaa+VTA+Cnj+Thm1Pl+2+Pl+Prt	waabamigooyegoban
+waabmaa+VTA+Cnj+Thm1Pl+2+Pl+Prt	waabamigooyegoba
+
+waabmaa+VTA+Cnj+Thm1Pl+2+Prt	waabamigooyamban
+waabmaa+VTA+Cnj+Thm1Pl+2+Prt	waabamigooyamba
+
+waabmaa+VTA+Cnj+Thm2a+2+Pl+Prt	waabamininagogoban
+waabmaa+VTA+Cnj+Thm2a+2+Pl+Prt	waabamininagogoba
+
+waabmaa+VTA+Cnj+Thm2a+2+Prt	waabamininaambaanh
+
+waabmaa+VTA+Cnj+Thm1+1+Pl+Dub	waabamiwaangenh
+
+waabmaa+VTA+Cnj+Thm1+2+Pl+Dub	waabamiwegwenh
+
+waabmaa+VTA+Cnj+Thm1+2+Dub	waabamiwanenh
+
+waabmaa+VTA+Cnj+ThmInv+1+Dub	waabamigowaanenh
+
+waabmaa+VTA+Cnj+ThmInv+1+Pl+Dub	waabamigowaangenh
+
+waabmaa+VTA+Cnj+ThmInv+2+1+Pl+Dub	waabamigowangenh
+
+waabmaa+VTA+Cnj+ThmInv+2+Pl+Dub	waabamigowegenh
+
+waabmaa+VTA+Cnj+ThmInv+2+Dub	waabamigowanenh
+
+waabmaa+VTA+Cnj+Thm1Pl+2+Pl+Dub	waabamigoowegwenh
+
+waabmaa+VTA+Cnj+Thm1Pl+2+Dub	waabamigoowanenh
+
+waabmaa+VTA+Cnj+Thm2a+2+Pl+Dub	waabamininagogwenh
+
+waabmaa+VTA+Cnj+Thm2a+2+Dub	waabamininaanenh
+
+waabmaa+VTA+Cnj+ThmDir+3+Pl	waabamaawaady1
+waabmaa+VTA+Cnj+ThmDir+3+Pl	waabamaawaady1
+
+waabmaa+VTA+Cnj+ThmDir+3	waabamaady1
+
+waabmaa+VTA+Cnj+Thm1+3+Pl	waabamiwaad
+
+waabmaa+VTA+Cnj+Thm1+3	waabamidy1
+
+waabmaa+VTA+Cnj+ThmInv+3+Pl	waabamigowaady1
+waabmaa+VTA+Cnj+ThmInv+3+Pl	waabamigowaady1
+waabmaa+VTA+Cnj+ThmInv+3+Pl	waabamigowaady1
+
+waabmaa+VTA+Cnj+ThmInv+3	waabamigody1
+waabmaa+VTA+Cnj+ThmInv+3	waabamigody1
+
+waabmaa+VTA+Cnj+Thm2b+3+Pl	waabamikwaa
+
+waabmaa+VTA+Cnj+Thm2b+3	waabamik
+
+waabmaa+VTA+Cnj+ThmDir+3+Pl+Prt	waabamaawaady1bani1
+waabmaa+VTA+Cnj+ThmDir+3+Pl+Prt	waabamaawaady1bani1
+
+waabmaa+VTA+Cnj+ThmDir+3+Prt	waabamaady1bani1
+
+waabmaa+VTA+Cnj+Thm1+3+Pl+Prt	waabamiwaapan
+waabmaa+VTA+Cnj+Thm1+3+Pl+Prt	waabamiwaapa
+
+waabmaa+VTA+Cnj+Thm1+3+Prt	waabamidy1bani1
+
+waabmaa+VTA+Cnj+ThmInv+3+Pl+Prt	waabamigowaady1bani1
+waabmaa+VTA+Cnj+ThmInv+3+Pl+Prt	waabamigowaady1bani1
+waabmaa+VTA+Cnj+ThmInv+3+Pl+Prt	waabamigowaady1bani1
+
+waabmaa+VTA+Cnj+ThmInv+3+Prt	waabamigody1bani1
+waabmaa+VTA+Cnj+ThmInv+3+Prt	waabamigody1bani1
+
+waabmaa+VTA+Cnj+Thm2b+3+Pl+Prt	waabamikwaaban
+waabmaa+VTA+Cnj+Thm2b+3+Pl+Prt	waabamikwaaba
+
+waabmaa+VTA+Cnj+Thm2b+3+Prt	waabamikbani1
+
+waabmaa+VTA+Cnj+ThmDir+3+Pl+Dub	waabamaawaady1wenh
+waabmaa+VTA+Cnj+ThmDir+3+Pl+Dub	waabamaawaady1wenh
+
+waabmaa+VTA+Cnj+ThmDir+3+Dub	waabamaady1wenh
+
+waabmaa+VTA+Cnj+Thm1+3+Pl+Dub	waabamiwaagwenh
+
+waabmaa+VTA+Cnj+Thm1+3+Dub	waabamidy1wenh
+
+waabmaa+VTA+Cnj+ThmInv+3+Pl+Dub	waabamigowaady1wenh
+waabmaa+VTA+Cnj+ThmInv+3+Pl+Dub	waabamigowaady1wenh
+waabmaa+VTA+Cnj+ThmInv+3+Pl+Dub	waabamigowaady1wenh
+
+waabmaa+VTA+Cnj+ThmInv+3+Dub	waabamigoogwenh
+
+waabmaa+VTA+Cnj+Thm2b+3+Pl+Dub	waabamikwaawenh
+
+waabmaa+VTA+Cnj+Thm2b+3+Dub	waabamikenh
+

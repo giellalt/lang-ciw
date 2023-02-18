@@ -1,0 +1,872 @@
+Tests:
+  NA_C_zhiishiib_gt-glossing:
+    zhiishiip+NA: zhiishiib
+    1+zhiishiip+NA: nizhiishiib
+    2+zhiishiip+NA: gizhiishiib
+    X+zhiishiip+NA: izhiishiib
+    zhiishiip+NA+Con: zhiishiibenh
+    zhiishiip+NA+Dim: zhiishiibens
+    zhiishiip+NA+Pej: zhiishiibsh
+    zhiishiip+NA+Prt: zhiishiibbani1
+    zhiishiip+NA+Voc+Pl: zhiishiibdig
+    zhiishiip+NA+4: zhiishiiban
+    zhiishiip+NA+Loc: zhiishiibng
+    zhiishiip+NA+Pl: zhiishiibag
+    1+zhiishiip+NA+Con: nizhiishiibenh
+    1+zhiishiip+NA+Dim: nizhiishiibens
+    2+zhiishiip+NA+Con: gizhiishiibenh
+    2+zhiishiip+NA+Dim: gizhiishiibens
+    X+zhiishiip+NA+Con: izhiishiibenh
+    X+zhiishiip+NA+Dim: izhiishiibens
+    1+zhiishiip+NA+ThmPos: nizhiishiibm
+    2+zhiishiip+NA+ThmPos: gizhiishiibm
+    X+zhiishiip+NA+ThmPos: izhiishiibm
+    1+zhiishiip+NA+Pej: nizhiishiibsh
+    2+zhiishiip+NA+Pej: gizhiishiibsh
+    X+zhiishiip+NA+Pej: izhiishiibsh
+    1+zhiishiip+NA+1+Pl: [ nizhiishiibnaan, nizhiishiibnaa ]
+    2+zhiishiip+NA+1+Pl: [ gizhiishiibnaan, gizhiishiibnaa ]
+    2+zhiishiip+NA+2+Pl: gizhiishiibwaa
+    3+zhiishiip+NA+3+4: ozhiishiibniw
+    1+zhiishiip+NA+Prt: nizhiishiibbani1
+    1+zhiishiip+NA+Voc+Pl: nizhiishiibdig
+    2+zhiishiip+NA+Prt: gizhiishiibbani1
+    2+zhiishiip+NA+Voc+Pl: gizhiishiibdig
+    X+zhiishiip+NA+Prt: izhiishiibbani1
+    X+zhiishiip+NA+Voc+Pl: izhiishiibdig
+    1+zhiishiip+NA+4: nizhiishiiban
+    1+zhiishiip+NA+Loc: nizhiishiibng
+    1+zhiishiip+NA+Pl: nizhiishiibag
+    2+zhiishiip+NA+4: gizhiishiiban
+    2+zhiishiip+NA+Loc: gizhiishiibng
+    2+zhiishiip+NA+Pl: gizhiishiibag
+    3+zhiishiip+NA+4: ozhiishiiban
+    3+zhiishiip+NA+Loc: ozhiishiibng
+    X+zhiishiip+NA+4: izhiishiiban
+    X+zhiishiip+NA+Loc: izhiishiibng
+    X+zhiishiip+NA+Pl: izhiishiibag
+    zhiishiip+NA+Con+Pej: zhiishiibenyish
+    zhiishiip+NA+Dim+Pej: zhiishiibensish
+    zhiishiip+NA+Con+Prt: [ zhiishiibenyiban, zhiishiibenyiba ]
+    zhiishiip+NA+Con+Voc+Pl: zhiishiibenydig
+    zhiishiip+NA+Dim+Prt: [ zhiishiibensiban, zhiishiibensiba ]
+    zhiishiip+NA+Dim+Voc+Pl: zhiishiibensdig
+    zhiishiip+NA+Con+4: zhiishiibenyin
+    zhiishiip+NA+Con+Loc: zhiishiibenying
+    zhiishiip+NA+Con+Pl: zhiishiibenyag
+    zhiishiip+NA+Dim+4: zhiishiibensan
+    zhiishiip+NA+Dim+Loc: zhiishiibensing
+    zhiishiip+NA+Dim+Pl: zhiishiibensag
+    zhiishiip+NA+Pej+Prt: [ zhiishiibshiban, zhiishiibshiba ]
+    zhiishiip+NA+Pej+Voc+Pl: zhiishiibshdig
+    zhiishiip+NA+Pej+4: zhiishiibshan
+    zhiishiip+NA+Pej+Loc: zhiishiibshing
+    zhiishiip+NA+Pej+Pl: zhiishiibshag
+    zhiishiip+NA+Prt+4: zhiishiibbaniin
+    zhiishiip+NA+Prt+Loc: zhiishiibbaniing
+    zhiishiip+NA+Prt+Pl: zhiishiibbani1ag
+    1+zhiishiip+NA+Con+ThmPos: nizhiishiibenym
+    1+zhiishiip+NA+Dim+ThmPos: nizhiishiibensm
+    2+zhiishiip+NA+Con+ThmPos: gizhiishiibenym
+    2+zhiishiip+NA+Dim+ThmPos: gizhiishiibensm
+    X+zhiishiip+NA+Con+ThmPos: izhiishiibenym
+    X+zhiishiip+NA+Dim+ThmPos: izhiishiibensm
+    1+zhiishiip+NA+Con+Pej: nizhiishiibenyish
+    1+zhiishiip+NA+Dim+Pej: nizhiishiibensish
+    2+zhiishiip+NA+Con+Pej: gizhiishiibenyish
+    2+zhiishiip+NA+Dim+Pej: gizhiishiibensish
+    X+zhiishiip+NA+Con+Pej: izhiishiibenyish
+    X+zhiishiip+NA+Dim+Pej: izhiishiibensish
+    1+zhiishiip+NA+Con+1+Pl: [ nizhiishiibenynaan, nizhiishiibenynaa ]
+    1+zhiishiip+NA+Dim+1+Pl: [ nizhiishiibensnaan, nizhiishiibensnaa ]
+    2+zhiishiip+NA+Con+1+Pl: [ gizhiishiibenynaan, gizhiishiibenynaa ]
+    2+zhiishiip+NA+Con+2+Pl: gizhiishiibenywaa
+    2+zhiishiip+NA+Dim+1+Pl: [ gizhiishiibensnaan, gizhiishiibensnaa ]
+    2+zhiishiip+NA+Dim+2+Pl: gizhiishiibenswaa
+    3+zhiishiip+NA+Con+3+4: ozhiishiibenyniw
+    3+zhiishiip+NA+Dim+3+4: ozhiishiibensniw
+    1+zhiishiip+NA+Con+Prt: [ nizhiishiibenyiban, nizhiishiibenyiba ]
+    1+zhiishiip+NA+Con+Voc+Pl: nizhiishiibenydig
+    1+zhiishiip+NA+Dim+Prt: [ nizhiishiibensiban, nizhiishiibensiba ]
+    1+zhiishiip+NA+Dim+Voc+Pl: nizhiishiibensdig
+    2+zhiishiip+NA+Con+Prt: [ gizhiishiibenyiban, gizhiishiibenyiba ]
+    2+zhiishiip+NA+Con+Voc+Pl: gizhiishiibenydig
+    2+zhiishiip+NA+Dim+Prt: [ gizhiishiibensiban, gizhiishiibensiba ]
+    2+zhiishiip+NA+Dim+Voc+Pl: gizhiishiibensdig
+    X+zhiishiip+NA+Con+Prt: [ izhiishiibenyiban, izhiishiibenyiba ]
+    X+zhiishiip+NA+Con+Voc+Pl: izhiishiibenydig
+    X+zhiishiip+NA+Dim+Prt: [ izhiishiibensiban, izhiishiibensiba ]
+    X+zhiishiip+NA+Dim+Voc+Pl: izhiishiibensdig
+    1+zhiishiip+NA+Con+4: nizhiishiibenyin
+    1+zhiishiip+NA+Con+Loc: nizhiishiibenying
+    1+zhiishiip+NA+Con+Pl: nizhiishiibenyag
+    1+zhiishiip+NA+Dim+4: nizhiishiibensan
+    1+zhiishiip+NA+Dim+Loc: nizhiishiibensing
+    1+zhiishiip+NA+Dim+Pl: nizhiishiibensag
+    2+zhiishiip+NA+Con+4: gizhiishiibenyin
+    2+zhiishiip+NA+Con+Loc: gizhiishiibenying
+    2+zhiishiip+NA+Con+Pl: gizhiishiibenyag
+    2+zhiishiip+NA+Dim+4: gizhiishiibensan
+    2+zhiishiip+NA+Dim+Loc: gizhiishiibensing
+    2+zhiishiip+NA+Dim+Pl: gizhiishiibensag
+    3+zhiishiip+NA+Con+4: ozhiishiibenyin
+    3+zhiishiip+NA+Con+Loc: ozhiishiibenying
+    3+zhiishiip+NA+Dim+4: ozhiishiibensan
+    3+zhiishiip+NA+Dim+Loc: ozhiishiibensing
+    X+zhiishiip+NA+Con+4: izhiishiibenyin
+    X+zhiishiip+NA+Con+Loc: izhiishiibenying
+    X+zhiishiip+NA+Con+Pl: izhiishiibenyag
+    X+zhiishiip+NA+Dim+4: izhiishiibensan
+    X+zhiishiip+NA+Dim+Loc: izhiishiibensing
+    X+zhiishiip+NA+Dim+Pl: izhiishiibensag
+    1+zhiishiip+NA+ThmPos+Pej: nizhiishiibmish
+    2+zhiishiip+NA+ThmPos+Pej: gizhiishiibmish
+    X+zhiishiip+NA+ThmPos+Pej: izhiishiibmish
+    1+zhiishiip+NA+ThmPos+1+Pl: [ nizhiishiibmnaan, nizhiishiibmnaa ]
+    2+zhiishiip+NA+ThmPos+1+Pl: [ gizhiishiibmnaan, gizhiishiibmnaa ]
+    2+zhiishiip+NA+ThmPos+2+Pl: gizhiishiibmwaa
+    3+zhiishiip+NA+ThmPos+3+4: ozhiishiibmniw
+    1+zhiishiip+NA+ThmPos+Prt: [ nizhiishiibmiban, nizhiishiibmiba ]
+    1+zhiishiip+NA+ThmPos+Voc+Pl: nizhiishiibmdig
+    2+zhiishiip+NA+ThmPos+Prt: [ gizhiishiibmiban, gizhiishiibmiba ]
+    2+zhiishiip+NA+ThmPos+Voc+Pl: gizhiishiibmdig
+    X+zhiishiip+NA+ThmPos+Prt: [ izhiishiibmiban, izhiishiibmiba ]
+    X+zhiishiip+NA+ThmPos+Voc+Pl: izhiishiibmdig
+    1+zhiishiip+NA+ThmPos+4: nizhiishiibman
+    1+zhiishiip+NA+ThmPos+Loc: nizhiishiibming
+    1+zhiishiip+NA+ThmPos+Pl: nizhiishiibmag
+    2+zhiishiip+NA+ThmPos+4: gizhiishiibman
+    2+zhiishiip+NA+ThmPos+Loc: gizhiishiibming
+    2+zhiishiip+NA+ThmPos+Pl: gizhiishiibmag
+    3+zhiishiip+NA+ThmPos+4: ozhiishiibman
+    3+zhiishiip+NA+ThmPos+Loc: ozhiishiibming
+    X+zhiishiip+NA+ThmPos+4: izhiishiibman
+    X+zhiishiip+NA+ThmPos+Loc: izhiishiibming
+    X+zhiishiip+NA+ThmPos+Pl: izhiishiibmag
+    1+zhiishiip+NA+Pej+1+Pl: [ nizhiishiibshnaan, nizhiishiibshnaa ]
+    2+zhiishiip+NA+Pej+1+Pl: [ gizhiishiibshnaan, gizhiishiibshnaa ]
+    2+zhiishiip+NA+Pej+2+Pl: gizhiishiibshwaa
+    3+zhiishiip+NA+Pej+3+4: ozhiishiibshniw
+    1+zhiishiip+NA+Pej+Prt: [ nizhiishiibshiban, nizhiishiibshiba ]
+    1+zhiishiip+NA+Pej+Voc+Pl: nizhiishiibshdig
+    2+zhiishiip+NA+Pej+Prt: [ gizhiishiibshiban, gizhiishiibshiba ]
+    2+zhiishiip+NA+Pej+Voc+Pl: gizhiishiibshdig
+    X+zhiishiip+NA+Pej+Prt: [ izhiishiibshiban, izhiishiibshiba ]
+    X+zhiishiip+NA+Pej+Voc+Pl: izhiishiibshdig
+    1+zhiishiip+NA+Pej+4: nizhiishiibshan
+    1+zhiishiip+NA+Pej+Loc: nizhiishiibshing
+    1+zhiishiip+NA+Pej+Pl: nizhiishiibshag
+    2+zhiishiip+NA+Pej+4: gizhiishiibshan
+    2+zhiishiip+NA+Pej+Loc: gizhiishiibshing
+    2+zhiishiip+NA+Pej+Pl: gizhiishiibshag
+    3+zhiishiip+NA+Pej+4: ozhiishiibshan
+    3+zhiishiip+NA+Pej+Loc: ozhiishiibshing
+    X+zhiishiip+NA+Pej+4: izhiishiibshan
+    X+zhiishiip+NA+Pej+Loc: izhiishiibshing
+    X+zhiishiip+NA+Pej+Pl: izhiishiibshag
+    1+zhiishiip+NA+1+Pl+Prt: [ nizhiishiibnaaniban, nizhiishiibnaaniba ]
+    1+zhiishiip+NA+1+Pl+Voc+Pl: nizhiishiibnaany1dig
+    2+zhiishiip+NA+1+Pl+Prt: [ gizhiishiibnaaniban, gizhiishiibnaaniba ]
+    2+zhiishiip+NA+1+Pl+Voc+Pl: gizhiishiibnaany1dig
+    2+zhiishiip+NA+2+Pl+Prt: [ gizhiishiibwaaban, gizhiishiibwaaba ]
+    2+zhiishiip+NA+2+Pl+Voc+Pl: gizhiishiibwaadig
+    3+zhiishiip+NA+3+4+Prt: [ ozhiishiibniwiban, ozhiishiibniwiba, ozhiishiibniiban, ozhiishiibniiba ]
+    1+zhiishiip+NA+1+Pl+4: nizhiishiibnaanin
+    1+zhiishiip+NA+1+Pl+Loc: nizhiishiibnaaning
+    1+zhiishiip+NA+1+Pl+Pl: nizhiishiibnaany1ag
+    2+zhiishiip+NA+1+Pl+4: gizhiishiibnaanin
+    2+zhiishiip+NA+1+Pl+Loc: gizhiishiibnaaning
+    2+zhiishiip+NA+1+Pl+Pl: gizhiishiibnaany1ag
+    2+zhiishiip+NA+2+Pl+4: gizhiishiibwaan
+    2+zhiishiip+NA+2+Pl+Loc: gizhiishiibwaang
+    2+zhiishiip+NA+2+Pl+Pl: gizhiishiibwaaag
+    3+zhiishiip+NA+2+Pl+4: ozhiishiibwaan
+    3+zhiishiip+NA+2+Pl+Loc: ozhiishiibwaang
+    3+zhiishiip+NA+3+4+4: ozhiishiibniwan
+    3+zhiishiip+NA+3+4+Loc: ozhiishiibniing
+    1+zhiishiip+NA+Prt+4: nizhiishiibbaniin
+    1+zhiishiip+NA+Prt+Loc: nizhiishiibbaniing
+    1+zhiishiip+NA+Prt+Pl: nizhiishiibbani1ag
+    2+zhiishiip+NA+Prt+4: gizhiishiibbaniin
+    2+zhiishiip+NA+Prt+Loc: gizhiishiibbaniing
+    2+zhiishiip+NA+Prt+Pl: gizhiishiibbani1ag
+    3+zhiishiip+NA+Prt+4: ozhiishiibbaniin
+    3+zhiishiip+NA+Prt+Loc: ozhiishiibbaniing
+    X+zhiishiip+NA+Prt+4: izhiishiibbaniin
+    X+zhiishiip+NA+Prt+Loc: izhiishiibbaniing
+    X+zhiishiip+NA+Prt+Pl: izhiishiibbani1ag
+    zhiishiip+NA+Con+Pej+Prt: [ zhiishiibenyishiban, zhiishiibenyishiba ]
+    zhiishiip+NA+Con+Pej+Voc+Pl: zhiishiibenyishdig
+    zhiishiip+NA+Dim+Pej+Prt: [ zhiishiibensishiban, zhiishiibensishiba ]
+    zhiishiip+NA+Dim+Pej+Voc+Pl: zhiishiibensishdig
+    zhiishiip+NA+Con+Pej+4: zhiishiibenyishan
+    zhiishiip+NA+Con+Pej+Loc: zhiishiibenyishing
+    zhiishiip+NA+Con+Pej+Pl: zhiishiibenyishag
+    zhiishiip+NA+Dim+Pej+4: zhiishiibensishan
+    zhiishiip+NA+Dim+Pej+Loc: zhiishiibensishing
+    zhiishiip+NA+Dim+Pej+Pl: zhiishiibensishag
+    zhiishiip+NA+Con+Prt+4: zhiishiibenyibaniin
+    zhiishiip+NA+Con+Prt+Loc: zhiishiibenyibaniing
+    zhiishiip+NA+Con+Prt+Pl: zhiishiibenyibani1ag
+    zhiishiip+NA+Dim+Prt+4: zhiishiibensibaniin
+    zhiishiip+NA+Dim+Prt+Loc: zhiishiibensibaniing
+    zhiishiip+NA+Dim+Prt+Pl: zhiishiibensibani1ag
+    zhiishiip+NA+Pej+Prt+4: zhiishiibshibaniin
+    zhiishiip+NA+Pej+Prt+Loc: zhiishiibshibaniing
+    zhiishiip+NA+Pej+Prt+Pl: zhiishiibshibani1ag
+    1+zhiishiip+NA+Con+ThmPos+Pej: nizhiishiibenymish
+    1+zhiishiip+NA+Dim+ThmPos+Pej: nizhiishiibensmish
+    2+zhiishiip+NA+Con+ThmPos+Pej: gizhiishiibenymish
+    2+zhiishiip+NA+Dim+ThmPos+Pej: gizhiishiibensmish
+    X+zhiishiip+NA+Con+ThmPos+Pej: izhiishiibenymish
+    X+zhiishiip+NA+Dim+ThmPos+Pej: izhiishiibensmish
+    1+zhiishiip+NA+Con+ThmPos+1+Pl: [ nizhiishiibenymnaan, nizhiishiibenymnaa ]
+    1+zhiishiip+NA+Dim+ThmPos+1+Pl: [ nizhiishiibensmnaan, nizhiishiibensmnaa ]
+    2+zhiishiip+NA+Con+ThmPos+1+Pl: [ gizhiishiibenymnaan, gizhiishiibenymnaa ]
+    2+zhiishiip+NA+Con+ThmPos+2+Pl: gizhiishiibenymwaa
+    2+zhiishiip+NA+Dim+ThmPos+1+Pl: [ gizhiishiibensmnaan, gizhiishiibensmnaa ]
+    2+zhiishiip+NA+Dim+ThmPos+2+Pl: gizhiishiibensmwaa
+    3+zhiishiip+NA+Con+ThmPos+3+4: ozhiishiibenymniw
+    3+zhiishiip+NA+Dim+ThmPos+3+4: ozhiishiibensmniw
+    1+zhiishiip+NA+Con+ThmPos+Prt: [ nizhiishiibenymiban, nizhiishiibenymiba ]
+    1+zhiishiip+NA+Con+ThmPos+Voc+Pl: nizhiishiibenymdig
+    1+zhiishiip+NA+Dim+ThmPos+Prt: [ nizhiishiibensmiban, nizhiishiibensmiba ]
+    1+zhiishiip+NA+Dim+ThmPos+Voc+Pl: nizhiishiibensmdig
+    2+zhiishiip+NA+Con+ThmPos+Prt: [ gizhiishiibenymiban, gizhiishiibenymiba ]
+    2+zhiishiip+NA+Con+ThmPos+Voc+Pl: gizhiishiibenymdig
+    2+zhiishiip+NA+Dim+ThmPos+Prt: [ gizhiishiibensmiban, gizhiishiibensmiba ]
+    2+zhiishiip+NA+Dim+ThmPos+Voc+Pl: gizhiishiibensmdig
+    X+zhiishiip+NA+Con+ThmPos+Prt: [ izhiishiibenymiban, izhiishiibenymiba ]
+    X+zhiishiip+NA+Con+ThmPos+Voc+Pl: izhiishiibenymdig
+    X+zhiishiip+NA+Dim+ThmPos+Prt: [ izhiishiibensmiban, izhiishiibensmiba ]
+    X+zhiishiip+NA+Dim+ThmPos+Voc+Pl: izhiishiibensmdig
+    1+zhiishiip+NA+Con+ThmPos+4: nizhiishiibenyman
+    1+zhiishiip+NA+Con+ThmPos+Loc: nizhiishiibenyming
+    1+zhiishiip+NA+Con+ThmPos+Pl: nizhiishiibenymag
+    1+zhiishiip+NA+Dim+ThmPos+4: nizhiishiibensman
+    1+zhiishiip+NA+Dim+ThmPos+Loc: nizhiishiibensming
+    1+zhiishiip+NA+Dim+ThmPos+Pl: nizhiishiibensmag
+    2+zhiishiip+NA+Con+ThmPos+4: gizhiishiibenyman
+    2+zhiishiip+NA+Con+ThmPos+Loc: gizhiishiibenyming
+    2+zhiishiip+NA+Con+ThmPos+Pl: gizhiishiibenymag
+    2+zhiishiip+NA+Dim+ThmPos+4: gizhiishiibensman
+    2+zhiishiip+NA+Dim+ThmPos+Loc: gizhiishiibensming
+    2+zhiishiip+NA+Dim+ThmPos+Pl: gizhiishiibensmag
+    3+zhiishiip+NA+Con+ThmPos+4: ozhiishiibenyman
+    3+zhiishiip+NA+Con+ThmPos+Loc: ozhiishiibenyming
+    3+zhiishiip+NA+Dim+ThmPos+4: ozhiishiibensman
+    3+zhiishiip+NA+Dim+ThmPos+Loc: ozhiishiibensming
+    X+zhiishiip+NA+Con+ThmPos+4: izhiishiibenyman
+    X+zhiishiip+NA+Con+ThmPos+Loc: izhiishiibenyming
+    X+zhiishiip+NA+Con+ThmPos+Pl: izhiishiibenymag
+    X+zhiishiip+NA+Dim+ThmPos+4: izhiishiibensman
+    X+zhiishiip+NA+Dim+ThmPos+Loc: izhiishiibensming
+    X+zhiishiip+NA+Dim+ThmPos+Pl: izhiishiibensmag
+    1+zhiishiip+NA+Con+Pej+1+Pl: [ nizhiishiibenyishnaan, nizhiishiibenyishnaa ]
+    1+zhiishiip+NA+Dim+Pej+1+Pl: [ nizhiishiibensishnaan, nizhiishiibensishnaa ]
+    2+zhiishiip+NA+Con+Pej+1+Pl: [ gizhiishiibenyishnaan, gizhiishiibenyishnaa ]
+    2+zhiishiip+NA+Con+Pej+2+Pl: gizhiishiibenyishwaa
+    2+zhiishiip+NA+Dim+Pej+1+Pl: [ gizhiishiibensishnaan, gizhiishiibensishnaa ]
+    2+zhiishiip+NA+Dim+Pej+2+Pl: gizhiishiibensishwaa
+    3+zhiishiip+NA+Con+Pej+3+4: ozhiishiibenyishniw
+    3+zhiishiip+NA+Dim+Pej+3+4: ozhiishiibensishniw
+    1+zhiishiip+NA+Con+Pej+Prt: [ nizhiishiibenyishiban, nizhiishiibenyishiba ]
+    1+zhiishiip+NA+Con+Pej+Voc+Pl: nizhiishiibenyishdig
+    1+zhiishiip+NA+Dim+Pej+Prt: [ nizhiishiibensishiban, nizhiishiibensishiba ]
+    1+zhiishiip+NA+Dim+Pej+Voc+Pl: nizhiishiibensishdig
+    2+zhiishiip+NA+Con+Pej+Prt: [ gizhiishiibenyishiban, gizhiishiibenyishiba ]
+    2+zhiishiip+NA+Con+Pej+Voc+Pl: gizhiishiibenyishdig
+    2+zhiishiip+NA+Dim+Pej+Prt: [ gizhiishiibensishiban, gizhiishiibensishiba ]
+    2+zhiishiip+NA+Dim+Pej+Voc+Pl: gizhiishiibensishdig
+    X+zhiishiip+NA+Con+Pej+Prt: [ izhiishiibenyishiban, izhiishiibenyishiba ]
+    X+zhiishiip+NA+Con+Pej+Voc+Pl: izhiishiibenyishdig
+    X+zhiishiip+NA+Dim+Pej+Prt: [ izhiishiibensishiban, izhiishiibensishiba ]
+    X+zhiishiip+NA+Dim+Pej+Voc+Pl: izhiishiibensishdig
+    1+zhiishiip+NA+Con+Pej+4: nizhiishiibenyishan
+    1+zhiishiip+NA+Con+Pej+Loc: nizhiishiibenyishing
+    1+zhiishiip+NA+Con+Pej+Pl: nizhiishiibenyishag
+    1+zhiishiip+NA+Dim+Pej+4: nizhiishiibensishan
+    1+zhiishiip+NA+Dim+Pej+Loc: nizhiishiibensishing
+    1+zhiishiip+NA+Dim+Pej+Pl: nizhiishiibensishag
+    2+zhiishiip+NA+Con+Pej+4: gizhiishiibenyishan
+    2+zhiishiip+NA+Con+Pej+Loc: gizhiishiibenyishing
+    2+zhiishiip+NA+Con+Pej+Pl: gizhiishiibenyishag
+    2+zhiishiip+NA+Dim+Pej+4: gizhiishiibensishan
+    2+zhiishiip+NA+Dim+Pej+Loc: gizhiishiibensishing
+    2+zhiishiip+NA+Dim+Pej+Pl: gizhiishiibensishag
+    3+zhiishiip+NA+Con+Pej+4: ozhiishiibenyishan
+    3+zhiishiip+NA+Con+Pej+Loc: ozhiishiibenyishing
+    3+zhiishiip+NA+Dim+Pej+4: ozhiishiibensishan
+    3+zhiishiip+NA+Dim+Pej+Loc: ozhiishiibensishing
+    X+zhiishiip+NA+Con+Pej+4: izhiishiibenyishan
+    X+zhiishiip+NA+Con+Pej+Loc: izhiishiibenyishing
+    X+zhiishiip+NA+Con+Pej+Pl: izhiishiibenyishag
+    X+zhiishiip+NA+Dim+Pej+4: izhiishiibensishan
+    X+zhiishiip+NA+Dim+Pej+Loc: izhiishiibensishing
+    X+zhiishiip+NA+Dim+Pej+Pl: izhiishiibensishag
+    1+zhiishiip+NA+Con+1+Pl+Prt: [ nizhiishiibenynaaniban, nizhiishiibenynaaniba ]
+    1+zhiishiip+NA+Con+1+Pl+Voc+Pl: nizhiishiibenynaany1dig
+    1+zhiishiip+NA+Dim+1+Pl+Prt: [ nizhiishiibensnaaniban, nizhiishiibensnaaniba ]
+    1+zhiishiip+NA+Dim+1+Pl+Voc+Pl: nizhiishiibensnaany1dig
+    2+zhiishiip+NA+Con+1+Pl+Prt: [ gizhiishiibenynaaniban, gizhiishiibenynaaniba ]
+    2+zhiishiip+NA+Con+1+Pl+Voc+Pl: gizhiishiibenynaany1dig
+    2+zhiishiip+NA+Con+2+Pl+Prt: [ gizhiishiibenywaaban, gizhiishiibenywaaba ]
+    2+zhiishiip+NA+Con+2+Pl+Voc+Pl: gizhiishiibenywaadig
+    2+zhiishiip+NA+Dim+1+Pl+Prt: [ gizhiishiibensnaaniban, gizhiishiibensnaaniba ]
+    2+zhiishiip+NA+Dim+1+Pl+Voc+Pl: gizhiishiibensnaany1dig
+    2+zhiishiip+NA+Dim+2+Pl+Prt: [ gizhiishiibenswaaban, gizhiishiibenswaaba ]
+    2+zhiishiip+NA+Dim+2+Pl+Voc+Pl: gizhiishiibenswaadig
+    3+zhiishiip+NA+Con+3+4+Prt: [ ozhiishiibenyniwiban, ozhiishiibenyniwiba, ozhiishiibenyniiban, ozhiishiibenyniiba ]
+    3+zhiishiip+NA+Dim+3+4+Prt: [ ozhiishiibensniwiban, ozhiishiibensniwiba, ozhiishiibensniiban, ozhiishiibensniiba ]
+    1+zhiishiip+NA+Con+1+Pl+4: nizhiishiibenynaanin
+    1+zhiishiip+NA+Con+1+Pl+Loc: nizhiishiibenynaaning
+    1+zhiishiip+NA+Con+1+Pl+Pl: nizhiishiibenynaany1ag
+    1+zhiishiip+NA+Dim+1+Pl+4: nizhiishiibensnaanin
+    1+zhiishiip+NA+Dim+1+Pl+Loc: nizhiishiibensnaaning
+    1+zhiishiip+NA+Dim+1+Pl+Pl: nizhiishiibensnaany1ag
+    2+zhiishiip+NA+Con+1+Pl+4: gizhiishiibenynaanin
+    2+zhiishiip+NA+Con+1+Pl+Loc: gizhiishiibenynaaning
+    2+zhiishiip+NA+Con+1+Pl+Pl: gizhiishiibenynaany1ag
+    2+zhiishiip+NA+Con+2+Pl+4: gizhiishiibenywaan
+    2+zhiishiip+NA+Con+2+Pl+Loc: gizhiishiibenywaang
+    2+zhiishiip+NA+Con+2+Pl+Pl: gizhiishiibenywaaag
+    2+zhiishiip+NA+Dim+1+Pl+4: gizhiishiibensnaanin
+    2+zhiishiip+NA+Dim+1+Pl+Loc: gizhiishiibensnaaning
+    2+zhiishiip+NA+Dim+1+Pl+Pl: gizhiishiibensnaany1ag
+    2+zhiishiip+NA+Dim+2+Pl+4: gizhiishiibenswaan
+    2+zhiishiip+NA+Dim+2+Pl+Loc: gizhiishiibenswaang
+    2+zhiishiip+NA+Dim+2+Pl+Pl: gizhiishiibenswaaag
+    3+zhiishiip+NA+Con+2+Pl+4: ozhiishiibenywaan
+    3+zhiishiip+NA+Con+2+Pl+Loc: ozhiishiibenywaang
+    3+zhiishiip+NA+Con+3+4+4: ozhiishiibenyniwan
+    3+zhiishiip+NA+Con+3+4+Loc: ozhiishiibenyniing
+    3+zhiishiip+NA+Dim+2+Pl+4: ozhiishiibenswaan
+    3+zhiishiip+NA+Dim+2+Pl+Loc: ozhiishiibenswaang
+    3+zhiishiip+NA+Dim+3+4+4: ozhiishiibensniwan
+    3+zhiishiip+NA+Dim+3+4+Loc: ozhiishiibensniing
+    1+zhiishiip+NA+Con+Prt+4: nizhiishiibenyibaniin
+    1+zhiishiip+NA+Con+Prt+Loc: nizhiishiibenyibaniing
+    1+zhiishiip+NA+Con+Prt+Pl: nizhiishiibenyibani1ag
+    1+zhiishiip+NA+Dim+Prt+4: nizhiishiibensibaniin
+    1+zhiishiip+NA+Dim+Prt+Loc: nizhiishiibensibaniing
+    1+zhiishiip+NA+Dim+Prt+Pl: nizhiishiibensibani1ag
+    2+zhiishiip+NA+Con+Prt+4: gizhiishiibenyibaniin
+    2+zhiishiip+NA+Con+Prt+Loc: gizhiishiibenyibaniing
+    2+zhiishiip+NA+Con+Prt+Pl: gizhiishiibenyibani1ag
+    2+zhiishiip+NA+Dim+Prt+4: gizhiishiibensibaniin
+    2+zhiishiip+NA+Dim+Prt+Loc: gizhiishiibensibaniing
+    2+zhiishiip+NA+Dim+Prt+Pl: gizhiishiibensibani1ag
+    3+zhiishiip+NA+Con+Prt+4: ozhiishiibenyibaniin
+    3+zhiishiip+NA+Con+Prt+Loc: ozhiishiibenyibaniing
+    3+zhiishiip+NA+Dim+Prt+4: ozhiishiibensibaniin
+    3+zhiishiip+NA+Dim+Prt+Loc: ozhiishiibensibaniing
+    X+zhiishiip+NA+Con+Prt+4: izhiishiibenyibaniin
+    X+zhiishiip+NA+Con+Prt+Loc: izhiishiibenyibaniing
+    X+zhiishiip+NA+Con+Prt+Pl: izhiishiibenyibani1ag
+    X+zhiishiip+NA+Dim+Prt+4: izhiishiibensibaniin
+    X+zhiishiip+NA+Dim+Prt+Loc: izhiishiibensibaniing
+    X+zhiishiip+NA+Dim+Prt+Pl: izhiishiibensibani1ag
+    1+zhiishiip+NA+ThmPos+Pej+1+Pl: [ nizhiishiibmishnaan, nizhiishiibmishnaa ]
+    2+zhiishiip+NA+ThmPos+Pej+1+Pl: [ gizhiishiibmishnaan, gizhiishiibmishnaa ]
+    2+zhiishiip+NA+ThmPos+Pej+2+Pl: gizhiishiibmishwaa
+    3+zhiishiip+NA+ThmPos+Pej+3+4: ozhiishiibmishniw
+    1+zhiishiip+NA+ThmPos+Pej+Prt: [ nizhiishiibmishiban, nizhiishiibmishiba ]
+    1+zhiishiip+NA+ThmPos+Pej+Voc+Pl: nizhiishiibmishdig
+    2+zhiishiip+NA+ThmPos+Pej+Prt: [ gizhiishiibmishiban, gizhiishiibmishiba ]
+    2+zhiishiip+NA+ThmPos+Pej+Voc+Pl: gizhiishiibmishdig
+    X+zhiishiip+NA+ThmPos+Pej+Prt: [ izhiishiibmishiban, izhiishiibmishiba ]
+    X+zhiishiip+NA+ThmPos+Pej+Voc+Pl: izhiishiibmishdig
+    1+zhiishiip+NA+ThmPos+Pej+4: nizhiishiibmishan
+    1+zhiishiip+NA+ThmPos+Pej+Loc: nizhiishiibmishing
+    1+zhiishiip+NA+ThmPos+Pej+Pl: nizhiishiibmishag
+    2+zhiishiip+NA+ThmPos+Pej+4: gizhiishiibmishan
+    2+zhiishiip+NA+ThmPos+Pej+Loc: gizhiishiibmishing
+    2+zhiishiip+NA+ThmPos+Pej+Pl: gizhiishiibmishag
+    3+zhiishiip+NA+ThmPos+Pej+4: ozhiishiibmishan
+    3+zhiishiip+NA+ThmPos+Pej+Loc: ozhiishiibmishing
+    X+zhiishiip+NA+ThmPos+Pej+4: izhiishiibmishan
+    X+zhiishiip+NA+ThmPos+Pej+Loc: izhiishiibmishing
+    X+zhiishiip+NA+ThmPos+Pej+Pl: izhiishiibmishag
+    1+zhiishiip+NA+ThmPos+1+Pl+Prt: [ nizhiishiibmnaaniban, nizhiishiibmnaaniba ]
+    1+zhiishiip+NA+ThmPos+1+Pl+Voc+Pl: nizhiishiibmnaany1dig
+    2+zhiishiip+NA+ThmPos+1+Pl+Prt: [ gizhiishiibmnaaniban, gizhiishiibmnaaniba ]
+    2+zhiishiip+NA+ThmPos+1+Pl+Voc+Pl: gizhiishiibmnaany1dig
+    2+zhiishiip+NA+ThmPos+2+Pl+Prt: [ gizhiishiibmwaaban, gizhiishiibmwaaba ]
+    2+zhiishiip+NA+ThmPos+2+Pl+Voc+Pl: gizhiishiibmwaadig
+    3+zhiishiip+NA+ThmPos+3+4+Prt: [ ozhiishiibmniwiban, ozhiishiibmniwiba, ozhiishiibmniiban, ozhiishiibmniiba ]
+    1+zhiishiip+NA+ThmPos+1+Pl+4: nizhiishiibmnaanin
+    1+zhiishiip+NA+ThmPos+1+Pl+Loc: nizhiishiibmnaaning
+    1+zhiishiip+NA+ThmPos+1+Pl+Pl: nizhiishiibmnaany1ag
+    2+zhiishiip+NA+ThmPos+1+Pl+4: gizhiishiibmnaanin
+    2+zhiishiip+NA+ThmPos+1+Pl+Loc: gizhiishiibmnaaning
+    2+zhiishiip+NA+ThmPos+1+Pl+Pl: gizhiishiibmnaany1ag
+    2+zhiishiip+NA+ThmPos+2+Pl+4: gizhiishiibmwaan
+    2+zhiishiip+NA+ThmPos+2+Pl+Loc: gizhiishiibmwaang
+    2+zhiishiip+NA+ThmPos+2+Pl+Pl: gizhiishiibmwaaag
+    3+zhiishiip+NA+ThmPos+2+Pl+4: ozhiishiibmwaan
+    3+zhiishiip+NA+ThmPos+2+Pl+Loc: ozhiishiibmwaang
+    3+zhiishiip+NA+ThmPos+3+4+4: ozhiishiibmniwan
+    3+zhiishiip+NA+ThmPos+3+4+Loc: ozhiishiibmniing
+    1+zhiishiip+NA+ThmPos+Prt+4: nizhiishiibmibaniin
+    1+zhiishiip+NA+ThmPos+Prt+Loc: nizhiishiibmibaniing
+    1+zhiishiip+NA+ThmPos+Prt+Pl: nizhiishiibmibani1ag
+    2+zhiishiip+NA+ThmPos+Prt+4: gizhiishiibmibaniin
+    2+zhiishiip+NA+ThmPos+Prt+Loc: gizhiishiibmibaniing
+    2+zhiishiip+NA+ThmPos+Prt+Pl: gizhiishiibmibani1ag
+    3+zhiishiip+NA+ThmPos+Prt+4: ozhiishiibmibaniin
+    3+zhiishiip+NA+ThmPos+Prt+Loc: ozhiishiibmibaniing
+    X+zhiishiip+NA+ThmPos+Prt+4: izhiishiibmibaniin
+    X+zhiishiip+NA+ThmPos+Prt+Loc: izhiishiibmibaniing
+    X+zhiishiip+NA+ThmPos+Prt+Pl: izhiishiibmibani1ag
+    1+zhiishiip+NA+Pej+1+Pl+Prt: [ nizhiishiibshnaaniban, nizhiishiibshnaaniba ]
+    1+zhiishiip+NA+Pej+1+Pl+Voc+Pl: nizhiishiibshnaany1dig
+    2+zhiishiip+NA+Pej+1+Pl+Prt: [ gizhiishiibshnaaniban, gizhiishiibshnaaniba ]
+    2+zhiishiip+NA+Pej+1+Pl+Voc+Pl: gizhiishiibshnaany1dig
+    2+zhiishiip+NA+Pej+2+Pl+Prt: [ gizhiishiibshwaaban, gizhiishiibshwaaba ]
+    2+zhiishiip+NA+Pej+2+Pl+Voc+Pl: gizhiishiibshwaadig
+    3+zhiishiip+NA+Pej+3+4+Prt: [ ozhiishiibshniwiban, ozhiishiibshniwiba, ozhiishiibshniiban, ozhiishiibshniiba ]
+    1+zhiishiip+NA+Pej+1+Pl+4: nizhiishiibshnaanin
+    1+zhiishiip+NA+Pej+1+Pl+Loc: nizhiishiibshnaaning
+    1+zhiishiip+NA+Pej+1+Pl+Pl: nizhiishiibshnaany1ag
+    2+zhiishiip+NA+Pej+1+Pl+4: gizhiishiibshnaanin
+    2+zhiishiip+NA+Pej+1+Pl+Loc: gizhiishiibshnaaning
+    2+zhiishiip+NA+Pej+1+Pl+Pl: gizhiishiibshnaany1ag
+    2+zhiishiip+NA+Pej+2+Pl+4: gizhiishiibshwaan
+    2+zhiishiip+NA+Pej+2+Pl+Loc: gizhiishiibshwaang
+    2+zhiishiip+NA+Pej+2+Pl+Pl: gizhiishiibshwaaag
+    3+zhiishiip+NA+Pej+2+Pl+4: ozhiishiibshwaan
+    3+zhiishiip+NA+Pej+2+Pl+Loc: ozhiishiibshwaang
+    3+zhiishiip+NA+Pej+3+4+4: ozhiishiibshniwan
+    3+zhiishiip+NA+Pej+3+4+Loc: ozhiishiibshniing
+    1+zhiishiip+NA+Pej+Prt+4: nizhiishiibshibaniin
+    1+zhiishiip+NA+Pej+Prt+Loc: nizhiishiibshibaniing
+    1+zhiishiip+NA+Pej+Prt+Pl: nizhiishiibshibani1ag
+    2+zhiishiip+NA+Pej+Prt+4: gizhiishiibshibaniin
+    2+zhiishiip+NA+Pej+Prt+Loc: gizhiishiibshibaniing
+    2+zhiishiip+NA+Pej+Prt+Pl: gizhiishiibshibani1ag
+    3+zhiishiip+NA+Pej+Prt+4: ozhiishiibshibaniin
+    3+zhiishiip+NA+Pej+Prt+Loc: ozhiishiibshibaniing
+    X+zhiishiip+NA+Pej+Prt+4: izhiishiibshibaniin
+    X+zhiishiip+NA+Pej+Prt+Loc: izhiishiibshibaniing
+    X+zhiishiip+NA+Pej+Prt+Pl: izhiishiibshibani1ag
+    1+zhiishiip+NA+1+Pl+Prt+4: nizhiishiibnaanibaniin
+    1+zhiishiip+NA+1+Pl+Prt+Loc: nizhiishiibnaanibaniing
+    1+zhiishiip+NA+1+Pl+Prt+Pl: nizhiishiibnaanibani1ag
+    2+zhiishiip+NA+1+Pl+Prt+4: gizhiishiibnaanibaniin
+    2+zhiishiip+NA+1+Pl+Prt+Loc: gizhiishiibnaanibaniing
+    2+zhiishiip+NA+1+Pl+Prt+Pl: gizhiishiibnaanibani1ag
+    2+zhiishiip+NA+2+Pl+Prt+4: gizhiishiibwaabaniin
+    2+zhiishiip+NA+2+Pl+Prt+Loc: gizhiishiibwaabaniing
+    2+zhiishiip+NA+2+Pl+Prt+Pl: gizhiishiibwaabani1ag
+    3+zhiishiip+NA+2+Pl+Prt+4: ozhiishiibwaabaniin
+    3+zhiishiip+NA+2+Pl+Prt+Loc: ozhiishiibwaabaniing
+    3+zhiishiip+NA+3+4+Prt+4: [ ozhiishiibniwibaniin, ozhiishiibniibaniin ]
+    3+zhiishiip+NA+3+4+Prt+Loc: [ ozhiishiibniwibaniing, ozhiishiibniibaniing ]
+    zhiishiip+NA+Con+Pej+Prt+4: zhiishiibenyishibaniin
+    zhiishiip+NA+Con+Pej+Prt+Loc: zhiishiibenyishibaniing
+    zhiishiip+NA+Con+Pej+Prt+Pl: zhiishiibenyishibani1ag
+    zhiishiip+NA+Dim+Pej+Prt+4: zhiishiibensishibaniin
+    zhiishiip+NA+Dim+Pej+Prt+Loc: zhiishiibensishibaniing
+    zhiishiip+NA+Dim+Pej+Prt+Pl: zhiishiibensishibani1ag
+    1+zhiishiip+NA+Con+ThmPos+Pej+1+Pl: [ nizhiishiibenymishnaan, nizhiishiibenymishnaa ]
+    1+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl: [ nizhiishiibensmishnaan, nizhiishiibensmishnaa ]
+    2+zhiishiip+NA+Con+ThmPos+Pej+1+Pl: [ gizhiishiibenymishnaan, gizhiishiibenymishnaa ]
+    2+zhiishiip+NA+Con+ThmPos+Pej+2+Pl: gizhiishiibenymishwaa
+    2+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl: [ gizhiishiibensmishnaan, gizhiishiibensmishnaa ]
+    2+zhiishiip+NA+Dim+ThmPos+Pej+2+Pl: gizhiishiibensmishwaa
+    3+zhiishiip+NA+Con+ThmPos+Pej+3+4: ozhiishiibenymishniw
+    3+zhiishiip+NA+Dim+ThmPos+Pej+3+4: ozhiishiibensmishniw
+    1+zhiishiip+NA+Con+ThmPos+Pej+Prt: [ nizhiishiibenymishiban, nizhiishiibenymishiba ]
+    1+zhiishiip+NA+Con+ThmPos+Pej+Voc+Pl: nizhiishiibenymishdig
+    1+zhiishiip+NA+Dim+ThmPos+Pej+Prt: [ nizhiishiibensmishiban, nizhiishiibensmishiba ]
+    1+zhiishiip+NA+Dim+ThmPos+Pej+Voc+Pl: nizhiishiibensmishdig
+    2+zhiishiip+NA+Con+ThmPos+Pej+Prt: [ gizhiishiibenymishiban, gizhiishiibenymishiba ]
+    2+zhiishiip+NA+Con+ThmPos+Pej+Voc+Pl: gizhiishiibenymishdig
+    2+zhiishiip+NA+Dim+ThmPos+Pej+Prt: [ gizhiishiibensmishiban, gizhiishiibensmishiba ]
+    2+zhiishiip+NA+Dim+ThmPos+Pej+Voc+Pl: gizhiishiibensmishdig
+    X+zhiishiip+NA+Con+ThmPos+Pej+Prt: [ izhiishiibenymishiban, izhiishiibenymishiba ]
+    X+zhiishiip+NA+Con+ThmPos+Pej+Voc+Pl: izhiishiibenymishdig
+    X+zhiishiip+NA+Dim+ThmPos+Pej+Prt: [ izhiishiibensmishiban, izhiishiibensmishiba ]
+    X+zhiishiip+NA+Dim+ThmPos+Pej+Voc+Pl: izhiishiibensmishdig
+    1+zhiishiip+NA+Con+ThmPos+Pej+4: nizhiishiibenymishan
+    1+zhiishiip+NA+Con+ThmPos+Pej+Loc: nizhiishiibenymishing
+    1+zhiishiip+NA+Con+ThmPos+Pej+Pl: nizhiishiibenymishag
+    1+zhiishiip+NA+Dim+ThmPos+Pej+4: nizhiishiibensmishan
+    1+zhiishiip+NA+Dim+ThmPos+Pej+Loc: nizhiishiibensmishing
+    1+zhiishiip+NA+Dim+ThmPos+Pej+Pl: nizhiishiibensmishag
+    2+zhiishiip+NA+Con+ThmPos+Pej+4: gizhiishiibenymishan
+    2+zhiishiip+NA+Con+ThmPos+Pej+Loc: gizhiishiibenymishing
+    2+zhiishiip+NA+Con+ThmPos+Pej+Pl: gizhiishiibenymishag
+    2+zhiishiip+NA+Dim+ThmPos+Pej+4: gizhiishiibensmishan
+    2+zhiishiip+NA+Dim+ThmPos+Pej+Loc: gizhiishiibensmishing
+    2+zhiishiip+NA+Dim+ThmPos+Pej+Pl: gizhiishiibensmishag
+    3+zhiishiip+NA+Con+ThmPos+Pej+4: ozhiishiibenymishan
+    3+zhiishiip+NA+Con+ThmPos+Pej+Loc: ozhiishiibenymishing
+    3+zhiishiip+NA+Dim+ThmPos+Pej+4: ozhiishiibensmishan
+    3+zhiishiip+NA+Dim+ThmPos+Pej+Loc: ozhiishiibensmishing
+    X+zhiishiip+NA+Con+ThmPos+Pej+4: izhiishiibenymishan
+    X+zhiishiip+NA+Con+ThmPos+Pej+Loc: izhiishiibenymishing
+    X+zhiishiip+NA+Con+ThmPos+Pej+Pl: izhiishiibenymishag
+    X+zhiishiip+NA+Dim+ThmPos+Pej+4: izhiishiibensmishan
+    X+zhiishiip+NA+Dim+ThmPos+Pej+Loc: izhiishiibensmishing
+    X+zhiishiip+NA+Dim+ThmPos+Pej+Pl: izhiishiibensmishag
+    1+zhiishiip+NA+Con+ThmPos+1+Pl+Prt: [ nizhiishiibenymnaaniban, nizhiishiibenymnaaniba ]
+    1+zhiishiip+NA+Con+ThmPos+1+Pl+Voc+Pl: nizhiishiibenymnaany1dig
+    1+zhiishiip+NA+Dim+ThmPos+1+Pl+Prt: [ nizhiishiibensmnaaniban, nizhiishiibensmnaaniba ]
+    1+zhiishiip+NA+Dim+ThmPos+1+Pl+Voc+Pl: nizhiishiibensmnaany1dig
+    2+zhiishiip+NA+Con+ThmPos+1+Pl+Prt: [ gizhiishiibenymnaaniban, gizhiishiibenymnaaniba ]
+    2+zhiishiip+NA+Con+ThmPos+1+Pl+Voc+Pl: gizhiishiibenymnaany1dig
+    2+zhiishiip+NA+Con+ThmPos+2+Pl+Prt: [ gizhiishiibenymwaaban, gizhiishiibenymwaaba ]
+    2+zhiishiip+NA+Con+ThmPos+2+Pl+Voc+Pl: gizhiishiibenymwaadig
+    2+zhiishiip+NA+Dim+ThmPos+1+Pl+Prt: [ gizhiishiibensmnaaniban, gizhiishiibensmnaaniba ]
+    2+zhiishiip+NA+Dim+ThmPos+1+Pl+Voc+Pl: gizhiishiibensmnaany1dig
+    2+zhiishiip+NA+Dim+ThmPos+2+Pl+Prt: [ gizhiishiibensmwaaban, gizhiishiibensmwaaba ]
+    2+zhiishiip+NA+Dim+ThmPos+2+Pl+Voc+Pl: gizhiishiibensmwaadig
+    3+zhiishiip+NA+Con+ThmPos+3+4+Prt: [ ozhiishiibenymniwiban, ozhiishiibenymniwiba, ozhiishiibenymniiban, ozhiishiibenymniiba ]
+    3+zhiishiip+NA+Dim+ThmPos+3+4+Prt: [ ozhiishiibensmniwiban, ozhiishiibensmniwiba, ozhiishiibensmniiban, ozhiishiibensmniiba ]
+    1+zhiishiip+NA+Con+ThmPos+1+Pl+4: nizhiishiibenymnaanin
+    1+zhiishiip+NA+Con+ThmPos+1+Pl+Loc: nizhiishiibenymnaaning
+    1+zhiishiip+NA+Con+ThmPos+1+Pl+Pl: nizhiishiibenymnaany1ag
+    1+zhiishiip+NA+Dim+ThmPos+1+Pl+4: nizhiishiibensmnaanin
+    1+zhiishiip+NA+Dim+ThmPos+1+Pl+Loc: nizhiishiibensmnaaning
+    1+zhiishiip+NA+Dim+ThmPos+1+Pl+Pl: nizhiishiibensmnaany1ag
+    2+zhiishiip+NA+Con+ThmPos+1+Pl+4: gizhiishiibenymnaanin
+    2+zhiishiip+NA+Con+ThmPos+1+Pl+Loc: gizhiishiibenymnaaning
+    2+zhiishiip+NA+Con+ThmPos+1+Pl+Pl: gizhiishiibenymnaany1ag
+    2+zhiishiip+NA+Con+ThmPos+2+Pl+4: gizhiishiibenymwaan
+    2+zhiishiip+NA+Con+ThmPos+2+Pl+Loc: gizhiishiibenymwaang
+    2+zhiishiip+NA+Con+ThmPos+2+Pl+Pl: gizhiishiibenymwaaag
+    2+zhiishiip+NA+Dim+ThmPos+1+Pl+4: gizhiishiibensmnaanin
+    2+zhiishiip+NA+Dim+ThmPos+1+Pl+Loc: gizhiishiibensmnaaning
+    2+zhiishiip+NA+Dim+ThmPos+1+Pl+Pl: gizhiishiibensmnaany1ag
+    2+zhiishiip+NA+Dim+ThmPos+2+Pl+4: gizhiishiibensmwaan
+    2+zhiishiip+NA+Dim+ThmPos+2+Pl+Loc: gizhiishiibensmwaang
+    2+zhiishiip+NA+Dim+ThmPos+2+Pl+Pl: gizhiishiibensmwaaag
+    3+zhiishiip+NA+Con+ThmPos+2+Pl+4: ozhiishiibenymwaan
+    3+zhiishiip+NA+Con+ThmPos+2+Pl+Loc: ozhiishiibenymwaang
+    3+zhiishiip+NA+Con+ThmPos+3+4+4: ozhiishiibenymniwan
+    3+zhiishiip+NA+Con+ThmPos+3+4+Loc: ozhiishiibenymniing
+    3+zhiishiip+NA+Dim+ThmPos+2+Pl+4: ozhiishiibensmwaan
+    3+zhiishiip+NA+Dim+ThmPos+2+Pl+Loc: ozhiishiibensmwaang
+    3+zhiishiip+NA+Dim+ThmPos+3+4+4: ozhiishiibensmniwan
+    3+zhiishiip+NA+Dim+ThmPos+3+4+Loc: ozhiishiibensmniing
+    1+zhiishiip+NA+Con+ThmPos+Prt+4: nizhiishiibenymibaniin
+    1+zhiishiip+NA+Con+ThmPos+Prt+Loc: nizhiishiibenymibaniing
+    1+zhiishiip+NA+Con+ThmPos+Prt+Pl: nizhiishiibenymibani1ag
+    1+zhiishiip+NA+Dim+ThmPos+Prt+4: nizhiishiibensmibaniin
+    1+zhiishiip+NA+Dim+ThmPos+Prt+Loc: nizhiishiibensmibaniing
+    1+zhiishiip+NA+Dim+ThmPos+Prt+Pl: nizhiishiibensmibani1ag
+    2+zhiishiip+NA+Con+ThmPos+Prt+4: gizhiishiibenymibaniin
+    2+zhiishiip+NA+Con+ThmPos+Prt+Loc: gizhiishiibenymibaniing
+    2+zhiishiip+NA+Con+ThmPos+Prt+Pl: gizhiishiibenymibani1ag
+    2+zhiishiip+NA+Dim+ThmPos+Prt+4: gizhiishiibensmibaniin
+    2+zhiishiip+NA+Dim+ThmPos+Prt+Loc: gizhiishiibensmibaniing
+    2+zhiishiip+NA+Dim+ThmPos+Prt+Pl: gizhiishiibensmibani1ag
+    3+zhiishiip+NA+Con+ThmPos+Prt+4: ozhiishiibenymibaniin
+    3+zhiishiip+NA+Con+ThmPos+Prt+Loc: ozhiishiibenymibaniing
+    3+zhiishiip+NA+Dim+ThmPos+Prt+4: ozhiishiibensmibaniin
+    3+zhiishiip+NA+Dim+ThmPos+Prt+Loc: ozhiishiibensmibaniing
+    X+zhiishiip+NA+Con+ThmPos+Prt+4: izhiishiibenymibaniin
+    X+zhiishiip+NA+Con+ThmPos+Prt+Loc: izhiishiibenymibaniing
+    X+zhiishiip+NA+Con+ThmPos+Prt+Pl: izhiishiibenymibani1ag
+    X+zhiishiip+NA+Dim+ThmPos+Prt+4: izhiishiibensmibaniin
+    X+zhiishiip+NA+Dim+ThmPos+Prt+Loc: izhiishiibensmibaniing
+    X+zhiishiip+NA+Dim+ThmPos+Prt+Pl: izhiishiibensmibani1ag
+    1+zhiishiip+NA+Con+Pej+1+Pl+Prt: [ nizhiishiibenyishnaaniban, nizhiishiibenyishnaaniba ]
+    1+zhiishiip+NA+Con+Pej+1+Pl+Voc+Pl: nizhiishiibenyishnaany1dig
+    1+zhiishiip+NA+Dim+Pej+1+Pl+Prt: [ nizhiishiibensishnaaniban, nizhiishiibensishnaaniba ]
+    1+zhiishiip+NA+Dim+Pej+1+Pl+Voc+Pl: nizhiishiibensishnaany1dig
+    2+zhiishiip+NA+Con+Pej+1+Pl+Prt: [ gizhiishiibenyishnaaniban, gizhiishiibenyishnaaniba ]
+    2+zhiishiip+NA+Con+Pej+1+Pl+Voc+Pl: gizhiishiibenyishnaany1dig
+    2+zhiishiip+NA+Con+Pej+2+Pl+Prt: [ gizhiishiibenyishwaaban, gizhiishiibenyishwaaba ]
+    2+zhiishiip+NA+Con+Pej+2+Pl+Voc+Pl: gizhiishiibenyishwaadig
+    2+zhiishiip+NA+Dim+Pej+1+Pl+Prt: [ gizhiishiibensishnaaniban, gizhiishiibensishnaaniba ]
+    2+zhiishiip+NA+Dim+Pej+1+Pl+Voc+Pl: gizhiishiibensishnaany1dig
+    2+zhiishiip+NA+Dim+Pej+2+Pl+Prt: [ gizhiishiibensishwaaban, gizhiishiibensishwaaba ]
+    2+zhiishiip+NA+Dim+Pej+2+Pl+Voc+Pl: gizhiishiibensishwaadig
+    3+zhiishiip+NA+Con+Pej+3+4+Prt: [ ozhiishiibenyishniwiban, ozhiishiibenyishniwiba, ozhiishiibenyishniiban, ozhiishiibenyishniiba ]
+    3+zhiishiip+NA+Dim+Pej+3+4+Prt: [ ozhiishiibensishniwiban, ozhiishiibensishniwiba, ozhiishiibensishniiban, ozhiishiibensishniiba ]
+    1+zhiishiip+NA+Con+Pej+1+Pl+4: nizhiishiibenyishnaanin
+    1+zhiishiip+NA+Con+Pej+1+Pl+Loc: nizhiishiibenyishnaaning
+    1+zhiishiip+NA+Con+Pej+1+Pl+Pl: nizhiishiibenyishnaany1ag
+    1+zhiishiip+NA+Dim+Pej+1+Pl+4: nizhiishiibensishnaanin
+    1+zhiishiip+NA+Dim+Pej+1+Pl+Loc: nizhiishiibensishnaaning
+    1+zhiishiip+NA+Dim+Pej+1+Pl+Pl: nizhiishiibensishnaany1ag
+    2+zhiishiip+NA+Con+Pej+1+Pl+4: gizhiishiibenyishnaanin
+    2+zhiishiip+NA+Con+Pej+1+Pl+Loc: gizhiishiibenyishnaaning
+    2+zhiishiip+NA+Con+Pej+1+Pl+Pl: gizhiishiibenyishnaany1ag
+    2+zhiishiip+NA+Con+Pej+2+Pl+4: gizhiishiibenyishwaan
+    2+zhiishiip+NA+Con+Pej+2+Pl+Loc: gizhiishiibenyishwaang
+    2+zhiishiip+NA+Con+Pej+2+Pl+Pl: gizhiishiibenyishwaaag
+    2+zhiishiip+NA+Dim+Pej+1+Pl+4: gizhiishiibensishnaanin
+    2+zhiishiip+NA+Dim+Pej+1+Pl+Loc: gizhiishiibensishnaaning
+    2+zhiishiip+NA+Dim+Pej+1+Pl+Pl: gizhiishiibensishnaany1ag
+    2+zhiishiip+NA+Dim+Pej+2+Pl+4: gizhiishiibensishwaan
+    2+zhiishiip+NA+Dim+Pej+2+Pl+Loc: gizhiishiibensishwaang
+    2+zhiishiip+NA+Dim+Pej+2+Pl+Pl: gizhiishiibensishwaaag
+    3+zhiishiip+NA+Con+Pej+2+Pl+4: ozhiishiibenyishwaan
+    3+zhiishiip+NA+Con+Pej+2+Pl+Loc: ozhiishiibenyishwaang
+    3+zhiishiip+NA+Con+Pej+3+4+4: ozhiishiibenyishniwan
+    3+zhiishiip+NA+Con+Pej+3+4+Loc: ozhiishiibenyishniing
+    3+zhiishiip+NA+Dim+Pej+2+Pl+4: ozhiishiibensishwaan
+    3+zhiishiip+NA+Dim+Pej+2+Pl+Loc: ozhiishiibensishwaang
+    3+zhiishiip+NA+Dim+Pej+3+4+4: ozhiishiibensishniwan
+    3+zhiishiip+NA+Dim+Pej+3+4+Loc: ozhiishiibensishniing
+    1+zhiishiip+NA+Con+Pej+Prt+4: nizhiishiibenyishibaniin
+    1+zhiishiip+NA+Con+Pej+Prt+Loc: nizhiishiibenyishibaniing
+    1+zhiishiip+NA+Con+Pej+Prt+Pl: nizhiishiibenyishibani1ag
+    1+zhiishiip+NA+Dim+Pej+Prt+4: nizhiishiibensishibaniin
+    1+zhiishiip+NA+Dim+Pej+Prt+Loc: nizhiishiibensishibaniing
+    1+zhiishiip+NA+Dim+Pej+Prt+Pl: nizhiishiibensishibani1ag
+    2+zhiishiip+NA+Con+Pej+Prt+4: gizhiishiibenyishibaniin
+    2+zhiishiip+NA+Con+Pej+Prt+Loc: gizhiishiibenyishibaniing
+    2+zhiishiip+NA+Con+Pej+Prt+Pl: gizhiishiibenyishibani1ag
+    2+zhiishiip+NA+Dim+Pej+Prt+4: gizhiishiibensishibaniin
+    2+zhiishiip+NA+Dim+Pej+Prt+Loc: gizhiishiibensishibaniing
+    2+zhiishiip+NA+Dim+Pej+Prt+Pl: gizhiishiibensishibani1ag
+    3+zhiishiip+NA+Con+Pej+Prt+4: ozhiishiibenyishibaniin
+    3+zhiishiip+NA+Con+Pej+Prt+Loc: ozhiishiibenyishibaniing
+    3+zhiishiip+NA+Dim+Pej+Prt+4: ozhiishiibensishibaniin
+    3+zhiishiip+NA+Dim+Pej+Prt+Loc: ozhiishiibensishibaniing
+    X+zhiishiip+NA+Con+Pej+Prt+4: izhiishiibenyishibaniin
+    X+zhiishiip+NA+Con+Pej+Prt+Loc: izhiishiibenyishibaniing
+    X+zhiishiip+NA+Con+Pej+Prt+Pl: izhiishiibenyishibani1ag
+    X+zhiishiip+NA+Dim+Pej+Prt+4: izhiishiibensishibaniin
+    X+zhiishiip+NA+Dim+Pej+Prt+Loc: izhiishiibensishibaniing
+    X+zhiishiip+NA+Dim+Pej+Prt+Pl: izhiishiibensishibani1ag
+    1+zhiishiip+NA+Con+1+Pl+Prt+4: nizhiishiibenynaanibaniin
+    1+zhiishiip+NA+Con+1+Pl+Prt+Loc: nizhiishiibenynaanibaniing
+    1+zhiishiip+NA+Con+1+Pl+Prt+Pl: nizhiishiibenynaanibani1ag
+    1+zhiishiip+NA+Dim+1+Pl+Prt+4: nizhiishiibensnaanibaniin
+    1+zhiishiip+NA+Dim+1+Pl+Prt+Loc: nizhiishiibensnaanibaniing
+    1+zhiishiip+NA+Dim+1+Pl+Prt+Pl: nizhiishiibensnaanibani1ag
+    2+zhiishiip+NA+Con+1+Pl+Prt+4: gizhiishiibenynaanibaniin
+    2+zhiishiip+NA+Con+1+Pl+Prt+Loc: gizhiishiibenynaanibaniing
+    2+zhiishiip+NA+Con+1+Pl+Prt+Pl: gizhiishiibenynaanibani1ag
+    2+zhiishiip+NA+Con+2+Pl+Prt+4: gizhiishiibenywaabaniin
+    2+zhiishiip+NA+Con+2+Pl+Prt+Loc: gizhiishiibenywaabaniing
+    2+zhiishiip+NA+Con+2+Pl+Prt+Pl: gizhiishiibenywaabani1ag
+    2+zhiishiip+NA+Dim+1+Pl+Prt+4: gizhiishiibensnaanibaniin
+    2+zhiishiip+NA+Dim+1+Pl+Prt+Loc: gizhiishiibensnaanibaniing
+    2+zhiishiip+NA+Dim+1+Pl+Prt+Pl: gizhiishiibensnaanibani1ag
+    2+zhiishiip+NA+Dim+2+Pl+Prt+4: gizhiishiibenswaabaniin
+    2+zhiishiip+NA+Dim+2+Pl+Prt+Loc: gizhiishiibenswaabaniing
+    2+zhiishiip+NA+Dim+2+Pl+Prt+Pl: gizhiishiibenswaabani1ag
+    3+zhiishiip+NA+Con+2+Pl+Prt+4: ozhiishiibenywaabaniin
+    3+zhiishiip+NA+Con+2+Pl+Prt+Loc: ozhiishiibenywaabaniing
+    3+zhiishiip+NA+Con+3+4+Prt+4: [ ozhiishiibenyniwibaniin, ozhiishiibenyniibaniin ]
+    3+zhiishiip+NA+Con+3+4+Prt+Loc: [ ozhiishiibenyniwibaniing, ozhiishiibenyniibaniing ]
+    3+zhiishiip+NA+Dim+2+Pl+Prt+4: ozhiishiibenswaabaniin
+    3+zhiishiip+NA+Dim+2+Pl+Prt+Loc: ozhiishiibenswaabaniing
+    3+zhiishiip+NA+Dim+3+4+Prt+4: [ ozhiishiibensniwibaniin, ozhiishiibensniibaniin ]
+    3+zhiishiip+NA+Dim+3+4+Prt+Loc: [ ozhiishiibensniwibaniing, ozhiishiibensniibaniing ]
+    1+zhiishiip+NA+ThmPos+Pej+1+Pl+Prt: [ nizhiishiibmishnaaniban, nizhiishiibmishnaaniba ]
+    1+zhiishiip+NA+ThmPos+Pej+1+Pl+Voc+Pl: nizhiishiibmishnaany1dig
+    2+zhiishiip+NA+ThmPos+Pej+1+Pl+Prt: [ gizhiishiibmishnaaniban, gizhiishiibmishnaaniba ]
+    2+zhiishiip+NA+ThmPos+Pej+1+Pl+Voc+Pl: gizhiishiibmishnaany1dig
+    2+zhiishiip+NA+ThmPos+Pej+2+Pl+Prt: [ gizhiishiibmishwaaban, gizhiishiibmishwaaba ]
+    2+zhiishiip+NA+ThmPos+Pej+2+Pl+Voc+Pl: gizhiishiibmishwaadig
+    3+zhiishiip+NA+ThmPos+Pej+3+4+Prt: [ ozhiishiibmishniwiban, ozhiishiibmishniwiba, ozhiishiibmishniiban, ozhiishiibmishniiba ]
+    1+zhiishiip+NA+ThmPos+Pej+1+Pl+4: nizhiishiibmishnaanin
+    1+zhiishiip+NA+ThmPos+Pej+1+Pl+Loc: nizhiishiibmishnaaning
+    1+zhiishiip+NA+ThmPos+Pej+1+Pl+Pl: nizhiishiibmishnaany1ag
+    2+zhiishiip+NA+ThmPos+Pej+1+Pl+4: gizhiishiibmishnaanin
+    2+zhiishiip+NA+ThmPos+Pej+1+Pl+Loc: gizhiishiibmishnaaning
+    2+zhiishiip+NA+ThmPos+Pej+1+Pl+Pl: gizhiishiibmishnaany1ag
+    2+zhiishiip+NA+ThmPos+Pej+2+Pl+4: gizhiishiibmishwaan
+    2+zhiishiip+NA+ThmPos+Pej+2+Pl+Loc: gizhiishiibmishwaang
+    2+zhiishiip+NA+ThmPos+Pej+2+Pl+Pl: gizhiishiibmishwaaag
+    3+zhiishiip+NA+ThmPos+Pej+2+Pl+4: ozhiishiibmishwaan
+    3+zhiishiip+NA+ThmPos+Pej+2+Pl+Loc: ozhiishiibmishwaang
+    3+zhiishiip+NA+ThmPos+Pej+3+4+4: ozhiishiibmishniwan
+    3+zhiishiip+NA+ThmPos+Pej+3+4+Loc: ozhiishiibmishniing
+    1+zhiishiip+NA+ThmPos+Pej+Prt+4: nizhiishiibmishibaniin
+    1+zhiishiip+NA+ThmPos+Pej+Prt+Loc: nizhiishiibmishibaniing
+    1+zhiishiip+NA+ThmPos+Pej+Prt+Pl: nizhiishiibmishibani1ag
+    2+zhiishiip+NA+ThmPos+Pej+Prt+4: gizhiishiibmishibaniin
+    2+zhiishiip+NA+ThmPos+Pej+Prt+Loc: gizhiishiibmishibaniing
+    2+zhiishiip+NA+ThmPos+Pej+Prt+Pl: gizhiishiibmishibani1ag
+    3+zhiishiip+NA+ThmPos+Pej+Prt+4: ozhiishiibmishibaniin
+    3+zhiishiip+NA+ThmPos+Pej+Prt+Loc: ozhiishiibmishibaniing
+    X+zhiishiip+NA+ThmPos+Pej+Prt+4: izhiishiibmishibaniin
+    X+zhiishiip+NA+ThmPos+Pej+Prt+Loc: izhiishiibmishibaniing
+    X+zhiishiip+NA+ThmPos+Pej+Prt+Pl: izhiishiibmishibani1ag
+    1+zhiishiip+NA+ThmPos+1+Pl+Prt+4: nizhiishiibmnaanibaniin
+    1+zhiishiip+NA+ThmPos+1+Pl+Prt+Loc: nizhiishiibmnaanibaniing
+    1+zhiishiip+NA+ThmPos+1+Pl+Prt+Pl: nizhiishiibmnaanibani1ag
+    2+zhiishiip+NA+ThmPos+1+Pl+Prt+4: gizhiishiibmnaanibaniin
+    2+zhiishiip+NA+ThmPos+1+Pl+Prt+Loc: gizhiishiibmnaanibaniing
+    2+zhiishiip+NA+ThmPos+1+Pl+Prt+Pl: gizhiishiibmnaanibani1ag
+    2+zhiishiip+NA+ThmPos+2+Pl+Prt+4: gizhiishiibmwaabaniin
+    2+zhiishiip+NA+ThmPos+2+Pl+Prt+Loc: gizhiishiibmwaabaniing
+    2+zhiishiip+NA+ThmPos+2+Pl+Prt+Pl: gizhiishiibmwaabani1ag
+    3+zhiishiip+NA+ThmPos+2+Pl+Prt+4: ozhiishiibmwaabaniin
+    3+zhiishiip+NA+ThmPos+2+Pl+Prt+Loc: ozhiishiibmwaabaniing
+    3+zhiishiip+NA+ThmPos+3+4+Prt+4: [ ozhiishiibmniwibaniin, ozhiishiibmniibaniin ]
+    3+zhiishiip+NA+ThmPos+3+4+Prt+Loc: [ ozhiishiibmniwibaniing, ozhiishiibmniibaniing ]
+    1+zhiishiip+NA+Pej+1+Pl+Prt+4: nizhiishiibshnaanibaniin
+    1+zhiishiip+NA+Pej+1+Pl+Prt+Loc: nizhiishiibshnaanibaniing
+    1+zhiishiip+NA+Pej+1+Pl+Prt+Pl: nizhiishiibshnaanibani1ag
+    2+zhiishiip+NA+Pej+1+Pl+Prt+4: gizhiishiibshnaanibaniin
+    2+zhiishiip+NA+Pej+1+Pl+Prt+Loc: gizhiishiibshnaanibaniing
+    2+zhiishiip+NA+Pej+1+Pl+Prt+Pl: gizhiishiibshnaanibani1ag
+    2+zhiishiip+NA+Pej+2+Pl+Prt+4: gizhiishiibshwaabaniin
+    2+zhiishiip+NA+Pej+2+Pl+Prt+Loc: gizhiishiibshwaabaniing
+    2+zhiishiip+NA+Pej+2+Pl+Prt+Pl: gizhiishiibshwaabani1ag
+    3+zhiishiip+NA+Pej+2+Pl+Prt+4: ozhiishiibshwaabaniin
+    3+zhiishiip+NA+Pej+2+Pl+Prt+Loc: ozhiishiibshwaabaniing
+    3+zhiishiip+NA+Pej+3+4+Prt+4: [ ozhiishiibshniwibaniin, ozhiishiibshniibaniin ]
+    3+zhiishiip+NA+Pej+3+4+Prt+Loc: [ ozhiishiibshniwibaniing, ozhiishiibshniibaniing ]
+    1+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Prt: [ nizhiishiibenymishnaaniban, nizhiishiibenymishnaaniba ]
+    1+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl: nizhiishiibenymishnaany1dig
+    1+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Prt: [ nizhiishiibensmishnaaniban, nizhiishiibensmishnaaniba ]
+    1+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl: nizhiishiibensmishnaany1dig
+    2+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Prt: [ gizhiishiibenymishnaaniban, gizhiishiibenymishnaaniba ]
+    2+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl: gizhiishiibenymishnaany1dig
+    2+zhiishiip+NA+Con+ThmPos+Pej+2+Pl+Prt: [ gizhiishiibenymishwaaban, gizhiishiibenymishwaaba ]
+    2+zhiishiip+NA+Con+ThmPos+Pej+2+Pl+Voc+Pl: gizhiishiibenymishwaadig
+    2+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Prt: [ gizhiishiibensmishnaaniban, gizhiishiibensmishnaaniba ]
+    2+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl: gizhiishiibensmishnaany1dig
+    2+zhiishiip+NA+Dim+ThmPos+Pej+2+Pl+Prt: [ gizhiishiibensmishwaaban, gizhiishiibensmishwaaba ]
+    2+zhiishiip+NA+Dim+ThmPos+Pej+2+Pl+Voc+Pl: gizhiishiibensmishwaadig
+    3+zhiishiip+NA+Con+ThmPos+Pej+3+4+Prt: [ ozhiishiibenymishniwiban, ozhiishiibenymishniwiba, ozhiishiibenymishniiban, ozhiishiibenymishniiba ]
+    3+zhiishiip+NA+Dim+ThmPos+Pej+3+4+Prt: [ ozhiishiibensmishniwiban, ozhiishiibensmishniwiba, ozhiishiibensmishniiban, ozhiishiibensmishniiba ]
+    1+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+4: nizhiishiibenymishnaanin
+    1+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Loc: nizhiishiibenymishnaaning
+    1+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Pl: nizhiishiibenymishnaany1ag
+    1+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+4: nizhiishiibensmishnaanin
+    1+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Loc: nizhiishiibensmishnaaning
+    1+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Pl: nizhiishiibensmishnaany1ag
+    2+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+4: gizhiishiibenymishnaanin
+    2+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Loc: gizhiishiibenymishnaaning
+    2+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Pl: gizhiishiibenymishnaany1ag
+    2+zhiishiip+NA+Con+ThmPos+Pej+2+Pl+4: gizhiishiibenymishwaan
+    2+zhiishiip+NA+Con+ThmPos+Pej+2+Pl+Loc: gizhiishiibenymishwaang
+    2+zhiishiip+NA+Con+ThmPos+Pej+2+Pl+Pl: gizhiishiibenymishwaaag
+    2+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+4: gizhiishiibensmishnaanin
+    2+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Loc: gizhiishiibensmishnaaning
+    2+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Pl: gizhiishiibensmishnaany1ag
+    2+zhiishiip+NA+Dim+ThmPos+Pej+2+Pl+4: gizhiishiibensmishwaan
+    2+zhiishiip+NA+Dim+ThmPos+Pej+2+Pl+Loc: gizhiishiibensmishwaang
+    2+zhiishiip+NA+Dim+ThmPos+Pej+2+Pl+Pl: gizhiishiibensmishwaaag
+    3+zhiishiip+NA+Con+ThmPos+Pej+2+Pl+4: ozhiishiibenymishwaan
+    3+zhiishiip+NA+Con+ThmPos+Pej+2+Pl+Loc: ozhiishiibenymishwaang
+    3+zhiishiip+NA+Con+ThmPos+Pej+3+4+4: ozhiishiibenymishniwan
+    3+zhiishiip+NA+Con+ThmPos+Pej+3+4+Loc: ozhiishiibenymishniing
+    3+zhiishiip+NA+Dim+ThmPos+Pej+2+Pl+4: ozhiishiibensmishwaan
+    3+zhiishiip+NA+Dim+ThmPos+Pej+2+Pl+Loc: ozhiishiibensmishwaang
+    3+zhiishiip+NA+Dim+ThmPos+Pej+3+4+4: ozhiishiibensmishniwan
+    3+zhiishiip+NA+Dim+ThmPos+Pej+3+4+Loc: ozhiishiibensmishniing
+    1+zhiishiip+NA+Con+ThmPos+Pej+Prt+4: nizhiishiibenymishibaniin
+    1+zhiishiip+NA+Con+ThmPos+Pej+Prt+Loc: nizhiishiibenymishibaniing
+    1+zhiishiip+NA+Con+ThmPos+Pej+Prt+Pl: nizhiishiibenymishibani1ag
+    1+zhiishiip+NA+Dim+ThmPos+Pej+Prt+4: nizhiishiibensmishibaniin
+    1+zhiishiip+NA+Dim+ThmPos+Pej+Prt+Loc: nizhiishiibensmishibaniing
+    1+zhiishiip+NA+Dim+ThmPos+Pej+Prt+Pl: nizhiishiibensmishibani1ag
+    2+zhiishiip+NA+Con+ThmPos+Pej+Prt+4: gizhiishiibenymishibaniin
+    2+zhiishiip+NA+Con+ThmPos+Pej+Prt+Loc: gizhiishiibenymishibaniing
+    2+zhiishiip+NA+Con+ThmPos+Pej+Prt+Pl: gizhiishiibenymishibani1ag
+    2+zhiishiip+NA+Dim+ThmPos+Pej+Prt+4: gizhiishiibensmishibaniin
+    2+zhiishiip+NA+Dim+ThmPos+Pej+Prt+Loc: gizhiishiibensmishibaniing
+    2+zhiishiip+NA+Dim+ThmPos+Pej+Prt+Pl: gizhiishiibensmishibani1ag
+    3+zhiishiip+NA+Con+ThmPos+Pej+Prt+4: ozhiishiibenymishibaniin
+    3+zhiishiip+NA+Con+ThmPos+Pej+Prt+Loc: ozhiishiibenymishibaniing
+    3+zhiishiip+NA+Dim+ThmPos+Pej+Prt+4: ozhiishiibensmishibaniin
+    3+zhiishiip+NA+Dim+ThmPos+Pej+Prt+Loc: ozhiishiibensmishibaniing
+    X+zhiishiip+NA+Con+ThmPos+Pej+Prt+4: izhiishiibenymishibaniin
+    X+zhiishiip+NA+Con+ThmPos+Pej+Prt+Loc: izhiishiibenymishibaniing
+    X+zhiishiip+NA+Con+ThmPos+Pej+Prt+Pl: izhiishiibenymishibani1ag
+    X+zhiishiip+NA+Dim+ThmPos+Pej+Prt+4: izhiishiibensmishibaniin
+    X+zhiishiip+NA+Dim+ThmPos+Pej+Prt+Loc: izhiishiibensmishibaniing
+    X+zhiishiip+NA+Dim+ThmPos+Pej+Prt+Pl: izhiishiibensmishibani1ag
+    1+zhiishiip+NA+Con+ThmPos+1+Pl+Prt+4: nizhiishiibenymnaanibaniin
+    1+zhiishiip+NA+Con+ThmPos+1+Pl+Prt+Loc: nizhiishiibenymnaanibaniing
+    1+zhiishiip+NA+Con+ThmPos+1+Pl+Prt+Pl: nizhiishiibenymnaanibani1ag
+    1+zhiishiip+NA+Dim+ThmPos+1+Pl+Prt+4: nizhiishiibensmnaanibaniin
+    1+zhiishiip+NA+Dim+ThmPos+1+Pl+Prt+Loc: nizhiishiibensmnaanibaniing
+    1+zhiishiip+NA+Dim+ThmPos+1+Pl+Prt+Pl: nizhiishiibensmnaanibani1ag
+    2+zhiishiip+NA+Con+ThmPos+1+Pl+Prt+4: gizhiishiibenymnaanibaniin
+    2+zhiishiip+NA+Con+ThmPos+1+Pl+Prt+Loc: gizhiishiibenymnaanibaniing
+    2+zhiishiip+NA+Con+ThmPos+1+Pl+Prt+Pl: gizhiishiibenymnaanibani1ag
+    2+zhiishiip+NA+Con+ThmPos+2+Pl+Prt+4: gizhiishiibenymwaabaniin
+    2+zhiishiip+NA+Con+ThmPos+2+Pl+Prt+Loc: gizhiishiibenymwaabaniing
+    2+zhiishiip+NA+Con+ThmPos+2+Pl+Prt+Pl: gizhiishiibenymwaabani1ag
+    2+zhiishiip+NA+Dim+ThmPos+1+Pl+Prt+4: gizhiishiibensmnaanibaniin
+    2+zhiishiip+NA+Dim+ThmPos+1+Pl+Prt+Loc: gizhiishiibensmnaanibaniing
+    2+zhiishiip+NA+Dim+ThmPos+1+Pl+Prt+Pl: gizhiishiibensmnaanibani1ag
+    2+zhiishiip+NA+Dim+ThmPos+2+Pl+Prt+4: gizhiishiibensmwaabaniin
+    2+zhiishiip+NA+Dim+ThmPos+2+Pl+Prt+Loc: gizhiishiibensmwaabaniing
+    2+zhiishiip+NA+Dim+ThmPos+2+Pl+Prt+Pl: gizhiishiibensmwaabani1ag
+    3+zhiishiip+NA+Con+ThmPos+2+Pl+Prt+4: ozhiishiibenymwaabaniin
+    3+zhiishiip+NA+Con+ThmPos+2+Pl+Prt+Loc: ozhiishiibenymwaabaniing
+    3+zhiishiip+NA+Con+ThmPos+3+4+Prt+4: [ ozhiishiibenymniwibaniin, ozhiishiibenymniibaniin ]
+    3+zhiishiip+NA+Con+ThmPos+3+4+Prt+Loc: [ ozhiishiibenymniwibaniing, ozhiishiibenymniibaniing ]
+    3+zhiishiip+NA+Dim+ThmPos+2+Pl+Prt+4: ozhiishiibensmwaabaniin
+    3+zhiishiip+NA+Dim+ThmPos+2+Pl+Prt+Loc: ozhiishiibensmwaabaniing
+    3+zhiishiip+NA+Dim+ThmPos+3+4+Prt+4: [ ozhiishiibensmniwibaniin, ozhiishiibensmniibaniin ]
+    3+zhiishiip+NA+Dim+ThmPos+3+4+Prt+Loc: [ ozhiishiibensmniwibaniing, ozhiishiibensmniibaniing ]
+    1+zhiishiip+NA+Con+Pej+1+Pl+Prt+4: nizhiishiibenyishnaanibaniin
+    1+zhiishiip+NA+Con+Pej+1+Pl+Prt+Loc: nizhiishiibenyishnaanibaniing
+    1+zhiishiip+NA+Con+Pej+1+Pl+Prt+Pl: nizhiishiibenyishnaanibani1ag
+    1+zhiishiip+NA+Dim+Pej+1+Pl+Prt+4: nizhiishiibensishnaanibaniin
+    1+zhiishiip+NA+Dim+Pej+1+Pl+Prt+Loc: nizhiishiibensishnaanibaniing
+    1+zhiishiip+NA+Dim+Pej+1+Pl+Prt+Pl: nizhiishiibensishnaanibani1ag
+    2+zhiishiip+NA+Con+Pej+1+Pl+Prt+4: gizhiishiibenyishnaanibaniin
+    2+zhiishiip+NA+Con+Pej+1+Pl+Prt+Loc: gizhiishiibenyishnaanibaniing
+    2+zhiishiip+NA+Con+Pej+1+Pl+Prt+Pl: gizhiishiibenyishnaanibani1ag
+    2+zhiishiip+NA+Con+Pej+2+Pl+Prt+4: gizhiishiibenyishwaabaniin
+    2+zhiishiip+NA+Con+Pej+2+Pl+Prt+Loc: gizhiishiibenyishwaabaniing
+    2+zhiishiip+NA+Con+Pej+2+Pl+Prt+Pl: gizhiishiibenyishwaabani1ag
+    2+zhiishiip+NA+Dim+Pej+1+Pl+Prt+4: gizhiishiibensishnaanibaniin
+    2+zhiishiip+NA+Dim+Pej+1+Pl+Prt+Loc: gizhiishiibensishnaanibaniing
+    2+zhiishiip+NA+Dim+Pej+1+Pl+Prt+Pl: gizhiishiibensishnaanibani1ag
+    2+zhiishiip+NA+Dim+Pej+2+Pl+Prt+4: gizhiishiibensishwaabaniin
+    2+zhiishiip+NA+Dim+Pej+2+Pl+Prt+Loc: gizhiishiibensishwaabaniing
+    2+zhiishiip+NA+Dim+Pej+2+Pl+Prt+Pl: gizhiishiibensishwaabani1ag
+    3+zhiishiip+NA+Con+Pej+2+Pl+Prt+4: ozhiishiibenyishwaabaniin
+    3+zhiishiip+NA+Con+Pej+2+Pl+Prt+Loc: ozhiishiibenyishwaabaniing
+    3+zhiishiip+NA+Con+Pej+3+4+Prt+4: [ ozhiishiibenyishniwibaniin, ozhiishiibenyishniibaniin ]
+    3+zhiishiip+NA+Con+Pej+3+4+Prt+Loc: [ ozhiishiibenyishniwibaniing, ozhiishiibenyishniibaniing ]
+    3+zhiishiip+NA+Dim+Pej+2+Pl+Prt+4: ozhiishiibensishwaabaniin
+    3+zhiishiip+NA+Dim+Pej+2+Pl+Prt+Loc: ozhiishiibensishwaabaniing
+    3+zhiishiip+NA+Dim+Pej+3+4+Prt+4: [ ozhiishiibensishniwibaniin, ozhiishiibensishniibaniin ]
+    3+zhiishiip+NA+Dim+Pej+3+4+Prt+Loc: [ ozhiishiibensishniwibaniing, ozhiishiibensishniibaniing ]
+    1+zhiishiip+NA+ThmPos+Pej+1+Pl+Prt+4: nizhiishiibmishnaanibaniin
+    1+zhiishiip+NA+ThmPos+Pej+1+Pl+Prt+Loc: nizhiishiibmishnaanibaniing
+    1+zhiishiip+NA+ThmPos+Pej+1+Pl+Prt+Pl: nizhiishiibmishnaanibani1ag
+    2+zhiishiip+NA+ThmPos+Pej+1+Pl+Prt+4: gizhiishiibmishnaanibaniin
+    2+zhiishiip+NA+ThmPos+Pej+1+Pl+Prt+Loc: gizhiishiibmishnaanibaniing
+    2+zhiishiip+NA+ThmPos+Pej+1+Pl+Prt+Pl: gizhiishiibmishnaanibani1ag
+    2+zhiishiip+NA+ThmPos+Pej+2+Pl+Prt+4: gizhiishiibmishwaabaniin
+    2+zhiishiip+NA+ThmPos+Pej+2+Pl+Prt+Loc: gizhiishiibmishwaabaniing
+    2+zhiishiip+NA+ThmPos+Pej+2+Pl+Prt+Pl: gizhiishiibmishwaabani1ag
+    3+zhiishiip+NA+ThmPos+Pej+2+Pl+Prt+4: ozhiishiibmishwaabaniin
+    3+zhiishiip+NA+ThmPos+Pej+2+Pl+Prt+Loc: ozhiishiibmishwaabaniing
+    3+zhiishiip+NA+ThmPos+Pej+3+4+Prt+4: [ ozhiishiibmishniwibaniin, ozhiishiibmishniibaniin ]
+    3+zhiishiip+NA+ThmPos+Pej+3+4+Prt+Loc: [ ozhiishiibmishniwibaniing, ozhiishiibmishniibaniing ]
+    1+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Prt+4: nizhiishiibenymishnaanibaniin
+    1+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc: nizhiishiibenymishnaanibaniing
+    1+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl: nizhiishiibenymishnaanibani1ag
+    1+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Prt+4: nizhiishiibensmishnaanibaniin
+    1+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc: nizhiishiibensmishnaanibaniing
+    1+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl: nizhiishiibensmishnaanibani1ag
+    2+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Prt+4: gizhiishiibenymishnaanibaniin
+    2+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc: gizhiishiibenymishnaanibaniing
+    2+zhiishiip+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl: gizhiishiibenymishnaanibani1ag
+    2+zhiishiip+NA+Con+ThmPos+Pej+2+Pl+Prt+4: gizhiishiibenymishwaabaniin
+    2+zhiishiip+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc: gizhiishiibenymishwaabaniing
+    2+zhiishiip+NA+Con+ThmPos+Pej+2+Pl+Prt+Pl: gizhiishiibenymishwaabani1ag
+    2+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Prt+4: gizhiishiibensmishnaanibaniin
+    2+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc: gizhiishiibensmishnaanibaniing
+    2+zhiishiip+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl: gizhiishiibensmishnaanibani1ag
+    2+zhiishiip+NA+Dim+ThmPos+Pej+2+Pl+Prt+4: gizhiishiibensmishwaabaniin
+    2+zhiishiip+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc: gizhiishiibensmishwaabaniing
+    2+zhiishiip+NA+Dim+ThmPos+Pej+2+Pl+Prt+Pl: gizhiishiibensmishwaabani1ag
+    3+zhiishiip+NA+Con+ThmPos+Pej+2+Pl+Prt+4: ozhiishiibenymishwaabaniin
+    3+zhiishiip+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc: ozhiishiibenymishwaabaniing
+    3+zhiishiip+NA+Con+ThmPos+Pej+3+4+Prt+4: [ ozhiishiibenymishniwibaniin, ozhiishiibenymishniibaniin ]
+    3+zhiishiip+NA+Con+ThmPos+Pej+3+4+Prt+Loc: [ ozhiishiibenymishniwibaniing, ozhiishiibenymishniibaniing ]
+    3+zhiishiip+NA+Dim+ThmPos+Pej+2+Pl+Prt+4: ozhiishiibensmishwaabaniin
+    3+zhiishiip+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc: ozhiishiibensmishwaabaniing
+    3+zhiishiip+NA+Dim+ThmPos+Pej+3+4+Prt+4: [ ozhiishiibensmishniwibaniin, ozhiishiibensmishniibaniin ]
+    3+zhiishiip+NA+Dim+ThmPos+Pej+3+4+Prt+Loc: [ ozhiishiibensmishniwibaniing, ozhiishiibensmishniibaniing ]

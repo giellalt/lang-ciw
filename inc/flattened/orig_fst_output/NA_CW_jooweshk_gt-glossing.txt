@@ -1,0 +1,1898 @@
+jooweshk+NA	jooweshk
+
+1+jooweshk+NA	nijooweshk
+
+2+jooweshk+NA	gijooweshk
+
+X+jooweshk+NA	ijooweshk
+
+jooweshk+NA+Con	jooweshkenh
+
+jooweshk+NA+Dim	jooweshkens
+
+jooweshk+NA+Pej	jooweshksh
+
+jooweshk+NA+Prt	jooweshkbani1
+
+jooweshk+NA+Voc+Pl	jooweshkdig
+
+jooweshk+NA+4	jooweshkan
+
+jooweshk+NA+Loc	jooweshkng
+
+jooweshk+NA+Pl	jooweshkag
+
+1+jooweshk+NA+Con	nijooweshkenh
+
+1+jooweshk+NA+Dim	nijooweshkens
+
+2+jooweshk+NA+Con	gijooweshkenh
+
+2+jooweshk+NA+Dim	gijooweshkens
+
+X+jooweshk+NA+Con	ijooweshkenh
+
+X+jooweshk+NA+Dim	ijooweshkens
+
+1+jooweshk+NA+ThmPos	nijooweshkm
+
+2+jooweshk+NA+ThmPos	gijooweshkm
+
+X+jooweshk+NA+ThmPos	ijooweshkm
+
+1+jooweshk+NA+Pej	nijooweshksh
+
+2+jooweshk+NA+Pej	gijooweshksh
+
+X+jooweshk+NA+Pej	ijooweshksh
+
+1+jooweshk+NA+1+Pl	nijooweshknaan
+1+jooweshk+NA+1+Pl	nijooweshknaa
+
+2+jooweshk+NA+1+Pl	gijooweshknaan
+2+jooweshk+NA+1+Pl	gijooweshknaa
+
+2+jooweshk+NA+2+Pl	gijooweshkwaa
+
+3+jooweshk+NA+3+4	ojooweshkniw
+
+1+jooweshk+NA+Prt	nijooweshkbani1
+
+1+jooweshk+NA+Voc+Pl	nijooweshkdig
+
+2+jooweshk+NA+Prt	gijooweshkbani1
+
+2+jooweshk+NA+Voc+Pl	gijooweshkdig
+
+X+jooweshk+NA+Prt	ijooweshkbani1
+
+X+jooweshk+NA+Voc+Pl	ijooweshkdig
+
+1+jooweshk+NA+4	nijooweshkan
+
+1+jooweshk+NA+Loc	nijooweshkng
+
+1+jooweshk+NA+Pl	nijooweshkag
+
+2+jooweshk+NA+4	gijooweshkan
+
+2+jooweshk+NA+Loc	gijooweshkng
+
+2+jooweshk+NA+Pl	gijooweshkag
+
+3+jooweshk+NA+4	ojooweshkan
+
+3+jooweshk+NA+Loc	ojooweshkng
+
+X+jooweshk+NA+4	ijooweshkan
+
+X+jooweshk+NA+Loc	ijooweshkng
+
+X+jooweshk+NA+Pl	ijooweshkag
+
+jooweshk+NA+Con+Pej	jooweshkenyish
+
+jooweshk+NA+Dim+Pej	jooweshkensish
+
+jooweshk+NA+Con+Prt	jooweshkenyiban
+jooweshk+NA+Con+Prt	jooweshkenyiba
+
+jooweshk+NA+Con+Voc+Pl	jooweshkenydig
+
+jooweshk+NA+Dim+Prt	jooweshkensiban
+jooweshk+NA+Dim+Prt	jooweshkensiba
+
+jooweshk+NA+Dim+Voc+Pl	jooweshkensdig
+
+jooweshk+NA+Con+4	jooweshkenyin
+
+jooweshk+NA+Con+Loc	jooweshkenying
+
+jooweshk+NA+Con+Pl	jooweshkenyag
+
+jooweshk+NA+Dim+4	jooweshkensan
+
+jooweshk+NA+Dim+Loc	jooweshkensing
+
+jooweshk+NA+Dim+Pl	jooweshkensag
+
+jooweshk+NA+Pej+Prt	jooweshkshiban
+jooweshk+NA+Pej+Prt	jooweshkshiba
+
+jooweshk+NA+Pej+Voc+Pl	jooweshkshdig
+
+jooweshk+NA+Pej+4	jooweshkshan
+
+jooweshk+NA+Pej+Loc	jooweshkshing
+
+jooweshk+NA+Pej+Pl	jooweshkshag
+
+jooweshk+NA+Prt+4	jooweshkbaniin
+
+jooweshk+NA+Prt+Loc	jooweshkbaniing
+
+jooweshk+NA+Prt+Pl	jooweshkbani1ag
+
+1+jooweshk+NA+Con+ThmPos	nijooweshkenym
+
+1+jooweshk+NA+Dim+ThmPos	nijooweshkensm
+
+2+jooweshk+NA+Con+ThmPos	gijooweshkenym
+
+2+jooweshk+NA+Dim+ThmPos	gijooweshkensm
+
+X+jooweshk+NA+Con+ThmPos	ijooweshkenym
+
+X+jooweshk+NA+Dim+ThmPos	ijooweshkensm
+
+1+jooweshk+NA+Con+Pej	nijooweshkenyish
+
+1+jooweshk+NA+Dim+Pej	nijooweshkensish
+
+2+jooweshk+NA+Con+Pej	gijooweshkenyish
+
+2+jooweshk+NA+Dim+Pej	gijooweshkensish
+
+X+jooweshk+NA+Con+Pej	ijooweshkenyish
+
+X+jooweshk+NA+Dim+Pej	ijooweshkensish
+
+1+jooweshk+NA+Con+1+Pl	nijooweshkenynaan
+1+jooweshk+NA+Con+1+Pl	nijooweshkenynaa
+
+1+jooweshk+NA+Dim+1+Pl	nijooweshkensnaan
+1+jooweshk+NA+Dim+1+Pl	nijooweshkensnaa
+
+2+jooweshk+NA+Con+1+Pl	gijooweshkenynaan
+2+jooweshk+NA+Con+1+Pl	gijooweshkenynaa
+
+2+jooweshk+NA+Con+2+Pl	gijooweshkenywaa
+
+2+jooweshk+NA+Dim+1+Pl	gijooweshkensnaan
+2+jooweshk+NA+Dim+1+Pl	gijooweshkensnaa
+
+2+jooweshk+NA+Dim+2+Pl	gijooweshkenswaa
+
+3+jooweshk+NA+Con+3+4	ojooweshkenyniw
+
+3+jooweshk+NA+Dim+3+4	ojooweshkensniw
+
+1+jooweshk+NA+Con+Prt	nijooweshkenyiban
+1+jooweshk+NA+Con+Prt	nijooweshkenyiba
+
+1+jooweshk+NA+Con+Voc+Pl	nijooweshkenydig
+
+1+jooweshk+NA+Dim+Prt	nijooweshkensiban
+1+jooweshk+NA+Dim+Prt	nijooweshkensiba
+
+1+jooweshk+NA+Dim+Voc+Pl	nijooweshkensdig
+
+2+jooweshk+NA+Con+Prt	gijooweshkenyiban
+2+jooweshk+NA+Con+Prt	gijooweshkenyiba
+
+2+jooweshk+NA+Con+Voc+Pl	gijooweshkenydig
+
+2+jooweshk+NA+Dim+Prt	gijooweshkensiban
+2+jooweshk+NA+Dim+Prt	gijooweshkensiba
+
+2+jooweshk+NA+Dim+Voc+Pl	gijooweshkensdig
+
+X+jooweshk+NA+Con+Prt	ijooweshkenyiban
+X+jooweshk+NA+Con+Prt	ijooweshkenyiba
+
+X+jooweshk+NA+Con+Voc+Pl	ijooweshkenydig
+
+X+jooweshk+NA+Dim+Prt	ijooweshkensiban
+X+jooweshk+NA+Dim+Prt	ijooweshkensiba
+
+X+jooweshk+NA+Dim+Voc+Pl	ijooweshkensdig
+
+1+jooweshk+NA+Con+4	nijooweshkenyin
+
+1+jooweshk+NA+Con+Loc	nijooweshkenying
+
+1+jooweshk+NA+Con+Pl	nijooweshkenyag
+
+1+jooweshk+NA+Dim+4	nijooweshkensan
+
+1+jooweshk+NA+Dim+Loc	nijooweshkensing
+
+1+jooweshk+NA+Dim+Pl	nijooweshkensag
+
+2+jooweshk+NA+Con+4	gijooweshkenyin
+
+2+jooweshk+NA+Con+Loc	gijooweshkenying
+
+2+jooweshk+NA+Con+Pl	gijooweshkenyag
+
+2+jooweshk+NA+Dim+4	gijooweshkensan
+
+2+jooweshk+NA+Dim+Loc	gijooweshkensing
+
+2+jooweshk+NA+Dim+Pl	gijooweshkensag
+
+3+jooweshk+NA+Con+4	ojooweshkenyin
+
+3+jooweshk+NA+Con+Loc	ojooweshkenying
+
+3+jooweshk+NA+Dim+4	ojooweshkensan
+
+3+jooweshk+NA+Dim+Loc	ojooweshkensing
+
+X+jooweshk+NA+Con+4	ijooweshkenyin
+
+X+jooweshk+NA+Con+Loc	ijooweshkenying
+
+X+jooweshk+NA+Con+Pl	ijooweshkenyag
+
+X+jooweshk+NA+Dim+4	ijooweshkensan
+
+X+jooweshk+NA+Dim+Loc	ijooweshkensing
+
+X+jooweshk+NA+Dim+Pl	ijooweshkensag
+
+1+jooweshk+NA+ThmPos+Pej	nijooweshkmish
+
+2+jooweshk+NA+ThmPos+Pej	gijooweshkmish
+
+X+jooweshk+NA+ThmPos+Pej	ijooweshkmish
+
+1+jooweshk+NA+ThmPos+1+Pl	nijooweshkmnaan
+1+jooweshk+NA+ThmPos+1+Pl	nijooweshkmnaa
+
+2+jooweshk+NA+ThmPos+1+Pl	gijooweshkmnaan
+2+jooweshk+NA+ThmPos+1+Pl	gijooweshkmnaa
+
+2+jooweshk+NA+ThmPos+2+Pl	gijooweshkmwaa
+
+3+jooweshk+NA+ThmPos+3+4	ojooweshkmniw
+
+1+jooweshk+NA+ThmPos+Prt	nijooweshkmiban
+1+jooweshk+NA+ThmPos+Prt	nijooweshkmiba
+
+1+jooweshk+NA+ThmPos+Voc+Pl	nijooweshkmdig
+
+2+jooweshk+NA+ThmPos+Prt	gijooweshkmiban
+2+jooweshk+NA+ThmPos+Prt	gijooweshkmiba
+
+2+jooweshk+NA+ThmPos+Voc+Pl	gijooweshkmdig
+
+X+jooweshk+NA+ThmPos+Prt	ijooweshkmiban
+X+jooweshk+NA+ThmPos+Prt	ijooweshkmiba
+
+X+jooweshk+NA+ThmPos+Voc+Pl	ijooweshkmdig
+
+1+jooweshk+NA+ThmPos+4	nijooweshkman
+
+1+jooweshk+NA+ThmPos+Loc	nijooweshkming
+
+1+jooweshk+NA+ThmPos+Pl	nijooweshkmag
+
+2+jooweshk+NA+ThmPos+4	gijooweshkman
+
+2+jooweshk+NA+ThmPos+Loc	gijooweshkming
+
+2+jooweshk+NA+ThmPos+Pl	gijooweshkmag
+
+3+jooweshk+NA+ThmPos+4	ojooweshkman
+
+3+jooweshk+NA+ThmPos+Loc	ojooweshkming
+
+X+jooweshk+NA+ThmPos+4	ijooweshkman
+
+X+jooweshk+NA+ThmPos+Loc	ijooweshkming
+
+X+jooweshk+NA+ThmPos+Pl	ijooweshkmag
+
+1+jooweshk+NA+Pej+1+Pl	nijooweshkshnaan
+1+jooweshk+NA+Pej+1+Pl	nijooweshkshnaa
+
+2+jooweshk+NA+Pej+1+Pl	gijooweshkshnaan
+2+jooweshk+NA+Pej+1+Pl	gijooweshkshnaa
+
+2+jooweshk+NA+Pej+2+Pl	gijooweshkshwaa
+
+3+jooweshk+NA+Pej+3+4	ojooweshkshniw
+
+1+jooweshk+NA+Pej+Prt	nijooweshkshiban
+1+jooweshk+NA+Pej+Prt	nijooweshkshiba
+
+1+jooweshk+NA+Pej+Voc+Pl	nijooweshkshdig
+
+2+jooweshk+NA+Pej+Prt	gijooweshkshiban
+2+jooweshk+NA+Pej+Prt	gijooweshkshiba
+
+2+jooweshk+NA+Pej+Voc+Pl	gijooweshkshdig
+
+X+jooweshk+NA+Pej+Prt	ijooweshkshiban
+X+jooweshk+NA+Pej+Prt	ijooweshkshiba
+
+X+jooweshk+NA+Pej+Voc+Pl	ijooweshkshdig
+
+1+jooweshk+NA+Pej+4	nijooweshkshan
+
+1+jooweshk+NA+Pej+Loc	nijooweshkshing
+
+1+jooweshk+NA+Pej+Pl	nijooweshkshag
+
+2+jooweshk+NA+Pej+4	gijooweshkshan
+
+2+jooweshk+NA+Pej+Loc	gijooweshkshing
+
+2+jooweshk+NA+Pej+Pl	gijooweshkshag
+
+3+jooweshk+NA+Pej+4	ojooweshkshan
+
+3+jooweshk+NA+Pej+Loc	ojooweshkshing
+
+X+jooweshk+NA+Pej+4	ijooweshkshan
+
+X+jooweshk+NA+Pej+Loc	ijooweshkshing
+
+X+jooweshk+NA+Pej+Pl	ijooweshkshag
+
+1+jooweshk+NA+1+Pl+Prt	nijooweshknaaniban
+1+jooweshk+NA+1+Pl+Prt	nijooweshknaaniba
+
+1+jooweshk+NA+1+Pl+Voc+Pl	nijooweshknaany1dig
+
+2+jooweshk+NA+1+Pl+Prt	gijooweshknaaniban
+2+jooweshk+NA+1+Pl+Prt	gijooweshknaaniba
+
+2+jooweshk+NA+1+Pl+Voc+Pl	gijooweshknaany1dig
+
+2+jooweshk+NA+2+Pl+Prt	gijooweshkwaaban
+2+jooweshk+NA+2+Pl+Prt	gijooweshkwaaba
+
+2+jooweshk+NA+2+Pl+Voc+Pl	gijooweshkwaadig
+
+3+jooweshk+NA+3+4+Prt	ojooweshkniwiban
+3+jooweshk+NA+3+4+Prt	ojooweshkniwiba
+3+jooweshk+NA+3+4+Prt	ojooweshkniiban
+3+jooweshk+NA+3+4+Prt	ojooweshkniiba
+
+1+jooweshk+NA+1+Pl+4	nijooweshknaanin
+
+1+jooweshk+NA+1+Pl+Loc	nijooweshknaaning
+
+1+jooweshk+NA+1+Pl+Pl	nijooweshknaany1ag
+
+2+jooweshk+NA+1+Pl+4	gijooweshknaanin
+
+2+jooweshk+NA+1+Pl+Loc	gijooweshknaaning
+
+2+jooweshk+NA+1+Pl+Pl	gijooweshknaany1ag
+
+2+jooweshk+NA+2+Pl+4	gijooweshkwaan
+
+2+jooweshk+NA+2+Pl+Loc	gijooweshkwaang
+
+2+jooweshk+NA+2+Pl+Pl	gijooweshkwaaag
+
+3+jooweshk+NA+2+Pl+4	ojooweshkwaan
+
+3+jooweshk+NA+2+Pl+Loc	ojooweshkwaang
+
+3+jooweshk+NA+3+4+4	ojooweshkniwan
+
+3+jooweshk+NA+3+4+Loc	ojooweshkniing
+
+1+jooweshk+NA+Prt+4	nijooweshkbaniin
+
+1+jooweshk+NA+Prt+Loc	nijooweshkbaniing
+
+1+jooweshk+NA+Prt+Pl	nijooweshkbani1ag
+
+2+jooweshk+NA+Prt+4	gijooweshkbaniin
+
+2+jooweshk+NA+Prt+Loc	gijooweshkbaniing
+
+2+jooweshk+NA+Prt+Pl	gijooweshkbani1ag
+
+3+jooweshk+NA+Prt+4	ojooweshkbaniin
+
+3+jooweshk+NA+Prt+Loc	ojooweshkbaniing
+
+X+jooweshk+NA+Prt+4	ijooweshkbaniin
+
+X+jooweshk+NA+Prt+Loc	ijooweshkbaniing
+
+X+jooweshk+NA+Prt+Pl	ijooweshkbani1ag
+
+jooweshk+NA+Con+Pej+Prt	jooweshkenyishiban
+jooweshk+NA+Con+Pej+Prt	jooweshkenyishiba
+
+jooweshk+NA+Con+Pej+Voc+Pl	jooweshkenyishdig
+
+jooweshk+NA+Dim+Pej+Prt	jooweshkensishiban
+jooweshk+NA+Dim+Pej+Prt	jooweshkensishiba
+
+jooweshk+NA+Dim+Pej+Voc+Pl	jooweshkensishdig
+
+jooweshk+NA+Con+Pej+4	jooweshkenyishan
+
+jooweshk+NA+Con+Pej+Loc	jooweshkenyishing
+
+jooweshk+NA+Con+Pej+Pl	jooweshkenyishag
+
+jooweshk+NA+Dim+Pej+4	jooweshkensishan
+
+jooweshk+NA+Dim+Pej+Loc	jooweshkensishing
+
+jooweshk+NA+Dim+Pej+Pl	jooweshkensishag
+
+jooweshk+NA+Con+Prt+4	jooweshkenyibaniin
+
+jooweshk+NA+Con+Prt+Loc	jooweshkenyibaniing
+
+jooweshk+NA+Con+Prt+Pl	jooweshkenyibani1ag
+
+jooweshk+NA+Dim+Prt+4	jooweshkensibaniin
+
+jooweshk+NA+Dim+Prt+Loc	jooweshkensibaniing
+
+jooweshk+NA+Dim+Prt+Pl	jooweshkensibani1ag
+
+jooweshk+NA+Pej+Prt+4	jooweshkshibaniin
+
+jooweshk+NA+Pej+Prt+Loc	jooweshkshibaniing
+
+jooweshk+NA+Pej+Prt+Pl	jooweshkshibani1ag
+
+1+jooweshk+NA+Con+ThmPos+Pej	nijooweshkenymish
+
+1+jooweshk+NA+Dim+ThmPos+Pej	nijooweshkensmish
+
+2+jooweshk+NA+Con+ThmPos+Pej	gijooweshkenymish
+
+2+jooweshk+NA+Dim+ThmPos+Pej	gijooweshkensmish
+
+X+jooweshk+NA+Con+ThmPos+Pej	ijooweshkenymish
+
+X+jooweshk+NA+Dim+ThmPos+Pej	ijooweshkensmish
+
+1+jooweshk+NA+Con+ThmPos+1+Pl	nijooweshkenymnaan
+1+jooweshk+NA+Con+ThmPos+1+Pl	nijooweshkenymnaa
+
+1+jooweshk+NA+Dim+ThmPos+1+Pl	nijooweshkensmnaan
+1+jooweshk+NA+Dim+ThmPos+1+Pl	nijooweshkensmnaa
+
+2+jooweshk+NA+Con+ThmPos+1+Pl	gijooweshkenymnaan
+2+jooweshk+NA+Con+ThmPos+1+Pl	gijooweshkenymnaa
+
+2+jooweshk+NA+Con+ThmPos+2+Pl	gijooweshkenymwaa
+
+2+jooweshk+NA+Dim+ThmPos+1+Pl	gijooweshkensmnaan
+2+jooweshk+NA+Dim+ThmPos+1+Pl	gijooweshkensmnaa
+
+2+jooweshk+NA+Dim+ThmPos+2+Pl	gijooweshkensmwaa
+
+3+jooweshk+NA+Con+ThmPos+3+4	ojooweshkenymniw
+
+3+jooweshk+NA+Dim+ThmPos+3+4	ojooweshkensmniw
+
+1+jooweshk+NA+Con+ThmPos+Prt	nijooweshkenymiban
+1+jooweshk+NA+Con+ThmPos+Prt	nijooweshkenymiba
+
+1+jooweshk+NA+Con+ThmPos+Voc+Pl	nijooweshkenymdig
+
+1+jooweshk+NA+Dim+ThmPos+Prt	nijooweshkensmiban
+1+jooweshk+NA+Dim+ThmPos+Prt	nijooweshkensmiba
+
+1+jooweshk+NA+Dim+ThmPos+Voc+Pl	nijooweshkensmdig
+
+2+jooweshk+NA+Con+ThmPos+Prt	gijooweshkenymiban
+2+jooweshk+NA+Con+ThmPos+Prt	gijooweshkenymiba
+
+2+jooweshk+NA+Con+ThmPos+Voc+Pl	gijooweshkenymdig
+
+2+jooweshk+NA+Dim+ThmPos+Prt	gijooweshkensmiban
+2+jooweshk+NA+Dim+ThmPos+Prt	gijooweshkensmiba
+
+2+jooweshk+NA+Dim+ThmPos+Voc+Pl	gijooweshkensmdig
+
+X+jooweshk+NA+Con+ThmPos+Prt	ijooweshkenymiban
+X+jooweshk+NA+Con+ThmPos+Prt	ijooweshkenymiba
+
+X+jooweshk+NA+Con+ThmPos+Voc+Pl	ijooweshkenymdig
+
+X+jooweshk+NA+Dim+ThmPos+Prt	ijooweshkensmiban
+X+jooweshk+NA+Dim+ThmPos+Prt	ijooweshkensmiba
+
+X+jooweshk+NA+Dim+ThmPos+Voc+Pl	ijooweshkensmdig
+
+1+jooweshk+NA+Con+ThmPos+4	nijooweshkenyman
+
+1+jooweshk+NA+Con+ThmPos+Loc	nijooweshkenyming
+
+1+jooweshk+NA+Con+ThmPos+Pl	nijooweshkenymag
+
+1+jooweshk+NA+Dim+ThmPos+4	nijooweshkensman
+
+1+jooweshk+NA+Dim+ThmPos+Loc	nijooweshkensming
+
+1+jooweshk+NA+Dim+ThmPos+Pl	nijooweshkensmag
+
+2+jooweshk+NA+Con+ThmPos+4	gijooweshkenyman
+
+2+jooweshk+NA+Con+ThmPos+Loc	gijooweshkenyming
+
+2+jooweshk+NA+Con+ThmPos+Pl	gijooweshkenymag
+
+2+jooweshk+NA+Dim+ThmPos+4	gijooweshkensman
+
+2+jooweshk+NA+Dim+ThmPos+Loc	gijooweshkensming
+
+2+jooweshk+NA+Dim+ThmPos+Pl	gijooweshkensmag
+
+3+jooweshk+NA+Con+ThmPos+4	ojooweshkenyman
+
+3+jooweshk+NA+Con+ThmPos+Loc	ojooweshkenyming
+
+3+jooweshk+NA+Dim+ThmPos+4	ojooweshkensman
+
+3+jooweshk+NA+Dim+ThmPos+Loc	ojooweshkensming
+
+X+jooweshk+NA+Con+ThmPos+4	ijooweshkenyman
+
+X+jooweshk+NA+Con+ThmPos+Loc	ijooweshkenyming
+
+X+jooweshk+NA+Con+ThmPos+Pl	ijooweshkenymag
+
+X+jooweshk+NA+Dim+ThmPos+4	ijooweshkensman
+
+X+jooweshk+NA+Dim+ThmPos+Loc	ijooweshkensming
+
+X+jooweshk+NA+Dim+ThmPos+Pl	ijooweshkensmag
+
+1+jooweshk+NA+Con+Pej+1+Pl	nijooweshkenyishnaan
+1+jooweshk+NA+Con+Pej+1+Pl	nijooweshkenyishnaa
+
+1+jooweshk+NA+Dim+Pej+1+Pl	nijooweshkensishnaan
+1+jooweshk+NA+Dim+Pej+1+Pl	nijooweshkensishnaa
+
+2+jooweshk+NA+Con+Pej+1+Pl	gijooweshkenyishnaan
+2+jooweshk+NA+Con+Pej+1+Pl	gijooweshkenyishnaa
+
+2+jooweshk+NA+Con+Pej+2+Pl	gijooweshkenyishwaa
+
+2+jooweshk+NA+Dim+Pej+1+Pl	gijooweshkensishnaan
+2+jooweshk+NA+Dim+Pej+1+Pl	gijooweshkensishnaa
+
+2+jooweshk+NA+Dim+Pej+2+Pl	gijooweshkensishwaa
+
+3+jooweshk+NA+Con+Pej+3+4	ojooweshkenyishniw
+
+3+jooweshk+NA+Dim+Pej+3+4	ojooweshkensishniw
+
+1+jooweshk+NA+Con+Pej+Prt	nijooweshkenyishiban
+1+jooweshk+NA+Con+Pej+Prt	nijooweshkenyishiba
+
+1+jooweshk+NA+Con+Pej+Voc+Pl	nijooweshkenyishdig
+
+1+jooweshk+NA+Dim+Pej+Prt	nijooweshkensishiban
+1+jooweshk+NA+Dim+Pej+Prt	nijooweshkensishiba
+
+1+jooweshk+NA+Dim+Pej+Voc+Pl	nijooweshkensishdig
+
+2+jooweshk+NA+Con+Pej+Prt	gijooweshkenyishiban
+2+jooweshk+NA+Con+Pej+Prt	gijooweshkenyishiba
+
+2+jooweshk+NA+Con+Pej+Voc+Pl	gijooweshkenyishdig
+
+2+jooweshk+NA+Dim+Pej+Prt	gijooweshkensishiban
+2+jooweshk+NA+Dim+Pej+Prt	gijooweshkensishiba
+
+2+jooweshk+NA+Dim+Pej+Voc+Pl	gijooweshkensishdig
+
+X+jooweshk+NA+Con+Pej+Prt	ijooweshkenyishiban
+X+jooweshk+NA+Con+Pej+Prt	ijooweshkenyishiba
+
+X+jooweshk+NA+Con+Pej+Voc+Pl	ijooweshkenyishdig
+
+X+jooweshk+NA+Dim+Pej+Prt	ijooweshkensishiban
+X+jooweshk+NA+Dim+Pej+Prt	ijooweshkensishiba
+
+X+jooweshk+NA+Dim+Pej+Voc+Pl	ijooweshkensishdig
+
+1+jooweshk+NA+Con+Pej+4	nijooweshkenyishan
+
+1+jooweshk+NA+Con+Pej+Loc	nijooweshkenyishing
+
+1+jooweshk+NA+Con+Pej+Pl	nijooweshkenyishag
+
+1+jooweshk+NA+Dim+Pej+4	nijooweshkensishan
+
+1+jooweshk+NA+Dim+Pej+Loc	nijooweshkensishing
+
+1+jooweshk+NA+Dim+Pej+Pl	nijooweshkensishag
+
+2+jooweshk+NA+Con+Pej+4	gijooweshkenyishan
+
+2+jooweshk+NA+Con+Pej+Loc	gijooweshkenyishing
+
+2+jooweshk+NA+Con+Pej+Pl	gijooweshkenyishag
+
+2+jooweshk+NA+Dim+Pej+4	gijooweshkensishan
+
+2+jooweshk+NA+Dim+Pej+Loc	gijooweshkensishing
+
+2+jooweshk+NA+Dim+Pej+Pl	gijooweshkensishag
+
+3+jooweshk+NA+Con+Pej+4	ojooweshkenyishan
+
+3+jooweshk+NA+Con+Pej+Loc	ojooweshkenyishing
+
+3+jooweshk+NA+Dim+Pej+4	ojooweshkensishan
+
+3+jooweshk+NA+Dim+Pej+Loc	ojooweshkensishing
+
+X+jooweshk+NA+Con+Pej+4	ijooweshkenyishan
+
+X+jooweshk+NA+Con+Pej+Loc	ijooweshkenyishing
+
+X+jooweshk+NA+Con+Pej+Pl	ijooweshkenyishag
+
+X+jooweshk+NA+Dim+Pej+4	ijooweshkensishan
+
+X+jooweshk+NA+Dim+Pej+Loc	ijooweshkensishing
+
+X+jooweshk+NA+Dim+Pej+Pl	ijooweshkensishag
+
+1+jooweshk+NA+Con+1+Pl+Prt	nijooweshkenynaaniban
+1+jooweshk+NA+Con+1+Pl+Prt	nijooweshkenynaaniba
+
+1+jooweshk+NA+Con+1+Pl+Voc+Pl	nijooweshkenynaany1dig
+
+1+jooweshk+NA+Dim+1+Pl+Prt	nijooweshkensnaaniban
+1+jooweshk+NA+Dim+1+Pl+Prt	nijooweshkensnaaniba
+
+1+jooweshk+NA+Dim+1+Pl+Voc+Pl	nijooweshkensnaany1dig
+
+2+jooweshk+NA+Con+1+Pl+Prt	gijooweshkenynaaniban
+2+jooweshk+NA+Con+1+Pl+Prt	gijooweshkenynaaniba
+
+2+jooweshk+NA+Con+1+Pl+Voc+Pl	gijooweshkenynaany1dig
+
+2+jooweshk+NA+Con+2+Pl+Prt	gijooweshkenywaaban
+2+jooweshk+NA+Con+2+Pl+Prt	gijooweshkenywaaba
+
+2+jooweshk+NA+Con+2+Pl+Voc+Pl	gijooweshkenywaadig
+
+2+jooweshk+NA+Dim+1+Pl+Prt	gijooweshkensnaaniban
+2+jooweshk+NA+Dim+1+Pl+Prt	gijooweshkensnaaniba
+
+2+jooweshk+NA+Dim+1+Pl+Voc+Pl	gijooweshkensnaany1dig
+
+2+jooweshk+NA+Dim+2+Pl+Prt	gijooweshkenswaaban
+2+jooweshk+NA+Dim+2+Pl+Prt	gijooweshkenswaaba
+
+2+jooweshk+NA+Dim+2+Pl+Voc+Pl	gijooweshkenswaadig
+
+3+jooweshk+NA+Con+3+4+Prt	ojooweshkenyniwiban
+3+jooweshk+NA+Con+3+4+Prt	ojooweshkenyniwiba
+3+jooweshk+NA+Con+3+4+Prt	ojooweshkenyniiban
+3+jooweshk+NA+Con+3+4+Prt	ojooweshkenyniiba
+
+3+jooweshk+NA+Dim+3+4+Prt	ojooweshkensniwiban
+3+jooweshk+NA+Dim+3+4+Prt	ojooweshkensniwiba
+3+jooweshk+NA+Dim+3+4+Prt	ojooweshkensniiban
+3+jooweshk+NA+Dim+3+4+Prt	ojooweshkensniiba
+
+1+jooweshk+NA+Con+1+Pl+4	nijooweshkenynaanin
+
+1+jooweshk+NA+Con+1+Pl+Loc	nijooweshkenynaaning
+
+1+jooweshk+NA+Con+1+Pl+Pl	nijooweshkenynaany1ag
+
+1+jooweshk+NA+Dim+1+Pl+4	nijooweshkensnaanin
+
+1+jooweshk+NA+Dim+1+Pl+Loc	nijooweshkensnaaning
+
+1+jooweshk+NA+Dim+1+Pl+Pl	nijooweshkensnaany1ag
+
+2+jooweshk+NA+Con+1+Pl+4	gijooweshkenynaanin
+
+2+jooweshk+NA+Con+1+Pl+Loc	gijooweshkenynaaning
+
+2+jooweshk+NA+Con+1+Pl+Pl	gijooweshkenynaany1ag
+
+2+jooweshk+NA+Con+2+Pl+4	gijooweshkenywaan
+
+2+jooweshk+NA+Con+2+Pl+Loc	gijooweshkenywaang
+
+2+jooweshk+NA+Con+2+Pl+Pl	gijooweshkenywaaag
+
+2+jooweshk+NA+Dim+1+Pl+4	gijooweshkensnaanin
+
+2+jooweshk+NA+Dim+1+Pl+Loc	gijooweshkensnaaning
+
+2+jooweshk+NA+Dim+1+Pl+Pl	gijooweshkensnaany1ag
+
+2+jooweshk+NA+Dim+2+Pl+4	gijooweshkenswaan
+
+2+jooweshk+NA+Dim+2+Pl+Loc	gijooweshkenswaang
+
+2+jooweshk+NA+Dim+2+Pl+Pl	gijooweshkenswaaag
+
+3+jooweshk+NA+Con+2+Pl+4	ojooweshkenywaan
+
+3+jooweshk+NA+Con+2+Pl+Loc	ojooweshkenywaang
+
+3+jooweshk+NA+Con+3+4+4	ojooweshkenyniwan
+
+3+jooweshk+NA+Con+3+4+Loc	ojooweshkenyniing
+
+3+jooweshk+NA+Dim+2+Pl+4	ojooweshkenswaan
+
+3+jooweshk+NA+Dim+2+Pl+Loc	ojooweshkenswaang
+
+3+jooweshk+NA+Dim+3+4+4	ojooweshkensniwan
+
+3+jooweshk+NA+Dim+3+4+Loc	ojooweshkensniing
+
+1+jooweshk+NA+Con+Prt+4	nijooweshkenyibaniin
+
+1+jooweshk+NA+Con+Prt+Loc	nijooweshkenyibaniing
+
+1+jooweshk+NA+Con+Prt+Pl	nijooweshkenyibani1ag
+
+1+jooweshk+NA+Dim+Prt+4	nijooweshkensibaniin
+
+1+jooweshk+NA+Dim+Prt+Loc	nijooweshkensibaniing
+
+1+jooweshk+NA+Dim+Prt+Pl	nijooweshkensibani1ag
+
+2+jooweshk+NA+Con+Prt+4	gijooweshkenyibaniin
+
+2+jooweshk+NA+Con+Prt+Loc	gijooweshkenyibaniing
+
+2+jooweshk+NA+Con+Prt+Pl	gijooweshkenyibani1ag
+
+2+jooweshk+NA+Dim+Prt+4	gijooweshkensibaniin
+
+2+jooweshk+NA+Dim+Prt+Loc	gijooweshkensibaniing
+
+2+jooweshk+NA+Dim+Prt+Pl	gijooweshkensibani1ag
+
+3+jooweshk+NA+Con+Prt+4	ojooweshkenyibaniin
+
+3+jooweshk+NA+Con+Prt+Loc	ojooweshkenyibaniing
+
+3+jooweshk+NA+Dim+Prt+4	ojooweshkensibaniin
+
+3+jooweshk+NA+Dim+Prt+Loc	ojooweshkensibaniing
+
+X+jooweshk+NA+Con+Prt+4	ijooweshkenyibaniin
+
+X+jooweshk+NA+Con+Prt+Loc	ijooweshkenyibaniing
+
+X+jooweshk+NA+Con+Prt+Pl	ijooweshkenyibani1ag
+
+X+jooweshk+NA+Dim+Prt+4	ijooweshkensibaniin
+
+X+jooweshk+NA+Dim+Prt+Loc	ijooweshkensibaniing
+
+X+jooweshk+NA+Dim+Prt+Pl	ijooweshkensibani1ag
+
+1+jooweshk+NA+ThmPos+Pej+1+Pl	nijooweshkmishnaan
+1+jooweshk+NA+ThmPos+Pej+1+Pl	nijooweshkmishnaa
+
+2+jooweshk+NA+ThmPos+Pej+1+Pl	gijooweshkmishnaan
+2+jooweshk+NA+ThmPos+Pej+1+Pl	gijooweshkmishnaa
+
+2+jooweshk+NA+ThmPos+Pej+2+Pl	gijooweshkmishwaa
+
+3+jooweshk+NA+ThmPos+Pej+3+4	ojooweshkmishniw
+
+1+jooweshk+NA+ThmPos+Pej+Prt	nijooweshkmishiban
+1+jooweshk+NA+ThmPos+Pej+Prt	nijooweshkmishiba
+
+1+jooweshk+NA+ThmPos+Pej+Voc+Pl	nijooweshkmishdig
+
+2+jooweshk+NA+ThmPos+Pej+Prt	gijooweshkmishiban
+2+jooweshk+NA+ThmPos+Pej+Prt	gijooweshkmishiba
+
+2+jooweshk+NA+ThmPos+Pej+Voc+Pl	gijooweshkmishdig
+
+X+jooweshk+NA+ThmPos+Pej+Prt	ijooweshkmishiban
+X+jooweshk+NA+ThmPos+Pej+Prt	ijooweshkmishiba
+
+X+jooweshk+NA+ThmPos+Pej+Voc+Pl	ijooweshkmishdig
+
+1+jooweshk+NA+ThmPos+Pej+4	nijooweshkmishan
+
+1+jooweshk+NA+ThmPos+Pej+Loc	nijooweshkmishing
+
+1+jooweshk+NA+ThmPos+Pej+Pl	nijooweshkmishag
+
+2+jooweshk+NA+ThmPos+Pej+4	gijooweshkmishan
+
+2+jooweshk+NA+ThmPos+Pej+Loc	gijooweshkmishing
+
+2+jooweshk+NA+ThmPos+Pej+Pl	gijooweshkmishag
+
+3+jooweshk+NA+ThmPos+Pej+4	ojooweshkmishan
+
+3+jooweshk+NA+ThmPos+Pej+Loc	ojooweshkmishing
+
+X+jooweshk+NA+ThmPos+Pej+4	ijooweshkmishan
+
+X+jooweshk+NA+ThmPos+Pej+Loc	ijooweshkmishing
+
+X+jooweshk+NA+ThmPos+Pej+Pl	ijooweshkmishag
+
+1+jooweshk+NA+ThmPos+1+Pl+Prt	nijooweshkmnaaniban
+1+jooweshk+NA+ThmPos+1+Pl+Prt	nijooweshkmnaaniba
+
+1+jooweshk+NA+ThmPos+1+Pl+Voc+Pl	nijooweshkmnaany1dig
+
+2+jooweshk+NA+ThmPos+1+Pl+Prt	gijooweshkmnaaniban
+2+jooweshk+NA+ThmPos+1+Pl+Prt	gijooweshkmnaaniba
+
+2+jooweshk+NA+ThmPos+1+Pl+Voc+Pl	gijooweshkmnaany1dig
+
+2+jooweshk+NA+ThmPos+2+Pl+Prt	gijooweshkmwaaban
+2+jooweshk+NA+ThmPos+2+Pl+Prt	gijooweshkmwaaba
+
+2+jooweshk+NA+ThmPos+2+Pl+Voc+Pl	gijooweshkmwaadig
+
+3+jooweshk+NA+ThmPos+3+4+Prt	ojooweshkmniwiban
+3+jooweshk+NA+ThmPos+3+4+Prt	ojooweshkmniwiba
+3+jooweshk+NA+ThmPos+3+4+Prt	ojooweshkmniiban
+3+jooweshk+NA+ThmPos+3+4+Prt	ojooweshkmniiba
+
+1+jooweshk+NA+ThmPos+1+Pl+4	nijooweshkmnaanin
+
+1+jooweshk+NA+ThmPos+1+Pl+Loc	nijooweshkmnaaning
+
+1+jooweshk+NA+ThmPos+1+Pl+Pl	nijooweshkmnaany1ag
+
+2+jooweshk+NA+ThmPos+1+Pl+4	gijooweshkmnaanin
+
+2+jooweshk+NA+ThmPos+1+Pl+Loc	gijooweshkmnaaning
+
+2+jooweshk+NA+ThmPos+1+Pl+Pl	gijooweshkmnaany1ag
+
+2+jooweshk+NA+ThmPos+2+Pl+4	gijooweshkmwaan
+
+2+jooweshk+NA+ThmPos+2+Pl+Loc	gijooweshkmwaang
+
+2+jooweshk+NA+ThmPos+2+Pl+Pl	gijooweshkmwaaag
+
+3+jooweshk+NA+ThmPos+2+Pl+4	ojooweshkmwaan
+
+3+jooweshk+NA+ThmPos+2+Pl+Loc	ojooweshkmwaang
+
+3+jooweshk+NA+ThmPos+3+4+4	ojooweshkmniwan
+
+3+jooweshk+NA+ThmPos+3+4+Loc	ojooweshkmniing
+
+1+jooweshk+NA+ThmPos+Prt+4	nijooweshkmibaniin
+
+1+jooweshk+NA+ThmPos+Prt+Loc	nijooweshkmibaniing
+
+1+jooweshk+NA+ThmPos+Prt+Pl	nijooweshkmibani1ag
+
+2+jooweshk+NA+ThmPos+Prt+4	gijooweshkmibaniin
+
+2+jooweshk+NA+ThmPos+Prt+Loc	gijooweshkmibaniing
+
+2+jooweshk+NA+ThmPos+Prt+Pl	gijooweshkmibani1ag
+
+3+jooweshk+NA+ThmPos+Prt+4	ojooweshkmibaniin
+
+3+jooweshk+NA+ThmPos+Prt+Loc	ojooweshkmibaniing
+
+X+jooweshk+NA+ThmPos+Prt+4	ijooweshkmibaniin
+
+X+jooweshk+NA+ThmPos+Prt+Loc	ijooweshkmibaniing
+
+X+jooweshk+NA+ThmPos+Prt+Pl	ijooweshkmibani1ag
+
+1+jooweshk+NA+Pej+1+Pl+Prt	nijooweshkshnaaniban
+1+jooweshk+NA+Pej+1+Pl+Prt	nijooweshkshnaaniba
+
+1+jooweshk+NA+Pej+1+Pl+Voc+Pl	nijooweshkshnaany1dig
+
+2+jooweshk+NA+Pej+1+Pl+Prt	gijooweshkshnaaniban
+2+jooweshk+NA+Pej+1+Pl+Prt	gijooweshkshnaaniba
+
+2+jooweshk+NA+Pej+1+Pl+Voc+Pl	gijooweshkshnaany1dig
+
+2+jooweshk+NA+Pej+2+Pl+Prt	gijooweshkshwaaban
+2+jooweshk+NA+Pej+2+Pl+Prt	gijooweshkshwaaba
+
+2+jooweshk+NA+Pej+2+Pl+Voc+Pl	gijooweshkshwaadig
+
+3+jooweshk+NA+Pej+3+4+Prt	ojooweshkshniwiban
+3+jooweshk+NA+Pej+3+4+Prt	ojooweshkshniwiba
+3+jooweshk+NA+Pej+3+4+Prt	ojooweshkshniiban
+3+jooweshk+NA+Pej+3+4+Prt	ojooweshkshniiba
+
+1+jooweshk+NA+Pej+1+Pl+4	nijooweshkshnaanin
+
+1+jooweshk+NA+Pej+1+Pl+Loc	nijooweshkshnaaning
+
+1+jooweshk+NA+Pej+1+Pl+Pl	nijooweshkshnaany1ag
+
+2+jooweshk+NA+Pej+1+Pl+4	gijooweshkshnaanin
+
+2+jooweshk+NA+Pej+1+Pl+Loc	gijooweshkshnaaning
+
+2+jooweshk+NA+Pej+1+Pl+Pl	gijooweshkshnaany1ag
+
+2+jooweshk+NA+Pej+2+Pl+4	gijooweshkshwaan
+
+2+jooweshk+NA+Pej+2+Pl+Loc	gijooweshkshwaang
+
+2+jooweshk+NA+Pej+2+Pl+Pl	gijooweshkshwaaag
+
+3+jooweshk+NA+Pej+2+Pl+4	ojooweshkshwaan
+
+3+jooweshk+NA+Pej+2+Pl+Loc	ojooweshkshwaang
+
+3+jooweshk+NA+Pej+3+4+4	ojooweshkshniwan
+
+3+jooweshk+NA+Pej+3+4+Loc	ojooweshkshniing
+
+1+jooweshk+NA+Pej+Prt+4	nijooweshkshibaniin
+
+1+jooweshk+NA+Pej+Prt+Loc	nijooweshkshibaniing
+
+1+jooweshk+NA+Pej+Prt+Pl	nijooweshkshibani1ag
+
+2+jooweshk+NA+Pej+Prt+4	gijooweshkshibaniin
+
+2+jooweshk+NA+Pej+Prt+Loc	gijooweshkshibaniing
+
+2+jooweshk+NA+Pej+Prt+Pl	gijooweshkshibani1ag
+
+3+jooweshk+NA+Pej+Prt+4	ojooweshkshibaniin
+
+3+jooweshk+NA+Pej+Prt+Loc	ojooweshkshibaniing
+
+X+jooweshk+NA+Pej+Prt+4	ijooweshkshibaniin
+
+X+jooweshk+NA+Pej+Prt+Loc	ijooweshkshibaniing
+
+X+jooweshk+NA+Pej+Prt+Pl	ijooweshkshibani1ag
+
+1+jooweshk+NA+1+Pl+Prt+4	nijooweshknaanibaniin
+
+1+jooweshk+NA+1+Pl+Prt+Loc	nijooweshknaanibaniing
+
+1+jooweshk+NA+1+Pl+Prt+Pl	nijooweshknaanibani1ag
+
+2+jooweshk+NA+1+Pl+Prt+4	gijooweshknaanibaniin
+
+2+jooweshk+NA+1+Pl+Prt+Loc	gijooweshknaanibaniing
+
+2+jooweshk+NA+1+Pl+Prt+Pl	gijooweshknaanibani1ag
+
+2+jooweshk+NA+2+Pl+Prt+4	gijooweshkwaabaniin
+
+2+jooweshk+NA+2+Pl+Prt+Loc	gijooweshkwaabaniing
+
+2+jooweshk+NA+2+Pl+Prt+Pl	gijooweshkwaabani1ag
+
+3+jooweshk+NA+2+Pl+Prt+4	ojooweshkwaabaniin
+
+3+jooweshk+NA+2+Pl+Prt+Loc	ojooweshkwaabaniing
+
+3+jooweshk+NA+3+4+Prt+4	ojooweshkniwibaniin
+3+jooweshk+NA+3+4+Prt+4	ojooweshkniibaniin
+
+3+jooweshk+NA+3+4+Prt+Loc	ojooweshkniwibaniing
+3+jooweshk+NA+3+4+Prt+Loc	ojooweshkniibaniing
+
+jooweshk+NA+Con+Pej+Prt+4	jooweshkenyishibaniin
+
+jooweshk+NA+Con+Pej+Prt+Loc	jooweshkenyishibaniing
+
+jooweshk+NA+Con+Pej+Prt+Pl	jooweshkenyishibani1ag
+
+jooweshk+NA+Dim+Pej+Prt+4	jooweshkensishibaniin
+
+jooweshk+NA+Dim+Pej+Prt+Loc	jooweshkensishibaniing
+
+jooweshk+NA+Dim+Pej+Prt+Pl	jooweshkensishibani1ag
+
+1+jooweshk+NA+Con+ThmPos+Pej+1+Pl	nijooweshkenymishnaan
+1+jooweshk+NA+Con+ThmPos+Pej+1+Pl	nijooweshkenymishnaa
+
+1+jooweshk+NA+Dim+ThmPos+Pej+1+Pl	nijooweshkensmishnaan
+1+jooweshk+NA+Dim+ThmPos+Pej+1+Pl	nijooweshkensmishnaa
+
+2+jooweshk+NA+Con+ThmPos+Pej+1+Pl	gijooweshkenymishnaan
+2+jooweshk+NA+Con+ThmPos+Pej+1+Pl	gijooweshkenymishnaa
+
+2+jooweshk+NA+Con+ThmPos+Pej+2+Pl	gijooweshkenymishwaa
+
+2+jooweshk+NA+Dim+ThmPos+Pej+1+Pl	gijooweshkensmishnaan
+2+jooweshk+NA+Dim+ThmPos+Pej+1+Pl	gijooweshkensmishnaa
+
+2+jooweshk+NA+Dim+ThmPos+Pej+2+Pl	gijooweshkensmishwaa
+
+3+jooweshk+NA+Con+ThmPos+Pej+3+4	ojooweshkenymishniw
+
+3+jooweshk+NA+Dim+ThmPos+Pej+3+4	ojooweshkensmishniw
+
+1+jooweshk+NA+Con+ThmPos+Pej+Prt	nijooweshkenymishiban
+1+jooweshk+NA+Con+ThmPos+Pej+Prt	nijooweshkenymishiba
+
+1+jooweshk+NA+Con+ThmPos+Pej+Voc+Pl	nijooweshkenymishdig
+
+1+jooweshk+NA+Dim+ThmPos+Pej+Prt	nijooweshkensmishiban
+1+jooweshk+NA+Dim+ThmPos+Pej+Prt	nijooweshkensmishiba
+
+1+jooweshk+NA+Dim+ThmPos+Pej+Voc+Pl	nijooweshkensmishdig
+
+2+jooweshk+NA+Con+ThmPos+Pej+Prt	gijooweshkenymishiban
+2+jooweshk+NA+Con+ThmPos+Pej+Prt	gijooweshkenymishiba
+
+2+jooweshk+NA+Con+ThmPos+Pej+Voc+Pl	gijooweshkenymishdig
+
+2+jooweshk+NA+Dim+ThmPos+Pej+Prt	gijooweshkensmishiban
+2+jooweshk+NA+Dim+ThmPos+Pej+Prt	gijooweshkensmishiba
+
+2+jooweshk+NA+Dim+ThmPos+Pej+Voc+Pl	gijooweshkensmishdig
+
+X+jooweshk+NA+Con+ThmPos+Pej+Prt	ijooweshkenymishiban
+X+jooweshk+NA+Con+ThmPos+Pej+Prt	ijooweshkenymishiba
+
+X+jooweshk+NA+Con+ThmPos+Pej+Voc+Pl	ijooweshkenymishdig
+
+X+jooweshk+NA+Dim+ThmPos+Pej+Prt	ijooweshkensmishiban
+X+jooweshk+NA+Dim+ThmPos+Pej+Prt	ijooweshkensmishiba
+
+X+jooweshk+NA+Dim+ThmPos+Pej+Voc+Pl	ijooweshkensmishdig
+
+1+jooweshk+NA+Con+ThmPos+Pej+4	nijooweshkenymishan
+
+1+jooweshk+NA+Con+ThmPos+Pej+Loc	nijooweshkenymishing
+
+1+jooweshk+NA+Con+ThmPos+Pej+Pl	nijooweshkenymishag
+
+1+jooweshk+NA+Dim+ThmPos+Pej+4	nijooweshkensmishan
+
+1+jooweshk+NA+Dim+ThmPos+Pej+Loc	nijooweshkensmishing
+
+1+jooweshk+NA+Dim+ThmPos+Pej+Pl	nijooweshkensmishag
+
+2+jooweshk+NA+Con+ThmPos+Pej+4	gijooweshkenymishan
+
+2+jooweshk+NA+Con+ThmPos+Pej+Loc	gijooweshkenymishing
+
+2+jooweshk+NA+Con+ThmPos+Pej+Pl	gijooweshkenymishag
+
+2+jooweshk+NA+Dim+ThmPos+Pej+4	gijooweshkensmishan
+
+2+jooweshk+NA+Dim+ThmPos+Pej+Loc	gijooweshkensmishing
+
+2+jooweshk+NA+Dim+ThmPos+Pej+Pl	gijooweshkensmishag
+
+3+jooweshk+NA+Con+ThmPos+Pej+4	ojooweshkenymishan
+
+3+jooweshk+NA+Con+ThmPos+Pej+Loc	ojooweshkenymishing
+
+3+jooweshk+NA+Dim+ThmPos+Pej+4	ojooweshkensmishan
+
+3+jooweshk+NA+Dim+ThmPos+Pej+Loc	ojooweshkensmishing
+
+X+jooweshk+NA+Con+ThmPos+Pej+4	ijooweshkenymishan
+
+X+jooweshk+NA+Con+ThmPos+Pej+Loc	ijooweshkenymishing
+
+X+jooweshk+NA+Con+ThmPos+Pej+Pl	ijooweshkenymishag
+
+X+jooweshk+NA+Dim+ThmPos+Pej+4	ijooweshkensmishan
+
+X+jooweshk+NA+Dim+ThmPos+Pej+Loc	ijooweshkensmishing
+
+X+jooweshk+NA+Dim+ThmPos+Pej+Pl	ijooweshkensmishag
+
+1+jooweshk+NA+Con+ThmPos+1+Pl+Prt	nijooweshkenymnaaniban
+1+jooweshk+NA+Con+ThmPos+1+Pl+Prt	nijooweshkenymnaaniba
+
+1+jooweshk+NA+Con+ThmPos+1+Pl+Voc+Pl	nijooweshkenymnaany1dig
+
+1+jooweshk+NA+Dim+ThmPos+1+Pl+Prt	nijooweshkensmnaaniban
+1+jooweshk+NA+Dim+ThmPos+1+Pl+Prt	nijooweshkensmnaaniba
+
+1+jooweshk+NA+Dim+ThmPos+1+Pl+Voc+Pl	nijooweshkensmnaany1dig
+
+2+jooweshk+NA+Con+ThmPos+1+Pl+Prt	gijooweshkenymnaaniban
+2+jooweshk+NA+Con+ThmPos+1+Pl+Prt	gijooweshkenymnaaniba
+
+2+jooweshk+NA+Con+ThmPos+1+Pl+Voc+Pl	gijooweshkenymnaany1dig
+
+2+jooweshk+NA+Con+ThmPos+2+Pl+Prt	gijooweshkenymwaaban
+2+jooweshk+NA+Con+ThmPos+2+Pl+Prt	gijooweshkenymwaaba
+
+2+jooweshk+NA+Con+ThmPos+2+Pl+Voc+Pl	gijooweshkenymwaadig
+
+2+jooweshk+NA+Dim+ThmPos+1+Pl+Prt	gijooweshkensmnaaniban
+2+jooweshk+NA+Dim+ThmPos+1+Pl+Prt	gijooweshkensmnaaniba
+
+2+jooweshk+NA+Dim+ThmPos+1+Pl+Voc+Pl	gijooweshkensmnaany1dig
+
+2+jooweshk+NA+Dim+ThmPos+2+Pl+Prt	gijooweshkensmwaaban
+2+jooweshk+NA+Dim+ThmPos+2+Pl+Prt	gijooweshkensmwaaba
+
+2+jooweshk+NA+Dim+ThmPos+2+Pl+Voc+Pl	gijooweshkensmwaadig
+
+3+jooweshk+NA+Con+ThmPos+3+4+Prt	ojooweshkenymniwiban
+3+jooweshk+NA+Con+ThmPos+3+4+Prt	ojooweshkenymniwiba
+3+jooweshk+NA+Con+ThmPos+3+4+Prt	ojooweshkenymniiban
+3+jooweshk+NA+Con+ThmPos+3+4+Prt	ojooweshkenymniiba
+
+3+jooweshk+NA+Dim+ThmPos+3+4+Prt	ojooweshkensmniwiban
+3+jooweshk+NA+Dim+ThmPos+3+4+Prt	ojooweshkensmniwiba
+3+jooweshk+NA+Dim+ThmPos+3+4+Prt	ojooweshkensmniiban
+3+jooweshk+NA+Dim+ThmPos+3+4+Prt	ojooweshkensmniiba
+
+1+jooweshk+NA+Con+ThmPos+1+Pl+4	nijooweshkenymnaanin
+
+1+jooweshk+NA+Con+ThmPos+1+Pl+Loc	nijooweshkenymnaaning
+
+1+jooweshk+NA+Con+ThmPos+1+Pl+Pl	nijooweshkenymnaany1ag
+
+1+jooweshk+NA+Dim+ThmPos+1+Pl+4	nijooweshkensmnaanin
+
+1+jooweshk+NA+Dim+ThmPos+1+Pl+Loc	nijooweshkensmnaaning
+
+1+jooweshk+NA+Dim+ThmPos+1+Pl+Pl	nijooweshkensmnaany1ag
+
+2+jooweshk+NA+Con+ThmPos+1+Pl+4	gijooweshkenymnaanin
+
+2+jooweshk+NA+Con+ThmPos+1+Pl+Loc	gijooweshkenymnaaning
+
+2+jooweshk+NA+Con+ThmPos+1+Pl+Pl	gijooweshkenymnaany1ag
+
+2+jooweshk+NA+Con+ThmPos+2+Pl+4	gijooweshkenymwaan
+
+2+jooweshk+NA+Con+ThmPos+2+Pl+Loc	gijooweshkenymwaang
+
+2+jooweshk+NA+Con+ThmPos+2+Pl+Pl	gijooweshkenymwaaag
+
+2+jooweshk+NA+Dim+ThmPos+1+Pl+4	gijooweshkensmnaanin
+
+2+jooweshk+NA+Dim+ThmPos+1+Pl+Loc	gijooweshkensmnaaning
+
+2+jooweshk+NA+Dim+ThmPos+1+Pl+Pl	gijooweshkensmnaany1ag
+
+2+jooweshk+NA+Dim+ThmPos+2+Pl+4	gijooweshkensmwaan
+
+2+jooweshk+NA+Dim+ThmPos+2+Pl+Loc	gijooweshkensmwaang
+
+2+jooweshk+NA+Dim+ThmPos+2+Pl+Pl	gijooweshkensmwaaag
+
+3+jooweshk+NA+Con+ThmPos+2+Pl+4	ojooweshkenymwaan
+
+3+jooweshk+NA+Con+ThmPos+2+Pl+Loc	ojooweshkenymwaang
+
+3+jooweshk+NA+Con+ThmPos+3+4+4	ojooweshkenymniwan
+
+3+jooweshk+NA+Con+ThmPos+3+4+Loc	ojooweshkenymniing
+
+3+jooweshk+NA+Dim+ThmPos+2+Pl+4	ojooweshkensmwaan
+
+3+jooweshk+NA+Dim+ThmPos+2+Pl+Loc	ojooweshkensmwaang
+
+3+jooweshk+NA+Dim+ThmPos+3+4+4	ojooweshkensmniwan
+
+3+jooweshk+NA+Dim+ThmPos+3+4+Loc	ojooweshkensmniing
+
+1+jooweshk+NA+Con+ThmPos+Prt+4	nijooweshkenymibaniin
+
+1+jooweshk+NA+Con+ThmPos+Prt+Loc	nijooweshkenymibaniing
+
+1+jooweshk+NA+Con+ThmPos+Prt+Pl	nijooweshkenymibani1ag
+
+1+jooweshk+NA+Dim+ThmPos+Prt+4	nijooweshkensmibaniin
+
+1+jooweshk+NA+Dim+ThmPos+Prt+Loc	nijooweshkensmibaniing
+
+1+jooweshk+NA+Dim+ThmPos+Prt+Pl	nijooweshkensmibani1ag
+
+2+jooweshk+NA+Con+ThmPos+Prt+4	gijooweshkenymibaniin
+
+2+jooweshk+NA+Con+ThmPos+Prt+Loc	gijooweshkenymibaniing
+
+2+jooweshk+NA+Con+ThmPos+Prt+Pl	gijooweshkenymibani1ag
+
+2+jooweshk+NA+Dim+ThmPos+Prt+4	gijooweshkensmibaniin
+
+2+jooweshk+NA+Dim+ThmPos+Prt+Loc	gijooweshkensmibaniing
+
+2+jooweshk+NA+Dim+ThmPos+Prt+Pl	gijooweshkensmibani1ag
+
+3+jooweshk+NA+Con+ThmPos+Prt+4	ojooweshkenymibaniin
+
+3+jooweshk+NA+Con+ThmPos+Prt+Loc	ojooweshkenymibaniing
+
+3+jooweshk+NA+Dim+ThmPos+Prt+4	ojooweshkensmibaniin
+
+3+jooweshk+NA+Dim+ThmPos+Prt+Loc	ojooweshkensmibaniing
+
+X+jooweshk+NA+Con+ThmPos+Prt+4	ijooweshkenymibaniin
+
+X+jooweshk+NA+Con+ThmPos+Prt+Loc	ijooweshkenymibaniing
+
+X+jooweshk+NA+Con+ThmPos+Prt+Pl	ijooweshkenymibani1ag
+
+X+jooweshk+NA+Dim+ThmPos+Prt+4	ijooweshkensmibaniin
+
+X+jooweshk+NA+Dim+ThmPos+Prt+Loc	ijooweshkensmibaniing
+
+X+jooweshk+NA+Dim+ThmPos+Prt+Pl	ijooweshkensmibani1ag
+
+1+jooweshk+NA+Con+Pej+1+Pl+Prt	nijooweshkenyishnaaniban
+1+jooweshk+NA+Con+Pej+1+Pl+Prt	nijooweshkenyishnaaniba
+
+1+jooweshk+NA+Con+Pej+1+Pl+Voc+Pl	nijooweshkenyishnaany1dig
+
+1+jooweshk+NA+Dim+Pej+1+Pl+Prt	nijooweshkensishnaaniban
+1+jooweshk+NA+Dim+Pej+1+Pl+Prt	nijooweshkensishnaaniba
+
+1+jooweshk+NA+Dim+Pej+1+Pl+Voc+Pl	nijooweshkensishnaany1dig
+
+2+jooweshk+NA+Con+Pej+1+Pl+Prt	gijooweshkenyishnaaniban
+2+jooweshk+NA+Con+Pej+1+Pl+Prt	gijooweshkenyishnaaniba
+
+2+jooweshk+NA+Con+Pej+1+Pl+Voc+Pl	gijooweshkenyishnaany1dig
+
+2+jooweshk+NA+Con+Pej+2+Pl+Prt	gijooweshkenyishwaaban
+2+jooweshk+NA+Con+Pej+2+Pl+Prt	gijooweshkenyishwaaba
+
+2+jooweshk+NA+Con+Pej+2+Pl+Voc+Pl	gijooweshkenyishwaadig
+
+2+jooweshk+NA+Dim+Pej+1+Pl+Prt	gijooweshkensishnaaniban
+2+jooweshk+NA+Dim+Pej+1+Pl+Prt	gijooweshkensishnaaniba
+
+2+jooweshk+NA+Dim+Pej+1+Pl+Voc+Pl	gijooweshkensishnaany1dig
+
+2+jooweshk+NA+Dim+Pej+2+Pl+Prt	gijooweshkensishwaaban
+2+jooweshk+NA+Dim+Pej+2+Pl+Prt	gijooweshkensishwaaba
+
+2+jooweshk+NA+Dim+Pej+2+Pl+Voc+Pl	gijooweshkensishwaadig
+
+3+jooweshk+NA+Con+Pej+3+4+Prt	ojooweshkenyishniwiban
+3+jooweshk+NA+Con+Pej+3+4+Prt	ojooweshkenyishniwiba
+3+jooweshk+NA+Con+Pej+3+4+Prt	ojooweshkenyishniiban
+3+jooweshk+NA+Con+Pej+3+4+Prt	ojooweshkenyishniiba
+
+3+jooweshk+NA+Dim+Pej+3+4+Prt	ojooweshkensishniwiban
+3+jooweshk+NA+Dim+Pej+3+4+Prt	ojooweshkensishniwiba
+3+jooweshk+NA+Dim+Pej+3+4+Prt	ojooweshkensishniiban
+3+jooweshk+NA+Dim+Pej+3+4+Prt	ojooweshkensishniiba
+
+1+jooweshk+NA+Con+Pej+1+Pl+4	nijooweshkenyishnaanin
+
+1+jooweshk+NA+Con+Pej+1+Pl+Loc	nijooweshkenyishnaaning
+
+1+jooweshk+NA+Con+Pej+1+Pl+Pl	nijooweshkenyishnaany1ag
+
+1+jooweshk+NA+Dim+Pej+1+Pl+4	nijooweshkensishnaanin
+
+1+jooweshk+NA+Dim+Pej+1+Pl+Loc	nijooweshkensishnaaning
+
+1+jooweshk+NA+Dim+Pej+1+Pl+Pl	nijooweshkensishnaany1ag
+
+2+jooweshk+NA+Con+Pej+1+Pl+4	gijooweshkenyishnaanin
+
+2+jooweshk+NA+Con+Pej+1+Pl+Loc	gijooweshkenyishnaaning
+
+2+jooweshk+NA+Con+Pej+1+Pl+Pl	gijooweshkenyishnaany1ag
+
+2+jooweshk+NA+Con+Pej+2+Pl+4	gijooweshkenyishwaan
+
+2+jooweshk+NA+Con+Pej+2+Pl+Loc	gijooweshkenyishwaang
+
+2+jooweshk+NA+Con+Pej+2+Pl+Pl	gijooweshkenyishwaaag
+
+2+jooweshk+NA+Dim+Pej+1+Pl+4	gijooweshkensishnaanin
+
+2+jooweshk+NA+Dim+Pej+1+Pl+Loc	gijooweshkensishnaaning
+
+2+jooweshk+NA+Dim+Pej+1+Pl+Pl	gijooweshkensishnaany1ag
+
+2+jooweshk+NA+Dim+Pej+2+Pl+4	gijooweshkensishwaan
+
+2+jooweshk+NA+Dim+Pej+2+Pl+Loc	gijooweshkensishwaang
+
+2+jooweshk+NA+Dim+Pej+2+Pl+Pl	gijooweshkensishwaaag
+
+3+jooweshk+NA+Con+Pej+2+Pl+4	ojooweshkenyishwaan
+
+3+jooweshk+NA+Con+Pej+2+Pl+Loc	ojooweshkenyishwaang
+
+3+jooweshk+NA+Con+Pej+3+4+4	ojooweshkenyishniwan
+
+3+jooweshk+NA+Con+Pej+3+4+Loc	ojooweshkenyishniing
+
+3+jooweshk+NA+Dim+Pej+2+Pl+4	ojooweshkensishwaan
+
+3+jooweshk+NA+Dim+Pej+2+Pl+Loc	ojooweshkensishwaang
+
+3+jooweshk+NA+Dim+Pej+3+4+4	ojooweshkensishniwan
+
+3+jooweshk+NA+Dim+Pej+3+4+Loc	ojooweshkensishniing
+
+1+jooweshk+NA+Con+Pej+Prt+4	nijooweshkenyishibaniin
+
+1+jooweshk+NA+Con+Pej+Prt+Loc	nijooweshkenyishibaniing
+
+1+jooweshk+NA+Con+Pej+Prt+Pl	nijooweshkenyishibani1ag
+
+1+jooweshk+NA+Dim+Pej+Prt+4	nijooweshkensishibaniin
+
+1+jooweshk+NA+Dim+Pej+Prt+Loc	nijooweshkensishibaniing
+
+1+jooweshk+NA+Dim+Pej+Prt+Pl	nijooweshkensishibani1ag
+
+2+jooweshk+NA+Con+Pej+Prt+4	gijooweshkenyishibaniin
+
+2+jooweshk+NA+Con+Pej+Prt+Loc	gijooweshkenyishibaniing
+
+2+jooweshk+NA+Con+Pej+Prt+Pl	gijooweshkenyishibani1ag
+
+2+jooweshk+NA+Dim+Pej+Prt+4	gijooweshkensishibaniin
+
+2+jooweshk+NA+Dim+Pej+Prt+Loc	gijooweshkensishibaniing
+
+2+jooweshk+NA+Dim+Pej+Prt+Pl	gijooweshkensishibani1ag
+
+3+jooweshk+NA+Con+Pej+Prt+4	ojooweshkenyishibaniin
+
+3+jooweshk+NA+Con+Pej+Prt+Loc	ojooweshkenyishibaniing
+
+3+jooweshk+NA+Dim+Pej+Prt+4	ojooweshkensishibaniin
+
+3+jooweshk+NA+Dim+Pej+Prt+Loc	ojooweshkensishibaniing
+
+X+jooweshk+NA+Con+Pej+Prt+4	ijooweshkenyishibaniin
+
+X+jooweshk+NA+Con+Pej+Prt+Loc	ijooweshkenyishibaniing
+
+X+jooweshk+NA+Con+Pej+Prt+Pl	ijooweshkenyishibani1ag
+
+X+jooweshk+NA+Dim+Pej+Prt+4	ijooweshkensishibaniin
+
+X+jooweshk+NA+Dim+Pej+Prt+Loc	ijooweshkensishibaniing
+
+X+jooweshk+NA+Dim+Pej+Prt+Pl	ijooweshkensishibani1ag
+
+1+jooweshk+NA+Con+1+Pl+Prt+4	nijooweshkenynaanibaniin
+
+1+jooweshk+NA+Con+1+Pl+Prt+Loc	nijooweshkenynaanibaniing
+
+1+jooweshk+NA+Con+1+Pl+Prt+Pl	nijooweshkenynaanibani1ag
+
+1+jooweshk+NA+Dim+1+Pl+Prt+4	nijooweshkensnaanibaniin
+
+1+jooweshk+NA+Dim+1+Pl+Prt+Loc	nijooweshkensnaanibaniing
+
+1+jooweshk+NA+Dim+1+Pl+Prt+Pl	nijooweshkensnaanibani1ag
+
+2+jooweshk+NA+Con+1+Pl+Prt+4	gijooweshkenynaanibaniin
+
+2+jooweshk+NA+Con+1+Pl+Prt+Loc	gijooweshkenynaanibaniing
+
+2+jooweshk+NA+Con+1+Pl+Prt+Pl	gijooweshkenynaanibani1ag
+
+2+jooweshk+NA+Con+2+Pl+Prt+4	gijooweshkenywaabaniin
+
+2+jooweshk+NA+Con+2+Pl+Prt+Loc	gijooweshkenywaabaniing
+
+2+jooweshk+NA+Con+2+Pl+Prt+Pl	gijooweshkenywaabani1ag
+
+2+jooweshk+NA+Dim+1+Pl+Prt+4	gijooweshkensnaanibaniin
+
+2+jooweshk+NA+Dim+1+Pl+Prt+Loc	gijooweshkensnaanibaniing
+
+2+jooweshk+NA+Dim+1+Pl+Prt+Pl	gijooweshkensnaanibani1ag
+
+2+jooweshk+NA+Dim+2+Pl+Prt+4	gijooweshkenswaabaniin
+
+2+jooweshk+NA+Dim+2+Pl+Prt+Loc	gijooweshkenswaabaniing
+
+2+jooweshk+NA+Dim+2+Pl+Prt+Pl	gijooweshkenswaabani1ag
+
+3+jooweshk+NA+Con+2+Pl+Prt+4	ojooweshkenywaabaniin
+
+3+jooweshk+NA+Con+2+Pl+Prt+Loc	ojooweshkenywaabaniing
+
+3+jooweshk+NA+Con+3+4+Prt+4	ojooweshkenyniwibaniin
+3+jooweshk+NA+Con+3+4+Prt+4	ojooweshkenyniibaniin
+
+3+jooweshk+NA+Con+3+4+Prt+Loc	ojooweshkenyniwibaniing
+3+jooweshk+NA+Con+3+4+Prt+Loc	ojooweshkenyniibaniing
+
+3+jooweshk+NA+Dim+2+Pl+Prt+4	ojooweshkenswaabaniin
+
+3+jooweshk+NA+Dim+2+Pl+Prt+Loc	ojooweshkenswaabaniing
+
+3+jooweshk+NA+Dim+3+4+Prt+4	ojooweshkensniwibaniin
+3+jooweshk+NA+Dim+3+4+Prt+4	ojooweshkensniibaniin
+
+3+jooweshk+NA+Dim+3+4+Prt+Loc	ojooweshkensniwibaniing
+3+jooweshk+NA+Dim+3+4+Prt+Loc	ojooweshkensniibaniing
+
+1+jooweshk+NA+ThmPos+Pej+1+Pl+Prt	nijooweshkmishnaaniban
+1+jooweshk+NA+ThmPos+Pej+1+Pl+Prt	nijooweshkmishnaaniba
+
+1+jooweshk+NA+ThmPos+Pej+1+Pl+Voc+Pl	nijooweshkmishnaany1dig
+
+2+jooweshk+NA+ThmPos+Pej+1+Pl+Prt	gijooweshkmishnaaniban
+2+jooweshk+NA+ThmPos+Pej+1+Pl+Prt	gijooweshkmishnaaniba
+
+2+jooweshk+NA+ThmPos+Pej+1+Pl+Voc+Pl	gijooweshkmishnaany1dig
+
+2+jooweshk+NA+ThmPos+Pej+2+Pl+Prt	gijooweshkmishwaaban
+2+jooweshk+NA+ThmPos+Pej+2+Pl+Prt	gijooweshkmishwaaba
+
+2+jooweshk+NA+ThmPos+Pej+2+Pl+Voc+Pl	gijooweshkmishwaadig
+
+3+jooweshk+NA+ThmPos+Pej+3+4+Prt	ojooweshkmishniwiban
+3+jooweshk+NA+ThmPos+Pej+3+4+Prt	ojooweshkmishniwiba
+3+jooweshk+NA+ThmPos+Pej+3+4+Prt	ojooweshkmishniiban
+3+jooweshk+NA+ThmPos+Pej+3+4+Prt	ojooweshkmishniiba
+
+1+jooweshk+NA+ThmPos+Pej+1+Pl+4	nijooweshkmishnaanin
+
+1+jooweshk+NA+ThmPos+Pej+1+Pl+Loc	nijooweshkmishnaaning
+
+1+jooweshk+NA+ThmPos+Pej+1+Pl+Pl	nijooweshkmishnaany1ag
+
+2+jooweshk+NA+ThmPos+Pej+1+Pl+4	gijooweshkmishnaanin
+
+2+jooweshk+NA+ThmPos+Pej+1+Pl+Loc	gijooweshkmishnaaning
+
+2+jooweshk+NA+ThmPos+Pej+1+Pl+Pl	gijooweshkmishnaany1ag
+
+2+jooweshk+NA+ThmPos+Pej+2+Pl+4	gijooweshkmishwaan
+
+2+jooweshk+NA+ThmPos+Pej+2+Pl+Loc	gijooweshkmishwaang
+
+2+jooweshk+NA+ThmPos+Pej+2+Pl+Pl	gijooweshkmishwaaag
+
+3+jooweshk+NA+ThmPos+Pej+2+Pl+4	ojooweshkmishwaan
+
+3+jooweshk+NA+ThmPos+Pej+2+Pl+Loc	ojooweshkmishwaang
+
+3+jooweshk+NA+ThmPos+Pej+3+4+4	ojooweshkmishniwan
+
+3+jooweshk+NA+ThmPos+Pej+3+4+Loc	ojooweshkmishniing
+
+1+jooweshk+NA+ThmPos+Pej+Prt+4	nijooweshkmishibaniin
+
+1+jooweshk+NA+ThmPos+Pej+Prt+Loc	nijooweshkmishibaniing
+
+1+jooweshk+NA+ThmPos+Pej+Prt+Pl	nijooweshkmishibani1ag
+
+2+jooweshk+NA+ThmPos+Pej+Prt+4	gijooweshkmishibaniin
+
+2+jooweshk+NA+ThmPos+Pej+Prt+Loc	gijooweshkmishibaniing
+
+2+jooweshk+NA+ThmPos+Pej+Prt+Pl	gijooweshkmishibani1ag
+
+3+jooweshk+NA+ThmPos+Pej+Prt+4	ojooweshkmishibaniin
+
+3+jooweshk+NA+ThmPos+Pej+Prt+Loc	ojooweshkmishibaniing
+
+X+jooweshk+NA+ThmPos+Pej+Prt+4	ijooweshkmishibaniin
+
+X+jooweshk+NA+ThmPos+Pej+Prt+Loc	ijooweshkmishibaniing
+
+X+jooweshk+NA+ThmPos+Pej+Prt+Pl	ijooweshkmishibani1ag
+
+1+jooweshk+NA+ThmPos+1+Pl+Prt+4	nijooweshkmnaanibaniin
+
+1+jooweshk+NA+ThmPos+1+Pl+Prt+Loc	nijooweshkmnaanibaniing
+
+1+jooweshk+NA+ThmPos+1+Pl+Prt+Pl	nijooweshkmnaanibani1ag
+
+2+jooweshk+NA+ThmPos+1+Pl+Prt+4	gijooweshkmnaanibaniin
+
+2+jooweshk+NA+ThmPos+1+Pl+Prt+Loc	gijooweshkmnaanibaniing
+
+2+jooweshk+NA+ThmPos+1+Pl+Prt+Pl	gijooweshkmnaanibani1ag
+
+2+jooweshk+NA+ThmPos+2+Pl+Prt+4	gijooweshkmwaabaniin
+
+2+jooweshk+NA+ThmPos+2+Pl+Prt+Loc	gijooweshkmwaabaniing
+
+2+jooweshk+NA+ThmPos+2+Pl+Prt+Pl	gijooweshkmwaabani1ag
+
+3+jooweshk+NA+ThmPos+2+Pl+Prt+4	ojooweshkmwaabaniin
+
+3+jooweshk+NA+ThmPos+2+Pl+Prt+Loc	ojooweshkmwaabaniing
+
+3+jooweshk+NA+ThmPos+3+4+Prt+4	ojooweshkmniwibaniin
+3+jooweshk+NA+ThmPos+3+4+Prt+4	ojooweshkmniibaniin
+
+3+jooweshk+NA+ThmPos+3+4+Prt+Loc	ojooweshkmniwibaniing
+3+jooweshk+NA+ThmPos+3+4+Prt+Loc	ojooweshkmniibaniing
+
+1+jooweshk+NA+Pej+1+Pl+Prt+4	nijooweshkshnaanibaniin
+
+1+jooweshk+NA+Pej+1+Pl+Prt+Loc	nijooweshkshnaanibaniing
+
+1+jooweshk+NA+Pej+1+Pl+Prt+Pl	nijooweshkshnaanibani1ag
+
+2+jooweshk+NA+Pej+1+Pl+Prt+4	gijooweshkshnaanibaniin
+
+2+jooweshk+NA+Pej+1+Pl+Prt+Loc	gijooweshkshnaanibaniing
+
+2+jooweshk+NA+Pej+1+Pl+Prt+Pl	gijooweshkshnaanibani1ag
+
+2+jooweshk+NA+Pej+2+Pl+Prt+4	gijooweshkshwaabaniin
+
+2+jooweshk+NA+Pej+2+Pl+Prt+Loc	gijooweshkshwaabaniing
+
+2+jooweshk+NA+Pej+2+Pl+Prt+Pl	gijooweshkshwaabani1ag
+
+3+jooweshk+NA+Pej+2+Pl+Prt+4	ojooweshkshwaabaniin
+
+3+jooweshk+NA+Pej+2+Pl+Prt+Loc	ojooweshkshwaabaniing
+
+3+jooweshk+NA+Pej+3+4+Prt+4	ojooweshkshniwibaniin
+3+jooweshk+NA+Pej+3+4+Prt+4	ojooweshkshniibaniin
+
+3+jooweshk+NA+Pej+3+4+Prt+Loc	ojooweshkshniwibaniing
+3+jooweshk+NA+Pej+3+4+Prt+Loc	ojooweshkshniibaniing
+
+1+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Prt	nijooweshkenymishnaaniban
+1+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Prt	nijooweshkenymishnaaniba
+
+1+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl	nijooweshkenymishnaany1dig
+
+1+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Prt	nijooweshkensmishnaaniban
+1+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Prt	nijooweshkensmishnaaniba
+
+1+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl	nijooweshkensmishnaany1dig
+
+2+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Prt	gijooweshkenymishnaaniban
+2+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Prt	gijooweshkenymishnaaniba
+
+2+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Voc+Pl	gijooweshkenymishnaany1dig
+
+2+jooweshk+NA+Con+ThmPos+Pej+2+Pl+Prt	gijooweshkenymishwaaban
+2+jooweshk+NA+Con+ThmPos+Pej+2+Pl+Prt	gijooweshkenymishwaaba
+
+2+jooweshk+NA+Con+ThmPos+Pej+2+Pl+Voc+Pl	gijooweshkenymishwaadig
+
+2+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Prt	gijooweshkensmishnaaniban
+2+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Prt	gijooweshkensmishnaaniba
+
+2+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Voc+Pl	gijooweshkensmishnaany1dig
+
+2+jooweshk+NA+Dim+ThmPos+Pej+2+Pl+Prt	gijooweshkensmishwaaban
+2+jooweshk+NA+Dim+ThmPos+Pej+2+Pl+Prt	gijooweshkensmishwaaba
+
+2+jooweshk+NA+Dim+ThmPos+Pej+2+Pl+Voc+Pl	gijooweshkensmishwaadig
+
+3+jooweshk+NA+Con+ThmPos+Pej+3+4+Prt	ojooweshkenymishniwiban
+3+jooweshk+NA+Con+ThmPos+Pej+3+4+Prt	ojooweshkenymishniwiba
+3+jooweshk+NA+Con+ThmPos+Pej+3+4+Prt	ojooweshkenymishniiban
+3+jooweshk+NA+Con+ThmPos+Pej+3+4+Prt	ojooweshkenymishniiba
+
+3+jooweshk+NA+Dim+ThmPos+Pej+3+4+Prt	ojooweshkensmishniwiban
+3+jooweshk+NA+Dim+ThmPos+Pej+3+4+Prt	ojooweshkensmishniwiba
+3+jooweshk+NA+Dim+ThmPos+Pej+3+4+Prt	ojooweshkensmishniiban
+3+jooweshk+NA+Dim+ThmPos+Pej+3+4+Prt	ojooweshkensmishniiba
+
+1+jooweshk+NA+Con+ThmPos+Pej+1+Pl+4	nijooweshkenymishnaanin
+
+1+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Loc	nijooweshkenymishnaaning
+
+1+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Pl	nijooweshkenymishnaany1ag
+
+1+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+4	nijooweshkensmishnaanin
+
+1+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Loc	nijooweshkensmishnaaning
+
+1+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Pl	nijooweshkensmishnaany1ag
+
+2+jooweshk+NA+Con+ThmPos+Pej+1+Pl+4	gijooweshkenymishnaanin
+
+2+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Loc	gijooweshkenymishnaaning
+
+2+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Pl	gijooweshkenymishnaany1ag
+
+2+jooweshk+NA+Con+ThmPos+Pej+2+Pl+4	gijooweshkenymishwaan
+
+2+jooweshk+NA+Con+ThmPos+Pej+2+Pl+Loc	gijooweshkenymishwaang
+
+2+jooweshk+NA+Con+ThmPos+Pej+2+Pl+Pl	gijooweshkenymishwaaag
+
+2+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+4	gijooweshkensmishnaanin
+
+2+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Loc	gijooweshkensmishnaaning
+
+2+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Pl	gijooweshkensmishnaany1ag
+
+2+jooweshk+NA+Dim+ThmPos+Pej+2+Pl+4	gijooweshkensmishwaan
+
+2+jooweshk+NA+Dim+ThmPos+Pej+2+Pl+Loc	gijooweshkensmishwaang
+
+2+jooweshk+NA+Dim+ThmPos+Pej+2+Pl+Pl	gijooweshkensmishwaaag
+
+3+jooweshk+NA+Con+ThmPos+Pej+2+Pl+4	ojooweshkenymishwaan
+
+3+jooweshk+NA+Con+ThmPos+Pej+2+Pl+Loc	ojooweshkenymishwaang
+
+3+jooweshk+NA+Con+ThmPos+Pej+3+4+4	ojooweshkenymishniwan
+
+3+jooweshk+NA+Con+ThmPos+Pej+3+4+Loc	ojooweshkenymishniing
+
+3+jooweshk+NA+Dim+ThmPos+Pej+2+Pl+4	ojooweshkensmishwaan
+
+3+jooweshk+NA+Dim+ThmPos+Pej+2+Pl+Loc	ojooweshkensmishwaang
+
+3+jooweshk+NA+Dim+ThmPos+Pej+3+4+4	ojooweshkensmishniwan
+
+3+jooweshk+NA+Dim+ThmPos+Pej+3+4+Loc	ojooweshkensmishniing
+
+1+jooweshk+NA+Con+ThmPos+Pej+Prt+4	nijooweshkenymishibaniin
+
+1+jooweshk+NA+Con+ThmPos+Pej+Prt+Loc	nijooweshkenymishibaniing
+
+1+jooweshk+NA+Con+ThmPos+Pej+Prt+Pl	nijooweshkenymishibani1ag
+
+1+jooweshk+NA+Dim+ThmPos+Pej+Prt+4	nijooweshkensmishibaniin
+
+1+jooweshk+NA+Dim+ThmPos+Pej+Prt+Loc	nijooweshkensmishibaniing
+
+1+jooweshk+NA+Dim+ThmPos+Pej+Prt+Pl	nijooweshkensmishibani1ag
+
+2+jooweshk+NA+Con+ThmPos+Pej+Prt+4	gijooweshkenymishibaniin
+
+2+jooweshk+NA+Con+ThmPos+Pej+Prt+Loc	gijooweshkenymishibaniing
+
+2+jooweshk+NA+Con+ThmPos+Pej+Prt+Pl	gijooweshkenymishibani1ag
+
+2+jooweshk+NA+Dim+ThmPos+Pej+Prt+4	gijooweshkensmishibaniin
+
+2+jooweshk+NA+Dim+ThmPos+Pej+Prt+Loc	gijooweshkensmishibaniing
+
+2+jooweshk+NA+Dim+ThmPos+Pej+Prt+Pl	gijooweshkensmishibani1ag
+
+3+jooweshk+NA+Con+ThmPos+Pej+Prt+4	ojooweshkenymishibaniin
+
+3+jooweshk+NA+Con+ThmPos+Pej+Prt+Loc	ojooweshkenymishibaniing
+
+3+jooweshk+NA+Dim+ThmPos+Pej+Prt+4	ojooweshkensmishibaniin
+
+3+jooweshk+NA+Dim+ThmPos+Pej+Prt+Loc	ojooweshkensmishibaniing
+
+X+jooweshk+NA+Con+ThmPos+Pej+Prt+4	ijooweshkenymishibaniin
+
+X+jooweshk+NA+Con+ThmPos+Pej+Prt+Loc	ijooweshkenymishibaniing
+
+X+jooweshk+NA+Con+ThmPos+Pej+Prt+Pl	ijooweshkenymishibani1ag
+
+X+jooweshk+NA+Dim+ThmPos+Pej+Prt+4	ijooweshkensmishibaniin
+
+X+jooweshk+NA+Dim+ThmPos+Pej+Prt+Loc	ijooweshkensmishibaniing
+
+X+jooweshk+NA+Dim+ThmPos+Pej+Prt+Pl	ijooweshkensmishibani1ag
+
+1+jooweshk+NA+Con+ThmPos+1+Pl+Prt+4	nijooweshkenymnaanibaniin
+
+1+jooweshk+NA+Con+ThmPos+1+Pl+Prt+Loc	nijooweshkenymnaanibaniing
+
+1+jooweshk+NA+Con+ThmPos+1+Pl+Prt+Pl	nijooweshkenymnaanibani1ag
+
+1+jooweshk+NA+Dim+ThmPos+1+Pl+Prt+4	nijooweshkensmnaanibaniin
+
+1+jooweshk+NA+Dim+ThmPos+1+Pl+Prt+Loc	nijooweshkensmnaanibaniing
+
+1+jooweshk+NA+Dim+ThmPos+1+Pl+Prt+Pl	nijooweshkensmnaanibani1ag
+
+2+jooweshk+NA+Con+ThmPos+1+Pl+Prt+4	gijooweshkenymnaanibaniin
+
+2+jooweshk+NA+Con+ThmPos+1+Pl+Prt+Loc	gijooweshkenymnaanibaniing
+
+2+jooweshk+NA+Con+ThmPos+1+Pl+Prt+Pl	gijooweshkenymnaanibani1ag
+
+2+jooweshk+NA+Con+ThmPos+2+Pl+Prt+4	gijooweshkenymwaabaniin
+
+2+jooweshk+NA+Con+ThmPos+2+Pl+Prt+Loc	gijooweshkenymwaabaniing
+
+2+jooweshk+NA+Con+ThmPos+2+Pl+Prt+Pl	gijooweshkenymwaabani1ag
+
+2+jooweshk+NA+Dim+ThmPos+1+Pl+Prt+4	gijooweshkensmnaanibaniin
+
+2+jooweshk+NA+Dim+ThmPos+1+Pl+Prt+Loc	gijooweshkensmnaanibaniing
+
+2+jooweshk+NA+Dim+ThmPos+1+Pl+Prt+Pl	gijooweshkensmnaanibani1ag
+
+2+jooweshk+NA+Dim+ThmPos+2+Pl+Prt+4	gijooweshkensmwaabaniin
+
+2+jooweshk+NA+Dim+ThmPos+2+Pl+Prt+Loc	gijooweshkensmwaabaniing
+
+2+jooweshk+NA+Dim+ThmPos+2+Pl+Prt+Pl	gijooweshkensmwaabani1ag
+
+3+jooweshk+NA+Con+ThmPos+2+Pl+Prt+4	ojooweshkenymwaabaniin
+
+3+jooweshk+NA+Con+ThmPos+2+Pl+Prt+Loc	ojooweshkenymwaabaniing
+
+3+jooweshk+NA+Con+ThmPos+3+4+Prt+4	ojooweshkenymniwibaniin
+3+jooweshk+NA+Con+ThmPos+3+4+Prt+4	ojooweshkenymniibaniin
+
+3+jooweshk+NA+Con+ThmPos+3+4+Prt+Loc	ojooweshkenymniwibaniing
+3+jooweshk+NA+Con+ThmPos+3+4+Prt+Loc	ojooweshkenymniibaniing
+
+3+jooweshk+NA+Dim+ThmPos+2+Pl+Prt+4	ojooweshkensmwaabaniin
+
+3+jooweshk+NA+Dim+ThmPos+2+Pl+Prt+Loc	ojooweshkensmwaabaniing
+
+3+jooweshk+NA+Dim+ThmPos+3+4+Prt+4	ojooweshkensmniwibaniin
+3+jooweshk+NA+Dim+ThmPos+3+4+Prt+4	ojooweshkensmniibaniin
+
+3+jooweshk+NA+Dim+ThmPos+3+4+Prt+Loc	ojooweshkensmniwibaniing
+3+jooweshk+NA+Dim+ThmPos+3+4+Prt+Loc	ojooweshkensmniibaniing
+
+1+jooweshk+NA+Con+Pej+1+Pl+Prt+4	nijooweshkenyishnaanibaniin
+
+1+jooweshk+NA+Con+Pej+1+Pl+Prt+Loc	nijooweshkenyishnaanibaniing
+
+1+jooweshk+NA+Con+Pej+1+Pl+Prt+Pl	nijooweshkenyishnaanibani1ag
+
+1+jooweshk+NA+Dim+Pej+1+Pl+Prt+4	nijooweshkensishnaanibaniin
+
+1+jooweshk+NA+Dim+Pej+1+Pl+Prt+Loc	nijooweshkensishnaanibaniing
+
+1+jooweshk+NA+Dim+Pej+1+Pl+Prt+Pl	nijooweshkensishnaanibani1ag
+
+2+jooweshk+NA+Con+Pej+1+Pl+Prt+4	gijooweshkenyishnaanibaniin
+
+2+jooweshk+NA+Con+Pej+1+Pl+Prt+Loc	gijooweshkenyishnaanibaniing
+
+2+jooweshk+NA+Con+Pej+1+Pl+Prt+Pl	gijooweshkenyishnaanibani1ag
+
+2+jooweshk+NA+Con+Pej+2+Pl+Prt+4	gijooweshkenyishwaabaniin
+
+2+jooweshk+NA+Con+Pej+2+Pl+Prt+Loc	gijooweshkenyishwaabaniing
+
+2+jooweshk+NA+Con+Pej+2+Pl+Prt+Pl	gijooweshkenyishwaabani1ag
+
+2+jooweshk+NA+Dim+Pej+1+Pl+Prt+4	gijooweshkensishnaanibaniin
+
+2+jooweshk+NA+Dim+Pej+1+Pl+Prt+Loc	gijooweshkensishnaanibaniing
+
+2+jooweshk+NA+Dim+Pej+1+Pl+Prt+Pl	gijooweshkensishnaanibani1ag
+
+2+jooweshk+NA+Dim+Pej+2+Pl+Prt+4	gijooweshkensishwaabaniin
+
+2+jooweshk+NA+Dim+Pej+2+Pl+Prt+Loc	gijooweshkensishwaabaniing
+
+2+jooweshk+NA+Dim+Pej+2+Pl+Prt+Pl	gijooweshkensishwaabani1ag
+
+3+jooweshk+NA+Con+Pej+2+Pl+Prt+4	ojooweshkenyishwaabaniin
+
+3+jooweshk+NA+Con+Pej+2+Pl+Prt+Loc	ojooweshkenyishwaabaniing
+
+3+jooweshk+NA+Con+Pej+3+4+Prt+4	ojooweshkenyishniwibaniin
+3+jooweshk+NA+Con+Pej+3+4+Prt+4	ojooweshkenyishniibaniin
+
+3+jooweshk+NA+Con+Pej+3+4+Prt+Loc	ojooweshkenyishniwibaniing
+3+jooweshk+NA+Con+Pej+3+4+Prt+Loc	ojooweshkenyishniibaniing
+
+3+jooweshk+NA+Dim+Pej+2+Pl+Prt+4	ojooweshkensishwaabaniin
+
+3+jooweshk+NA+Dim+Pej+2+Pl+Prt+Loc	ojooweshkensishwaabaniing
+
+3+jooweshk+NA+Dim+Pej+3+4+Prt+4	ojooweshkensishniwibaniin
+3+jooweshk+NA+Dim+Pej+3+4+Prt+4	ojooweshkensishniibaniin
+
+3+jooweshk+NA+Dim+Pej+3+4+Prt+Loc	ojooweshkensishniwibaniing
+3+jooweshk+NA+Dim+Pej+3+4+Prt+Loc	ojooweshkensishniibaniing
+
+1+jooweshk+NA+ThmPos+Pej+1+Pl+Prt+4	nijooweshkmishnaanibaniin
+
+1+jooweshk+NA+ThmPos+Pej+1+Pl+Prt+Loc	nijooweshkmishnaanibaniing
+
+1+jooweshk+NA+ThmPos+Pej+1+Pl+Prt+Pl	nijooweshkmishnaanibani1ag
+
+2+jooweshk+NA+ThmPos+Pej+1+Pl+Prt+4	gijooweshkmishnaanibaniin
+
+2+jooweshk+NA+ThmPos+Pej+1+Pl+Prt+Loc	gijooweshkmishnaanibaniing
+
+2+jooweshk+NA+ThmPos+Pej+1+Pl+Prt+Pl	gijooweshkmishnaanibani1ag
+
+2+jooweshk+NA+ThmPos+Pej+2+Pl+Prt+4	gijooweshkmishwaabaniin
+
+2+jooweshk+NA+ThmPos+Pej+2+Pl+Prt+Loc	gijooweshkmishwaabaniing
+
+2+jooweshk+NA+ThmPos+Pej+2+Pl+Prt+Pl	gijooweshkmishwaabani1ag
+
+3+jooweshk+NA+ThmPos+Pej+2+Pl+Prt+4	ojooweshkmishwaabaniin
+
+3+jooweshk+NA+ThmPos+Pej+2+Pl+Prt+Loc	ojooweshkmishwaabaniing
+
+3+jooweshk+NA+ThmPos+Pej+3+4+Prt+4	ojooweshkmishniwibaniin
+3+jooweshk+NA+ThmPos+Pej+3+4+Prt+4	ojooweshkmishniibaniin
+
+3+jooweshk+NA+ThmPos+Pej+3+4+Prt+Loc	ojooweshkmishniwibaniing
+3+jooweshk+NA+ThmPos+Pej+3+4+Prt+Loc	ojooweshkmishniibaniing
+
+1+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Prt+4	nijooweshkenymishnaanibaniin
+
+1+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc	nijooweshkenymishnaanibaniing
+
+1+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl	nijooweshkenymishnaanibani1ag
+
+1+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Prt+4	nijooweshkensmishnaanibaniin
+
+1+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc	nijooweshkensmishnaanibaniing
+
+1+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl	nijooweshkensmishnaanibani1ag
+
+2+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Prt+4	gijooweshkenymishnaanibaniin
+
+2+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Prt+Loc	gijooweshkenymishnaanibaniing
+
+2+jooweshk+NA+Con+ThmPos+Pej+1+Pl+Prt+Pl	gijooweshkenymishnaanibani1ag
+
+2+jooweshk+NA+Con+ThmPos+Pej+2+Pl+Prt+4	gijooweshkenymishwaabaniin
+
+2+jooweshk+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc	gijooweshkenymishwaabaniing
+
+2+jooweshk+NA+Con+ThmPos+Pej+2+Pl+Prt+Pl	gijooweshkenymishwaabani1ag
+
+2+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Prt+4	gijooweshkensmishnaanibaniin
+
+2+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Prt+Loc	gijooweshkensmishnaanibaniing
+
+2+jooweshk+NA+Dim+ThmPos+Pej+1+Pl+Prt+Pl	gijooweshkensmishnaanibani1ag
+
+2+jooweshk+NA+Dim+ThmPos+Pej+2+Pl+Prt+4	gijooweshkensmishwaabaniin
+
+2+jooweshk+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc	gijooweshkensmishwaabaniing
+
+2+jooweshk+NA+Dim+ThmPos+Pej+2+Pl+Prt+Pl	gijooweshkensmishwaabani1ag
+
+3+jooweshk+NA+Con+ThmPos+Pej+2+Pl+Prt+4	ojooweshkenymishwaabaniin
+
+3+jooweshk+NA+Con+ThmPos+Pej+2+Pl+Prt+Loc	ojooweshkenymishwaabaniing
+
+3+jooweshk+NA+Con+ThmPos+Pej+3+4+Prt+4	ojooweshkenymishniwibaniin
+3+jooweshk+NA+Con+ThmPos+Pej+3+4+Prt+4	ojooweshkenymishniibaniin
+
+3+jooweshk+NA+Con+ThmPos+Pej+3+4+Prt+Loc	ojooweshkenymishniwibaniing
+3+jooweshk+NA+Con+ThmPos+Pej+3+4+Prt+Loc	ojooweshkenymishniibaniing
+
+3+jooweshk+NA+Dim+ThmPos+Pej+2+Pl+Prt+4	ojooweshkensmishwaabaniin
+
+3+jooweshk+NA+Dim+ThmPos+Pej+2+Pl+Prt+Loc	ojooweshkensmishwaabaniing
+
+3+jooweshk+NA+Dim+ThmPos+Pej+3+4+Prt+4	ojooweshkensmishniwibaniin
+3+jooweshk+NA+Dim+ThmPos+Pej+3+4+Prt+4	ojooweshkensmishniibaniin
+
+3+jooweshk+NA+Dim+ThmPos+Pej+3+4+Prt+Loc	ojooweshkensmishniwibaniing
+3+jooweshk+NA+Dim+ThmPos+Pej+3+4+Prt+Loc	ojooweshkensmishniibaniing
+
