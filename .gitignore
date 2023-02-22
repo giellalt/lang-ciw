@@ -277,13 +277,3 @@ Makefile.in
 build
 bygg
 generated*
-/inc/flattened/verb_lexicon_flattened.lexc
-/inc/flattened/verb_lexicon_flattened_abstract.lexc
-/inc/flattened/verb_lexicon_flattened_glossing.lexc
-/inc/flattened/verb_lexicon.lexc
-/inc/flattened/verb_lexicon_minimalist.lexc
-/inc/flattened/verb_suffixes_flattened.lexc
-/inc/flattened/verb_suffixes_flattened_abstract.lexc
-/inc/flattened/verb_suffixes_flattened_glossing.lexc
-/inc/flattened/*.fomabin
-/inc/flattened/*.hfst

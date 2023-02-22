@@ -1,0 +1,10 @@
+verb_lexicon_flattened.lexc
+verb_lexicon_flattened_abstract.lexc
+verb_lexicon_flattened_glossing.lexc
+verb_lexicon.lexc
+verb_lexicon_minimalist.lexc
+verb_suffixes_flattened.lexc
+verb_suffixes_flattened_abstract.lexc
+verb_suffixes_flattened_glossing.lexc
+*.fomabin
+*.hfst
