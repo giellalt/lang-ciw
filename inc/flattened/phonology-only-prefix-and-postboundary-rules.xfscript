@@ -179,7 +179,8 @@ define cnjW4w       [w4 -> w || _ vowel]; !w4 non-o realization
 define cnjw4Del     [w4 -> 0]; !elsewhere
 define cnjb1b       [b1 -> b]; !assimilator b now b
 
-
+!!$ zanagad2c1sinoowan
+!!$ zanagadsinoon
 
 !other rules
 define vtiVoi [m1 s -> n z ] ; !nas-final negation (duplicating a little!)
@@ -334,8 +335,8 @@ read regex [ ! Morphology.l .o.
     vvvDel      .o.
     y1Coal      .o.
     w1Coal      .o.
-    ! w1Coal2     .o. ! only Odawa
-    w1Faith     .o. ! other dialects
+    w1Coal2     .o. ! only Odawa
+    !w1Faith     .o. ! other dialects
     w1Del       .o.
     wiCoal      .o. !Might should include this rule (Medler, might be more general)
     vCoal       .o.

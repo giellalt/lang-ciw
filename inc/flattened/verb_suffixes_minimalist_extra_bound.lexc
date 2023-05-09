@@ -398,7 +398,7 @@ LEXICON VII_ORDERS_GET
 !{ Independent order
 !negation needs closer attention
 LEXICON VII_INDEP_NEG
-+Neg:%>%>c1sinoo VII_INDEP_OBV ; !c1 triggers s->z / n _
++Neg:%>%>c1sin VII_INDEP_OBV ; !c1 triggers s->z / n _
             VII_INDEP_OBV ;
 
 LEXICON VII_INDEP_OBV
