@@ -1,0 +1,36 @@
+NOTES FOR FULLY FLATTENED CIW FST
+By: Christopher Hammerly
+
+GENERAL
+
+>> marks the stem/suffix juncture
+<< marks the prefix/stem juncture
+0 is added when there is a null morpheme
+
+VII
+
+Only stem change is "zanagad", where "d" is deleted when the suffix complex starts with a consonant.
+
+VAI
+
+With stems that end in a short vowel ("namo", "niimi"), the short vowel is deleted with 1Sg and 2Sg when the morpheme is null (i.e. independent, neutral, positive). This does not apply to 3Sg!!!
+
+With -am stems ("zaaga'am"), the stem-final "m" is deleted and the vowel "a" is elongated to "aa" when the suffix complex starts with "m"
+
+With -am stems ("zaaga'am") in the positive preterit and dubitative modes with the 1sg/2sg/X persons, the short vowel "a" in the stem elongates to "aa", but the "n" is preserved.
+	- This rule can be deleted if we move the "n" that is parsed into the stem into the suffix complex, and change the elongation/deletion rule to include "n" in addition to "m"
+
+With stems ending in "m", so both -am and -m stems ("minongwaam" and "zaaga'am"), the "m" changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
+
+There is a process where stem-final short finals are lengthened to the corresponding long vowels in front of the preterit morpheme "-ban". This is modelled by adding the second half of the long vowel in the suffix complex.
+
+VTI
+
+TBD
+
+VTA
+
+TBD
+
+
+
