@@ -5,7 +5,7 @@ GENERAL
 
 >> marks the stem/suffix juncture
 << marks the prefix/stem juncture
-0 is added when there is a null morpheme
+Null morphemes will not be added unless a rule needs to refer to them
 
 VII
 
@@ -13,16 +13,16 @@ Only stem change is "zanagad", where "d" is deleted when the suffix complex star
 
 VAI
 
-With stems that end in a short vowel ("namo", "niimi"), the short vowel is deleted with 1Sg and 2Sg when the morpheme is null (i.e. independent, neutral, positive). This does not apply to 3Sg!!!
+Delete word-final short vowels ("i" and "o" as in "niimi" and "nagamo"; this rule MUST PRECEED the "w-deletion" rule)
 
-With -am stems ("zaaga'am"), the stem-final "m" is deleted and the vowel "a" is elongated to "aa" when the suffix complex starts with "m"
+Delete word-final "w" (occurs with neutral, positive 3sg; this rule MUST FOLLOW the short-vowel-deletion rule)
 
-With -am stems ("zaaga'am") in the positive preterit and dubitative modes with the 1sg/2sg/X persons, the short vowel "a" in the stem elongates to "aa", but the "n" is preserved.
-	- This rule can be deleted if we move the "n" that is parsed into the stem into the suffix complex, and change the elongation/deletion rule to include "n" in addition to "m"
+With -am stems ("zaaga'am"), the stem-final "m" is deleted and the vowel "a" is elongated to "aa" when the suffix complex starts with "m" or "n"
 
 With stems ending in "m", so both -am and -m stems ("minongwaam" and "zaaga'am"), the "m" changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
 
-There is a process where stem-final short finals are lengthened to the corresponding long vowels in front of the preterit morpheme "-ban". This is modelled by adding the second half of the long vowel in the suffix complex.
+
+Not a rule, but a side note: There is a process where stem-final short finals are lengthened to the corresponding long vowels in front of the preterit morpheme "-ban". This is modelled by adding the second half of the long vowel in the suffix complex, rather than any sort of rule.
 
 VTI
 
