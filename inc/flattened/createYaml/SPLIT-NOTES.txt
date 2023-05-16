@@ -7,11 +7,23 @@ GENERAL
 << marks the prefix/stem juncture
 Null morphemes will not be added unless a rule needs to refer to them
 
-VII
+###################
+###				###
+###		VII		###
+###				###
+###################
+
+RULES
 
 Only stem change is "zanagad", where "d" is deleted when the suffix complex starts with a consonant.
 
-VAI
+###################
+###				###
+###		VAI		###
+###				###
+###################
+
+RULES
 
 Delete word-final short vowels ("i" and "o" as in "niimi" and "nagamo"; this rule MUST PRECEED the "w-deletion" rule)
 
@@ -21,14 +33,41 @@ With -am stems ("zaaga'am"), the stem-final "m" is deleted and the vowel "a" is 
 
 With stems ending in "m", so both -am and -m stems ("minongwaam" and "zaaga'am"), the "m" changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
 
+NOTES
 
-Not a rule, but a side note: There is a process where stem-final short finals are lengthened to the corresponding long vowels in front of the preterit morpheme "-ban". This is modelled by adding the second half of the long vowel in the suffix complex, rather than any sort of rule.
+There is a process where stem-final short finals are lengthened to the corresponding long vowels in front of the preterit morpheme "-ban". This is modelled by adding the second half of the long vowel in the suffix complex, rather than any sort of rule. Questionable, but it works.
 
-VTI
+###################
+###				###
+###		VTI		###
+###				###
+###################
+
+RULES
+
+Stem-final "m" (as in TI -am stems like "waabandam") is deleted and the penultimate vowel "a" is elongated to "aa" when the suffix complex starts with "m" or "n"
+
+Stem-final "m" (as in TI -am stems like "waabandam") changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
+
+With TI1, TI2, and TI3 (and TI4 stems in the independent order, see notes), the stem-final "n" is deleted when the suffix complex starts with a consonant.
+
+NOTES
+
+The TI4s like "ayaan/ayaam" are a strange bird. We need to see what Border Lakes does, but in Minnesota, according to some notes by Nichols, they behave like the TI1, TI2, and TI3s in the independent order (so as if the stem ends in an "n"), but like the -am regular TIs in the conjunct (so as if the stem ends in "m"). We don't really have full paradigms here anyway for the conjunct, so we may want to set them aside for the time being before we have more data.
+
+We are showing different allomorphs of the prefix depending on if the stem starts in a consonant (ni, gi, o) or a vowel (ind, gid, od). We need to model this in a general way with the other allomoprhs that pop up, and make sure to model Border Lakes specificall. This also goes for the VAIs and VTAs.
+
+###################
+###				###
+###		VTA		###
+###				###
+###################
+
+RULES
 
 TBD
 
-VTA
+NOTES
 
 TBD
 
