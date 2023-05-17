@@ -17,6 +17,10 @@ RULES
 
 Only stem change is "zanagad", where "d" is deleted when the suffix complex starts with a consonant.
 
+NOTES
+
+
+
 ###################
 ###				###
 ###		VAI		###
@@ -36,6 +40,8 @@ With stems ending in "m", so both -am and -m stems ("minongwaam" and "zaaga'am")
 NOTES
 
 There is a process where stem-final short finals are lengthened to the corresponding long vowels in front of the preterit morpheme "-ban". This is modelled by adding the second half of the long vowel in the suffix complex, rather than any sort of rule. Questionable, but it works.
+
+We need to deal with prefix allomorphy (see note in VTIs)
 
 ###################
 ###				###
