@@ -9,7 +9,7 @@ import argparse
 import os
 import pandas as pd
 
-# To use this file, as an example do `python3 create_yaml.py /home/user/Documents/vai.xlsx --vii`.
+# To use this file, as an example do `python3 create_yaml.py /home/user/Documents/vii.xlsx --vii`.
 # Run just `python3 create_yaml.py` to view help.
 
 ## READ ME ##
