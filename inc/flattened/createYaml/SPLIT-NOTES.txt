@@ -71,11 +71,14 @@ We are showing different allomorphs of the prefix depending on if the stem start
 
 RULES
 
-TBD
+For stems that end in "aw", the "aw" goes to "aa" when the suffix complex starts with "g".
+For stems that end in "aw", the "aw" goes to "oo" when the suffix complex starts with "n" or "s".
+
+For stems that end in "o", the "o" goes to "w" when the suffix complex starts with "aa"
+Delete word-final short vowels (as in the "o" in "mizho")
 
 NOTES
 
-TBD
+"Many vta verbs show an alternation in their final consonant between /n/ and /zh/. The form /zh/ shows up before the 1st-person object theme suffix /-i/, the imperative 1st-person object theme suffix /-ishi/, and the 2nd-person imperative theme suffix, /-i/. Elsewhere the form of the final sound of such verbs is /n/." (https://ojibwegrammar.langsci.wisc.edu/Grammar/HTMLParadigms/vtaNindpos.htm)
 
-
-
+"A few vta verbs show an alternation in their final consonant between /s/ and /sh/. The form /sh/ shows up before the 1st-person object theme suffix /-i/, the imperative 1st-person object theme suffix /-ishi/, and the 2nd-person imperative theme suffix, /-i/. Elsewhere the form of the final sound of such verbs is /s/. There is only a small number of verbs showing this alternation" (https://ojibwegrammar.langsci.wisc.edu/Grammar/HTMLParadigms/vtaSindpos.htm)
