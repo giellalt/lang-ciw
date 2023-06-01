@@ -7,6 +7,10 @@ First, install dpendencies by `pip3 install -r requirements.txt`.
 
 Then, run the command `make all` in the terminal to build `ojibwe.fomabin` and lexc-files.
 
+## Run yaml tests
+
+Run `make check`. This will print the output of the yaml tests. It will also write them into a log-file `yamltest.log` (the log-file is overwritten every time you run `make check`). 
+
 ## Run interactively
 
 You can use `flookup` (use `cat` instead of `echo` to feed in a file of word forms):
