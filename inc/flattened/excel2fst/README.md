@@ -9,7 +9,7 @@ Then, run the command `make all` in the terminal to build `ojibwe.fomabin` and l
 
 ## Run interactively
 
-You can either run in the `foma` console or use `flookup`
+You can either run in the `foma` console or use `flookup`:
 
 ```
 % echo "zanagad" | flookup ojibwe.fomabin 
