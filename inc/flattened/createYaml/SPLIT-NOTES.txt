@@ -3,9 +3,10 @@ By: Christopher Hammerly
 
 GENERAL
 
->> marks the stem/suffix juncture
-<< marks the prefix/stem juncture
-Null morphemes will not be added unless a rule needs to refer to them
+>> marks the stem/suffix juncture (or the end of the stem)
+<< marks the prefix/stem juncture (or the start of the stem)
+Null morphemes will NOT be added unless a rule needs to refer to them
+There is one special character, i1, the first person theme sign, which is used to trigger palatalization in certain VTAs
 
 ###################
 ###				###
@@ -84,7 +85,7 @@ For stems that end in "aw", the "aw" goes to "oo" when the suffix complex starts
 For stems that end in "o", the "o" goes to "w" when the suffix complex starts with "aa"
 
 ShortV-deletion
-Delete word-final short vowels (as in the "o" in "mizho")
+Delete word-final short vowels (as in the "o" in "mizho"). This also needs to include the special "i1", since it needs to be there to trigger the palatalization process, but does not show up in the surface form.
 
 NOTES
 
