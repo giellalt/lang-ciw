@@ -1,3 +1,3 @@
 # `excel2fst`
 
-Run `make all` to build `ojibwe.fomabin` and lexc-files.
+Run the command `make all` in the terminal to build `ojibwe.fomabin` and lexc-files.
