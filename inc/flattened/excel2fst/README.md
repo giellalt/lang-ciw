@@ -16,7 +16,7 @@ You can use `flookup` (use `cat` instead of `echo` to feed in a file of word for
 zanagad	zanagad+VII+Ind+Pos+Neu+0SgProx
 ```
 
-You can also use the `foma console`:
+You can also use the `foma` console:
 
 ```
 % foma
