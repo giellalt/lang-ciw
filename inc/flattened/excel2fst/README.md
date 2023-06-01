@@ -1,7 +1,7 @@
 # `excel2fst`
 
 ## Install dependencies
-First, install dpendencies by `pip3 install -r requirements.txt`. 
+First, install dpendencies by `pip3 install -r requirements.txt`. This also depends on a working installation of `giella-core`. You'll get an error if you `GTCORE` enviroment variable hasn't been set.
 
 ## Build FST and LEXC files
 
