@@ -15,11 +15,12 @@ Null morphemes will not be added unless a rule needs to refer to them
 
 RULES
 
+d-deletion
 Only stem change is "zanagad", where "d" is deleted when the suffix complex starts with a consonant.
 
 NOTES
 
-
+NA
 
 ###################
 ###				###
@@ -29,12 +30,16 @@ NOTES
 
 RULES
 
+ShortV-deletion
 Delete word-final short vowels ("i" and "o" as in "niimi" and "nagamo"; this rule MUST PRECEED the "w-deletion" rule)
 
+W-deletion
 Delete word-final "w" (occurs with neutral, positive 3sg; this rule MUST FOLLOW the short-vowel-deletion rule)
 
+Nasal deletion & vowel lengthening
 With -am stems ("zaaga'am"), the stem-final "m" is deleted and the vowel "a" is elongated to "aa" when the suffix complex starts with "m" or "n"
 
+Nasal assimilation & vowel lengthening
 With stems ending in "m", so both -am and -m stems ("minongwaam" and "zaaga'am"), the "m" changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
 
 NOTES
@@ -51,11 +56,13 @@ We need to deal with prefix allomorphy (see note in VTIs)
 
 RULES
 
+Nasal deletion & vowel lengthening
 Stem-final "m" (as in TI -am stems like "waabandam") is deleted and the penultimate vowel "a" is elongated to "aa" when the suffix complex starts with "m" or "n"
 
+Nasal assimilation & vowel lengthening
 Stem-final "m" (as in TI -am stems like "waabandam") changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
 
-With TI1, TI2, and TI3 (and TI4 stems in the independent order, see notes), the stem-final "n" is deleted when the suffix complex starts with a consonant.
+With TI2 and TI3 stems (and TI4 stems in the independent order, see notes), the stem-final "n" is deleted when the suffix complex starts with a consonant.
 
 NOTES
 
@@ -75,6 +82,8 @@ For stems that end in "aw", the "aw" goes to "aa" when the suffix complex starts
 For stems that end in "aw", the "aw" goes to "oo" when the suffix complex starts with "n" or "s".
 
 For stems that end in "o", the "o" goes to "w" when the suffix complex starts with "aa"
+
+ShortV-deletion
 Delete word-final short vowels (as in the "o" in "mizho")
 
 NOTES
