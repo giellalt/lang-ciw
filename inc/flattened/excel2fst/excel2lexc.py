@@ -3,6 +3,9 @@ import math
 import click
 import re
 
+"""
+This script is a mess and needs to be refactored.
+"""
 
 SET_NO_PREFIX_FLAG = "@P.Prefix.NONE@"
 CHECK_NO_PREFIX_FLAG = "@R.Prefix.NONE@"
