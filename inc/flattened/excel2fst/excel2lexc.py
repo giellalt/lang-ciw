@@ -1,0 +1,221 @@
+import pandas as pd
+import math
+import click
+import re
+
+
+SET_NO_PREFIX_FLAG = "@P.Prefix.NONE@"
+CHECK_NO_PREFIX_FLAG = "@R.Prefix.NONE@"
+
+# Used when formatting comments
+PAD = "   "
+CPREF = "!!"
+CSUFF = "!!"
+
+def escape(sym):
+    """ Escape special characters in lexc formalism """
+    return re.sub("(?<!%)([<>0])",r"%\1",sym)
+    
+def print_multichar_symbols(multichar_symbols,f):
+    """ 
+        Print the Multichar_Symbols section in the LEXC file. 
+    """
+    print("Multichar_Symbols", file=f)
+    escaped = [escape(sym) for sym in multichar_symbols]
+    print(" ".join(escaped), file=f)
+    print("", file=f)
+    
+def print_rootlex(entries, f):
+    """ 
+        Print the root lexicon which currently contains just one entry 
+        for a single verb subclass but which will in the future contain
+        one entry for each verb subclass.  
+    """
+    print("LEXICON Root", file=f)
+    entries = list(entries)
+    entries.sort()
+    for entry in entries:
+        print(f"{entry} ;", file=f)
+    print("", file=f)
+    
+def print_sublex(name, entries, f):
+    """ 
+        Print a sublexicon with a given name and entries. Each entry is 
+        a 2- or 3-tuple containing an underlying analysi, a surface 
+        realization and a potential constinuation lexicon name.
+    """
+    entries = list(entries)
+    entries.sort(key = lambda x:(x[1], x[0])) # Sort lexicon entries
+                                              # according to lemma. 
+    print(f"LEXICON {name}", file=f)
+    for entry in entries:
+        surf, under, cont, *_ = list(entry) + ["#"]
+        if under == surf:
+            print(f"{under} {cont} ;", file=f)
+        else:
+            print(f"{under}:{surf} {cont} ;", file=f)
+    print("", file=f)
+
+def print_subclass_comment(subclass,stem_type, f):
+    """ 
+        Print a comment before endings for specific subclass and 
+        stem-type
+    """
+    comment = f"Endings: Verb Class = {subclass}, Stem Type = {stem_type}"
+    sepline = "!" * (2 * len(CPREF) + 2 * len(PAD) + len(comment))
+    print(sepline, file=f)
+    print(f"{CPREF}{PAD}{' '*len(comment)}{PAD}{CSUFF}", file=f)
+    print(f"{CPREF}{PAD}{        comment }{PAD}{CSUFF}", file=f)
+    print(f"{CPREF}{PAD}{' '*len(comment)}{PAD}{CSUFF}", file=f)
+    print(sepline, file=f)
+    print("",file=f)
+
+def print_lexc(lexc_file, pos, multichar_symbols, prefix_lexicon,
+               lemma_lexicon, subclass_lexicons, flag_lexicons,
+               wb_lexicons, suffix_lexicons):
+    lexc_f = open(lexc_file,"w")
+    print_multichar_symbols(multichar_symbols,lexc_f)
+    print_rootlex([f"{pos}_Prefix"], lexc_f)
+    print_sublex(f"{pos}_Prefix", prefix_lexicon, lexc_f)
+    print_sublex(f"{pos}_Stems",lemma_lexicon, lexc_f)              
+
+    for stem_type in flag_lexicons:
+        print_subclass_comment(pos,stem_type, lexc_f)
+        print_sublex(f"{pos}_{stem_type}_Subclass",subclass_lexicons[stem_type], lexc_f)
+        print_sublex(f"{pos}_{stem_type}_Flags",flag_lexicons[stem_type], lexc_f)
+        for rflag, _, _ in flag_lexicons[stem_type]:
+            print_sublex(f"{pos}_{stem_type}_{get_val(rflag)}_WB",wb_lexicons[(stem_type,rflag)], lexc_f)
+            print_sublex(f"{pos}_{stem_type}_{get_val(rflag)}_Endings",suffix_lexicons[(stem_type,rflag)], lexc_f)
+    
+def split(form):
+    """ 
+        Split segmented form like gi<<niimi>>siiminaaban into a prefix
+        stem and suffix. Either the prefix or suffix or both may be 
+        missing.
+    """
+    if not ">>" in form:
+        print(f'Note: Appending suffix boundary at the end of "{form}".')
+        form += ">>"
+    if not "<<" in form:
+        print(f'Note: Appending prefix boundary at the start of "{form}".')
+        form = "<<" + form
+    return re.split("<<|>>",form)
+
+def get_val(flag):
+    # @R.NAME.VAL@ => VAL
+    return re.findall("[.][^.]*@",flag)[0][1:-1]
+
+def is_alternant(stem, lemma, stem_type):
+    """
+        This function aims to figure out whether stem is the result of
+        phonological alternation, which are handled using rules, or
+        whether it is a genuine lexicalized variant of lemma, which have to
+        be separately stored in the lexicon. 
+    """
+    lemma = lemma[:-len(stem_type)]
+    stem = stem[:len(lemma)]
+    return lemma == stem
+
+def add_prefix_entry(prefix, pos, prefix_lexicon, multichar_symbols):
+    pflag = SET_NO_PREFIX_FLAG if prefix == "" else f"@P.Prefix.{prefix}@"
+    rflag = CHECK_NO_PREFIX_FLAG if prefix == "" else f"@R.Prefix.{prefix}@"
+    multichar_symbols.add(pflag)
+    multichar_symbols.add(rflag)                
+    prefix_lexicon.add((f"{pflag}{prefix}",f"{pflag}",f"{pos}_Stems"))
+    return pflag, rflag
+
+def add_stem_entry(stem, lemma, stem_type, pos, rflag, lemma_lexicon,
+                   suffix_lexicons, flag_lexicons, wb_lexicons,
+                   subclass_lexicons):
+    if is_alternant(stem, lemma, stem_type):
+        stem = lemma 
+
+    lemma_lexicon.add((stem, f"{lemma}", f"{pos}_{stem_type}_Subclass"))
+    if not (stem_type,rflag) in suffix_lexicons:
+        suffix_lexicons[(stem_type,rflag)] = set()
+        wb_lexicons[(stem_type,rflag)] = set([("%>%>","0",f"{pos}_{stem_type}_{get_val(rflag)}_Endings")])
+    if not stem_type in flag_lexicons:
+        flag_lexicons[stem_type] = set()
+        subclass_lexicons[stem_type] = set()            
+
+def add_ending_entry(stem_type, rflag, row, suffix, flag_lexicons, subclass_lexicons, suffix_lexicons,
+                     multichar_symbols):
+    pos = row["Class"]
+    flag_lexicons[stem_type].add((rflag,rflag,f"{pos}_{stem_type}_{get_val(rflag)}_WB"))
+    subclass_lexicons[stem_type].add(("0",f"+{pos}",f"{pos}_{stem_type}_Flags"))
+    suffix_tags = f"+{row['Order']}+{row['Negation']}+{row['Mode']}+{row['Subject']}"
+    suffix_lexicons[(stem_type,rflag)].add((f"{suffix}", suffix_tags))
+    for tag in suffix_tags.split("+") + [pos]:
+        if tag != "" and tag[0] != "@":
+            multichar_symbols.add(f"+{tag}")
+
+@click.command()
+@click.option("--excel_file",required=True)
+@click.option("--lexc_file",required=True)
+def main(excel_file, lexc_file):
+    # We need several continuation lexicons under the Root lexicon:
+    # Empty prefix, ni- and gi-prefix + P-flags
+    prefix_lexicon = set() 
+
+    # Lemmas like zanagad
+    lemma_lexicon = set()
+
+    # The +POS symbol which indicates verb subclass (e.g. +VII)
+    subclass_lexicons = {}
+
+    # R-flags which govern combinations of prefixes and suffixes.
+    flag_lexicons = {}
+
+    # The ">>" stem-suffix boundary symbol which can trigger rules
+    wb_lexicons = {}
+
+    # Verb endings like +Ind+Neg+Neu+1Sg:siin which are specific to
+    # each prefix ("", ni- or gi-) and stem-type (e.g. magad).
+    suffix_lexicons = {}
+
+    # We collect multichar symbols into this set. Boundary symbols and P-flags
+    # for the empty prefix are always added.
+    multichar_symbols = set(["<<",">>",SET_NO_PREFIX_FLAG,CHECK_NO_PREFIX_FLAG])
+
+    # Collect entries from each sheet in the excel file (POS_IND and POS_CNJ)
+    for sheet in pd.ExcelFile(excel_file).sheet_names:
+        subtable = pd.read_excel(excel_file, sheet)
+        # Each row in the spreadsheet becomes a lexicon entry.
+        for _, row in subtable.iterrows():
+            row["Subject"] = escape(row["Subject"])
+            pos = row["Class"]
+            # Empty prefix is always possible so we'll add a flag sublexicon entry.
+            #prefix_lexicon.add((SET_NO_PREFIX_FLAG, SET_NO_PREFIX_FLAG,f"{pos}_Stems"))
+            # There may be up to 4 forms on the same row
+            for form in [row[f"Form{n}"] for n in range(1,5) if f"Form{n}" in row]:
+                # Skip non-existent forms
+                if not type(form) == type('') or form == "":
+                    continue
+                lemma = row["Lexeme"]
+                stem_type = row["Stem"]
+                prefix, stem, suffix = split(form)
+
+                # Skip empty entries
+                #if stem == "":
+                #    continue
+
+                pflag, rflag = add_prefix_entry(prefix,
+                                                pos,
+                                                prefix_lexicon,
+                                                multichar_symbols)
+                    
+                # Stem
+                add_stem_entry(stem, lemma, stem_type, pos, rflag,
+                               lemma_lexicon, suffix_lexicons, flag_lexicons,
+                               wb_lexicons, subclass_lexicons)
+
+                # Ending
+                add_ending_entry(stem_type, rflag, row, suffix, flag_lexicons, subclass_lexicons, suffix_lexicons,
+                                 multichar_symbols)
+
+    print_lexc(lexc_file, pos, multichar_symbols, prefix_lexicon,
+               lemma_lexicon, subclass_lexicons, flag_lexicons,
+               wb_lexicons, suffix_lexicons)
+        
+if __name__=="__main__":
+    main()
