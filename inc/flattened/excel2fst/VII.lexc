@@ -1,0 +1,506 @@
+Multichar_Symbols
+%<%< @P.Prefix.NONE@ +%0SgObv/%0PlObv +%0SgProx +Dub +VII +%0PlProx +%0PlObv +Pos +Ind +Neg +Cnj +%0SgObv +Neu @R.Prefix.NONE@ +%0SgProx/%0PlProx %>%> +Prt
+
+LEXICON Root
+VII_Prefix ;
+
+LEXICON VII_Prefix
+@P.Prefix.NONE@ VII_Stems ;
+
+LEXICON VII_Stems
+ate VII_e_Subclass ;
+atemagad VII_magad_Subclass ;
+bangisin VII_n_Subclass ;
+dakaagami VII_i_Subclass ;
+gonzaabii:ginzaabii VII_ii_Subclass ;
+gonzaabii VII_ii_Subclass ;
+inamo VII_o_Subclass ;
+michaa VII_aa_Subclass ;
+zanagad VII_d_Subclass ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                                               !!
+!!   Endings: Verb Class = VII, Stem Type = aa   !!
+!!                                               !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON VII_aa_Subclass
++VII:0 VII_aa_Flags ;
+
+LEXICON VII_aa_Flags
+@R.Prefix.NONE@ VII_aa_NONE_WB ;
+
+LEXICON VII_aa_NONE_WB
+0:%>%> VII_aa_NONE_Endings ;
+
+LEXICON VII_aa_NONE_Endings
++Cnj+Neg+Dub+%0SgObv/%0PlObv:sininiigwen # ;
++Cnj+Neg+Dub+%0SgProx/%0PlProx:sinoogwen # ;
++Cnj+Neg+Dub+Prt+%0SgObv/%0PlObv:sininigobanen # ;
++Cnj+Neg+Dub+Prt+%0SgProx/%0PlProx:sinoogobanen # ;
++Cnj+Neg+Neu+%0SgObv/%0PlObv:sininig # ;
++Cnj+Neg+Neu+%0SgProx/%0PlProx:sinog # ;
++Cnj+Neg+Prt+%0SgObv/%0PlObv:sininigiban # ;
++Cnj+Neg+Prt+%0SgProx/%0PlProx:sinoogiban # ;
++Cnj+Pos+Dub+%0SgObv/%0PlObv:nigwen # ;
++Cnj+Pos+Dub+%0SgProx/%0PlProx:gwen # ;
++Cnj+Pos+Dub+Prt+%0SgObv/%0PlObv:nigobanen # ;
++Cnj+Pos+Dub+Prt+%0SgProx/%0PlProx:gobanen # ;
++Cnj+Pos+Neu+%0SgObv/%0PlObv:nig # ;
++Cnj+Pos+Neu+%0SgProx/%0PlProx:g # ;
++Cnj+Pos+Prt+%0SgObv/%0PlObv:nigiban # ;
++Cnj+Pos+Prt+%0SgProx/%0PlProx:giban # ;
++Ind+Neg+Dub+%0PlObv:sininiwidogenan # ;
++Ind+Neg+Dub+%0PlProx:sinodogenan # ;
++Ind+Neg+Dub+%0SgObv:sininiwidog # ;
++Ind+Neg+Dub+%0SgProx:sinodog # ;
++Ind+Neg+Dub+Prt+%0PlObv:sininigobanen # ;
++Ind+Neg+Dub+Prt+%0PlObv:sininigobaniin # ;
++Ind+Neg+Dub+Prt+%0PlProx:sinoogobanen # ;
++Ind+Neg+Dub+Prt+%0PlProx:sinoogobaniin # ;
++Ind+Neg+Dub+Prt+%0SgObv:sininigoban # ;
++Ind+Neg+Dub+Prt+%0SgProx:sinoogoban # ;
++Ind+Neg+Neu+%0PlObv:sininiwan # ;
++Ind+Neg+Neu+%0PlProx:sinoon # ;
++Ind+Neg+Neu+%0SgObv:sinini # ;
++Ind+Neg+Neu+%0SgProx:sinoon # ;
++Ind+Neg+Prt+%0PlObv:sininiibanen # ;
++Ind+Neg+Prt+%0PlObv:sininiibaniin # ;
++Ind+Neg+Prt+%0PlProx:sinoobanen # ;
++Ind+Neg+Prt+%0PlProx:sinoobaniin # ;
++Ind+Neg+Prt+%0SgObv:sininiiban # ;
++Ind+Neg+Prt+%0SgProx:sinooban # ;
++Ind+Pos+Dub+%0PlObv:niwidogenan # ;
++Ind+Pos+Dub+%0PlProx:dogenan # ;
++Ind+Pos+Dub+%0SgObv:niwidog # ;
++Ind+Pos+Dub+%0SgProx:dog # ;
++Ind+Pos+Dub+Prt+%0PlObv:gobanen # ;
++Ind+Pos+Dub+Prt+%0PlObv:nigobaniin # ;
++Ind+Pos+Dub+Prt+%0PlProx:gobanen # ;
++Ind+Pos+Dub+Prt+%0PlProx:gobaniin # ;
++Ind+Pos+Dub+Prt+%0SgObv:nigoban # ;
++Ind+Pos+Dub+Prt+%0SgProx:goban # ;
++Ind+Pos+Neu+%0PlObv:niwan # ;
++Ind+Pos+Neu+%0PlProx:wan # ;
++Ind+Pos+Neu+%0SgObv:ni # ;
++Ind+Pos+Neu+%0SgProx: # ;
++Ind+Pos+Prt+%0PlObv:niibanen # ;
++Ind+Pos+Prt+%0PlObv:niibaniin # ;
++Ind+Pos+Prt+%0PlProx:banen # ;
++Ind+Pos+Prt+%0PlProx:baniin # ;
++Ind+Pos+Prt+%0SgObv:niiban # ;
++Ind+Pos+Prt+%0SgProx:ban # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                                              !!
+!!   Endings: Verb Class = VII, Stem Type = d   !!
+!!                                              !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON VII_d_Subclass
++VII:0 VII_d_Flags ;
+
+LEXICON VII_d_Flags
+@R.Prefix.NONE@ VII_d_NONE_WB ;
+
+LEXICON VII_d_NONE_WB
+0:%>%> VII_d_NONE_Endings ;
+
+LEXICON VII_d_NONE_Endings
++Cnj+Neg+Dub+%0SgObv/%0PlObv:sininiigwen # ;
++Cnj+Neg+Dub+%0SgProx/%0PlProx:sinoogwen # ;
++Cnj+Neg+Dub+Prt+%0SgObv/%0PlObv:sininigobanen # ;
++Cnj+Neg+Dub+Prt+%0SgProx/%0PlProx:sinoogobanen # ;
++Cnj+Neg+Neu+%0SgObv/%0PlObv:sininig # ;
++Cnj+Neg+Neu+%0SgProx/%0PlProx:sinog # ;
++Cnj+Neg+Prt+%0SgObv/%0PlObv:sininigiban # ;
++Cnj+Neg+Prt+%0SgProx/%0PlProx:sinoogiban # ;
++Cnj+Pos+Dub+%0SgObv/%0PlObv:inigwen # ;
++Cnj+Pos+Dub+%0SgProx/%0PlProx:ogwen # ;
++Cnj+Pos+Dub+Prt+%0SgObv/%0PlObv:inigobanen # ;
++Cnj+Pos+Dub+Prt+%0SgProx/%0PlProx:ogobanen # ;
++Cnj+Pos+Neu+%0SgObv/%0PlObv:inig # ;
++Cnj+Pos+Neu+%0SgProx/%0PlProx:k # ;
++Cnj+Pos+Prt+%0SgObv/%0PlObv:inigiban # ;
++Cnj+Pos+Prt+%0SgProx/%0PlProx:kiban # ;
++Ind+Neg+Dub+%0PlObv:sininiwidogenan # ;
++Ind+Neg+Dub+%0PlProx:sinodogen # ;
++Ind+Neg+Dub+%0SgObv:sininiwidog # ;
++Ind+Neg+Dub+%0SgProx:sinodog # ;
++Ind+Neg+Dub+Prt+%0PlObv:sininigobanen # ;
++Ind+Neg+Dub+Prt+%0PlObv:sininigobaniin # ;
++Ind+Neg+Dub+Prt+%0PlProx:sinoogobanen # ;
++Ind+Neg+Dub+Prt+%0PlProx:sinoogobaniin # ;
++Ind+Neg+Dub+Prt+%0SgObv:sininigoban # ;
++Ind+Neg+Dub+Prt+%0SgProx:sinoogoban # ;
++Ind+Neg+Neu+%0PlObv:sininiwan # ;
++Ind+Neg+Neu+%0PlProx:sinoon # ;
++Ind+Neg+Neu+%0SgObv:sinini # ;
++Ind+Neg+Neu+%0SgProx:sinoon # ;
++Ind+Neg+Prt+%0PlObv:sininiibanen # ;
++Ind+Neg+Prt+%0PlObv:sininiibaniin # ;
++Ind+Neg+Prt+%0PlProx:sinoobanen # ;
++Ind+Neg+Prt+%0PlProx:sinoobaniin # ;
++Ind+Neg+Prt+%0SgObv:sininiiban # ;
++Ind+Neg+Prt+%0SgProx:sinooban # ;
++Ind+Pos+Dub+%0PlObv:iniwidogenan # ;
++Ind+Pos+Dub+%0PlProx:odogenan # ;
++Ind+Pos+Dub+%0SgObv:iniwidog # ;
++Ind+Pos+Dub+%0SgProx:odog # ;
++Ind+Pos+Dub+Prt+%0PlObv:inigobanen # ;
++Ind+Pos+Dub+Prt+%0PlObv:inigobaniin # ;
++Ind+Pos+Dub+Prt+%0PlProx:ogobanen # ;
++Ind+Pos+Dub+Prt+%0PlProx:ogobaniin # ;
++Ind+Pos+Dub+Prt+%0SgObv:inigoban # ;
++Ind+Pos+Dub+Prt+%0SgProx:ogoban # ;
++Ind+Pos+Neu+%0PlObv:iniwan # ;
++Ind+Pos+Neu+%0PlProx:oon # ;
++Ind+Pos+Neu+%0SgObv:ini # ;
++Ind+Pos+Neu+%0SgProx: # ;
++Ind+Pos+Prt+%0PlObv:iniibanen # ;
++Ind+Pos+Prt+%0PlObv:iniibaniin # ;
++Ind+Pos+Prt+%0PlProx:oobanen # ;
++Ind+Pos+Prt+%0PlProx:oobaniin # ;
++Ind+Pos+Prt+%0SgObv:iniiban # ;
++Ind+Pos+Prt+%0SgProx:ooban # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                                              !!
+!!   Endings: Verb Class = VII, Stem Type = e   !!
+!!                                              !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON VII_e_Subclass
++VII:0 VII_e_Flags ;
+
+LEXICON VII_e_Flags
+@R.Prefix.NONE@ VII_e_NONE_WB ;
+
+LEXICON VII_e_NONE_WB
+0:%>%> VII_e_NONE_Endings ;
+
+LEXICON VII_e_NONE_Endings
++Cnj+Neg+Dub+Prt+%0SgObv/%0PlObv:sininigobanen # ;
++Cnj+Neg+Dub+Prt+%0SgProx/%0PlProx:sinoogobanen # ;
++Cnj+Neg+Neu+%0SgObv/%0PlObv:sininig # ;
++Cnj+Neg+Neu+%0SgProx/%0PlProx:sinog # ;
++Cnj+Neg+Prt+%0SgObv/%0PlObv:sininigiban # ;
++Cnj+Neg+Prt+%0SgProx/%0PlProx:sinoogiban # ;
++Cnj+Pos+Dub+%0SgObv/%0PlObv:nigwen # ;
++Cnj+Pos+Dub+%0SgProx/%0PlProx:gwen # ;
++Cnj+Pos+Dub+Prt+%0SgObv/%0PlObv:nigobanen # ;
++Cnj+Pos+Dub+Prt+%0SgProx/%0PlProx:gobanen # ;
++Cnj+Pos+Neu+%0SgObv/%0PlObv:nig # ;
++Cnj+Pos+Neu+%0SgProx/%0PlProx:g # ;
++Cnj+Pos+Prt+%0SgObv/%0PlObv:nigiban # ;
++Cnj+Pos+Prt+%0SgProx/%0PlProx:giban # ;
++Ind+Neg+Dub+%0PlObv:sininiwidogenan # ;
++Ind+Neg+Dub+%0PlProx:sinodogenan # ;
++Ind+Neg+Dub+%0SgObv:sininiwidog # ;
++Ind+Neg+Dub+%0SgProx:sinodog # ;
++Ind+Neg+Dub+Prt+%0PlObv:sininigobanen # ;
++Ind+Neg+Dub+Prt+%0PlObv:sininigobaniin # ;
++Ind+Neg+Dub+Prt+%0PlProx:sinoogobanen # ;
++Ind+Neg+Dub+Prt+%0PlProx:sinoogobaniin # ;
++Ind+Neg+Dub+Prt+%0SgObv:sininigoban # ;
++Ind+Neg+Dub+Prt+%0SgProx:sinoogoban # ;
++Ind+Neg+Neu+%0PlObv:sininiwan # ;
++Ind+Neg+Neu+%0PlProx:sinoon # ;
++Ind+Neg+Neu+%0SgObv:sinini # ;
++Ind+Neg+Neu+%0SgProx:sinoon # ;
++Ind+Neg+Prt+%0PlObv:sininiibanen # ;
++Ind+Neg+Prt+%0PlObv:sininiibaniin # ;
++Ind+Neg+Prt+%0PlProx:sinoobanen # ;
++Ind+Neg+Prt+%0PlProx:sinoobaniin # ;
++Ind+Neg+Prt+%0SgObv:sininiiban # ;
++Ind+Neg+Prt+%0SgProx:sinooban # ;
++Ind+Pos+Dub+%0PlObv:niwidogenan # ;
++Ind+Pos+Dub+%0PlProx:dogenan # ;
++Ind+Pos+Dub+%0SgObv:niwidog # ;
++Ind+Pos+Dub+%0SgProx:dog # ;
++Ind+Pos+Dub+Prt+%0PlObv:nigobanen # ;
++Ind+Pos+Dub+Prt+%0PlObv:nigobaniin # ;
++Ind+Pos+Dub+Prt+%0PlProx:gobanen # ;
++Ind+Pos+Dub+Prt+%0PlProx:gobaniin # ;
++Ind+Pos+Dub+Prt+%0SgObv:nigoban # ;
++Ind+Pos+Dub+Prt+%0SgProx:goban # ;
++Ind+Pos+Neu+%0PlObv:niwan # ;
++Ind+Pos+Neu+%0PlProx:wan # ;
++Ind+Pos+Neu+%0SgObv:ni # ;
++Ind+Pos+Neu+%0SgProx: # ;
++Ind+Pos+Prt+%0PlObv:niibanen # ;
++Ind+Pos+Prt+%0PlObv:niibaniin # ;
++Ind+Pos+Prt+%0PlProx:banen # ;
++Ind+Pos+Prt+%0PlProx:baniin # ;
++Ind+Pos+Prt+%0SgObv:niiban # ;
++Ind+Pos+Prt+%0SgProx:ban # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                                              !!
+!!   Endings: Verb Class = VII, Stem Type = i   !!
+!!                                              !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON VII_i_Subclass
++VII:0 VII_i_Flags ;
+
+LEXICON VII_i_Flags
+@R.Prefix.NONE@ VII_i_NONE_WB ;
+
+LEXICON VII_i_NONE_WB
+0:%>%> VII_i_NONE_Endings ;
+
+LEXICON VII_i_NONE_Endings
++Cnj+Neg+Neu+%0SgProx/%0PlProx:sinog # ;
++Cnj+Pos+Neu+%0SgProx/%0PlProx:g # ;
++Ind+Neg+Neu+%0SgObv:sinini # ;
++Ind+Neg+Neu+%0SgProx:sinoon # ;
++Ind+Pos+Neu+%0SgObv:nini # ;
++Ind+Pos+Neu+%0SgProx:n # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                                               !!
+!!   Endings: Verb Class = VII, Stem Type = ii   !!
+!!                                               !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON VII_ii_Subclass
++VII:0 VII_ii_Flags ;
+
+LEXICON VII_ii_Flags
+@R.Prefix.NONE@ VII_ii_NONE_WB ;
+
+LEXICON VII_ii_NONE_WB
+0:%>%> VII_ii_NONE_Endings ;
+
+LEXICON VII_ii_NONE_Endings
++Cnj+Neg+Dub+%0SgObv/%0PlObv:sininiigwen # ;
++Cnj+Neg+Dub+%0SgProx/%0PlProx:sinoogwen # ;
++Cnj+Neg+Dub+Prt+%0SgObv/%0PlObv:sininigobanen # ;
++Cnj+Neg+Dub+Prt+%0SgProx/%0PlProx:sinoogobanen # ;
++Cnj+Neg+Neu+%0SgObv/%0PlObv:sininig # ;
++Cnj+Neg+Neu+%0SgProx/%0PlProx:sinog # ;
++Cnj+Neg+Prt+%0SgObv/%0PlObv:sininigiban # ;
++Cnj+Neg+Prt+%0SgProx/%0PlProx:sinoogiban # ;
++Cnj+Pos+Dub+%0SgObv/%0PlObv:nigwen # ;
++Cnj+Pos+Dub+%0SgProx/%0PlProx:gwen # ;
++Cnj+Pos+Dub+Prt+%0SgObv/%0PlObv:nigobanen # ;
++Cnj+Pos+Dub+Prt+%0SgProx/%0PlProx:gobanen # ;
++Cnj+Pos+Neu+%0SgObv/%0PlObv:nig # ;
++Cnj+Pos+Neu+%0SgProx/%0PlProx:g # ;
++Cnj+Pos+Prt+%0SgObv/%0PlObv:nigiban # ;
++Cnj+Pos+Prt+%0SgProx/%0PlProx:giban # ;
++Ind+Neg+Dub+%0PlObv:sininiwidogenan # ;
++Ind+Neg+Dub+%0PlProx:sinodogenan # ;
++Ind+Neg+Dub+%0SgObv:sininiwidog # ;
++Ind+Neg+Dub+%0SgProx:sinodog # ;
++Ind+Neg+Dub+Prt+%0PlObv:sininigobanen # ;
++Ind+Neg+Dub+Prt+%0PlObv:sininigobaniin # ;
++Ind+Neg+Dub+Prt+%0PlProx:sinoogobanen # ;
++Ind+Neg+Dub+Prt+%0PlProx:sinoogobaniin # ;
++Ind+Neg+Dub+Prt+%0SgObv:sininigoban # ;
++Ind+Neg+Dub+Prt+%0SgProx:sinoogoban # ;
++Ind+Neg+Neu+%0PlObv:sininiwan # ;
++Ind+Neg+Neu+%0PlProx:sinoon # ;
++Ind+Neg+Neu+%0SgObv:sinini # ;
++Ind+Neg+Neu+%0SgProx:sinoon # ;
++Ind+Neg+Prt+%0PlObv:sininiibanen # ;
++Ind+Neg+Prt+%0PlObv:sininiibaniin # ;
++Ind+Neg+Prt+%0PlProx:sinoobanen # ;
++Ind+Neg+Prt+%0PlProx:sinoobaniin # ;
++Ind+Neg+Prt+%0SgObv:sininiiban # ;
++Ind+Neg+Prt+%0SgProx:sinooban # ;
++Ind+Pos+Dub+%0PlObv:niwidogenan # ;
++Ind+Pos+Dub+%0PlProx:dogenan # ;
++Ind+Pos+Dub+%0SgObv:niwidog # ;
++Ind+Pos+Dub+%0SgProx:dog # ;
++Ind+Pos+Dub+Prt+%0PlObv:nigobanen # ;
++Ind+Pos+Dub+Prt+%0PlObv:nigobaniin # ;
++Ind+Pos+Dub+Prt+%0PlProx:gobanen # ;
++Ind+Pos+Dub+Prt+%0PlProx:gobaniin # ;
++Ind+Pos+Dub+Prt+%0SgObv:nigoban # ;
++Ind+Pos+Dub+Prt+%0SgProx:goban # ;
++Ind+Pos+Neu+%0PlObv:niwan # ;
++Ind+Pos+Neu+%0PlProx:wan # ;
++Ind+Pos+Neu+%0SgObv:ni # ;
++Ind+Pos+Neu+%0SgProx: # ;
++Ind+Pos+Prt+%0PlObv:niibanen # ;
++Ind+Pos+Prt+%0PlObv:niibaniin # ;
++Ind+Pos+Prt+%0PlProx:banen # ;
++Ind+Pos+Prt+%0PlProx:baniin # ;
++Ind+Pos+Prt+%0SgObv:niiban # ;
++Ind+Pos+Prt+%0SgProx:ban # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                                                  !!
+!!   Endings: Verb Class = VII, Stem Type = magad   !!
+!!                                                  !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON VII_magad_Subclass
++VII:0 VII_magad_Flags ;
+
+LEXICON VII_magad_Flags
+@R.Prefix.NONE@ VII_magad_NONE_WB ;
+
+LEXICON VII_magad_NONE_WB
+0:%>%> VII_magad_NONE_Endings ;
+
+LEXICON VII_magad_NONE_Endings
++Cnj+Neg+Dub+%0SgObv/%0PlObv:sinoogwen # ;
++Cnj+Neg+Dub+%0SgProx/%0PlProx:sinoogwen # ;
++Cnj+Neg+Dub+Prt+%0SgObv/%0PlObv:sininigobanen # ;
++Cnj+Neg+Dub+Prt+%0SgProx/%0PlProx:sinoogobanen # ;
++Cnj+Neg+Neu+%0SgObv/%0PlObv:sininig # ;
++Cnj+Neg+Neu+%0SgProx/%0PlProx:sinog # ;
++Cnj+Neg+Prt+%0SgObv/%0PlObv:sininigiban # ;
++Cnj+Neg+Prt+%0SgProx/%0PlProx:sinoogiban # ;
++Cnj+Pos+Dub+%0SgObv/%0PlObv:inigwen # ;
++Cnj+Pos+Dub+%0SgProx/%0PlProx:ogwen # ;
++Cnj+Pos+Dub+Prt+%0SgObv/%0PlObv:inigobanen # ;
++Cnj+Pos+Dub+Prt+%0SgProx/%0PlProx:ogobanen # ;
++Cnj+Pos+Neu+%0SgObv/%0PlObv:inig # ;
++Cnj+Pos+Neu+%0SgProx/%0PlProx:k # ;
++Cnj+Pos+Prt+%0SgObv/%0PlObv:inigiban # ;
++Cnj+Pos+Prt+%0SgProx/%0PlProx:kiban # ;
++Ind+Neg+Dub+%0PlObv:sininiwidogenan # ;
++Ind+Neg+Dub+%0PlProx:sinodogen # ;
++Ind+Neg+Dub+%0SgObv:sininiwidog # ;
++Ind+Neg+Dub+%0SgProx:sinodog # ;
++Ind+Neg+Dub+Prt+%0PlObv:sininigobanen # ;
++Ind+Neg+Dub+Prt+%0PlObv:sininigobaniin # ;
++Ind+Neg+Dub+Prt+%0PlProx:sinoogobanen # ;
++Ind+Neg+Dub+Prt+%0PlProx:sinoogobaniin # ;
++Ind+Neg+Dub+Prt+%0SgObv:sininigoban # ;
++Ind+Neg+Dub+Prt+%0SgProx:sinoogoban # ;
++Ind+Neg+Neu+%0PlObv:sininiwan # ;
++Ind+Neg+Neu+%0PlProx:sinoon # ;
++Ind+Neg+Neu+%0SgObv:sinini # ;
++Ind+Neg+Neu+%0SgProx:sinoon # ;
++Ind+Neg+Prt+%0PlObv:sininiibanen # ;
++Ind+Neg+Prt+%0PlObv:sininiibaniin # ;
++Ind+Neg+Prt+%0PlProx:sinoobanen # ;
++Ind+Neg+Prt+%0PlProx:sinoobaniin # ;
++Ind+Neg+Prt+%0SgObv:sininiiban # ;
++Ind+Neg+Prt+%0SgProx:sinooban # ;
++Ind+Pos+Dub+%0PlObv:iniwidogenan # ;
++Ind+Pos+Dub+%0PlProx:odogenan # ;
++Ind+Pos+Dub+%0SgObv:iniwidog # ;
++Ind+Pos+Dub+%0SgProx:odog # ;
++Ind+Pos+Dub+Prt+%0PlObv:inigobanen # ;
++Ind+Pos+Dub+Prt+%0PlObv:inigobaniin # ;
++Ind+Pos+Dub+Prt+%0PlProx:ogobanen # ;
++Ind+Pos+Dub+Prt+%0PlProx:ogobaniin # ;
++Ind+Pos+Dub+Prt+%0SgObv:inigoban # ;
++Ind+Pos+Dub+Prt+%0SgProx:ogoban # ;
++Ind+Pos+Neu+%0PlObv:iniwan # ;
++Ind+Pos+Neu+%0PlProx:oon # ;
++Ind+Pos+Neu+%0SgObv:ini # ;
++Ind+Pos+Neu+%0SgProx: # ;
++Ind+Pos+Prt+%0PlObv:iniibanen # ;
++Ind+Pos+Prt+%0PlObv:iniibaniin # ;
++Ind+Pos+Prt+%0PlProx:oobanen # ;
++Ind+Pos+Prt+%0PlProx:oobaniin # ;
++Ind+Pos+Prt+%0SgObv:iniiban # ;
++Ind+Pos+Prt+%0SgProx:ooban # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                                              !!
+!!   Endings: Verb Class = VII, Stem Type = n   !!
+!!                                              !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON VII_n_Subclass
++VII:0 VII_n_Flags ;
+
+LEXICON VII_n_Flags
+@R.Prefix.NONE@ VII_n_NONE_WB ;
+
+LEXICON VII_n_NONE_WB
+0:%>%> VII_n_NONE_Endings ;
+
+LEXICON VII_n_NONE_Endings
++Cnj+Neg+Dub+%0SgObv/%0PlObv:zininiigwen # ;
++Cnj+Neg+Dub+%0SgProx/%0PlProx:zinoogwen # ;
++Cnj+Neg+Dub+Prt+%0SgObv/%0PlObv:zininigobanen # ;
++Cnj+Neg+Dub+Prt+%0SgProx/%0PlProx:zinoogobanen # ;
++Cnj+Neg+Neu+%0SgObv/%0PlObv:zininig # ;
++Cnj+Neg+Neu+%0SgProx/%0PlProx:zinog # ;
++Cnj+Neg+Prt+%0SgObv/%0PlObv:zininigiban # ;
++Cnj+Neg+Prt+%0SgProx/%0PlProx:zinoogiban # ;
++Cnj+Pos+Dub+%0SgObv/%0PlObv:inigwen # ;
++Cnj+Pos+Dub+%0SgProx/%0PlProx:ogwen # ;
++Cnj+Pos+Dub+Prt+%0SgObv/%0PlObv:inigobanen # ;
++Cnj+Pos+Dub+Prt+%0SgProx/%0PlProx:ogobanen # ;
++Cnj+Pos+Neu+%0SgObv/%0PlObv:inig # ;
++Cnj+Pos+Neu+%0SgProx/%0PlProx:g # ;
++Cnj+Pos+Prt+%0SgObv/%0PlObv:inigiban # ;
++Cnj+Pos+Prt+%0SgProx/%0PlProx:giban # ;
++Ind+Neg+Dub+%0PlObv:zininiwidogenan # ;
++Ind+Neg+Dub+%0PlProx:zinodogenan # ;
++Ind+Neg+Dub+%0SgObv:zininiwidog # ;
++Ind+Neg+Dub+%0SgProx:zinodog # ;
++Ind+Neg+Dub+Prt+%0PlObv:zininigobanen # ;
++Ind+Neg+Dub+Prt+%0PlObv:zininigobaniin # ;
++Ind+Neg+Dub+Prt+%0PlProx:zinoogobanen # ;
++Ind+Neg+Dub+Prt+%0PlProx:zinoogobaniin # ;
++Ind+Neg+Dub+Prt+%0SgObv:zininigoban # ;
++Ind+Neg+Dub+Prt+%0SgProx:zinoogoban # ;
++Ind+Neg+Neu+%0PlObv:zininiwan # ;
++Ind+Neg+Neu+%0PlProx:zinoon # ;
++Ind+Neg+Neu+%0SgObv:zinini # ;
++Ind+Neg+Neu+%0SgProx:zinoon # ;
++Ind+Neg+Prt+%0PlObv:zininiibanen # ;
++Ind+Neg+Prt+%0PlObv:zininiibaniin # ;
++Ind+Neg+Prt+%0PlProx:zinoobanen # ;
++Ind+Neg+Prt+%0PlProx:zinoobaniin  # ;
++Ind+Neg+Prt+%0SgObv:zininiiban # ;
++Ind+Neg+Prt+%0SgProx:zinooban # ;
++Ind+Pos+Dub+%0PlObv:iniwidogenan # ;
++Ind+Pos+Dub+%0PlProx:odogenan # ;
++Ind+Pos+Dub+%0SgObv:iniwidog # ;
++Ind+Pos+Dub+%0SgProx:odog # ;
++Ind+Pos+Dub+Prt+%0PlObv:inigobanen # ;
++Ind+Pos+Dub+Prt+%0PlObv:inigobaniin # ;
++Ind+Pos+Dub+Prt+%0PlProx:ogobanen # ;
++Ind+Pos+Dub+Prt+%0PlProx:ogobaniin # ;
++Ind+Pos+Dub+Prt+%0SgObv:inigoban # ;
++Ind+Pos+Dub+Prt+%0SgProx:ogoban # ;
++Ind+Pos+Neu+%0PlObv:iniwan # ;
++Ind+Pos+Neu+%0PlProx:oon # ;
++Ind+Pos+Neu+%0SgObv:ini # ;
++Ind+Pos+Neu+%0SgProx: # ;
++Ind+Pos+Prt+%0PlObv:iniibanen # ;
++Ind+Pos+Prt+%0PlObv:iniibaniin # ;
++Ind+Pos+Prt+%0PlProx:oobanen # ;
++Ind+Pos+Prt+%0PlProx:oobaniin # ;
++Ind+Pos+Prt+%0SgObv:iniiban # ;
++Ind+Pos+Prt+%0SgProx:ooban # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                                              !!
+!!   Endings: Verb Class = VII, Stem Type = o   !!
+!!                                              !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON VII_o_Subclass
++VII:0 VII_o_Flags ;
+
+LEXICON VII_o_Flags
+@R.Prefix.NONE@ VII_o_NONE_WB ;
+
+LEXICON VII_o_NONE_WB
+0:%>%> VII_o_NONE_Endings ;
+
+LEXICON VII_o_NONE_Endings
++Cnj+Neg+Neu+%0SgProx/%0PlProx:sinog # ;
++Cnj+Pos+Neu+%0SgProx/%0PlProx:g # ;
++Ind+Neg+Neu+%0PlObv:sininiwan # ;
++Ind+Neg+Neu+%0PlProx:sinoon # ;
++Ind+Neg+Neu+%0SgObv:sinini # ;
++Ind+Neg+Neu+%0SgProx:sinoon # ;
++Ind+Pos+Neu+%0PlObv:niniwan # ;
++Ind+Pos+Neu+%0PlProx:noon # ;
++Ind+Pos+Neu+%0SgObv:nini # ;
++Ind+Pos+Neu+%0SgProx:n # ;
+
