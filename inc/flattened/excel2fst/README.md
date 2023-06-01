@@ -1,3 +1,32 @@
 # `excel2fst`
 
-First, install dpendencies by `pip3 install -r requirements.txt`. Then, run the command `make all` in the terminal to build `ojibwe.fomabin` and lexc-files.
+## Install dependencies
+First, install dpendencies by `pip3 install -r requirements.txt`. 
+
+## Build FST and LEXC files
+
+Then, run the command `make all` in the terminal to build `ojibwe.fomabin` and lexc-files.
+
+## Run interactively
+
+You can either run in the `foma` console or use `flookup`
+
+```
+% echo "zanagad" | flookup ojibwe.fomabin 
+zanagad	zanagad+VII+Ind+Pos+Neu+0SgProx
+
+% foma
+Foma, version 0.10.0
+Copyright © 2008-2021 Mans Hulden
+This is free software; see the source code for copying conditions.
+There is ABSOLUTELY NO WARRANTY; for details, type "help license"
+
+Type "help" to list all commands available.
+Type "help <topic>" or help "<operator>" for further help.
+
+foma[0]: load ojibwe.fomabin
+28.6 kB. 922 states, 1691 arcs, 12075 paths.
+foma[1]: up zanagad
+zanagad+VII+Ind+Pos+Neu+0SgProx
+foma[1]: ^D
+```
