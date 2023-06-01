@@ -11,7 +11,7 @@ define amRule1 m -> a || "'" a _ ">>" [m|n] ;
 
 define amRule2 m -> n || a _ ">>" [z|g] ;
 
-define vowelDeletion Vowel -> 0 || Cons _ ">>" .#. ;
+define vowelDeletion [ Vowel - e ] -> 0 || Cons _ ">>" .#. ;
 
 define wDeletion w -> 0 || _ (">>") .#. ;
 
