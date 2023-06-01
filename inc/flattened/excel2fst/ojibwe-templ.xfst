@@ -1,0 +1,40 @@
+! There are flags at morpheme boundaries.
+set flag-is-epsilon ON
+
+define Sigma [ a | b | c | d | e | g | h | i | k | m | n | o | s | t | w | z ] ;
+define Cons [ b | c | d | g | h | k | m | n | s | t | w | z ] ;
+define Vowel [ a | e | i | o ] ;
+
+define dDeletion d -> 0 || _ ">>" Cons ;
+
+define amRule1 m -> a || "'" a _ ">>" [m|n] ;
+
+define amRule2 m -> n || a _ ">>" [z|g] ;
+
+define vowelDeletion Vowel -> 0 || Cons _ ">>" .#. ;
+
+define wDeletion w -> 0 || _ (">>") .#. ;
+
+define cleanUp ["<<"|">>"] -> 0 ; 
+
+read lexc VII.lexc
+define VIILexicon ;
+
+read lexc VAI.lexc
+define VAILexicon ;
+
+read lexc VTI.lexc
+define VTILexicon ;
+
+define Lexicon [ VIILexicon |
+                 VAILexicon |
+		 VTILexicon ] ;
+
+read regex Lexicon .o. [ dDeletion .o.
+     	   	         amRule1 .o.
+     	   	         amRule2 .o.
+			 vowelDeletion .o.
+			 wDeletion .o.
+     	   	         cleanUp ] ;
+
+save stack ojibwe.fomabin
