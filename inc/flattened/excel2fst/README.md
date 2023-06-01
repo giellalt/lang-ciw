@@ -3,7 +3,7 @@
 ## Install dependencies
 First, install dpendencies by `pip3 install -r requirements.txt`. This also depends on a working installation of `giella-core`. You'll get an error if you `GTCORE` enviroment variable hasn't been set.
 
-## Build FST and LEXC files
+## Build LEXC files and the Ojibwe FST
 
 Then, run the command `make all` in the terminal to build `ojibwe.fomabin` and lexc-files.
 
