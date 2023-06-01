@@ -9,12 +9,16 @@ Then, run the command `make all` in the terminal to build `ojibwe.fomabin` and l
 
 ## Run interactively
 
-You can either run in the `foma` console or use `flookup`:
+You can use `flookup` (use `cat` instead of `echo` to feed in a file of word forms):
 
 ```
 % echo "zanagad" | flookup ojibwe.fomabin 
 zanagad	zanagad+VII+Ind+Pos+Neu+0SgProx
+```
 
+You can also use the `foma console`:
+
+```
 % foma
 Foma, version 0.10.0
 Copyright © 2008-2021 Mans Hulden
