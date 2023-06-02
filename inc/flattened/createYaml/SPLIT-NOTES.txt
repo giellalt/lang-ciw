@@ -1,6 +1,16 @@
 NOTES FOR FULLY FLATTENED CIW FST
 By: Christopher Hammerly
 
+TO DO:
+
+- Investigate Prt+Dub forms in all paradigms
+- General rule audit to ensure there is no clashing
+- Person prefixes triggering changes to the stem (e.g. stems starting with "o" lengthen to "oo") and prefix rules in general.
+	* https://ojibwegrammar.langsci.wisc.edu › Assets › Pdfs › InflAnishPersonPrefixes1.02.pdf
+	* https://ojibwe.lib.umn.edu/main-entry/im-pf
+	* https://ojibwe.lib.umn.edu/main-entry/g-pf
+
+
 GENERAL
 
 *	>> marks the stem/suffix juncture (or the end of the stem)
@@ -100,6 +110,7 @@ The TI4s like "ayaan/ayaam" are a strange bird. We need to see what Border Lakes
 	- Solution: The OPD shows two verbs like this "ayaan/ayaam" and "gidaan/gidaam". So they are quite exceptional. We have opted to include the "n/m" in the suffix complex, which is generally in line with the OPD's approach where the stems are listed as "ayaa" and "gidaa", without the nasal.
 
 We are showing different allomorphs of the prefix depending on if the stem starts in a consonant (ni, gi, o) or a vowel (ind, gid, od). We need to model this in a general way with the other allomoprhs that pop up, and make sure to model Border Lakes specifically. This also goes for the VAIs and VTAs.
+	- Solutuin: For now, we are just going to model the "d-epenthesis" so "ni" -> "nid", "gi" -> "gid", and "o" -> "od"
 
 ###################
 ###				###
