@@ -53,7 +53,7 @@ model = load_fst("ojibwe.fomabin")
 Then, we can retrieve all inflected forms and their analyses for a given stem like `zanagad`:
 
 ```
-for	analysis in query(stem="zanagad", analyzer_fst=model):
+for analysis in query(stem="zanagad", analyzer_fst=model):
     print(analysis)
     
 OUTPUT:
@@ -104,10 +104,10 @@ We can also constrain the analyses. Here we get all inflected forms for zanagad 
 
 ```
 for analysis in query(stem="zanagad",
-                          analyzer_fst=model,
-                          poses=["VII"],
-                          orders=["Ind"],
-                          subjects=["0SgObv", "0SgProx"]):
+                      analyzer_fst=model,
+                      poses=["VII"],
+                      orders=["Ind"],
+                      subjects=["0SgObv", "0SgProx"]):
         print(analysis)
 
 OUTPUT:
