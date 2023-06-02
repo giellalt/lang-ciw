@@ -40,7 +40,7 @@ foma[1]: ^D
 ```
 ## Query an FST analyzer (i.e. `ojibwe.fomabin`) in python
 
-We can query the FST model for a particular stem using the functions in `query.py` (this code dependens on the `foma.py` module which is included in the repo).
+We can query the FST model for a particular stem using the functions in `query.py` (this code depends on the `foma.py` module which is included in the repo).
 
 First, load the FST:
 
