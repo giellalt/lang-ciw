@@ -19,7 +19,7 @@ RULES
 d-deletion
 Only stem change is "zanagad", where "d" is deleted when the suffix complex starts with a consonant.
 
-NOTES
+NOTES/ISSUES
 
 NA
 
@@ -43,9 +43,10 @@ With -am stems ("zaaga'am"), the stem-final "m" is deleted and the vowel "a" is 
 Nasal assimilation & vowel lengthening
 With stems ending in "m", so both -am and -m stems ("minongwaam" and "zaaga'am"), the "m" changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
 
-NOTES
+NOTES/ISSUES
 
-There is a process where stem-final short finals are lengthened to the corresponding long vowels in front of the preterit morpheme "-ban". This is modelled by adding the second half of the long vowel in the suffix complex, rather than any sort of rule. Questionable, but it works.
+There is a process where stem-final short finals are lengthened to the corresponding long vowels in front of the preterit morpheme "-ban". 
+	-SOLUTION: This is modelled by adding the second half of the long vowel in the suffix complex, rather than any sort of rule. Questionable, but it works.
 
 We need to deal with prefix allomorphy (see note in VTIs)
 
@@ -65,11 +66,12 @@ Stem-final "m" (as in TI -am stems like "waabandam") changes to "n" when the suf
 
 With TI2 and TI3 stems (and TI4 stems in the independent order, see notes), the stem-final "n" is deleted when the suffix complex starts with a consonant.
 
-NOTES
+NOTES/ISSUES
 
-The TI4s like "ayaan/ayaam" are a strange bird. We need to see what Border Lakes does, but in Minnesota, according to some notes by Nichols, they behave like the TI1, TI2, and TI3s in the independent order (so as if the stem ends in an "n"), but like the -am regular TIs in the conjunct (so as if the stem ends in "m"). We don't really have full paradigms here anyway for the conjunct, so we may want to set them aside for the time being before we have more data.
+The TI4s like "ayaan/ayaam" are a strange bird. We need to see what Border Lakes does, but in Minnesota, according to some notes by Nichols, they behave like the TI1, TI2, and TI3s in the independent order (so as if the stem ends in an "n"), but like the -am regular TIs in the conjunct (so as if the stem ends in "m").
+	- Solution: The OPD shows two verbs like this "ayaan/ayaam" and "gidaan/gidaam". So they are quite exceptional. We have opted to include the "n/m" in the suffix complex, which is generally in line with the OPD's approach where the stems are listed as "ayaa" and "gidaa", without the nasal.
 
-We are showing different allomorphs of the prefix depending on if the stem starts in a consonant (ni, gi, o) or a vowel (ind, gid, od). We need to model this in a general way with the other allomoprhs that pop up, and make sure to model Border Lakes specificall. This also goes for the VAIs and VTAs.
+We are showing different allomorphs of the prefix depending on if the stem starts in a consonant (ni, gi, o) or a vowel (ind, gid, od). We need to model this in a general way with the other allomoprhs that pop up, and make sure to model Border Lakes specifically. This also goes for the VAIs and VTAs.
 
 ###################
 ###				###
@@ -87,7 +89,9 @@ For stems that end in "o", the "o" goes to "w" when the suffix complex starts wi
 ShortV-deletion
 Delete word-final short vowels (as in the "o" in "mizho"). This also needs to include the special "i1", since it needs to be there to trigger the palatalization process, but does not show up in the surface form.
 
-NOTES
+NOTES/ISSUES
+
+To deal with the 
 
 "Many vta verbs show an alternation in their final consonant between /n/ and /zh/. The form /zh/ shows up before the 1st-person object theme suffix /-i/, the imperative 1st-person object theme suffix /-ishi/, and the 2nd-person imperative theme suffix, /-i/. Elsewhere the form of the final sound of such verbs is /n/." (https://ojibwegrammar.langsci.wisc.edu/Grammar/HTMLParadigms/vtaNindpos.htm)
 
