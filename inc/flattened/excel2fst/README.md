@@ -42,7 +42,7 @@ foma[1]: ^D
 
 We can query the FST model for a particular stem using the functions in `query.py` (this code depends on the `foma.py` module which is included in the repo).
 
-First, load the FST:
+Load the FST:
 
 ```
 from query import load_fst
@@ -50,7 +50,7 @@ from query import load_fst
 model = load_fst("ojibwe.fomabin")
 ```
 
-Then, we can retrieve all inflected forms and their analyses for a given stem like `zanagad`:
+We can retrieve all inflected forms and their analyses for a given stem like `zanagad`:
 
 ```
 for analysis in query(stem="zanagad", analyzer_fst=model):
