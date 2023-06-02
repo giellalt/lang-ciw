@@ -14,6 +14,16 @@ GENERAL
 ###				###
 ###################
 
+STEM TYPES
+
+From OPD:
+VII Class 1		vii long vowel stems		"michaa", "ate", "gonzaabii"
+VII Class 2		vii short vowel stems		"dakaagami", "inamo"
+VII Class 3A	vii consonant /d/ stems		"zanagad", "atemagad"
+VII Class 3B	vii consonant /n/ stems		"bangisin"
+
+Note that there is quite limited documentation for the VII Class 2 stems. Also, from a query of a dictionary, there seem to be a small set of VII forming "finals" that fall into this class including "-amo" meaning "it is a path", "-po" meaning "it snows/there is snow"  "-aagami" meaning "it is a liquid". A relevant note for Border Lakes from the dictionary: "Most US dialects add n to the final -po when there is no inflectional ending; For example, US zoogipon 'it is snowing' and Border Lakes zoogipo (https://ojibwe.lib.umn.edu/word-part/po-final)."
+
 RULES
 
 d-deletion
@@ -28,6 +38,15 @@ NA
 ###		VAI		###
 ###				###
 ###################
+
+STEM TYPES
+
+From OPD:
+VAI Class 1A	vai long vowel stems		"nibaa", "webinige", "madaabii", "maajibatoo"
+VAI Class 1B	vai short vowel stems		"nimi", "nagamo"
+VAI Class 2A	vai consonant /n/ stems		"washin"
+VAI Class 2B	vai consonant /m/ stems		"minogwam"
+VAI2			vai2 /am/ stems				"zaaga'am"
 
 RULES
 
@@ -48,13 +67,21 @@ NOTES/ISSUES
 There is a process where stem-final short finals are lengthened to the corresponding long vowels in front of the preterit morpheme "-ban". 
 	-SOLUTION: This is modelled by adding the second half of the long vowel in the suffix complex, rather than any sort of rule. Questionable, but it works.
 
-We need to deal with prefix allomorphy (see note in VTIs)
+We need to deal with prefix allomorphy (see note in VTIs).
 
 ###################
 ###				###
 ###		VTI		###
 ###				###
 ###################
+
+STEM TYPES
+
+From OPD:
+VTI1	vti /am/ stems	"waabandam"
+VTI2	vti /oo/ stems	"wanitoon"
+VTI3	vti /i/ stems	"miijin"
+VTI4	vti /aa/ stems	"ayaa"
 
 RULES
 
@@ -64,7 +91,8 @@ Stem-final "m" (as in TI -am stems like "waabandam") is deleted and the penultim
 Nasal assimilation & vowel lengthening
 Stem-final "m" (as in TI -am stems like "waabandam") changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
 
-With TI2 and TI3 stems (and TI4 stems in the independent order, see notes), the stem-final "n" is deleted when the suffix complex starts with a consonant.
+N-deletion
+With TI2 and TI3 stems, the stem-final "n" is deleted when the suffix complex starts with a consonant.
 
 NOTES/ISSUES
 
@@ -79,20 +107,46 @@ We are showing different allomorphs of the prefix depending on if the stem start
 ###				###
 ###################
 
+STEM TYPES
+
+From OPD:
+VTA Class 1	vta consonant stems: 			"waabam"
+VTA Class 2	vta changeable /N/ stems: 		"miin/miizh"
+VTA Class 3	vta changeable /s/ stems: 		"mawadis/mawadish"
+VTA Class 4	vta changeable /Nn/ stems: 		???
+VTA Class 5	vta /aw/ stems: 				"mikaw"
+VTA Class 6	vta consonant-w stems: 			"mizho/mizhw"
+VTA Class 7	vta glottal-w stems: Same as 	"mizho/mizhw"
+VTA Class 8	vta irregular stems: 			???
+
+For the VTA Class 4, I don't have any examples, but from what I can see in the dictionary I found two verbs that fall into this class. "gonzhi" meaning "swallow h/" and "wiinzh" meaning "name h/". There are some example conjugations of each, but more work is needed for me to fully understand this class. From what I see, they are not discussed in Valentine (2001) or in other notes from Nichols that I have.
+
+For Class 8 (irregulars) I also don't have examples. But Valentine (2001:285) mentions one irregular verb "zhi(n)" meaning "say Y to AN". This would correspond to "izhi" in CIW and has underlying stem form "iN". It mostly patterns with Class 2, except it is completely null when there are the inverse theme signs "-igw" and "igoo" (again, see Valentine 2001:285). In the long run, we probably want to just hard code this specific verb into the model.
+
 RULES
 
+aw-to-aa
 For stems that end in "aw", the "aw" goes to "aa" when the suffix complex starts with "g".
+
+aw-to-oo
 For stems that end in "aw", the "aw" goes to "oo" when the suffix complex starts with "n" or "s".
 
-For stems that end in "o", the "o" goes to "w" when the suffix complex starts with "aa"
+w-to-o
+For stems that end in "Cw", the "w" goes to "o" when the suffix complex starts with a consonant.
+
+i1-Palatalization
+Stems ending in "n" palatalize to "zh" and "s" to "sh" when the suffix complex starts with the first person theme sign "i1". Note that it needs to be this specific, since it isn't just any old "i" that triggers palatalization.
 
 ShortV-deletion
-Delete word-final short vowels (as in the "o" in "mizho"). This also needs to include the special "i1", since it needs to be there to trigger the palatalization process, but does not show up in the surface form.
+Delete word-final short vowels (as "i1"). This role MUST FOLLOW i1-Palatalization since it needs to be there to trigger the palatalization process, but does not show up in the surface form.
 
-NOTES/ISSUES
+W-deletion
+Delete word-final "w" (as in "gimizh", 2sg>1sg neutral positive)
 
-To deal with the 
+OTHER NOTES/ISSUES
 
 "Many vta verbs show an alternation in their final consonant between /n/ and /zh/. The form /zh/ shows up before the 1st-person object theme suffix /-i/, the imperative 1st-person object theme suffix /-ishi/, and the 2nd-person imperative theme suffix, /-i/. Elsewhere the form of the final sound of such verbs is /n/." (https://ojibwegrammar.langsci.wisc.edu/Grammar/HTMLParadigms/vtaNindpos.htm)
 
 "A few vta verbs show an alternation in their final consonant between /s/ and /sh/. The form /sh/ shows up before the 1st-person object theme suffix /-i/, the imperative 1st-person object theme suffix /-ishi/, and the 2nd-person imperative theme suffix, /-i/. Elsewhere the form of the final sound of such verbs is /s/. There is only a small number of verbs showing this alternation" (https://ojibwegrammar.langsci.wisc.edu/Grammar/HTMLParadigms/vtaSindpos.htm)
+
+	- SOLUTION: For both of these, we've introduced a special character "i1" and the "i1-Palatalization" rule.
