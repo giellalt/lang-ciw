@@ -22,7 +22,7 @@ import pandas as pd
 VII_analysis = lambda row: "+".join([row["Lexeme"], row["Class"], row["Order"], row["Negation"], row["Mode"], row["Subject"].replace(" ","")])
 VAI_analysis = lambda row: "+".join([row["Lexeme"], row["Class"], row["Order"], row["Negation"], row["Mode"], row["Subject"].replace(" ","")])
 VTI_analysis = lambda row: "+".join([row["Lexeme"], row["Class"], row["Order"], row["Negation"], row["Mode"], row["Subject"], row["Object"].replace(" ","")])
-
+VTA_analysis = lambda row: "+".join([row["Lexeme"], row["Class"], row["Order"], row["Negation"], row["Mode"], row["Subject"], row["Object"].replace(" ","")])
 
 
 def make_yaml(file_name:str, analysis:callable) -> None:
@@ -96,6 +96,7 @@ if __name__ == '__main__':
     group.add_argument('--vii', action='store_true', help="Do analysis for VII verbs.")
     group.add_argument('--vai', action='store_true', help="Do analysis for VAI verbs.")
     group.add_argument('--vti', action='store_true', help="Do analysis for VTI verbs.")
+    group.add_argument('--vta', action='store_true', help="Do analysis for VTA verbs.")
     # Example to add VTA:
     #group.add_argument('--vta', action='store_true', help='Do analysis for VTA verbs.')
 
@@ -107,8 +108,7 @@ if __name__ == '__main__':
         analysis = VAI_analysis
     elif args.vti:
         analysis = VTI_analysis
-    # Example to add VTA:
-    # elif args.vta:
-    #     analysis = VTA_analysis
+    elif args.vta:
+        analysis = VTA_analysis
 
     make_yaml(args.xlsx_path, analysis)
