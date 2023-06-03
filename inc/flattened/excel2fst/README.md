@@ -126,7 +126,9 @@ OUTPUT:
 ('zanagad+VII+Ind+Neg+Prt+0SgProx', 'zanagasinooban')
 ```
 
-If you want to analyze a specific form, it'll be **much faster** to call `apply_up()`:
+## Analysis and generation in python
+
+If you want to analyze a specific form in python, the fastest way is to call `apply_up()`:
 
 ```
 for analysis in model.apply_up("zanagasinooban"):
