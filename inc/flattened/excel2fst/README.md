@@ -128,7 +128,7 @@ OUTPUT:
 
 ## Analysis and generation in python
 
-If you want to analyze a specific form in python, the fastest way is to call `apply_up()`:
+If you want to analyze a specific inflected form in python, the fastest way is to call `apply_up()`:
 
 ```
 for analysis in model.apply_up("zanagasinooban"):
