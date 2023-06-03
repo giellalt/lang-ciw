@@ -61,7 +61,10 @@ def query(*,
                 possibilities = [f'"+{tag}"' for tag in tags]
                 selector += f"[ {' | '.join(possibilities)} ]"
     
-    selector = f"[ {selector} ] / [ {FLAGEXPR} ]"
+    selector = f"[ {selector} ] / [ {FLAGEXPR} ]" # Freely insert flag
+                                                  # diacritics to
+                                                  # query. Needed for
+                                                  # composition.
     selector = FST(selector)
     # Apply query to analyzer_fst and return generator over analyses
     result = selector.compose(analyzer_fst)
@@ -78,6 +81,10 @@ if __name__=="__main__":
     print(f"Model loaded in {1000*(stop_load - start_load)} ms")
     print()
     # Check that query does what it's supposed to
+    print("Find all zanagad inflections")
+    for analysis in query(stem="zanagad", analyzer_fst=model):
+        print(analysis)
+    print()
     print("Find all zanagad inflections where POS=+VII, ORDER=+Ind, SUBJECT=0SgObv|0SgProx")
     for analysis in query(stem="zanagad",
                           analyzer_fst=model,
