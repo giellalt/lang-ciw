@@ -2,6 +2,7 @@ import pandas as pd
 import math
 import click
 import re
+import os
 
 """
 This script is a mess and needs to be refactored.
@@ -152,6 +153,30 @@ def add_ending_entry(stem_type, rflag, row, suffix, flag_lexicons, subclass_lexi
         if tag != "" and tag[0] != "@":
             multichar_symbols.add(f"+{tag}")
 
+def longest_match(line, stem_types):
+    match = [(line.endswith(st), len(st), st) for st in stem_types]
+    match.sort(reverse=True)
+    ismatch, length, st = match[0]
+    if ismatch:
+        return st
+    return None
+
+def read_lexical_database(pos, stem_types, lemma_lexicon):
+    database_fn = os.path.join("data",f"{pos}_stems.lexc")
+    if not os.path.isfile(database_fn):
+        print(f"Lexical database {database_fn} not found. No additional stems will be added")
+        return
+    
+    for line in open(database_fn):
+        line = line.strip()
+        if line.endswith(f"{pos}_StemEndings ;"):
+            lemma = line[:line.find(" ")]
+            stem_type = longest_match(lemma, stem_types)
+            if stem_type == None:
+                print(f"Skip lexical entry: {lemma}. Can't identify stem type")
+            else:
+                lemma_lexicon.add((lemma, f"{lemma}", f"{pos}_{stem_type}_Subclass"))
+            
 @click.command()
 @click.option("--excel_file",required=True)
 @click.option("--lexc_file",required=True)
@@ -180,6 +205,9 @@ def main(excel_file, lexc_file):
     # for the empty prefix are always added.
     multichar_symbols = set(["<<",">>",SET_NO_PREFIX_FLAG,CHECK_NO_PREFIX_FLAG])
 
+    # Collect all stem types
+    stem_types = set()
+    
     # Collect entries from each sheet in the excel file (POS_IND and POS_CNJ)
     for sheet in pd.ExcelFile(excel_file).sheet_names:
         subtable = pd.read_excel(excel_file, sheet)
@@ -196,6 +224,7 @@ def main(excel_file, lexc_file):
                     continue
                 lemma = row["Lexeme"]
                 stem_type = row["Stem"]
+                stem_types.add(stem_type)
                 prefix, stem, suffix = split(form)
 
                 # Skip empty entries
@@ -216,6 +245,8 @@ def main(excel_file, lexc_file):
                 add_ending_entry(stem_type, rflag, row, suffix, flag_lexicons, subclass_lexicons, suffix_lexicons,
                                  multichar_symbols)
 
+    read_lexical_database(pos, stem_types, lemma_lexicon)
+    
     print_lexc(lexc_file, pos, multichar_symbols, prefix_lexicon,
                lemma_lexicon, subclass_lexicons, flag_lexicons,
                wb_lexicons, suffix_lexicons)
