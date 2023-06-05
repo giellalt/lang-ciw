@@ -147,7 +147,12 @@ def add_ending_entry(stem_type, rflag, row, suffix, flag_lexicons, subclass_lexi
     pos = row["Class"]
     flag_lexicons[stem_type].add((rflag,rflag,f"{pos}_{stem_type}_{get_val(rflag)}_WB"))
     subclass_lexicons[stem_type].add(("0",f"+{pos}",f"{pos}_{stem_type}_Flags"))
+
     suffix_tags = f"+{row['Order']}+{row['Negation']}+{row['Mode']}+{row['Subject']}"
+    if 'Object' in row:
+        suffix_tags += f"+{row['Object']}"
+    suffix_tags = escape(suffix_tags)
+    
     suffix_lexicons[(stem_type,rflag)].add((f"{suffix}", suffix_tags))
     for tag in suffix_tags.split("+") + [pos]:
         if tag != "" and tag[0] != "@":
