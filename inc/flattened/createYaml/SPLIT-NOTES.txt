@@ -9,6 +9,11 @@ TO DO:
 	* https://ojibwegrammar.langsci.wisc.edu › Assets › Pdfs › InflAnishPersonPrefixes1.02.pdf
 	* https://ojibwe.lib.umn.edu/main-entry/im-pf
 	* https://ojibwe.lib.umn.edu/main-entry/g-pf
+- Expunge minnesota forms from the yaml and split stem files
+
+ni(d)-
+gi(d)-
+o(d)-
 
 
 GENERAL
@@ -89,8 +94,8 @@ STEM TYPES
 
 From OPD:
 VTI1	vti /am/ stems	"waabandam"
-VTI2	vti /oo/ stems	"wanitoon"
-VTI3	vti /i/ stems	"miijin"
+VTI2	vti /oo/ stems	"wanitoo"
+VTI3	vti /i/ stems	"miiji"
 VTI4	vti /aa/ stems	"ayaa"
 
 RULES
@@ -101,16 +106,13 @@ Stem-final "m" (as in TI -am stems like "waabandam") is deleted and the penultim
 Nasal assimilation & vowel lengthening
 Stem-final "m" (as in TI -am stems like "waabandam") changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
 
-N-deletion
-With TI2 and TI3 stems, the stem-final "n" is deleted when the suffix complex starts with a consonant.
-
 NOTES/ISSUES
 
 The TI4s like "ayaan/ayaam" are a strange bird. We need to see what Border Lakes does, but in Minnesota, according to some notes by Nichols, they behave like the TI1, TI2, and TI3s in the independent order (so as if the stem ends in an "n"), but like the -am regular TIs in the conjunct (so as if the stem ends in "m").
 	- Solution: The OPD shows two verbs like this "ayaan/ayaam" and "gidaan/gidaam". So they are quite exceptional. We have opted to include the "n/m" in the suffix complex, which is generally in line with the OPD's approach where the stems are listed as "ayaa" and "gidaa", without the nasal.
 
 We are showing different allomorphs of the prefix depending on if the stem starts in a consonant (ni, gi, o) or a vowel (ind, gid, od). We need to model this in a general way with the other allomoprhs that pop up, and make sure to model Border Lakes specifically. This also goes for the VAIs and VTAs.
-	- Solutuin: For now, we are just going to model the "d-epenthesis" so "ni" -> "nid", "gi" -> "gid", and "o" -> "od"
+	- Solution: For now, we are just going to model the "d-epenthesis" so "ni" -> "nid", "gi" -> "gid", and "o" -> "od"
 
 ###################
 ###				###
@@ -161,3 +163,47 @@ OTHER NOTES/ISSUES
 "A few vta verbs show an alternation in their final consonant between /s/ and /sh/. The form /sh/ shows up before the 1st-person object theme suffix /-i/, the imperative 1st-person object theme suffix /-ishi/, and the 2nd-person imperative theme suffix, /-i/. Elsewhere the form of the final sound of such verbs is /s/. There is only a small number of verbs showing this alternation" (https://ojibwegrammar.langsci.wisc.edu/Grammar/HTMLParadigms/vtaSindpos.htm)
 
 	- SOLUTION: For both of these, we've introduced a special character "i1" and the "i1-Palatalization" rule.
+
+
+#######################
+###					###
+###		SUMMARY		###
+###					###
+#######################
+
+STEMS
+
+
+RULES
+
+d-deletion
+Delete stem-final "d" when the suffix complex starts with a consonant.
+
+i1-Palatalization
+Stems ending in "n" palatalize to "zh" and "s" to "sh" when the suffix complex starts with the first person theme sign "i1".
+
+ShortV-deletion
+Delete word-final short vowels
+	This rule MUST PRECEED the "w-deletion" rule
+	This role MUST FOLLOW i1-Palatalization.
+
+W-deletion
+Delete word-final "w" (occurs with neutral, positive 3sg; this rule MUST FOLLOW the short-vowel-deletion rule)
+
+M-deletion & vowel lengthening
+Stem-final "m" is deleted and the vowel "a" is elongated to "aa" when the suffix complex starts with "m" or "n" (as in TI -am stems like "waabandam"; VAI2 -am stems "zaaga'am")
+
+M-assimilation & vowel lengthening
+With stems ending in "m", so both -am and -m stems (VAI stems "minongwaam" and "zaaga'am"; VTI stem "waabandam"), the "m" changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
+
+N-deletion
+With TI2 and TI3 stems, the stem-final "n" is deleted when the suffix complex starts with a consonant.
+
+aw-to-aa
+For TA stems that end in "aw", the "aw" goes to "aa" when the suffix complex starts with "g".
+
+aw-to-oo
+For TA stems that end in "aw", the "aw" goes to "oo" when the suffix complex starts with "n" or "s".
+
+w-to-o
+For TA stems that end in "Cw", the "w" goes to "o" when the suffix complex starts with a consonant.
