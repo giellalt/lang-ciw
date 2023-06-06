@@ -196,9 +196,6 @@ Stem-final "m" is deleted and the vowel "a" is elongated to "aa" when the suffix
 M-assimilation & vowel lengthening
 With stems ending in "m", so both -am and -m stems (VAI stems "minongwaam" and "zaaga'am"; VTI stem "waabandam"), the "m" changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
 
-N-deletion
-With TI2 and TI3 stems, the stem-final "n" is deleted when the suffix complex starts with a consonant.
-
 aw-to-aa
 For TA stems that end in "aw", the "aw" goes to "aa" when the suffix complex starts with "g".
 
