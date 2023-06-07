@@ -19,10 +19,10 @@ import pandas as pd
 
 
 
-VII_analysis = lambda row: "+".join([row["Lexeme"], row["Class"], row["Order"], row["Negation"], row["Mode"], row["Subject"].replace(" ","")])
-VAI_analysis = lambda row: "+".join([row["Lexeme"], row["Class"], row["Order"], row["Negation"], row["Mode"], row["Subject"].replace(" ","")])
-VTI_analysis = lambda row: "+".join([row["Lexeme"], row["Class"], row["Order"], row["Negation"], row["Mode"], row["Subject"], row["Object"].replace(" ","")])
-VTA_analysis = lambda row: "+".join([row["Lexeme"], row["Class"], row["Order"], row["Negation"], row["Mode"], row["Subject"], row["Object"].replace(" ","")])
+VII_analysis = lambda row: "+".join([row["Lemma"], row["Paradigm"], row["Order"], row["Negation"], row["Mode"], row["Subject"].replace(" ","")])
+VAI_analysis = lambda row: "+".join([row["Lemma"], row["Paradigm"], row["Order"], row["Negation"], row["Mode"], row["Subject"].replace(" ","")])
+VTI_analysis = lambda row: "+".join([row["Lemma"], row["Paradigm"], row["Order"], row["Negation"], row["Mode"], row["Subject"], row["Object"].replace(" ","")])
+VTA_analysis = lambda row: "+".join([row["Lemma"], row["Paradigm"], row["Order"], row["Negation"], row["Mode"], row["Subject"], row["Object"].replace(" ","")])
 
 
 def make_yaml(file_name:str, analysis:callable) -> None:
@@ -55,8 +55,8 @@ def make_yaml(file_name:str, analysis:callable) -> None:
                 continue
 
             # If the given stem is not in our dictionary yet, add it.
-            if row["Stem"] not in yaml_dict:
-                yaml_dict[row["Stem"]] = []
+            if row["Class"] not in yaml_dict:
+                yaml_dict[row["Class"]] = []
 
             # Check if there is a second form. If there is, create the form in the expected format.
             if type(row["Form2"]) is not float:
@@ -65,7 +65,7 @@ def make_yaml(file_name:str, analysis:callable) -> None:
                 forms = f"{row['Form1']}"
 
             # Add this row to the dictionary appropriately.
-            yaml_dict[row["Stem"]].append(("     "+analysis(row), forms))
+            yaml_dict[row["Class"]].append(("     "+analysis(row), forms))
 
         # For each stem in the dictionary, write it to its own yaml file.
         for key, value in yaml_dict.items():

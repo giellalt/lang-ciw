@@ -43,6 +43,12 @@ Tests:
      waabandam+VTI+Ind+Pos+Dub+3SgProx+0PlO: owaabandaanaadogenan
      waabandam+VTI+Ind+Pos+Dub+3PlProx+0PlO: owaabandaanaawaadogenan
      waabandam+VTI+Ind+Pos+Dub+3SgObv+0PlO: [owaabandaminaadogenan,owaabandaaninaadogenan]
+     waabandam+VTI+Ind+Neg+Dub+Prt+3SgProx+0SgO/0PlO: waabandanziigoban
+     waabandam+VTI+Ind+Neg+Dub+Prt+3PlProx+0SgO/0PlO: waabandanziigwaaban
+     waabandam+VTI+Ind+Neg+Dub+Prt+3SgObv+0SgO/0PlO: waabandanziinigoban
+     waabandam+VTI+Ind+Pos+Dub+Prt+3SgProx+0SgO/0PlO: waabandamogoban
+     waabandam+VTI+Ind+Pos+Dub+Prt+3PlProx+0SgO/0PlO: waabandamogwaaban
+     waabandam+VTI+Ind+Pos+Dub+Prt+3SgObv+0SgO/0PlO: waabandaminigoban
      waabandam+VTI+Ind+Neg+Neu+1Sg+0SgO: niwaabandanziin
      waabandam+VTI+Ind+Neg+Neu+2Sg+0SgO: giwaabandanziin
      waabandam+VTI+Ind+Neg+Neu+Excl+0SgO: niwaabandanziimin
@@ -107,9 +113,3 @@ Tests:
      waabandam+VTI+Ind+Pos+Prt+3SgProx+0PlO: [owaabandaanaabaniin,owaabandaanaabanen]
      waabandam+VTI+Ind+Pos+Prt+3PlProx+0PlO: [owaabandaanaawaabaniin,owaabandaanaawaabanen]
      waabandam+VTI+Ind+Pos+Prt+3SgObv+0PlO: [owaabandaaninaabaniin,owaabandaaninaabanen]
-     waabandam+VTI+Ind+Neg+Dub+Prt+3SgProx+0SgO/0PlO: waabandanziigoban
-     waabandam+VTI+Ind+Neg+Dub+Prt+3PlProx+0SgO/0PlO: waabandanziigwaaban
-     waabandam+VTI+Ind+Neg+Dub+Prt+3SgObv+0SgO/0PlO: waabandanziinigoban
-     waabandam+VTI+Ind+Pos+Dub+Prt+3SgProx+0SgO/0PlO: waabandamogoban
-     waabandam+VTI+Ind+Pos+Dub+Prt+3PlProx+0SgO/0PlO: waabandamogwaaban
-     waabandam+VTI+Ind+Pos+Dub+Prt+3SgObv+0SgO/0PlO: waabandaminigoban

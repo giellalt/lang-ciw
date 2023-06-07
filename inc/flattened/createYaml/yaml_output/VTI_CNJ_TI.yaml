@@ -29,6 +29,24 @@ Tests:
      waabandam+VTI+Cnj+Pos+Dub+3PlProx+0SgO/0PlO: waabandamowaagwen
      waabandam+VTI+Cnj+Pos+Dub+3SgObv+0SgO/0PlO: waabandaminigwen
      waabandam+VTI+Cnj+Pos+Dub+X+0SgO/0PlO: waabandamowiingen
+     waabandam+VTI+Cnj+Neg+Dub+Prt+1Sg+0SgO/0PlO: waabandanziiwaambaanen
+     waabandam+VTI+Cnj+Neg+Dub+Prt+2Sg+0SgO/0PlO: waabandanziiwambanen
+     waabandam+VTI+Cnj+Neg+Dub+Prt+Excl+0SgO/0PlO: waabandanziiwaangibanen
+     waabandam+VTI+Cnj+Neg+Dub+Prt+Incl+0SgO/0PlO: waabandanziiwangibanen
+     waabandam+VTI+Cnj+Neg+Dub+Prt+2Pl+0SgO/0PlO: [waabandanziiwegibanen,waabandanziiwegobanen]
+     waabandam+VTI+Cnj+Neg+Dub+Prt+3SgProx+0SgO/0PlO: waabandanziigobanen
+     waabandam+VTI+Cnj+Neg+Dub+Prt+3PlProx+0SgO/0PlO: waabandanziiwaagobanen
+     waabandam+VTI+Cnj+Neg+Dub+Prt+3SgObv+0SgO/0PlO: waabandanziinigobanen
+     waabandam+VTI+Cnj+Neg+Dub+Prt+X+0SgO/0PlO: waabandanziiwiingibanen
+     waabandam+VTI+Cnj+Pos+Dub+Prt+1Sg+0SgO/0PlO: waabandamowaambaanen
+     waabandam+VTI+Cnj+Pos+Dub+Prt+2Sg+0SgO/0PlO: waabandamowambanen
+     waabandam+VTI+Cnj+Pos+Dub+Prt+Excl+0SgO/0PlO: waabandamowaangibanen
+     waabandam+VTI+Cnj+Pos+Dub+Prt+Incl+0SgO/0PlO: waabandamowangibanen
+     waabandam+VTI+Cnj+Pos+Dub+Prt+2Pl+0SgO/0PlO: [waabandamowegibanen,waabandamowegobanen]
+     waabandam+VTI+Cnj+Pos+Dub+Prt+3SgProx+0SgO/0PlO: waabandamogobanen
+     waabandam+VTI+Cnj+Pos+Dub+Prt+3PlProx+0SgO/0PlO: waabandamowaagobanen
+     waabandam+VTI+Cnj+Pos+Dub+Prt+3SgObv+0SgO/0PlO: waabandaminigobanen
+     waabandam+VTI+Cnj+Pos+Dub+Prt+X+0SgO/0PlO: wabandamowiingibanen
      waabandam+VTI+Cnj+Neg+Neu+1Sg+0SgO/0PlO: waabandanziwaan
      waabandam+VTI+Cnj+Neg+Neu+2Sg+0SgO/0PlO: waabandanziwan
      waabandam+VTI+Cnj+Neg+Neu+Excl+0SgO/0PlO: waabandanziwaang
@@ -65,21 +83,3 @@ Tests:
      waabandam+VTI+Cnj+Pos+Prt+3PlProx+0SgO/0PlO: waabandamowaapan
      waabandam+VTI+Cnj+Pos+Prt+3SgObv+0SgO/0PlO: waabandaminipan
      waabandam+VTI+Cnj+Pos+Prt+X+0SgO/0PlO: waabandamingiban
-     waabandam+VTI+Cnj+Neg+Dub+Prt+1Sg+0SgO/0PlO: waabandanziiwaambaanen
-     waabandam+VTI+Cnj+Neg+Dub+Prt+2Sg+0SgO/0PlO: waabandanziiwambanen
-     waabandam+VTI+Cnj+Neg+Dub+Prt+Excl+0SgO/0PlO: waabandanziiwaangibanen
-     waabandam+VTI+Cnj+Neg+Dub+Prt+Incl+0SgO/0PlO: waabandanziiwangibanen
-     waabandam+VTI+Cnj+Neg+Dub+Prt+2Pl+0SgO/0PlO: [waabandanziiwegibanen,waabandanziiwegobanen]
-     waabandam+VTI+Cnj+Neg+Dub+Prt+3SgProx+0SgO/0PlO: waabandanziigobanen
-     waabandam+VTI+Cnj+Neg+Dub+Prt+3PlProx+0SgO/0PlO: waabandanziiwaagobanen
-     waabandam+VTI+Cnj+Neg+Dub+Prt+3SgObv+0SgO/0PlO: waabandanziinigobanen
-     waabandam+VTI+Cnj+Neg+Dub+Prt+X+0SgO/0PlO: waabandanziiwiingibanen
-     waabandam+VTI+Cnj+Pos+Dub+Prt+1Sg+0SgO/0PlO: waabandamowaambaanen
-     waabandam+VTI+Cnj+Pos+Dub+Prt+2Sg+0SgO/0PlO: waabandamowambanen
-     waabandam+VTI+Cnj+Pos+Dub+Prt+Excl+0SgO/0PlO: waabandamowaangibanen
-     waabandam+VTI+Cnj+Pos+Dub+Prt+Incl+0SgO/0PlO: waabandamowangibanen
-     waabandam+VTI+Cnj+Pos+Dub+Prt+2Pl+0SgO/0PlO: [waabandamowegibanen,waabandamowegobanen]
-     waabandam+VTI+Cnj+Pos+Dub+Prt+3SgProx+0SgO/0PlO: waabandamogobanen
-     waabandam+VTI+Cnj+Pos+Dub+Prt+3PlProx+0SgO/0PlO: waabandamowaagobanen
-     waabandam+VTI+Cnj+Pos+Dub+Prt+3SgObv+0SgO/0PlO: waabandaminigobanen
-     waabandam+VTI+Cnj+Pos+Dub+Prt+X+0SgO/0PlO: wabandamowiingibanen

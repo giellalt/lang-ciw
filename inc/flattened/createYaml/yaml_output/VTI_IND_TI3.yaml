@@ -43,6 +43,12 @@ Tests:
      miijin+VTI+Ind+Pos+Dub+3SgProx+0PlO: omiijinaadogenan
      miijin+VTI+Ind+Pos+Dub+3PlProx+0PlO: omiijinaawaadogenan
      miijin+VTI+Ind+Pos+Dub+3SgObv+0PlO: omiijininaadogenan
+     miijin+VTI+Ind+Neg+Dub+Prt+3SgProx+0SgO/0PlO: miijisiigoban
+     miijin+VTI+Ind+Neg+Dub+Prt+3PlProx+0SgO/0PlO: miijisiigwaaban
+     miijin+VTI+Ind+Neg+Dub+Prt+3SgObv+0SgO/0PlO: miijisiinigoban
+     miijin+VTI+Ind+Pos+Dub+Prt+3SgProx+0SgO/0PlO: miijigoban
+     miijin+VTI+Ind+Pos+Dub+Prt+3PlProx+0SgO/0PlO: miijigwaaban
+     miijin+VTI+Ind+Pos+Dub+Prt+3SgObv+0SgO/0PlO: miijinigoban
      miijin+VTI+Ind+Neg+Neu+1Sg+0SgO: nimiijisiin
      miijin+VTI+Ind+Neg+Neu+2Sg+0SgO: gimiijisiin
      miijin+VTI+Ind+Neg+Neu+Excl+0SgO: nimiijisiimin
@@ -107,9 +113,3 @@ Tests:
      miijin+VTI+Ind+Pos+Prt+3SgProx+0PlO: [omiijinaabaniin,omiijinaabanen]
      miijin+VTI+Ind+Pos+Prt+3PlProx+0PlO: [omiijinaawaabaniin,omiijinaawaabanen]
      miijin+VTI+Ind+Pos+Prt+3SgObv+0PlO: [omiijininaabaniin,omiijininaabanen]
-     miijin+VTI+Ind+Neg+Dub+Prt+3SgProx+0SgO/0PlO: miijisiigoban
-     miijin+VTI+Ind+Neg+Dub+Prt+3PlProx+0SgO/0PlO: miijisiigwaaban
-     miijin+VTI+Ind+Neg+Dub+Prt+3SgObv+0SgO/0PlO: miijisiinigoban
-     miijin+VTI+Ind+Pos+Dub+Prt+3SgProx+0SgO/0PlO: miijigoban
-     miijin+VTI+Ind+Pos+Dub+Prt+3PlProx+0SgO/0PlO: miijigwaaban
-     miijin+VTI+Ind+Pos+Dub+Prt+3SgObv+0SgO/0PlO: miijinigoban
