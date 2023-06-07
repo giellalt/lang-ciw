@@ -91,9 +91,9 @@ STEM TYPES
 
 From OPD:
 VTI1	vti /am/ stems	"waabandam"
-VTI2	vti /oo/ stems	"wanitoo"
-VTI3	vti /i/ stems	"miiji"
-VTI4	vti /aa/ stems	"ayaa"
+VTI2	vti /oo/ stems	"wanitoon"
+VTI3	vti /i/ stems	"miijin"
+VTI4	vti /aa/ stems	"ayaan"
 
 RULES
 
