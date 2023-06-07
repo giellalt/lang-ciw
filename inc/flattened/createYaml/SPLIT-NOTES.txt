@@ -3,6 +3,7 @@ By: Christopher Hammerly
 
 TO DO:
 
+- Change the non-VTA -am stems so the -am/-aa/-aan (the VAI2s and VTI1s) is part of the suffix not the stem. Delete the two rules associated with these alternations. This puts it in line with how the stems are represented in the dictionary.
 - Investigate Prt+Dub forms in all paradigms
 - General rule audit to ensure there is no clashing
 - Person prefixes triggering changes to the stem (e.g. stems starting with "o" lengthen to "oo") and prefix rules in general.
@@ -60,8 +61,8 @@ From OPD:
 VAI Class 1A	vai long vowel stems		"nibaa", "webinige", "madaabii", "maajibatoo"
 VAI Class 1B	vai short vowel stems		"nimi", "nagamo"
 VAI Class 2A	vai consonant /n/ stems		"washin"
-VAI Class 2B	vai consonant /m/ stems		"minogwam"
-VAI2			vai2 /am/ stems				"zaaga'am"
+VAI Class 2B	vai consonant /m/ stems		"minogwaam"
+VAI2			vai2 /am/ stems				"zaaga'"
 
 RULES
 
@@ -71,16 +72,12 @@ Delete word-final short vowels ("i" and "o" as in "niimi" and "nagamo"; this rul
 W-deletion
 Delete word-final "w" (occurs with neutral, positive 3sg; this rule MUST FOLLOW the short-vowel-deletion rule)
 
-Nasal deletion & vowel lengthening
-With -am stems ("zaaga'am"), the stem-final "m" is deleted and the vowel "a" is elongated to "aa" when the suffix complex starts with "m" or "n"
-
-Nasal assimilation & vowel lengthening
-With stems ending in "m", so both -am and -m stems ("minongwaam" and "zaaga'am"), the "m" changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
-
 NOTES/ISSUES
 
 There is a process where stem-final short finals are lengthened to the corresponding long vowels in front of the preterit morpheme "-ban". 
 	-SOLUTION: This is modelled by adding the second half of the long vowel in the suffix complex, rather than any sort of rule. Questionable, but it works.
+
+The VAI2's (the -am stems) are now modelled by the -am/-aan/-aa as part of the suffix complex.
 
 We need to deal with prefix allomorphy (see note in VTIs).
 
@@ -100,13 +97,11 @@ VTI4	vti /aa/ stems	"ayaa"
 
 RULES
 
-Nasal deletion & vowel lengthening
-Stem-final "m" (as in TI -am stems like "waabandam") is deleted and the penultimate vowel "a" is elongated to "aa" when the suffix complex starts with "m" or "n"
-
-Nasal assimilation & vowel lengthening
-Stem-final "m" (as in TI -am stems like "waabandam") changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
+NA
 
 NOTES/ISSUES
+
+The TI1's (the -am stems) are now modelled by the -am/-aan/-aa as part of the suffix complex.
 
 The TI4s like "ayaan/ayaam" are a strange bird. We need to see what Border Lakes does, but in Minnesota, according to some notes by Nichols, they behave like the TI1, TI2, and TI3s in the independent order (so as if the stem ends in an "n"), but like the -am regular TIs in the conjunct (so as if the stem ends in "m").
 	- Solution: The OPD shows two verbs like this "ayaan/ayaam" and "gidaan/gidaam". So they are quite exceptional. We have opted to include the "n/m" in the suffix complex, which is generally in line with the OPD's approach where the stems are listed as "ayaa" and "gidaa", without the nasal.
@@ -190,12 +185,6 @@ Delete word-final short vowels
 W-deletion
 Delete word-final "w" (occurs with neutral, positive 3sg; this rule MUST FOLLOW the short-vowel-deletion rule)
 
-M-deletion & vowel lengthening
-Stem-final "m" is deleted and the vowel "a" is elongated to "aa" when the suffix complex starts with "m" or "n" (as in TI -am stems like "waabandam"; VAI2 -am stems "zaaga'am")
-
-M-assimilation & vowel lengthening
-With stems ending in "m", so both -am and -m stems (VAI stems "minongwaam" and "zaaga'am"; VTI stem "waabandam"), the "m" changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
-
 aw-to-aa
 For TA stems that end in "aw", the "aw" goes to "aa" when the suffix complex starts with "g".
 
@@ -204,3 +193,12 @@ For TA stems that end in "aw", the "aw" goes to "oo" when the suffix complex sta
 
 w-to-o
 For TA stems that end in "Cw", the "w" goes to "o" when the suffix complex starts with a consonant.
+
+
+OLD RULES (defunct)
+
+M-deletion & vowel lengthening
+Stem-final "m" is deleted and the vowel "a" is elongated to "aa" when the suffix complex starts with "m" or "n" (as in TI -am stems like "waabandam"; VAI2 -am stems "zaaga'am")
+
+M-assimilation & vowel lengthening
+With stems ending in "m", so both -am and -m stems (VAI stems "minongwaam" and "zaaga'am"; VTI stem "waabandam"), the "m" changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
