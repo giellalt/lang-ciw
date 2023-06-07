@@ -166,10 +166,39 @@ OTHER NOTES/ISSUES
 ###					###
 #######################
 
-STEMS
+STEM CLASSES
 
+NICHOLS CLASS 	CODE		DESCRIPTION						EXAMPLE(S) (FROM YAMLS)
+	
+VII1			VII_VV		vii long vowel stems			"michaa", "ate", "gonzaabii"
+VII2			VII_V		vii short vowel stems			"dakaagami", "inamo"
+VII3A			VII_d		vii consonant /d/ stems			"zanagad", "atemagad"
+VII3B			VII_n		vii consonant /n/ stems			"bangisin"
+		
+VAI1A			VAI_VV		vai long vowel stems			"nibaa", "webinige", "madaabii", "maajibatoo"
+VAI1B			VAI_V		vai short vowel stems			"nimi", "nagamo"
+VAI2A			VAI_n		vai consonant /n/ stems			"washin"
+VAI2B			VAI_m		vai consonant /m/ stems			"minogwaam"
+VAI2			VAI_am		vai2 /am/ stems					"zaaga'"
+		
+VTI1			VTI_am		vti /am/ stems					"waabandam"
+VTI2			VTI_oo		vti /oo/ stems					"wanitoo"
+VTI3			VTI_i		vti /i/ stems					"miiji"
+VTI4			VTI_aa		vti /aa/ stems					"ayaa"
+	
+VTA1			VTA_C		vta consonant stems: 			"waabam"
+VTA2			VTA_n		vta changeable /N/ stems: 		"miin/miizh"
+VTA3			VTA_s		vta changeable /s/ stems: 		"mawadis/mawadish"
+VTA4			???			vta changeable /Nn/ stems: 		???
+VTA5			VTA_aw		vta /aw/ stems: 				"mikaw"
+VTA6			VTA_Cw		vta consonant-w stems: 			"mizho/mizhw"
+VTA8			???			vta irregular stems: 			???
 
-RULES
+PREFIX RULES
+
+TBD
+
+SUFFIX RULES
 
 d-deletion
 Delete stem-final "d" when the suffix complex starts with a consonant.
