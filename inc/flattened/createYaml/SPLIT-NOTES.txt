@@ -179,19 +179,19 @@ VAI1A			VAI_VV		vai long vowel stems			"nibaa", "webinige", "madaabii", "maajiba
 VAI1B			VAI_V		vai short vowel stems			"nimi", "nagamo"
 VAI2A			VAI_n		vai consonant /n/ stems			"washin"
 VAI2B			VAI_m		vai consonant /m/ stems			"minogwaam"
-VAI2			VAI_am		vai2 /am/ stems					"zaaga'"
+VAI2			VAI_am		vai2 /am/ stems					"zaaga'am"
 		
 VTI1			VTI_am		vti /am/ stems					"waabandam"
-VTI2			VTI_oo		vti /oo/ stems					"wanitoo"
-VTI3			VTI_i		vti /i/ stems					"miiji"
-VTI4			VTI_aa		vti /aa/ stems					"ayaa"
+VTI2			VTI_oo		vti /oo/ stems					"wanitoon"
+VTI3			VTI_i		vti /i/ stems					"miijin"
+VTI4			VTI_aa		vti /aa/ stems					"ayaan"
 	
 VTA1			VTA_C		vta consonant stems: 			"waabam"
-VTA2			VTA_n		vta changeable /N/ stems: 		"miin/miizh"
-VTA3			VTA_s		vta changeable /s/ stems: 		"mawadis/mawadish"
+VTA2			VTA_n		vta changeable /N/ stems: 		"miizh"
+VTA3			VTA_s		vta changeable /s/ stems: 		"mawadish"
 VTA4			???			vta changeable /Nn/ stems: 		???
 VTA5			VTA_aw		vta /aw/ stems: 				"mikaw"
-VTA6			VTA_Cw		vta consonant-w stems: 			"mizho/mizhw"
+VTA6			VTA_Cw		vta consonant-w stems: 			"mizho"
 VTA8			???			vta irregular stems: 			???
 
 PREFIX RULES
