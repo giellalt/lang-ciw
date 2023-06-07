@@ -3,19 +3,8 @@ By: Christopher Hammerly
 
 TO DO:
 
-- Change the non-VTA -am stems so the -am/-aa/-aan (the VAI2s and VTI1s) is part of the suffix not the stem. Delete the two rules associated with these alternations. This puts it in line with how the stems are represented in the dictionary.
 - Investigate Prt+Dub forms in all paradigms
-- General rule audit to ensure there is no clashing
-- Person prefixes triggering changes to the stem (e.g. stems starting with "o" lengthen to "oo") and prefix rules in general.
-	* https://ojibwegrammar.langsci.wisc.edu › Assets › Pdfs › InflAnishPersonPrefixes1.02.pdf
-	* https://ojibwe.lib.umn.edu/main-entry/im-pf
-	* https://ojibwe.lib.umn.edu/main-entry/g-pf
 - Expunge minnesota forms from the yaml and split stem files
-
-ni(d)-
-gi(d)-
-o(d)-
-
 
 GENERAL
 
@@ -196,7 +185,24 @@ VTA8			???			vta irregular stems: 			???
 
 PREFIX RULES
 
-TBD
+- Person prefixes triggering changes to the stem (e.g. stems starting with "o" lengthen to "oo") and prefix rules in general.
+	* https://ojibwegrammar.langsci.wisc.edu › Assets › Pdfs › InflAnishPersonPrefixes1.02.pdf
+	* https://ojibwe.lib.umn.edu/main-entry/im-pf
+	* https://ojibwe.lib.umn.edu/main-entry/g-pf
+
+ni(d/m/n)-
+	ni- before m, n, w, p, t, k, s, sh
+	nim- before b
+	nin- d, j, z, zh, g
+	nid- before vowels
+
+gi(d)-
+	gi- before consonants
+	gid- before vowels
+
+o(d)-
+	o- before consonants
+	od- before vowels
 
 SUFFIX RULES
 
