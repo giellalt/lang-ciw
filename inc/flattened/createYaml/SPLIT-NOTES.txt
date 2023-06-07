@@ -62,7 +62,7 @@ VAI Class 1A	vai long vowel stems		"nibaa", "webinige", "madaabii", "maajibatoo"
 VAI Class 1B	vai short vowel stems		"nimi", "nagamo"
 VAI Class 2A	vai consonant /n/ stems		"washin"
 VAI Class 2B	vai consonant /m/ stems		"minogwaam"
-VAI2			vai2 /am/ stems				"zaaga'"
+VAI2			vai2 /am/ stems				"zaaga'am"
 
 RULES
 
@@ -119,12 +119,12 @@ STEM TYPES
 
 From OPD:
 VTA Class 1	vta consonant stems: 			"waabam"
-VTA Class 2	vta changeable /N/ stems: 		"miin/miizh"
-VTA Class 3	vta changeable /s/ stems: 		"mawadis/mawadish"
+VTA Class 2	vta changeable /N/ stems: 		"miizh"
+VTA Class 3	vta changeable /s/ stems: 		"mawadish"
 VTA Class 4	vta changeable /Nn/ stems: 		???
 VTA Class 5	vta /aw/ stems: 				"mikaw"
-VTA Class 6	vta consonant-w stems: 			"mizho/mizhw"
-VTA Class 7	vta glottal-w stems: Same as 	"mizho/mizhw"
+VTA Class 6	vta consonant-w stems: 			"mizho"
+VTA Class 7	vta glottal-w stems: 			Same as "mizho"
 VTA Class 8	vta irregular stems: 			???
 
 For the VTA Class 4, I don't have any examples, but from what I can see in the dictionary I found two verbs that fall into this class. "gonzhi" meaning "swallow h/" and "wiinzh" meaning "name h/". There are some example conjugations of each, but more work is needed for me to fully understand this class. From what I see, they are not discussed in Valentine (2001) or in other notes from Nichols that I have.
@@ -191,7 +191,7 @@ VTA2			VTA_n		vta changeable /N/ stems: 		"miizh"
 VTA3			VTA_s		vta changeable /s/ stems: 		"mawadish"
 VTA4			???			vta changeable /Nn/ stems: 		???
 VTA5			VTA_aw		vta /aw/ stems: 				"mikaw"
-VTA6			VTA_Cw		vta consonant-w stems: 			"mizho"
+VTA6/7			VTA_Cw		vta consonant-w stems: 			"mizho"
 VTA8			???			vta irregular stems: 			???
 
 PREFIX RULES
