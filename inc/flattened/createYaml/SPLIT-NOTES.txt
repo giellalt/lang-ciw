@@ -204,6 +204,9 @@ o(d)-
 	o- before consonants
 	od- before vowels
 
+o-to-oo-lengthening
+If a stem starting with "o" is immediately preceded by a prefix, lengthen "o" to "oo" (and epthensize the "d" on the prefix like normal). 
+
 SUFFIX RULES
 
 d-deletion
