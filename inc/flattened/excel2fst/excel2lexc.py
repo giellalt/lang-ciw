@@ -225,7 +225,8 @@ def main(excel_file, lexc_file):
             row["Subject"] = escape(row["Subject"])
             pos = row["Paradigm"]
 
-            prefix_wb_lexicon.add((escape("<<"),"0",f"{pos}_Stems"))
+            #prefix_wb_lexicon.add((escape("<<"),"0",f"{pos}_Stems"))
+            prefix_wb_lexicon.add((escape("<<"),escape("<<"),f"{pos}_Stems"))
             # Empty prefix is always possible so we'll add a flag sublexicon entry.
             #prefix_lexicon.add((SET_NO_PREFIX_FLAG, SET_NO_PREFIX_FLAG,f"{pos}_Stems"))
             # There may be up to 4 forms on the same row

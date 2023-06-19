@@ -1,21 +1,28 @@
 ! There are flags at morpheme boundaries.
 set flag-is-epsilon ON
 
-define Sigma [ a | b | c | d | e | g | h | i | k | m | n | o | s | t | w | z ] ;
-define Cons [ b | c | d | g | h | k | m | n | s | t | w | z ] ;
+define Sigma [ a | b | c | d | e | g | h | i | k | m | n | o | s | t | w | y | z ] ;
+define Cons [ b | c | d | g | h | k | m | n | s | t | w | y | z ] ;
 define Vowel [ a | e | i | o ] ;
 
 define dDeletion d -> 0 || _ ">>" Cons ;
 
-define amRule1 m -> a || "'" a _ ">>" [m|n] ;
+define amRule1 m -> a || a _ ">>" [m|n] ;
 
 define amRule2 m -> n || a _ ">>" [z|g] ;
 
-define nDeletion n -> 0 || _ ">>" [s|m|w|p|y|n] ;
+define nDeletion n -> 0 || [ i | o o ] _ ">>" Cons ;
 
 define vowelDeletion [ Vowel - e ] -> 0 || Cons _ ">>" .#. ;
 
 define wDeletion w -> 0 || _ (">>") .#. ;
+
+! Sources:
+! https://ojibwe.lib.umn.edu/main-entry/g-pf
+! https://ojibwe.lib.umn.edu/main-entry/g-pf
+! https://ojibwegrammar.langsci.wisc.edu/Assets/Pdfs/InflAnishPersonPrefixes1.02.pdf
+define PrefixDInsertion [..] -> d || [i|o] _ "<<" Vowel ;
+define PrefixOLengthening o -> {oo} || [i|o] d "<<" _ ; 
 
 define cleanUp ["<<"|">>"] -> 0 ; 
 
@@ -28,9 +35,17 @@ define VAILexicon ;
 read lexc VTI.lexc
 define VTILexicon ;
 
-define Lexicon [ VIILexicon |
+read lexc verb_prefixes.lexc
+define Prefixes ;
+define Prefixes Prefixes "<<" ;
+
+regex [ VIILexicon |
                  VAILexicon |
-		 VTILexicon ] ;
+	         VTILexicon ] ;
+
+substitute defined Prefixes for "<<"
+random-pairs
+define Lexicon ;
 
 read regex Lexicon .o. [ dDeletion .o.
      	   	         amRule1 .o.
@@ -38,6 +53,8 @@ read regex Lexicon .o. [ dDeletion .o.
 			 vowelDeletion .o.
 			 wDeletion .o.
 			 nDeletion .o.
+			 PrefixDInsertion .o.
+			 PrefixOLengthening .o.
      	   	         cleanUp ] ;
 
 save stack ojibwe.fomabin
