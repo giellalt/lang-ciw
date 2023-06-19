@@ -1,6 +1,20 @@
 !#####
 !{Prefixes
 !#####
+
+Multichar_Symbols 
+@P.Ccnj.Yes@
+@P.Order.Cnj@
+@D.Order@
+@P.Order.Cnj@
+@D.Ccnj@
+@R.Ccnj@
+%<%<
+%>%>
+
+LEXICON Root
+V_PREFIXES ;
+
 LEXICON V_PREFIXES
 !1+:ni%<   V_FIRST_PERSON_SET ;
 !2+:gi%<   V_SECOND_PERSON_SET ;

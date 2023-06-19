@@ -1,5 +1,5 @@
 Multichar_Symbols
-+Ind +%0SgObv +Cnj +VII %<%< @R.Prefix.NONE@ @P.Prefix.NONE@ +Neu +Pos +%0PlProx +%0PlObv +Prt +%0SgProx/%0PlProx +Dub +%0SgProx +%0SgObv/%0PlObv %>%> +Neg
+@R.Prefix.NONE@ +%0PlProx +%0SgProx/%0PlProx +Cnj +%0SgObv +Neg +%0SgObv/%0PlObv +%0PlObv %<%< +Ind @P.Prefix.NONE@ %>%> +Prt +VII +Dub +%0SgProx +Pos +Neu
 
 LEXICON Root
 VII_Prefix ;
@@ -8,7 +8,7 @@ LEXICON VII_Prefix
 @P.Prefix.NONE@ VII_Prefix_WB ;
 
 LEXICON VII_Prefix_WB
-0:%<%< VII_Stems ;
+%<%< VII_Stems ;
 
 LEXICON VII_Stems
 ate VII_e_Subclass ;
