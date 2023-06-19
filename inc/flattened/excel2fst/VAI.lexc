@@ -1,5 +1,5 @@
 Multichar_Symbols
-+Dub +Incl +3PlProx +VAI +3SgObv @R.Prefix.gi@ +Prt @P.Prefix.gi@ +Cnj +Ind @P.Prefix.NONE@ %>%> +X +1Sg +2Pl +Excl +Neu +2Sg +Pos +3PlObv @P.Prefix.ni@ %<%< @R.Prefix.NONE@ +Neg +3SgProx @R.Prefix.ni@
++VAI @R.Prefix.ni@ +Dub +Prt +1Sg @P.Prefix.gi@ +Ind +Neg @P.Prefix.NONE@ +Incl +X +2Pl %>%> @R.Prefix.gi@ +3SgProx +Neu +3PlObv @R.Prefix.NONE@ @P.Prefix.ni@ +Pos %<%< +Cnj +2Sg +Excl +3PlProx +3SgObv
 
 LEXICON Root
 VAI_Prefix ;
@@ -36,24 +36,6 @@ LEXICON VAI_aa_Flags
 @R.Prefix.NONE@ VAI_aa_NONE_WB ;
 @R.Prefix.gi@ VAI_aa_gi_WB ;
 @R.Prefix.ni@ VAI_aa_ni_WB ;
-
-LEXICON VAI_aa_ni_WB
-0:%>%> VAI_aa_ni_Endings ;
-
-LEXICON VAI_aa_ni_Endings
-+Ind+Neg+Dub+1Sg:siinaadog # ;
-+Ind+Neg+Dub+Excl:siiminaadog # ;
-+Ind+Neg+Neu+1Sg:sii # ;
-+Ind+Neg+Neu+1Sg:siin # ;
-+Ind+Neg+Neu+Excl:siimin # ;
-+Ind+Neg+Prt+1Sg:siinaaban # ;
-+Ind+Neg+Prt+Excl:siiminaaban # ;
-+Ind+Pos+Dub+1Sg:naadog # ;
-+Ind+Pos+Dub+Excl:minaadog # ;
-+Ind+Pos+Neu+1Sg: # ;
-+Ind+Pos+Neu+Excl:min # ;
-+Ind+Pos+Prt+1Sg:naaban # ;
-+Ind+Pos+Prt+Excl:minaaban # ;
 
 LEXICON VAI_aa_NONE_WB
 0:%>%> VAI_aa_NONE_Endings ;
@@ -189,6 +171,24 @@ LEXICON VAI_aa_NONE_Endings
 +Ind+Pos+Prt+3SgProx:ban # ;
 +Ind+Pos+Prt+X:mwaaban # ;
 
+LEXICON VAI_aa_ni_WB
+0:%>%> VAI_aa_ni_Endings ;
+
+LEXICON VAI_aa_ni_Endings
++Ind+Neg+Dub+1Sg:siinaadog # ;
++Ind+Neg+Dub+Excl:siiminaadog # ;
++Ind+Neg+Neu+1Sg:sii # ;
++Ind+Neg+Neu+1Sg:siin # ;
++Ind+Neg+Neu+Excl:siimin # ;
++Ind+Neg+Prt+1Sg:siinaaban # ;
++Ind+Neg+Prt+Excl:siiminaaban # ;
++Ind+Pos+Dub+1Sg:naadog # ;
++Ind+Pos+Dub+Excl:minaadog # ;
++Ind+Pos+Neu+1Sg: # ;
++Ind+Pos+Neu+Excl:min # ;
++Ind+Pos+Prt+1Sg:naaban # ;
++Ind+Pos+Prt+Excl:minaaban # ;
+
 LEXICON VAI_aa_gi_WB
 0:%>%> VAI_aa_gi_Endings ;
 
@@ -226,6 +226,30 @@ LEXICON VAI_e_Flags
 @R.Prefix.NONE@ VAI_e_NONE_WB ;
 @R.Prefix.gi@ VAI_e_gi_WB ;
 @R.Prefix.ni@ VAI_e_ni_WB ;
+
+LEXICON VAI_e_gi_WB
+0:%>%> VAI_e_gi_Endings ;
+
+LEXICON VAI_e_gi_Endings
++Ind+Neg+Dub+2Pl:siimwaadog # ;
++Ind+Neg+Dub+2Sg:siinaadog # ;
++Ind+Neg+Dub+Incl:siiminaadog # ;
++Ind+Neg+Neu+2Pl:siim # ;
++Ind+Neg+Neu+2Sg:sii # ;
++Ind+Neg+Neu+2Sg:siin # ;
++Ind+Neg+Neu+Incl:siimin # ;
++Ind+Neg+Prt+2Pl:siimwaaban # ;
++Ind+Neg+Prt+2Sg:siinaaban # ;
++Ind+Neg+Prt+Incl:siiminaaban # ;
++Ind+Pos+Dub+2Pl:mwaadog # ;
++Ind+Pos+Dub+2Sg:naadog # ;
++Ind+Pos+Dub+Incl:minaadog # ;
++Ind+Pos+Neu+2Pl:m # ;
++Ind+Pos+Neu+2Sg: # ;
++Ind+Pos+Neu+Incl:min # ;
++Ind+Pos+Prt+2Pl:mwaaban # ;
++Ind+Pos+Prt+2Sg:naaban # ;
++Ind+Pos+Prt+Incl:minaaban # ;
 
 LEXICON VAI_e_ni_WB
 0:%>%> VAI_e_ni_Endings ;
@@ -379,30 +403,6 @@ LEXICON VAI_e_NONE_Endings
 +Ind+Pos+Prt+3SgProx:ban # ;
 +Ind+Pos+Prt+X:mwaaban # ;
 
-LEXICON VAI_e_gi_WB
-0:%>%> VAI_e_gi_Endings ;
-
-LEXICON VAI_e_gi_Endings
-+Ind+Neg+Dub+2Pl:siimwaadog # ;
-+Ind+Neg+Dub+2Sg:siinaadog # ;
-+Ind+Neg+Dub+Incl:siiminaadog # ;
-+Ind+Neg+Neu+2Pl:siim # ;
-+Ind+Neg+Neu+2Sg:sii # ;
-+Ind+Neg+Neu+2Sg:siin # ;
-+Ind+Neg+Neu+Incl:siimin # ;
-+Ind+Neg+Prt+2Pl:siimwaaban # ;
-+Ind+Neg+Prt+2Sg:siinaaban # ;
-+Ind+Neg+Prt+Incl:siiminaaban # ;
-+Ind+Pos+Dub+2Pl:mwaadog # ;
-+Ind+Pos+Dub+2Sg:naadog # ;
-+Ind+Pos+Dub+Incl:minaadog # ;
-+Ind+Pos+Neu+2Pl:m # ;
-+Ind+Pos+Neu+2Sg: # ;
-+Ind+Pos+Neu+Incl:min # ;
-+Ind+Pos+Prt+2Pl:mwaaban # ;
-+Ind+Pos+Prt+2Sg:naaban # ;
-+Ind+Pos+Prt+Incl:minaaban # ;
-
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!                                               !!
 !!   Endings: Verb Class = VAI, Stem Type = ii   !!
@@ -416,24 +416,6 @@ LEXICON VAI_ii_Flags
 @R.Prefix.NONE@ VAI_ii_NONE_WB ;
 @R.Prefix.gi@ VAI_ii_gi_WB ;
 @R.Prefix.ni@ VAI_ii_ni_WB ;
-
-LEXICON VAI_ii_ni_WB
-0:%>%> VAI_ii_ni_Endings ;
-
-LEXICON VAI_ii_ni_Endings
-+Ind+Neg+Dub+1Sg:siinaadog # ;
-+Ind+Neg+Dub+Excl:siiminaadog # ;
-+Ind+Neg+Neu+1Sg:sii # ;
-+Ind+Neg+Neu+1Sg:siin # ;
-+Ind+Neg+Neu+Excl:siimin # ;
-+Ind+Neg+Prt+1Sg:siinaaban # ;
-+Ind+Neg+Prt+Excl:siiminaaban # ;
-+Ind+Pos+Dub+1Sg:naadog # ;
-+Ind+Pos+Dub+Excl:minaadog # ;
-+Ind+Pos+Neu+1Sg: # ;
-+Ind+Pos+Neu+Excl:min # ;
-+Ind+Pos+Prt+1Sg:naaban # ;
-+Ind+Pos+Prt+Excl:minaaban # ;
 
 LEXICON VAI_ii_NONE_WB
 0:%>%> VAI_ii_NONE_Endings ;
@@ -568,6 +550,24 @@ LEXICON VAI_ii_NONE_Endings
 +Ind+Pos+Prt+3SgProx:ban # ;
 +Ind+Pos+Prt+X:mwaaban # ;
 
+LEXICON VAI_ii_ni_WB
+0:%>%> VAI_ii_ni_Endings ;
+
+LEXICON VAI_ii_ni_Endings
++Ind+Neg+Dub+1Sg:siinaadog # ;
++Ind+Neg+Dub+Excl:siiminaadog # ;
++Ind+Neg+Neu+1Sg:sii # ;
++Ind+Neg+Neu+1Sg:siin # ;
++Ind+Neg+Neu+Excl:siimin # ;
++Ind+Neg+Prt+1Sg:siinaaban # ;
++Ind+Neg+Prt+Excl:siiminaaban # ;
++Ind+Pos+Dub+1Sg:naadog # ;
++Ind+Pos+Dub+Excl:minaadog # ;
++Ind+Pos+Neu+1Sg: # ;
++Ind+Pos+Neu+Excl:min # ;
++Ind+Pos+Prt+1Sg:naaban # ;
++Ind+Pos+Prt+Excl:minaaban # ;
+
 LEXICON VAI_ii_gi_WB
 0:%>%> VAI_ii_gi_Endings ;
 
@@ -606,6 +606,24 @@ LEXICON VAI_oo_Flags
 @R.Prefix.gi@ VAI_oo_gi_WB ;
 @R.Prefix.ni@ VAI_oo_ni_WB ;
 
+LEXICON VAI_oo_ni_WB
+0:%>%> VAI_oo_ni_Endings ;
+
+LEXICON VAI_oo_ni_Endings
++Ind+Neg+Dub+1Sg:siinaadog # ;
++Ind+Neg+Dub+Excl:siiminaadog # ;
++Ind+Neg+Neu+1Sg:sii # ;
++Ind+Neg+Neu+1Sg:siin # ;
++Ind+Neg+Neu+Excl:siimin # ;
++Ind+Neg+Prt+1Sg:siinaaban # ;
++Ind+Neg+Prt+Excl:siiminaaban # ;
++Ind+Pos+Dub+1Sg:naadog # ;
++Ind+Pos+Dub+Excl:minaadog # ;
++Ind+Pos+Neu+1Sg: # ;
++Ind+Pos+Neu+Excl:min # ;
++Ind+Pos+Prt+1Sg:naaban # ;
++Ind+Pos+Prt+Excl:minaaban # ;
+
 LEXICON VAI_oo_gi_WB
 0:%>%> VAI_oo_gi_Endings ;
 
@@ -629,24 +647,6 @@ LEXICON VAI_oo_gi_Endings
 +Ind+Pos+Prt+2Pl:mwaaban # ;
 +Ind+Pos+Prt+2Sg:naaban # ;
 +Ind+Pos+Prt+Incl:minaaban # ;
-
-LEXICON VAI_oo_ni_WB
-0:%>%> VAI_oo_ni_Endings ;
-
-LEXICON VAI_oo_ni_Endings
-+Ind+Neg+Dub+1Sg:siinaadog # ;
-+Ind+Neg+Dub+Excl:siiminaadog # ;
-+Ind+Neg+Neu+1Sg:sii # ;
-+Ind+Neg+Neu+1Sg:siin # ;
-+Ind+Neg+Neu+Excl:siimin # ;
-+Ind+Neg+Prt+1Sg:siinaaban # ;
-+Ind+Neg+Prt+Excl:siiminaaban # ;
-+Ind+Pos+Dub+1Sg:naadog # ;
-+Ind+Pos+Dub+Excl:minaadog # ;
-+Ind+Pos+Neu+1Sg: # ;
-+Ind+Pos+Neu+Excl:min # ;
-+Ind+Pos+Prt+1Sg:naaban # ;
-+Ind+Pos+Prt+Excl:minaaban # ;
 
 LEXICON VAI_oo_NONE_WB
 0:%>%> VAI_oo_NONE_Endings ;
@@ -990,30 +990,6 @@ LEXICON VAI_o_Flags
 @R.Prefix.gi@ VAI_o_gi_WB ;
 @R.Prefix.ni@ VAI_o_ni_WB ;
 
-LEXICON VAI_o_gi_WB
-0:%>%> VAI_o_gi_Endings ;
-
-LEXICON VAI_o_gi_Endings
-+Ind+Neg+Dub+2Pl:siimwaadog # ;
-+Ind+Neg+Dub+2Sg:siinaadog # ;
-+Ind+Neg+Dub+Incl:siiminaadog # ;
-+Ind+Neg+Neu+2Pl:siim # ;
-+Ind+Neg+Neu+2Sg:sii # ;
-+Ind+Neg+Neu+2Sg:siin # ;
-+Ind+Neg+Neu+Incl:siimin # ;
-+Ind+Neg+Prt+2Pl:siimwaaban # ;
-+Ind+Neg+Prt+2Sg:siinaaban # ;
-+Ind+Neg+Prt+Incl:siiminaaban # ;
-+Ind+Pos+Dub+2Pl:mwaadog # ;
-+Ind+Pos+Dub+2Sg:naadog # ;
-+Ind+Pos+Dub+Incl:minaadog # ;
-+Ind+Pos+Neu+2Pl:m # ;
-+Ind+Pos+Neu+2Sg: # ;
-+Ind+Pos+Neu+Incl:min # ;
-+Ind+Pos+Prt+2Pl:mwaaban # ;
-+Ind+Pos+Prt+2Sg:naaban # ;
-+Ind+Pos+Prt+Incl:minaaban # ;
-
 LEXICON VAI_o_NONE_WB
 0:%>%> VAI_o_NONE_Endings ;
 
@@ -1152,6 +1128,30 @@ LEXICON VAI_o_NONE_Endings
 +Ind+Pos+Prt+3SgProx:oban # ;
 +Ind+Pos+Prt+X:mwaaban # ;
 
+LEXICON VAI_o_gi_WB
+0:%>%> VAI_o_gi_Endings ;
+
+LEXICON VAI_o_gi_Endings
++Ind+Neg+Dub+2Pl:siimwaadog # ;
++Ind+Neg+Dub+2Sg:siinaadog # ;
++Ind+Neg+Dub+Incl:siiminaadog # ;
++Ind+Neg+Neu+2Pl:siim # ;
++Ind+Neg+Neu+2Sg:sii # ;
++Ind+Neg+Neu+2Sg:siin # ;
++Ind+Neg+Neu+Incl:siimin # ;
++Ind+Neg+Prt+2Pl:siimwaaban # ;
++Ind+Neg+Prt+2Sg:siinaaban # ;
++Ind+Neg+Prt+Incl:siiminaaban # ;
++Ind+Pos+Dub+2Pl:mwaadog # ;
++Ind+Pos+Dub+2Sg:naadog # ;
++Ind+Pos+Dub+Incl:minaadog # ;
++Ind+Pos+Neu+2Pl:m # ;
++Ind+Pos+Neu+2Sg: # ;
++Ind+Pos+Neu+Incl:min # ;
++Ind+Pos+Prt+2Pl:mwaaban # ;
++Ind+Pos+Prt+2Sg:naaban # ;
++Ind+Pos+Prt+Incl:minaaban # ;
+
 LEXICON VAI_o_ni_WB
 0:%>%> VAI_o_ni_Endings ;
 
@@ -1183,48 +1183,6 @@ LEXICON VAI_n_Flags
 @R.Prefix.NONE@ VAI_n_NONE_WB ;
 @R.Prefix.gi@ VAI_n_gi_WB ;
 @R.Prefix.ni@ VAI_n_ni_WB ;
-
-LEXICON VAI_n_gi_WB
-0:%>%> VAI_n_gi_Endings ;
-
-LEXICON VAI_n_gi_Endings
-+Ind+Neg+Dub+2Pl:ziimwaadog # ;
-+Ind+Neg+Dub+2Sg:ziinaadog # ;
-+Ind+Neg+Dub+Incl:ziiminaadog # ;
-+Ind+Neg+Neu+2Pl:ziim # ;
-+Ind+Neg+Neu+2Sg:zii # ;
-+Ind+Neg+Neu+2Sg:ziin # ;
-+Ind+Neg+Neu+Incl:ziimin # ;
-+Ind+Neg+Prt+2Pl:ziimwaaban # ;
-+Ind+Neg+Prt+2Sg:ziinaaban # ;
-+Ind+Neg+Prt+Incl:ziiminaaban # ;
-+Ind+Pos+Dub+2Pl:imwaadog # ;
-+Ind+Pos+Dub+2Sg:inaadog # ;
-+Ind+Pos+Dub+Incl:iminaadog # ;
-+Ind+Pos+Neu+2Pl:im # ;
-+Ind+Pos+Neu+2Sg: # ;
-+Ind+Pos+Neu+Incl:imin # ;
-+Ind+Pos+Prt+2Pl:imwaaban # ;
-+Ind+Pos+Prt+2Sg:inaaban # ;
-+Ind+Pos+Prt+Incl:iminaaban # ;
-
-LEXICON VAI_n_ni_WB
-0:%>%> VAI_n_ni_Endings ;
-
-LEXICON VAI_n_ni_Endings
-+Ind+Neg+Dub+1Sg:ziinaadog # ;
-+Ind+Neg+Dub+Excl:ziiminaadog # ;
-+Ind+Neg+Neu+1Sg:zii # ;
-+Ind+Neg+Neu+1Sg:ziin # ;
-+Ind+Neg+Neu+Excl:ziimin # ;
-+Ind+Neg+Prt+1Sg:ziinaaban # ;
-+Ind+Neg+Prt+Excl:ziiminaaban # ;
-+Ind+Pos+Dub+1Sg:inaadog # ;
-+Ind+Pos+Dub+Excl:iminaadog # ;
-+Ind+Pos+Neu+1Sg: # ;
-+Ind+Pos+Neu+Excl:imin # ;
-+Ind+Pos+Prt+1Sg:inaaban # ;
-+Ind+Pos+Prt+Excl:iminaaban # ;
 
 LEXICON VAI_n_NONE_WB
 0:%>%> VAI_n_NONE_Endings ;
@@ -1364,6 +1322,48 @@ LEXICON VAI_n_NONE_Endings
 +Ind+Pos+Prt+3SgProx:ooban # ;
 +Ind+Pos+Prt+X:imwaaban # ;
 
+LEXICON VAI_n_gi_WB
+0:%>%> VAI_n_gi_Endings ;
+
+LEXICON VAI_n_gi_Endings
++Ind+Neg+Dub+2Pl:ziimwaadog # ;
++Ind+Neg+Dub+2Sg:ziinaadog # ;
++Ind+Neg+Dub+Incl:ziiminaadog # ;
++Ind+Neg+Neu+2Pl:ziim # ;
++Ind+Neg+Neu+2Sg:zii # ;
++Ind+Neg+Neu+2Sg:ziin # ;
++Ind+Neg+Neu+Incl:ziimin # ;
++Ind+Neg+Prt+2Pl:ziimwaaban # ;
++Ind+Neg+Prt+2Sg:ziinaaban # ;
++Ind+Neg+Prt+Incl:ziiminaaban # ;
++Ind+Pos+Dub+2Pl:imwaadog # ;
++Ind+Pos+Dub+2Sg:inaadog # ;
++Ind+Pos+Dub+Incl:iminaadog # ;
++Ind+Pos+Neu+2Pl:im # ;
++Ind+Pos+Neu+2Sg: # ;
++Ind+Pos+Neu+Incl:imin # ;
++Ind+Pos+Prt+2Pl:imwaaban # ;
++Ind+Pos+Prt+2Sg:inaaban # ;
++Ind+Pos+Prt+Incl:iminaaban # ;
+
+LEXICON VAI_n_ni_WB
+0:%>%> VAI_n_ni_Endings ;
+
+LEXICON VAI_n_ni_Endings
++Ind+Neg+Dub+1Sg:ziinaadog # ;
++Ind+Neg+Dub+Excl:ziiminaadog # ;
++Ind+Neg+Neu+1Sg:zii # ;
++Ind+Neg+Neu+1Sg:ziin # ;
++Ind+Neg+Neu+Excl:ziimin # ;
++Ind+Neg+Prt+1Sg:ziinaaban # ;
++Ind+Neg+Prt+Excl:ziiminaaban # ;
++Ind+Pos+Dub+1Sg:inaadog # ;
++Ind+Pos+Dub+Excl:iminaadog # ;
++Ind+Pos+Neu+1Sg: # ;
++Ind+Pos+Neu+Excl:imin # ;
++Ind+Pos+Prt+1Sg:inaaban # ;
++Ind+Pos+Prt+Excl:iminaaban # ;
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!                                              !!
 !!   Endings: Verb Class = VAI, Stem Type = m   !!
@@ -1377,6 +1377,30 @@ LEXICON VAI_m_Flags
 @R.Prefix.NONE@ VAI_m_NONE_WB ;
 @R.Prefix.gi@ VAI_m_gi_WB ;
 @R.Prefix.ni@ VAI_m_ni_WB ;
+
+LEXICON VAI_m_gi_WB
+0:%>%> VAI_m_gi_Endings ;
+
+LEXICON VAI_m_gi_Endings
++Ind+Neg+Dub+2Pl:ziimwaadog # ;
++Ind+Neg+Dub+2Sg:ziinaadog # ;
++Ind+Neg+Dub+Incl:ziiminaadog # ;
++Ind+Neg+Neu+2Pl:ziim # ;
++Ind+Neg+Neu+2Sg:zii # ;
++Ind+Neg+Neu+2Sg:ziin # ;
++Ind+Neg+Neu+Incl:ziimin # ;
++Ind+Neg+Prt+2Pl:ziimwaaban # ;
++Ind+Neg+Prt+2Sg:ziinaaban # ;
++Ind+Neg+Prt+Incl:ziiminaaban # ;
++Ind+Pos+Dub+2Pl:imwaadog # ;
++Ind+Pos+Dub+2Sg:inaadog # ;
++Ind+Pos+Dub+Incl:iminaadog # ;
++Ind+Pos+Neu+2Pl:im # ;
++Ind+Pos+Neu+2Sg: # ;
++Ind+Pos+Neu+Incl:imin # ;
++Ind+Pos+Prt+2Pl:imwaaban # ;
++Ind+Pos+Prt+2Sg:inaaban # ;
++Ind+Pos+Prt+Incl:iminaaban # ;
 
 LEXICON VAI_m_NONE_WB
 0:%>%> VAI_m_NONE_Endings ;
@@ -1534,30 +1558,6 @@ LEXICON VAI_m_ni_Endings
 +Ind+Pos+Prt+1Sg:inaaban # ;
 +Ind+Pos+Prt+Excl:iminaaban # ;
 
-LEXICON VAI_m_gi_WB
-0:%>%> VAI_m_gi_Endings ;
-
-LEXICON VAI_m_gi_Endings
-+Ind+Neg+Dub+2Pl:ziimwaadog # ;
-+Ind+Neg+Dub+2Sg:ziinaadog # ;
-+Ind+Neg+Dub+Incl:ziiminaadog # ;
-+Ind+Neg+Neu+2Pl:ziim # ;
-+Ind+Neg+Neu+2Sg:zii # ;
-+Ind+Neg+Neu+2Sg:ziin # ;
-+Ind+Neg+Neu+Incl:ziimin # ;
-+Ind+Neg+Prt+2Pl:ziimwaaban # ;
-+Ind+Neg+Prt+2Sg:ziinaaban # ;
-+Ind+Neg+Prt+Incl:ziiminaaban # ;
-+Ind+Pos+Dub+2Pl:imwaadog # ;
-+Ind+Pos+Dub+2Sg:inaadog # ;
-+Ind+Pos+Dub+Incl:iminaadog # ;
-+Ind+Pos+Neu+2Pl:im # ;
-+Ind+Pos+Neu+2Sg: # ;
-+Ind+Pos+Neu+Incl:imin # ;
-+Ind+Pos+Prt+2Pl:imwaaban # ;
-+Ind+Pos+Prt+2Sg:inaaban # ;
-+Ind+Pos+Prt+Incl:iminaaban # ;
-
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!                                               !!
 !!   Endings: Verb Class = VAI, Stem Type = am   !!
@@ -1589,30 +1589,6 @@ LEXICON VAI_am_ni_Endings
 +Ind+Pos+Neu+Excl:aamin # ;
 +Ind+Pos+Prt+1Sg:aanaaban # ;
 +Ind+Pos+Prt+Excl:aaminaaban # ;
-
-LEXICON VAI_am_gi_WB
-0:%>%> VAI_am_gi_Endings ;
-
-LEXICON VAI_am_gi_Endings
-+Ind+Neg+Dub+2Pl:anziimwaadog # ;
-+Ind+Neg+Dub+2Sg:anziinaadog # ;
-+Ind+Neg+Dub+Incl:anziiminaadog # ;
-+Ind+Neg+Neu+2Pl:anziim # ;
-+Ind+Neg+Neu+2Sg:anzii # ;
-+Ind+Neg+Neu+2Sg:anziin # ;
-+Ind+Neg+Neu+Incl:anziimin # ;
-+Ind+Neg+Prt+2Pl:anziimwaaban # ;
-+Ind+Neg+Prt+2Sg:anziinaaban # ;
-+Ind+Neg+Prt+Incl:anziiminaaban # ;
-+Ind+Pos+Dub+2Pl:aamwaadog # ;
-+Ind+Pos+Dub+2Sg:aanaadog # ;
-+Ind+Pos+Dub+Incl:aaminaadog # ;
-+Ind+Pos+Neu+2Pl:aam # ;
-+Ind+Pos+Neu+2Sg:am # ;
-+Ind+Pos+Neu+Incl:aamin # ;
-+Ind+Pos+Prt+2Pl:aamwaaban # ;
-+Ind+Pos+Prt+2Sg:aanaaban # ;
-+Ind+Pos+Prt+Incl:aaminaaban # ;
 
 LEXICON VAI_am_NONE_WB
 0:%>%> VAI_am_NONE_Endings ;
@@ -1751,4 +1727,28 @@ LEXICON VAI_am_NONE_Endings
 +Ind+Pos+Prt+3SgObv:amoobaniin # ;
 +Ind+Pos+Prt+3SgProx:amooban # ;
 +Ind+Pos+Prt+X:aamwaaban # ;
+
+LEXICON VAI_am_gi_WB
+0:%>%> VAI_am_gi_Endings ;
+
+LEXICON VAI_am_gi_Endings
++Ind+Neg+Dub+2Pl:anziimwaadog # ;
++Ind+Neg+Dub+2Sg:anziinaadog # ;
++Ind+Neg+Dub+Incl:anziiminaadog # ;
++Ind+Neg+Neu+2Pl:anziim # ;
++Ind+Neg+Neu+2Sg:anzii # ;
++Ind+Neg+Neu+2Sg:anziin # ;
++Ind+Neg+Neu+Incl:anziimin # ;
++Ind+Neg+Prt+2Pl:anziimwaaban # ;
++Ind+Neg+Prt+2Sg:anziinaaban # ;
++Ind+Neg+Prt+Incl:anziiminaaban # ;
++Ind+Pos+Dub+2Pl:aamwaadog # ;
++Ind+Pos+Dub+2Sg:aanaadog # ;
++Ind+Pos+Dub+Incl:aaminaadog # ;
++Ind+Pos+Neu+2Pl:aam # ;
++Ind+Pos+Neu+2Sg:am # ;
++Ind+Pos+Neu+Incl:aamin # ;
++Ind+Pos+Prt+2Pl:aamwaaban # ;
++Ind+Pos+Prt+2Sg:aanaaban # ;
++Ind+Pos+Prt+Incl:aaminaaban # ;
 

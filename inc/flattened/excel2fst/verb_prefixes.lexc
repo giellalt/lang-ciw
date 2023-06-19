@@ -3,12 +3,15 @@
 !#####
 
 Multichar_Symbols 
+@R.Prefix.NONE@
 @P.Ccnj.Yes@
 @P.Order.Cnj@
 @D.Order@
 @P.Order.Cnj@
 @D.Ccnj@
 @R.Ccnj@
+PV/CCNJ+
+X2
 %<%<
 %>%>
 
@@ -19,19 +22,20 @@ LEXICON V_PREFIXES
 !1+:ni%<   V_FIRST_PERSON_SET ;
 !2+:gi%<   V_SECOND_PERSON_SET ;
 !3+:o%<    V_THIRD_PERSON_SET ;
-0         V_PREVERBS_SUBORDINATOR ; 
+@R.Prefix.NONE@        V_PREVERBS_SUBORDINATOR ;
+0          V_PREVERBS_TENSE ;
 
 !_FLAG -> _SET
-LEXICON V_FIRST_PERSON_SET !add _SET to style
-@P.Person.1@  V_PREVERBS_SUBORDINATOR ;
+!LEXICON V_FIRST_PERSON_SET !add _SET to style
+!@P.Person.1@  V_PREVERBS_SUBORDINATOR ;
 ! @P.Person.1@  V_PERSON_EXTENDED ; ! DAB: !extended should only be option for nouns?
 
-LEXICON V_SECOND_PERSON_SET 
-@P.Person.2@  V_PREVERBS_SUBORDINATOR ;
+!LEXICON V_SECOND_PERSON_SET 
+!@P.Person.2@  V_PREVERBS_SUBORDINATOR ;
 ! @P.Person.2@  V_PERSON_EXTENDED ;
 
-LEXICON V_THIRD_PERSON_SET 
-@P.Person.3@  V_PREVERBS_SUBORDINATOR ;
+!LEXICON V_THIRD_PERSON_SET 
+!@P.Person.3@  V_PREVERBS_SUBORDINATOR ;
 ! @P.Person.3@  V_PERSON_EXTENDED ;
 
 LEXICON V_PERSON_EXTENDED
@@ -54,10 +58,6 @@ PV/a+:a-%<%<   V_PREVERBS_SUBORDINATOR_ORDER_SET " 1 where;  2 when;  3 which, t
 !NO LONGER MUST BE LISTED PV/gaa+:gaa-  V_PREVERBS_SUBORDINATOR_ORDER_SET " 1 the changed form of the past tense preverb <nish>gii-</nish>";
 PV/gaa+:gaa-%<%<  V_PREVERBS_SUBORDINATOR_ORDER_SET "that" ;!formerly changed form of gii, has life of own now 
         V_PREVERBS_TENSE ;
-
-LEXICON THMINV_NEG_SIW_LOC_SPECIAL_PCP
-    # ;
-    VTA_CNJ_PCP_INAN_PL ; 
 
 LEXICON V_PREVERBS_CCNJ_SET
 @P.Ccnj.Yes@    V_PREVERBS_SUBORDINATOR_ORDER_SET ;

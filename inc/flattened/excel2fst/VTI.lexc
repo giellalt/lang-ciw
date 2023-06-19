@@ -1,5 +1,5 @@
 Multichar_Symbols
-+Excl @R.Prefix.NONE@ +%0PlO +2Sg %<%< +X +Ind +Cnj @P.Prefix.o@ %>%> @R.Prefix.ni@ +Neu +%0SgO/%0PlO +3PlObv +3SgObv +Neg +Dub +1Sg +Incl +Pos +VTI @R.Prefix.gi@ @R.Prefix.o@ +Prt @P.Prefix.ni@ +3PlProx +2Pl @P.Prefix.NONE@ +3SgProx @P.Prefix.gi@ +%0SgO
+@P.Prefix.o@ @R.Prefix.NONE@ @P.Prefix.ni@ +3PlObv +Neu @P.Prefix.gi@ +VTI +Dub +%0SgO +%0SgO/%0PlO +Cnj +Ind +2Pl @R.Prefix.o@ +Pos +Prt @P.Prefix.NONE@ +1Sg +%0PlO +3SgObv @R.Prefix.ni@ %<%< +X +Incl %>%> +Excl +Neg @R.Prefix.gi@ +3PlProx +2Sg +3SgProx
 
 LEXICON Root
 VTI_Prefix ;
@@ -39,46 +39,31 @@ LEXICON VTI_aa_Flags
 @R.Prefix.ni@ VTI_aa_ni_WB ;
 @R.Prefix.o@ VTI_aa_o_WB ;
 
-LEXICON VTI_aa_o_WB
-0:%>%> VTI_aa_o_Endings ;
+LEXICON VTI_aa_NONE_WB
+0:%>%> VTI_aa_NONE_Endings ;
 
-LEXICON VTI_aa_o_Endings
-+Ind+Neg+Dub+3PlProx+%0PlO:siinaawaadogenan # ;
-+Ind+Neg+Dub+3PlProx+%0SgO:siinaawaadog # ;
-+Ind+Neg+Dub+3SgObv+%0PlO:siininaadogenan # ;
-+Ind+Neg+Dub+3SgObv+%0SgO:siininaadog # ;
-+Ind+Neg+Dub+3SgProx+%0PlO:siinaadogenan # ;
-+Ind+Neg+Dub+3SgProx+%0SgO:siinaadog # ;
-+Ind+Neg+Neu+3PlProx+%0PlO:siinaawaan # ;
-+Ind+Neg+Neu+3PlProx+%0SgO:siinaawaa # ;
-+Ind+Neg+Neu+3SgProx+%0PlO:siinan # ;
-+Ind+Neg+Neu+3SgProx+%0SgO:siin # ;
-+Ind+Neg+Prt+3PlProx+%0PlO:siinaawaabanen # ;
-+Ind+Neg+Prt+3PlProx+%0PlO:siinaawaabaniin # ;
-+Ind+Neg+Prt+3PlProx+%0SgO:siinaawaaban # ;
-+Ind+Neg+Prt+3SgObv+%0PlO:siininaabanen # ;
-+Ind+Neg+Prt+3SgObv+%0PlO:siininaabaniin # ;
-+Ind+Neg+Prt+3SgObv+%0SgO:siininaaban # ;
-+Ind+Neg+Prt+3SgProx+%0PlO:siinaabanen # ;
-+Ind+Neg+Prt+3SgProx+%0PlO:siinaabaniin # ;
-+Ind+Neg+Prt+3SgProx+%0SgO:siinaaban # ;
-+Ind+Pos+Dub+3PlObv+%0SgO:ninaadog # ;
-+Ind+Pos+Dub+3PlProx+%0PlO:naawaadogenan # ;
-+Ind+Pos+Dub+3PlProx+%0SgO:naawaadog # ;
-+Ind+Pos+Dub+3SgObv+%0PlO:ninaadogenan # ;
-+Ind+Pos+Dub+3SgObv+%0SgO:ninaadog # ;
-+Ind+Pos+Dub+3SgProx+%0PlO:naadogenan # ;
-+Ind+Pos+Dub+3SgProx+%0SgO:naadog # ;
-+Ind+Pos+Neu+3PlProx+%0PlO:naawaan # ;
-+Ind+Pos+Neu+3PlProx+%0SgO:naawaa # ;
-+Ind+Pos+Neu+3SgProx+%0PlO:nan # ;
-+Ind+Pos+Neu+3SgProx+%0SgO:n # ;
-+Ind+Pos+Prt+3PlProx+%0PlO:naawaabanen # ;
-+Ind+Pos+Prt+3PlProx+%0PlO:naawaabaniin # ;
-+Ind+Pos+Prt+3PlProx+%0SgO:naawaaban # ;
-+Ind+Pos+Prt+3SgProx+%0PlO:naabanen # ;
-+Ind+Pos+Prt+3SgProx+%0PlO:naabaniin # ;
-+Ind+Pos+Prt+3SgProx+%0SgO:naaban # ;
+LEXICON VTI_aa_NONE_Endings
++Cnj+Neg+Neu+1Sg+%0SgO/%0PlO:nziwaan # ;
++Cnj+Neg+Neu+2Pl+%0SgO/%0PlO:nziweg # ;
++Cnj+Neg+Neu+2Sg+%0SgO/%0PlO:nziwan # ;
++Cnj+Neg+Neu+3PlProx+%0SgO/%0PlO:nzigwaa # ;
++Cnj+Neg+Neu+3SgObv+%0SgO/%0PlO:nzinig # ;
++Cnj+Neg+Neu+3SgProx+%0SgO/%0PlO:nzig # ;
++Cnj+Neg+Neu+Excl+%0SgO/%0PlO:nziwaang # ;
++Cnj+Neg+Neu+Incl+%0SgO/%0PlO:nziwang # ;
++Cnj+Pos+Neu+1Sg+%0SgO/%0PlO:man # ;
++Cnj+Pos+Neu+2Pl+%0SgO/%0PlO:ng # ;
++Cnj+Pos+Neu+2Sg+%0SgO/%0PlO:maang # ;
++Cnj+Pos+Neu+3SgObv+%0SgO/%0PlO:minid # ;
++Cnj+Pos+Neu+3SgProx+%0SgO/%0PlO:mowaad # ;
++Cnj+Pos+Neu+Excl+%0SgO/%0PlO:mang # ;
++Cnj+Pos+Neu+Incl+%0SgO/%0PlO:meg # ;
++Ind+Neg+Dub+Prt+3PlProx+%0SgO/%0PlO:nziigwaaban # ;
++Ind+Neg+Dub+Prt+3SgObv+%0SgO/%0PlO:nziinigoban # ;
++Ind+Neg+Dub+Prt+3SgProx+%0SgO/%0PlO:nziigoban # ;
++Ind+Pos+Dub+Prt+3PlProx+%0SgO/%0PlO:mogwaaban # ;
++Ind+Pos+Dub+Prt+3SgObv+%0SgO/%0PlO:minigoban # ;
++Ind+Pos+Dub+Prt+3SgProx+%0SgO/%0PlO:mogoban # ;
 
 LEXICON VTI_aa_gi_WB
 0:%>%> VTI_aa_gi_Endings ;
@@ -127,6 +112,47 @@ LEXICON VTI_aa_gi_Endings
 +Ind+Pos+Prt+Incl+%0PlO:minaabaniin # ;
 +Ind+Pos+Prt+Incl+%0SgO:minaaban # ;
 
+LEXICON VTI_aa_o_WB
+0:%>%> VTI_aa_o_Endings ;
+
+LEXICON VTI_aa_o_Endings
++Ind+Neg+Dub+3PlProx+%0PlO:siinaawaadogenan # ;
++Ind+Neg+Dub+3PlProx+%0SgO:siinaawaadog # ;
++Ind+Neg+Dub+3SgObv+%0PlO:siininaadogenan # ;
++Ind+Neg+Dub+3SgObv+%0SgO:siininaadog # ;
++Ind+Neg+Dub+3SgProx+%0PlO:siinaadogenan # ;
++Ind+Neg+Dub+3SgProx+%0SgO:siinaadog # ;
++Ind+Neg+Neu+3PlProx+%0PlO:siinaawaan # ;
++Ind+Neg+Neu+3PlProx+%0SgO:siinaawaa # ;
++Ind+Neg+Neu+3SgProx+%0PlO:siinan # ;
++Ind+Neg+Neu+3SgProx+%0SgO:siin # ;
++Ind+Neg+Prt+3PlProx+%0PlO:siinaawaabanen # ;
++Ind+Neg+Prt+3PlProx+%0PlO:siinaawaabaniin # ;
++Ind+Neg+Prt+3PlProx+%0SgO:siinaawaaban # ;
++Ind+Neg+Prt+3SgObv+%0PlO:siininaabanen # ;
++Ind+Neg+Prt+3SgObv+%0PlO:siininaabaniin # ;
++Ind+Neg+Prt+3SgObv+%0SgO:siininaaban # ;
++Ind+Neg+Prt+3SgProx+%0PlO:siinaabanen # ;
++Ind+Neg+Prt+3SgProx+%0PlO:siinaabaniin # ;
++Ind+Neg+Prt+3SgProx+%0SgO:siinaaban # ;
++Ind+Pos+Dub+3PlObv+%0SgO:ninaadog # ;
++Ind+Pos+Dub+3PlProx+%0PlO:naawaadogenan # ;
++Ind+Pos+Dub+3PlProx+%0SgO:naawaadog # ;
++Ind+Pos+Dub+3SgObv+%0PlO:ninaadogenan # ;
++Ind+Pos+Dub+3SgObv+%0SgO:ninaadog # ;
++Ind+Pos+Dub+3SgProx+%0PlO:naadogenan # ;
++Ind+Pos+Dub+3SgProx+%0SgO:naadog # ;
++Ind+Pos+Neu+3PlProx+%0PlO:naawaan # ;
++Ind+Pos+Neu+3PlProx+%0SgO:naawaa # ;
++Ind+Pos+Neu+3SgProx+%0PlO:nan # ;
++Ind+Pos+Neu+3SgProx+%0SgO:n # ;
++Ind+Pos+Prt+3PlProx+%0PlO:naawaabanen # ;
++Ind+Pos+Prt+3PlProx+%0PlO:naawaabaniin # ;
++Ind+Pos+Prt+3PlProx+%0SgO:naawaaban # ;
++Ind+Pos+Prt+3SgProx+%0PlO:naabanen # ;
++Ind+Pos+Prt+3SgProx+%0PlO:naabaniin # ;
++Ind+Pos+Prt+3SgProx+%0SgO:naaban # ;
+
 LEXICON VTI_aa_ni_WB
 0:%>%> VTI_aa_ni_Endings ;
 
@@ -159,32 +185,6 @@ LEXICON VTI_aa_ni_Endings
 +Ind+Pos+Prt+Excl+%0PlO:minaabanen # ;
 +Ind+Pos+Prt+Excl+%0PlO:minaabaniin # ;
 +Ind+Pos+Prt+Excl+%0SgO:minaaban # ;
-
-LEXICON VTI_aa_NONE_WB
-0:%>%> VTI_aa_NONE_Endings ;
-
-LEXICON VTI_aa_NONE_Endings
-+Cnj+Neg+Neu+1Sg+%0SgO/%0PlO:nziwaan # ;
-+Cnj+Neg+Neu+2Pl+%0SgO/%0PlO:nziweg # ;
-+Cnj+Neg+Neu+2Sg+%0SgO/%0PlO:nziwan # ;
-+Cnj+Neg+Neu+3PlProx+%0SgO/%0PlO:nzigwaa # ;
-+Cnj+Neg+Neu+3SgObv+%0SgO/%0PlO:nzinig # ;
-+Cnj+Neg+Neu+3SgProx+%0SgO/%0PlO:nzig # ;
-+Cnj+Neg+Neu+Excl+%0SgO/%0PlO:nziwaang # ;
-+Cnj+Neg+Neu+Incl+%0SgO/%0PlO:nziwang # ;
-+Cnj+Pos+Neu+1Sg+%0SgO/%0PlO:man # ;
-+Cnj+Pos+Neu+2Pl+%0SgO/%0PlO:ng # ;
-+Cnj+Pos+Neu+2Sg+%0SgO/%0PlO:maang # ;
-+Cnj+Pos+Neu+3SgObv+%0SgO/%0PlO:minid # ;
-+Cnj+Pos+Neu+3SgProx+%0SgO/%0PlO:mowaad # ;
-+Cnj+Pos+Neu+Excl+%0SgO/%0PlO:mang # ;
-+Cnj+Pos+Neu+Incl+%0SgO/%0PlO:meg # ;
-+Ind+Neg+Dub+Prt+3PlProx+%0SgO/%0PlO:nziigwaaban # ;
-+Ind+Neg+Dub+Prt+3SgObv+%0SgO/%0PlO:nziinigoban # ;
-+Ind+Neg+Dub+Prt+3SgProx+%0SgO/%0PlO:nziigoban # ;
-+Ind+Pos+Dub+Prt+3PlProx+%0SgO/%0PlO:mogwaaban # ;
-+Ind+Pos+Dub+Prt+3SgObv+%0SgO/%0PlO:minigoban # ;
-+Ind+Pos+Dub+Prt+3SgProx+%0SgO/%0PlO:mogoban # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!                                               !!
@@ -287,52 +287,38 @@ LEXICON VTI_am_NONE_Endings
 +Ind+Pos+Dub+Prt+3SgObv+%0SgO/%0PlO:aminigoban # ;
 +Ind+Pos+Dub+Prt+3SgProx+%0SgO/%0PlO:amogoban # ;
 
-LEXICON VTI_am_gi_WB
-0:%>%> VTI_am_gi_Endings ;
+LEXICON VTI_am_ni_WB
+0:%>%> VTI_am_ni_Endings ;
 
-LEXICON VTI_am_gi_Endings
-+Ind+Neg+Dub+2Pl+%0PlO:anziinaawaadogenan # ;
-+Ind+Neg+Dub+2Pl+%0SgO:anziinaawaadog # ;
-+Ind+Neg+Dub+2Sg+%0PlO:anziinaadogenan # ;
-+Ind+Neg+Dub+2Sg+%0SgO:anziinaadog # ;
-+Ind+Neg+Dub+Incl+%0PlO:anziiminaadogenan # ;
-+Ind+Neg+Dub+Incl+%0SgO:anziiminaadog # ;
-+Ind+Neg+Neu+2Pl+%0PlO:anziinaawaan # ;
-+Ind+Neg+Neu+2Pl+%0SgO:anziinaawaa # ;
-+Ind+Neg+Neu+2Sg+%0PlO:anziinan # ;
-+Ind+Neg+Neu+2Sg+%0SgO:anziin # ;
-+Ind+Neg+Neu+Incl+%0PlO:anziimin # ;
-+Ind+Neg+Neu+Incl+%0SgO:anziimin # ;
-+Ind+Neg+Prt+2Pl+%0PlO:anziinaawaabanen # ;
-+Ind+Neg+Prt+2Pl+%0PlO:anziinaawaabaniin # ;
-+Ind+Neg+Prt+2Pl+%0SgO:anziinaawaaban # ;
-+Ind+Neg+Prt+2Sg+%0PlO:anziinaabanen # ;
-+Ind+Neg+Prt+2Sg+%0PlO:anziinaabaniin # ;
-+Ind+Neg+Prt+2Sg+%0SgO:anziinaaban # ;
-+Ind+Neg+Prt+Incl+%0PlO:anziiminaabanen # ;
-+Ind+Neg+Prt+Incl+%0PlO:anziiminaabaniin # ;
-+Ind+Neg+Prt+Incl+%0SgO:anziiminaaban # ;
-+Ind+Pos+Dub+2Pl+%0PlO:aanaawaadogenan # ;
-+Ind+Pos+Dub+2Pl+%0SgO:aanaawaadog # ;
-+Ind+Pos+Dub+2Sg+%0PlO:aanaadogenan # ;
-+Ind+Pos+Dub+2Sg+%0SgO:aanaadog # ;
-+Ind+Pos+Dub+Incl+%0PlO:aaminaadogenan # ;
-+Ind+Pos+Dub+Incl+%0SgO:aaminaadog # ;
-+Ind+Pos+Neu+2Pl+%0PlO:aanaawaan # ;
-+Ind+Pos+Neu+2Pl+%0SgO:aanaawaa # ;
-+Ind+Pos+Neu+2Sg+%0PlO:aanan # ;
-+Ind+Pos+Neu+2Sg+%0SgO:aan # ;
-+Ind+Pos+Neu+Incl+%0PlO:aamin # ;
-+Ind+Pos+Neu+Incl+%0SgO:aamin # ;
-+Ind+Pos+Prt+2Pl+%0PlO:aanaawaabaniin # ;
-+Ind+Pos+Prt+2Pl+%0PlO:aawaabanen # ;
-+Ind+Pos+Prt+2Pl+%0SgO:aanaawaaban # ;
-+Ind+Pos+Prt+2Sg+%0PlO:aabanen # ;
-+Ind+Pos+Prt+2Sg+%0PlO:aanaabaniin # ;
-+Ind+Pos+Prt+2Sg+%0SgO:aanaaban # ;
-+Ind+Pos+Prt+Incl+%0PlO:aaminaabanen # ;
-+Ind+Pos+Prt+Incl+%0PlO:aaminaabaniin # ;
-+Ind+Pos+Prt+Incl+%0SgO:aaminaaban # ;
+LEXICON VTI_am_ni_Endings
++Ind+Neg+Dub+1Sg+%0PlO:anziinaadogenan # ;
++Ind+Neg+Dub+1Sg+%0SgO:anziinaadog # ;
++Ind+Neg+Dub+Excl+%0PlO:anziiminaadogenan # ;
++Ind+Neg+Dub+Excl+%0SgO:anziiminaadog # ;
++Ind+Neg+Neu+1Sg+%0PlO:anziinan # ;
++Ind+Neg+Neu+1Sg+%0SgO:anziin # ;
++Ind+Neg+Neu+Excl+%0PlO:anziimin # ;
++Ind+Neg+Neu+Excl+%0SgO:anziimin # ;
++Ind+Neg+Prt+1Sg+%0PlO:anziinaabanen # ;
++Ind+Neg+Prt+1Sg+%0PlO:anziinaabaniin # ;
++Ind+Neg+Prt+1Sg+%0SgO:anziinaaban # ;
++Ind+Neg+Prt+Excl+%0PlO:anziiminaabanen # ;
++Ind+Neg+Prt+Excl+%0PlO:anziiminaabaniin # ;
++Ind+Neg+Prt+Excl+%0SgO:anziiminaaban # ;
++Ind+Pos+Dub+1Sg+%0PlO:aanaadogenan # ;
++Ind+Pos+Dub+1Sg+%0SgO:aanaadog # ;
++Ind+Pos+Dub+Excl+%0PlO:aaminaadogenan # ;
++Ind+Pos+Dub+Excl+%0SgO:aaminaadog # ;
++Ind+Pos+Neu+1Sg+%0PlO:aanan # ;
++Ind+Pos+Neu+1Sg+%0SgO:aan # ;
++Ind+Pos+Neu+Excl+%0PlO:aamin # ;
++Ind+Pos+Neu+Excl+%0SgO:aamin # ;
++Ind+Pos+Prt+1Sg+%0PlO:aanaabanen # ;
++Ind+Pos+Prt+1Sg+%0PlO:aanaabaniin # ;
++Ind+Pos+Prt+1Sg+%0SgO:aanaaban # ;
++Ind+Pos+Prt+Excl+%0PlO:aaminaabanen # ;
++Ind+Pos+Prt+Excl+%0PlO:aaminaabaniin # ;
++Ind+Pos+Prt+Excl+%0SgO:aaminaaban # ;
 
 LEXICON VTI_am_o_WB
 0:%>%> VTI_am_o_Endings ;
@@ -387,38 +373,52 @@ LEXICON VTI_am_o_Endings
 +Ind+Pos+Prt+3SgProx+%0PlO:aanaabaniin # ;
 +Ind+Pos+Prt+3SgProx+%0SgO:aanaaban # ;
 
-LEXICON VTI_am_ni_WB
-0:%>%> VTI_am_ni_Endings ;
+LEXICON VTI_am_gi_WB
+0:%>%> VTI_am_gi_Endings ;
 
-LEXICON VTI_am_ni_Endings
-+Ind+Neg+Dub+1Sg+%0PlO:anziinaadogenan # ;
-+Ind+Neg+Dub+1Sg+%0SgO:anziinaadog # ;
-+Ind+Neg+Dub+Excl+%0PlO:anziiminaadogenan # ;
-+Ind+Neg+Dub+Excl+%0SgO:anziiminaadog # ;
-+Ind+Neg+Neu+1Sg+%0PlO:anziinan # ;
-+Ind+Neg+Neu+1Sg+%0SgO:anziin # ;
-+Ind+Neg+Neu+Excl+%0PlO:anziimin # ;
-+Ind+Neg+Neu+Excl+%0SgO:anziimin # ;
-+Ind+Neg+Prt+1Sg+%0PlO:anziinaabanen # ;
-+Ind+Neg+Prt+1Sg+%0PlO:anziinaabaniin # ;
-+Ind+Neg+Prt+1Sg+%0SgO:anziinaaban # ;
-+Ind+Neg+Prt+Excl+%0PlO:anziiminaabanen # ;
-+Ind+Neg+Prt+Excl+%0PlO:anziiminaabaniin # ;
-+Ind+Neg+Prt+Excl+%0SgO:anziiminaaban # ;
-+Ind+Pos+Dub+1Sg+%0PlO:aanaadogenan # ;
-+Ind+Pos+Dub+1Sg+%0SgO:aanaadog # ;
-+Ind+Pos+Dub+Excl+%0PlO:aaminaadogenan # ;
-+Ind+Pos+Dub+Excl+%0SgO:aaminaadog # ;
-+Ind+Pos+Neu+1Sg+%0PlO:aanan # ;
-+Ind+Pos+Neu+1Sg+%0SgO:aan # ;
-+Ind+Pos+Neu+Excl+%0PlO:aamin # ;
-+Ind+Pos+Neu+Excl+%0SgO:aamin # ;
-+Ind+Pos+Prt+1Sg+%0PlO:aanaabanen # ;
-+Ind+Pos+Prt+1Sg+%0PlO:aanaabaniin # ;
-+Ind+Pos+Prt+1Sg+%0SgO:aanaaban # ;
-+Ind+Pos+Prt+Excl+%0PlO:aaminaabanen # ;
-+Ind+Pos+Prt+Excl+%0PlO:aaminaabaniin # ;
-+Ind+Pos+Prt+Excl+%0SgO:aaminaaban # ;
+LEXICON VTI_am_gi_Endings
++Ind+Neg+Dub+2Pl+%0PlO:anziinaawaadogenan # ;
++Ind+Neg+Dub+2Pl+%0SgO:anziinaawaadog # ;
++Ind+Neg+Dub+2Sg+%0PlO:anziinaadogenan # ;
++Ind+Neg+Dub+2Sg+%0SgO:anziinaadog # ;
++Ind+Neg+Dub+Incl+%0PlO:anziiminaadogenan # ;
++Ind+Neg+Dub+Incl+%0SgO:anziiminaadog # ;
++Ind+Neg+Neu+2Pl+%0PlO:anziinaawaan # ;
++Ind+Neg+Neu+2Pl+%0SgO:anziinaawaa # ;
++Ind+Neg+Neu+2Sg+%0PlO:anziinan # ;
++Ind+Neg+Neu+2Sg+%0SgO:anziin # ;
++Ind+Neg+Neu+Incl+%0PlO:anziimin # ;
++Ind+Neg+Neu+Incl+%0SgO:anziimin # ;
++Ind+Neg+Prt+2Pl+%0PlO:anziinaawaabanen # ;
++Ind+Neg+Prt+2Pl+%0PlO:anziinaawaabaniin # ;
++Ind+Neg+Prt+2Pl+%0SgO:anziinaawaaban # ;
++Ind+Neg+Prt+2Sg+%0PlO:anziinaabanen # ;
++Ind+Neg+Prt+2Sg+%0PlO:anziinaabaniin # ;
++Ind+Neg+Prt+2Sg+%0SgO:anziinaaban # ;
++Ind+Neg+Prt+Incl+%0PlO:anziiminaabanen # ;
++Ind+Neg+Prt+Incl+%0PlO:anziiminaabaniin # ;
++Ind+Neg+Prt+Incl+%0SgO:anziiminaaban # ;
++Ind+Pos+Dub+2Pl+%0PlO:aanaawaadogenan # ;
++Ind+Pos+Dub+2Pl+%0SgO:aanaawaadog # ;
++Ind+Pos+Dub+2Sg+%0PlO:aanaadogenan # ;
++Ind+Pos+Dub+2Sg+%0SgO:aanaadog # ;
++Ind+Pos+Dub+Incl+%0PlO:aaminaadogenan # ;
++Ind+Pos+Dub+Incl+%0SgO:aaminaadog # ;
++Ind+Pos+Neu+2Pl+%0PlO:aanaawaan # ;
++Ind+Pos+Neu+2Pl+%0SgO:aanaawaa # ;
++Ind+Pos+Neu+2Sg+%0PlO:aanan # ;
++Ind+Pos+Neu+2Sg+%0SgO:aan # ;
++Ind+Pos+Neu+Incl+%0PlO:aamin # ;
++Ind+Pos+Neu+Incl+%0SgO:aamin # ;
++Ind+Pos+Prt+2Pl+%0PlO:aanaawaabaniin # ;
++Ind+Pos+Prt+2Pl+%0PlO:aawaabanen # ;
++Ind+Pos+Prt+2Pl+%0SgO:aanaawaaban # ;
++Ind+Pos+Prt+2Sg+%0PlO:aabanen # ;
++Ind+Pos+Prt+2Sg+%0PlO:aanaabaniin # ;
++Ind+Pos+Prt+2Sg+%0SgO:aanaaban # ;
++Ind+Pos+Prt+Incl+%0PlO:aaminaabanen # ;
++Ind+Pos+Prt+Incl+%0PlO:aaminaabaniin # ;
++Ind+Pos+Prt+Incl+%0SgO:aaminaaban # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!                                              !!
@@ -434,6 +434,39 @@ LEXICON VTI_i_Flags
 @R.Prefix.gi@ VTI_i_gi_WB ;
 @R.Prefix.ni@ VTI_i_ni_WB ;
 @R.Prefix.o@ VTI_i_o_WB ;
+
+LEXICON VTI_i_ni_WB
+0:%>%> VTI_i_ni_Endings ;
+
+LEXICON VTI_i_ni_Endings
++Ind+Neg+Dub+1Sg+%0PlO:siinaadogenan # ;
++Ind+Neg+Dub+1Sg+%0SgO:siinaadog # ;
++Ind+Neg+Dub+Excl+%0PlO:siiminaadogenan # ;
++Ind+Neg+Dub+Excl+%0SgO:siiminaadog # ;
++Ind+Neg+Neu+1Sg+%0PlO:siinan # ;
++Ind+Neg+Neu+1Sg+%0SgO:siin # ;
++Ind+Neg+Neu+Excl+%0PlO:siimin # ;
++Ind+Neg+Neu+Excl+%0SgO:siimin # ;
++Ind+Neg+Prt+1Sg+%0PlO:siinaabanen # ;
++Ind+Neg+Prt+1Sg+%0PlO:siinaabaniin # ;
++Ind+Neg+Prt+1Sg+%0SgO:siinaaban # ;
++Ind+Neg+Prt+Excl+%0PlO:siiminaabanen # ;
++Ind+Neg+Prt+Excl+%0PlO:siiminaabaniin # ;
++Ind+Neg+Prt+Excl+%0SgO:siiminaaban # ;
++Ind+Pos+Dub+1Sg+%0PlO:naadogenan # ;
++Ind+Pos+Dub+1Sg+%0SgO:naadog # ;
++Ind+Pos+Dub+Excl+%0PlO:minaadogenan # ;
++Ind+Pos+Dub+Excl+%0SgO:minaadog # ;
++Ind+Pos+Neu+1Sg+%0PlO:nan # ;
++Ind+Pos+Neu+1Sg+%0SgO:n # ;
++Ind+Pos+Neu+Excl+%0PlO:imin # ;
++Ind+Pos+Neu+Excl+%0SgO:min # ;
++Ind+Pos+Prt+1Sg+%0PlO:naabanen # ;
++Ind+Pos+Prt+1Sg+%0PlO:naabaniin # ;
++Ind+Pos+Prt+1Sg+%0SgO:naaban # ;
++Ind+Pos+Prt+Excl+%0PlO:minaabanen # ;
++Ind+Pos+Prt+Excl+%0PlO:minaabaniin # ;
++Ind+Pos+Prt+Excl+%0SgO:minaaban # ;
 
 LEXICON VTI_i_gi_WB
 0:%>%> VTI_i_gi_Endings ;
@@ -533,39 +566,6 @@ LEXICON VTI_i_o_Endings
 +Ind+Pos+Prt+3SgProx+%0PlO:naabaniin # ;
 +Ind+Pos+Prt+3SgProx+%0SgO:naaban # ;
 
-LEXICON VTI_i_ni_WB
-0:%>%> VTI_i_ni_Endings ;
-
-LEXICON VTI_i_ni_Endings
-+Ind+Neg+Dub+1Sg+%0PlO:siinaadogenan # ;
-+Ind+Neg+Dub+1Sg+%0SgO:siinaadog # ;
-+Ind+Neg+Dub+Excl+%0PlO:siiminaadogenan # ;
-+Ind+Neg+Dub+Excl+%0SgO:siiminaadog # ;
-+Ind+Neg+Neu+1Sg+%0PlO:siinan # ;
-+Ind+Neg+Neu+1Sg+%0SgO:siin # ;
-+Ind+Neg+Neu+Excl+%0PlO:siimin # ;
-+Ind+Neg+Neu+Excl+%0SgO:siimin # ;
-+Ind+Neg+Prt+1Sg+%0PlO:siinaabanen # ;
-+Ind+Neg+Prt+1Sg+%0PlO:siinaabaniin # ;
-+Ind+Neg+Prt+1Sg+%0SgO:siinaaban # ;
-+Ind+Neg+Prt+Excl+%0PlO:siiminaabanen # ;
-+Ind+Neg+Prt+Excl+%0PlO:siiminaabaniin # ;
-+Ind+Neg+Prt+Excl+%0SgO:siiminaaban # ;
-+Ind+Pos+Dub+1Sg+%0PlO:naadogenan # ;
-+Ind+Pos+Dub+1Sg+%0SgO:naadog # ;
-+Ind+Pos+Dub+Excl+%0PlO:minaadogenan # ;
-+Ind+Pos+Dub+Excl+%0SgO:minaadog # ;
-+Ind+Pos+Neu+1Sg+%0PlO:nan # ;
-+Ind+Pos+Neu+1Sg+%0SgO:n # ;
-+Ind+Pos+Neu+Excl+%0PlO:imin # ;
-+Ind+Pos+Neu+Excl+%0SgO:min # ;
-+Ind+Pos+Prt+1Sg+%0PlO:naabanen # ;
-+Ind+Pos+Prt+1Sg+%0PlO:naabaniin # ;
-+Ind+Pos+Prt+1Sg+%0SgO:naaban # ;
-+Ind+Pos+Prt+Excl+%0PlO:minaabanen # ;
-+Ind+Pos+Prt+Excl+%0PlO:minaabaniin # ;
-+Ind+Pos+Prt+Excl+%0SgO:minaaban # ;
-
 LEXICON VTI_i_NONE_WB
 0:%>%> VTI_i_NONE_Endings ;
 
@@ -591,6 +591,39 @@ LEXICON VTI_oo_Flags
 @R.Prefix.gi@ VTI_oo_gi_WB ;
 @R.Prefix.ni@ VTI_oo_ni_WB ;
 @R.Prefix.o@ VTI_oo_o_WB ;
+
+LEXICON VTI_oo_ni_WB
+0:%>%> VTI_oo_ni_Endings ;
+
+LEXICON VTI_oo_ni_Endings
++Ind+Neg+Dub+1Sg+%0PlO:oosiinaadogenan # ;
++Ind+Neg+Dub+1Sg+%0SgO:oosiinaadog # ;
++Ind+Neg+Dub+Excl+%0PlO:oosiiminaadogenan # ;
++Ind+Neg+Dub+Excl+%0SgO:oosiiminaadog # ;
++Ind+Neg+Neu+1Sg+%0PlO:oosiinan # ;
++Ind+Neg+Neu+1Sg+%0SgO:oosiinan # ;
++Ind+Neg+Neu+Excl+%0PlO:oosiimin # ;
++Ind+Neg+Neu+Excl+%0SgO:oosiimin # ;
++Ind+Neg+Prt+1Sg+%0PlO:oosiinaabanen # ;
++Ind+Neg+Prt+1Sg+%0PlO:oosiinaabaniin # ;
++Ind+Neg+Prt+1Sg+%0SgO:oosiinaaban # ;
++Ind+Neg+Prt+Excl+%0PlO:oosiiminaabanen # ;
++Ind+Neg+Prt+Excl+%0PlO:oosiiminaabaniin # ;
++Ind+Neg+Prt+Excl+%0SgO:oosiiminaaban # ;
++Ind+Pos+Dub+1Sg+%0PlO:oonaadogenan # ;
++Ind+Pos+Dub+1Sg+%0SgO:oonaadog # ;
++Ind+Pos+Dub+Excl+%0PlO:oominaadogenan # ;
++Ind+Pos+Dub+Excl+%0SgO:oominaadog # ;
++Ind+Pos+Neu+1Sg+%0PlO:oonan # ;
++Ind+Pos+Neu+1Sg+%0SgO: # ;
++Ind+Pos+Neu+Excl+%0PlO:oomin # ;
++Ind+Pos+Neu+Excl+%0SgO:oomin # ;
++Ind+Pos+Prt+1Sg+%0PlO:oonaabanen # ;
++Ind+Pos+Prt+1Sg+%0PlO:oonaabaniin # ;
++Ind+Pos+Prt+1Sg+%0SgO:oonaaban # ;
++Ind+Pos+Prt+Excl+%0PlO:oominaabanen # ;
++Ind+Pos+Prt+Excl+%0PlO:oominaabaniin # ;
++Ind+Pos+Prt+Excl+%0SgO:oominaaban # ;
 
 LEXICON VTI_oo_o_WB
 0:%>%> VTI_oo_o_Endings ;
@@ -642,6 +675,17 @@ LEXICON VTI_oo_o_Endings
 +Ind+Pos+Prt+3SgProx+%0PlO:oonaabaniin # ;
 +Ind+Pos+Prt+3SgProx+%0SgO:oonaaban # ;
 
+LEXICON VTI_oo_NONE_WB
+0:%>%> VTI_oo_NONE_Endings ;
+
+LEXICON VTI_oo_NONE_Endings
++Ind+Neg+Dub+Prt+3PlProx+%0SgO/%0PlO:oosiigwaaban # ;
++Ind+Neg+Dub+Prt+3SgObv+%0SgO/%0PlO:oosiinigoban # ;
++Ind+Neg+Dub+Prt+3SgProx+%0SgO/%0PlO:oosiigoban # ;
++Ind+Pos+Dub+Prt+3PlProx+%0SgO/%0PlO:oogwaaban # ;
++Ind+Pos+Dub+Prt+3SgObv+%0SgO/%0PlO:oonigoban # ;
++Ind+Pos+Dub+Prt+3SgProx+%0SgO/%0PlO:oogoban # ;
+
 LEXICON VTI_oo_gi_WB
 0:%>%> VTI_oo_gi_Endings ;
 
@@ -688,50 +732,6 @@ LEXICON VTI_oo_gi_Endings
 +Ind+Pos+Prt+Incl+%0PlO:oominaabanen # ;
 +Ind+Pos+Prt+Incl+%0PlO:oominaabaniin # ;
 +Ind+Pos+Prt+Incl+%0SgO:oominaaban # ;
-
-LEXICON VTI_oo_NONE_WB
-0:%>%> VTI_oo_NONE_Endings ;
-
-LEXICON VTI_oo_NONE_Endings
-+Ind+Neg+Dub+Prt+3PlProx+%0SgO/%0PlO:oosiigwaaban # ;
-+Ind+Neg+Dub+Prt+3SgObv+%0SgO/%0PlO:oosiinigoban # ;
-+Ind+Neg+Dub+Prt+3SgProx+%0SgO/%0PlO:oosiigoban # ;
-+Ind+Pos+Dub+Prt+3PlProx+%0SgO/%0PlO:oogwaaban # ;
-+Ind+Pos+Dub+Prt+3SgObv+%0SgO/%0PlO:oonigoban # ;
-+Ind+Pos+Dub+Prt+3SgProx+%0SgO/%0PlO:oogoban # ;
-
-LEXICON VTI_oo_ni_WB
-0:%>%> VTI_oo_ni_Endings ;
-
-LEXICON VTI_oo_ni_Endings
-+Ind+Neg+Dub+1Sg+%0PlO:oosiinaadogenan # ;
-+Ind+Neg+Dub+1Sg+%0SgO:oosiinaadog # ;
-+Ind+Neg+Dub+Excl+%0PlO:oosiiminaadogenan # ;
-+Ind+Neg+Dub+Excl+%0SgO:oosiiminaadog # ;
-+Ind+Neg+Neu+1Sg+%0PlO:oosiinan # ;
-+Ind+Neg+Neu+1Sg+%0SgO:oosiinan # ;
-+Ind+Neg+Neu+Excl+%0PlO:oosiimin # ;
-+Ind+Neg+Neu+Excl+%0SgO:oosiimin # ;
-+Ind+Neg+Prt+1Sg+%0PlO:oosiinaabanen # ;
-+Ind+Neg+Prt+1Sg+%0PlO:oosiinaabaniin # ;
-+Ind+Neg+Prt+1Sg+%0SgO:oosiinaaban # ;
-+Ind+Neg+Prt+Excl+%0PlO:oosiiminaabanen # ;
-+Ind+Neg+Prt+Excl+%0PlO:oosiiminaabaniin # ;
-+Ind+Neg+Prt+Excl+%0SgO:oosiiminaaban # ;
-+Ind+Pos+Dub+1Sg+%0PlO:oonaadogenan # ;
-+Ind+Pos+Dub+1Sg+%0SgO:oonaadog # ;
-+Ind+Pos+Dub+Excl+%0PlO:oominaadogenan # ;
-+Ind+Pos+Dub+Excl+%0SgO:oominaadog # ;
-+Ind+Pos+Neu+1Sg+%0PlO:oonan # ;
-+Ind+Pos+Neu+1Sg+%0SgO: # ;
-+Ind+Pos+Neu+Excl+%0PlO:oomin # ;
-+Ind+Pos+Neu+Excl+%0SgO:oomin # ;
-+Ind+Pos+Prt+1Sg+%0PlO:oonaabanen # ;
-+Ind+Pos+Prt+1Sg+%0PlO:oonaabaniin # ;
-+Ind+Pos+Prt+1Sg+%0SgO:oonaaban # ;
-+Ind+Pos+Prt+Excl+%0PlO:oominaabanen # ;
-+Ind+Pos+Prt+Excl+%0PlO:oominaabaniin # ;
-+Ind+Pos+Prt+Excl+%0SgO:oominaaban # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!                                                !!
