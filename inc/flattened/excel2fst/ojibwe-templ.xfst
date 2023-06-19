@@ -37,14 +37,11 @@ define VTILexicon ;
 
 read lexc verb_prefixes.lexc
 define Prefixes ;
-define Prefixes Prefixes "<<" ;
 
 regex [ VIILexicon |
-                 VAILexicon |
-	         VTILexicon ] ;
-
+        VAILexicon |
+	VTILexicon ] ;
 substitute defined Prefixes for "<<"
-random-pairs
 define Lexicon ;
 
 read regex Lexicon .o. [ dDeletion .o.
