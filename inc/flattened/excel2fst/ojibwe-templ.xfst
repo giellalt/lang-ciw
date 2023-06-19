@@ -36,6 +36,8 @@ read lexc VTI.lexc
 define VTILexicon ;
 
 read lexc verb_prefixes.lexc
+define VPrefixes ;
+read regex "<<" VPrefixes ;
 define Prefixes ;
 
 regex [ VIILexicon |
