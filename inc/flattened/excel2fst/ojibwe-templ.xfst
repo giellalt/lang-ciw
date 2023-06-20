@@ -35,7 +35,7 @@ define VAILexicon ;
 read lexc VTI.lexc
 define VTILexicon ;
 
-read lexc verb_prefixes.lexc
+read lexc lexc_source/verb_prefixes.lexc
 define VPrefixes ;
 read regex "<<" VPrefixes ;
 define Prefixes ;
@@ -55,5 +55,29 @@ read regex Lexicon .o. [ dDeletion .o.
 			 PrefixDInsertion .o.
 			 PrefixOLengthening .o.
      	   	         cleanUp ] ;
+define Analyzer
 
+! Closed classes
+read lexc lexc_source/numerals.lexc
+define Numerals ;
+
+read lexc lexc_source/particles.lexc
+define Particles ;
+
+read lexc lexc_source/adverbs.lexc
+define Adverbs ;
+
+read lexc lexc_source/quantifiers.lexc
+define Quantifiers ;
+
+read lexc lexc_source/pronouns.lexc
+define Pronouns ;
+
+read regex [ Lexicon |
+             Numerals |
+	     Particles |
+	     Adverbs |
+	     Quantifiers |
+	     Pronouns ] ;
+	     
 save stack ojibwe.fomabin
