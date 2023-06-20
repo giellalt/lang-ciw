@@ -1,5 +1,5 @@
 !! Pronouns
-LEXICON PR
+LEXICON Root
     PR_NI ;
     PR_NA ;
 
@@ -113,3 +113,5 @@ gegiinwaa:gegiinawaa    PR_NA_TAG    " 1 you (pl.), too" ; !Rand key:n20114910-2
 LEXICON PR_NA_TAG
 +Pron+NA:0  CLOSED_PROTECTION ;
 
+LEXICON CLOSED_PROTECTION
+# ;

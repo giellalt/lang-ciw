@@ -1,4 +1,4 @@
-LEXICON PCL
+LEXICON Root
 CJ ;
 IJ ;
 PT ;
@@ -136,3 +136,5 @@ gwa+Ipc:gwa    #    " 1 [see go]" ; !Rand key:n2010123111-11-47n
 LEXICON PT_TAG
 +Ipc:0 CLOSED_PROTECTION ;
 
+LEXICON CLOSED_PROTECTION
+# ;

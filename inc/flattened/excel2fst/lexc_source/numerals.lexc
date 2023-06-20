@@ -1,6 +1,6 @@
 !! Numerals
 
-LEXICON NM
+LEXICON Root
 aabta:aabita    CLOSED_PROTECTION    " 1 half" ; !Rand key:n7297243342n
 bezhig:bezhig    CLOSED_PROTECTION    " 1 one;  2 a certain individual... (often used when making first reference to individuals in narration)" ; !Rand key:n7297662289n
 mdaaching:midaaching    CLOSED_PROTECTION    " 1 ten times" ; !Rand key:n71429457847n
@@ -74,3 +74,6 @@ eko-mdaaching:eko-midaaching    CLOSED_PROTECTION    " 1 the tenth time" ; !Rand
 !niishtana shi bezhik:niishtana ashi bezhig    CLOSED_PROTECTION    " 1 twenty-one" ; !Rand key:n20114820-16-37n
 !mdaaswi shi bezhik nching:midaaswi ashi bezhig naching    CLOSED_PROTECTION    " 1 eleven times" ; !Rand key:n20114820-20-44n
 !mdaaswaak shi nshwaaswaak miinwaa mdaaswi shi niish:midaaswaak ashi nishwaaswaak miinwaa midaaswi ashi niizh    CLOSED_PROTECTION    " 1 1812 (the year)" ; !Rand key:n20114823-18-47n
+
+LEXICON CLOSED_PROTECTION
+# ;
