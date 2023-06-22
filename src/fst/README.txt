@@ -1,6 +1,6 @@
 # Structure of the verb morphotax and phonology
 
-fst/root.lexc:
+fst/verb_root.lexc:
 - multichar-symbols and root lexicon (-> person prefixes)
 -> fst/affixes/verb_prefixes.lexc:
    - person prefixes, followed by grammatical and lexical prefixation within LEXC
