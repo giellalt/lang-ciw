@@ -1,0 +1,62 @@
+Multichar_Symbols
+%<
+%>
+%<%<
+%>%>
++%0Pl
++%0PlO
++%0PlObv
++%0PlProx
++%0Sg
++%0Sg/%0Pl
++%0SgO
++%0SgO/%0PlO
++%0SgObv
++%0SgObv/%0PlObv
++%0SgProx
++%0SgProx/%0PlProx
++1Sg
++2Pl
++2Sg
++3PlObv
++3PlProx
++3SgObv
++3SgObv/3PlObv
++3SgProx
++Cnj
++Dub
++Excl
++Incl
++Ind
++Neg
++Neu
++Pos
++Prt
++VAI
++VII
++VTA
++VTI
++X
+@D.Ccnj@
+@D.Order@
+@P.Ccnj.Yes@
+@P.Order.Cnj@
+@P.Prefix.NONE@
+@P.Prefix.gi@
+@P.Prefix.ni@
+@P.Prefix.o@
+@R.Ccnj@
+@R.Prefix.NONE@
+@R.Prefix.gi@
+@R.Prefix.ni@
+@R.Prefix.o@
+PV/CCNJ+
+X2
+
+LEXICON Root
+! V_PREFIXES ;
+0:%<%< VII_Prefix ;
+0:%<%< VAI_Prefix ;
+0:%<%< VTI_Prefix ;
+0:%<%< VTA_Prefix ;
+
