@@ -4,7 +4,7 @@ By: Christopher Hammerly
 TO DO:
 
 - Investigate Prt+Dub forms in all paradigms
-- Expunge minnesota forms from the yaml and split stem files
+- For VAIs and VIIs, put the likely BLO form as form 1
 
 GENERAL
 
@@ -147,6 +147,8 @@ OTHER NOTES/ISSUES
 "A few vta verbs show an alternation in their final consonant between /s/ and /sh/. The form /sh/ shows up before the 1st-person object theme suffix /-i/, the imperative 1st-person object theme suffix /-ishi/, and the 2nd-person imperative theme suffix, /-i/. Elsewhere the form of the final sound of such verbs is /s/. There is only a small number of verbs showing this alternation" (https://ojibwegrammar.langsci.wisc.edu/Grammar/HTMLParadigms/vtaSindpos.htm)
 
 	- SOLUTION: For both of these, we've introduced a special character "i1" and the "i1-Palatalization" rule.
+
+
 
 
 #######################
