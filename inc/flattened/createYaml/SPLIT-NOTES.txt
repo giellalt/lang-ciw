@@ -5,6 +5,7 @@ TO DO:
 
 - Investigate Prt+Dub forms in all paradigms
 - For VAIs and VIIs, put the likely BLO form as form 1
+- Make sure all i1s are noted as such, even if they aren't specifically used for a rule. This is just to ensure consistency.
 
 GENERAL
 
@@ -128,17 +129,14 @@ For stems that end in "aw", the "aw" goes to "aa" when the suffix complex starts
 aw-to-oo
 For stems that end in "aw", the "aw" goes to "oo" when the suffix complex starts with "n" or "s".
 
-w-to-o
-For stems that end in "Cw", the "w" goes to "o" when the suffix complex starts with a consonant.
+w-to-o (UPDATED JUNE 29, 2023)
+For stems that end in "Cw", the "w" goes to "o" when the suffix complex starts with an "i" or "i1)". AKA, wi -> o / C __
 
 i1-Palatalization
 Stems ending in "n" palatalize to "zh" and "s" to "sh" when the suffix complex starts with the first person theme sign "i1". Note that it needs to be this specific, since it isn't just any old "i" that triggers palatalization.
 
 ShortV-deletion
-Delete word-final short vowels (as "i1"). This role MUST FOLLOW i1-Palatalization since it needs to be there to trigger the palatalization process, but does not show up in the surface form.
-
-W-deletion
-Delete word-final "w" (as in "gimizh", 2sg>1sg neutral positive)
+Delete word-final short vowels (as "i1"). This role MUST FOLLOW i1-Palatalization and w-to-o since it needs to be there to trigger the palatalization, but does not show up in the surface form.
 
 OTHER NOTES/ISSUES
 
@@ -148,6 +146,9 @@ OTHER NOTES/ISSUES
 
 	- SOLUTION: For both of these, we've introduced a special character "i1" and the "i1-Palatalization" rule.
 
+UPDATE: I changed the suffixation on the Cw stems to include an initial "i", and changed the w-to-o rule so that "Cwi" -> "Co". The consonant is important context, since it doesn't happen with "aw" stems where the suffix starts with "i". This needs to happen before the short-vowel deletion, since we see that this feeds the deletion in forms that end up ending in this short vowel. We can also get rid of the W-deletion rule.
+
+ISSUE: in the imperative order, with the 2Sg -> 3SgProx/3PlProx, there is an "i1" that appears only on monosyllabic shortvowel stems: nishi ‘killhim/her’. Otherwise, it is deleted. This is (I am quite certain) a more general rule that limits the word-final short-vowel deletion rule. For example, with the noun "makwa". We need to somehow implement this block into the model. Currently, we have the "i1" in the suffix complex, and it always gets deleted by the rule. It needs to be there to condition the palatalization process before being deleted.
 
 
 
@@ -222,18 +223,14 @@ Delete word-final short vowels
 	This rule MUST PRECEED the "w-deletion" rule
 	This role MUST FOLLOW i1-Palatalization.
 
-W-deletion
-Delete word-final "w" (occurs with neutral, positive 3sg; this rule MUST FOLLOW the short-vowel-deletion rule)
-
 aw-to-aa
 For TA stems that end in "aw", the "aw" goes to "aa" when the suffix complex starts with "g".
 
 aw-to-oo
 For TA stems that end in "aw", the "aw" goes to "oo" when the suffix complex starts with "n" or "s".
 
-w-to-o
-For TA stems that end in "Cw", the "w" goes to "o" when the suffix complex starts with a consonant.
-
+w-to-o (UPDATED JUNE 29, 2023)
+For stems that end in "Cw", the "w" goes to "o" when the suffix complex starts with an "i" or "i1)". AKA, wi -> o / C __
 
 OLD RULES (defunct)
 
@@ -242,3 +239,10 @@ Stem-final "m" is deleted and the vowel "a" is elongated to "aa" when the suffix
 
 M-assimilation & vowel lengthening
 With stems ending in "m", so both -am and -m stems (VAI stems "minongwaam" and "zaaga'am"; VTI stem "waabandam"), the "m" changes to "n" when the suffix complex starts with "z" (negation) or a "g" (3SgProx in the conjunct)
+
+
+w-to-o (REPLACED ON JUNE 29, 2023)
+For TA stems that end in "Cw", the "w" goes to "o" when the suffix complex starts with a consonant.
+
+W-deletion
+Delete word-final "w" (as in "gimizh", 2sg>1sg neutral positive)
