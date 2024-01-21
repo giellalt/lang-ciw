@@ -1,9 +1,10 @@
 # Chippewa documentation
 
-[![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ciw%2Fgh-pages%2Fmaturity.json)](https://giellalt.github.io/MaturityClassification.html)
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ciw%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-ciw)](https://github.com/giellalt/lang-ciw/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-ciw)](https://github.com/giellalt/lang-ciw/issues)
-[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-ciw/main/badge.svg)](https://github.com/giellalt/lang-ciw/actions)
+[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-ciw/main/badge.svg)](https://github.com/giellalt/lang-ciw/actions)
 
 This page documents the work on the [Chippewa language model](https://github.com/giellalt/lang-ciw). 
 It contains some 750 nouns and verbs, and a morphological

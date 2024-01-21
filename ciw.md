@@ -171,6 +171,38 @@ These were the set types.
 
 * * *
 <small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-ciw/blob/main/src/cg3/functions.cg3)</small>
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/VAI_suffixes.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/affixes/VAI_suffixes.lexc)</small>
+
+---
+
+
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/VII_suffixes.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/affixes/VII_suffixes.lexc)</small>
+
+---
+
+
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/VTA_suffixes.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/affixes/VTA_suffixes.lexc)</small>
+
+---
+
+
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/VTI_suffixes.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/affixes/VTI_suffixes.lexc)</small>
+
+---
+
+
 Ojibwe noun morphology                           
 
 # Prefixes
@@ -196,7 +228,7 @@ match the prefixes in the stem file.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/affixes/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/nouns.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/affixes/nouns.lexc)</small>
 
 ---
 
@@ -205,91 +237,7 @@ match the prefixes in the stem file.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/affixes/symbols.lexc)</small>
-
----
-
-
-Ojibwe verb morphology                           
-
-The verbs are analysed as follows:
-* We split the Verb lexicon in 4 groups according to transitivity class
-* For each group, we add the prefixes, and mark them with *flag diacritics* (the @ symbols)
-* Then come the stems themselves
-* Finally, come the suffixes, including flag diacritics
-to ensure that the correct prefixes and suffixes are matched together
-
-Prefixes and suffixes are in affixes/verbs.lexc, whereas
-the stems are in stems/verbs.lexc
-
-The Ojibwe verbs are divided in four groups:
-
-1. IA: Intransitive animate
-1. II: Intransitive inanimate
-1. TA: Transitive animate
-1. TI: Transitive inanimate
-
-# The prefixes
-
-LEXICON Verb  divides the verbs in four transitivity classes
-
-Intransitive animate
-
-LEXICON IA    divides in independent, subjunctive and imperative
-
-LEXICON IA_INDEPENDENT    gives prefixes and flags for person-number in indicative
-
-LEXICON IA_SUBJUNCTIV    gives prefixes and flags for person-number in subjunctive
-
-LEXICON IA_IMPERATIV    gives prefixes and flags for person-number in imperative
-
-Intransitive inanimate
-
-These have no prefixes, so we go directly to the **IISTEM** lexicon.
-
-Transitive animate
-
-LEXICON TA   is still not written
-
-Transitive inanimate
-
-LEXICON TI   is still not written
-
-# The suffixes
-
-Intransitive animate (IA)
-
-LEXICON IACONJ  splits in 3 conjugations
-
-LEXICON IA_IND  gives positive and negative
-
-LEXICON IA_IND_SUFF  (so far) gives present tense only
-
-LEXICON IA_IND_PRS  gives person suffixes
-
-LEXICON IA_SBJ  gives flag diacritics and directs to subjunctive person suffixes
-
-LEXICON IA_IMP   gives flag diacritics and directs to imperative person suffixes
-
-Intransitive inanimate (II)
-
-LEXICON IICONJ   splits according to conjugation
-
-LEXICON II_IND_PRS    is positive present
-
-LEXICON II_NEG_IND_PRS   is negative present
-
-LEXICON II_SBJ    is positive subjunctive
-
-LEXICON II_NEG_SBJ    is negative subjunctive
-
-Transitive animate (TA)
-
-* LEXICON TACONJ_am   not yet written
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/affixes/verbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/symbols.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/affixes/symbols.lexc)</small>
 
 ---
 
@@ -301,7 +249,7 @@ Transitive animate (TA)
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/phonology.twolc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/phonology.twolc)</small>
 
 ---
 
@@ -403,7 +351,7 @@ These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/root.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/root.lexc)</small>
 
 ---
 
@@ -414,7 +362,7 @@ This is a dummy files, awaiting real interjections.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/interjections.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/interjections.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/interjections.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/interjections.lexc)</small>
 
 ---
 
@@ -442,7 +390,7 @@ LEXICON KINSHIPSTEMS
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/nouns.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/nouns.lexc)</small>
 
 ---
 
@@ -453,7 +401,7 @@ None so far.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/numerals.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/numerals.lexc)</small>
 
 ---
 
@@ -464,7 +412,7 @@ Do these even exist?
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/prepositions.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/prepositions.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/prepositions.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/prepositions.lexc)</small>
 
 ---
 
@@ -476,7 +424,7 @@ not made it to the reflexives.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/pronouns.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/pronouns.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/pronouns.lexc)</small>
 
 ---
 
@@ -487,7 +435,7 @@ This is a dummy file, but perhaps *den* is a real subjunction?
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/subjunctions.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/subjunctions.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/subjunctions.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/subjunctions.lexc)</small>
 
 ---
 
@@ -545,7 +493,7 @@ LEXICON ZO
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/verbs.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/stems/verbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/verbs.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/verbs.lexc)</small>
 
 ---
 
@@ -712,7 +660,7 @@ retracted tongue root			_q
 
 * * *
 
-<small>This (part of) documentation was generated from [src/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-ciw/blob/main/src/phonetics/txt2ipa.xfscript)</small>
+<small>This (part of) documentation was generated from [src/fst/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-ciw/blob/main/src/fst/phonetics/txt2ipa.xfscript)</small>
 
 ---
 
@@ -732,7 +680,7 @@ For example:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 
 ---
 
@@ -746,7 +694,7 @@ For example:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-numbers-digit2text.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 ---
 
@@ -1295,6 +1243,70 @@ Finally we mark as a token any sequence making up a:
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](https://github.com/giellalt/lang-ciw/blob/main/tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small>
+
+---
+
+# TTS tokenisation for smj
+
+Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+Then just:
+```sh
+make
+echo "ja, ja" \
+| hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+More usage examples:
+```sh
+echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa \
+boasttu olmmoš, man mielde lahtuid." \
+| hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" \
+| hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+echo "márffibiillagáffe" \
+| hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+Pmatch documentation:
+<https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch>
+
+Characters which have analyses in the lexicon, but can appear without spaces
+before/after, that is, with no context conditions, and adjacent to words:
+* Punct contains ASCII punctuation marks
+* The symbol after m-dash is soft-hyphen `U+00AD`
+* The symbol following {•} is byte-order-mark / zero-width no-break space
+`U+FEFF`.
+
+Whitespace contains ASCII white space and
+the List contains some unicode white space characters
+* En Quad U+2000 to Zero-Width Joiner U+200d'
+* Narrow No-Break Space U+202F
+* Medium Mathematical Space U+205F
+* Word joiner U+2060
+
+Apart from what's in our morphology, there are
+1) unknown word-like forms, and
+2) unmatched strings
+We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
+* select extended latin symbols
+* select symbols
+* various symbols from Private area (probably Microsoft),
+so far:
+* U+F0B7 for "x in box"
+
+TODO: Could use something like this, but built-in's don't include šžđčŋ:
+
+Simply give an empty reading when something is unknown:
+hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
+remove empty analyses from other readings. Empty readings are also
+legal in CG, they get a default baseform equal to the wordform, but
+no tag to check, so it's safer to let hfst-tokenise handle them.
+
+Needs hfst-tokenise to output things differently depending on the tag they get
+
+* * *
+
+<small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-tts-cggt-desc.pmscript](https://github.com/giellalt/lang-ciw/blob/main/tools/tokenisers/tokeniser-tts-cggt-desc.pmscript)</small>
 
 ---
 
