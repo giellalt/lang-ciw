@@ -120,6 +120,3 @@ Drawn from Frantz, D. G. (1991). Blackfoot Grammar, 2nd Edition. University of T
 * * *
 
 <small>This (part of) documentation was generated from [tools/shellscripts/ruletest/phonology.xfscript](https://github.com/giellalt/lang-ciw/blob/main/tools/shellscripts/ruletest/phonology.xfscript)</small>
-
----
-

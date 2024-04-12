@@ -97,6 +97,3 @@ These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/root.lexc)</small>
-
----
-
