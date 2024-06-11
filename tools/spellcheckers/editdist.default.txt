@@ -4,15 +4,12 @@
 a
 b
 c
-č
 d
 e
 f
 g
 h
 i
-î
-ï
 j
 k
 l
@@ -20,6 +17,7 @@ m
 n
 o
 p
+q
 r
 s
 t
@@ -29,6 +27,7 @@ w
 x
 y
 z
+'
 -
 .
 0
@@ -41,17 +40,21 @@ z
 7
 8
 9
-:
 
 ## Transition pairs + weight - section separator:
 @@
 
 ## Transition pair specifications + weight:
-a	á	0.4
+d	t	15
+t	d	5
+b	p	15
+p	b	5
+g	k	15
+k	g	5
 
 ## Swaps. NB! Please note that these depend on the variable
 ## USE_SWAPS in Makefile.am in this directory. Also note that
 ## enabling swaps is computationally expensive. See note in
 ## Makefile.am.
 ## Change dh into hd with the weight 0.5:
-d,h	h,d	0.5
+## d,h	h,d	0.5
