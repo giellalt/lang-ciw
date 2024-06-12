@@ -1,0 +1,43 @@
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                         !!
+!!   PV lexicons start     !!
+!!                         !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PrenounRoot
+LexPN ;
+NounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                         !!
+!!        Lexical PV       !!
+!!                         !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON LexPN
+LexPNAny ;
+PrenounEnd ;
+
+LEXICON LexPNAny
+PNLex%/maajii+:maajii LexPNBoundary ;
+PNLex%/gichi+:gichi LexPNBoundary ;
+PNQnt%/ningo+:ningo LexPNBoundary ;
+PNQnt%/niizho+:niizho LexPNBoundary ;
+PNQnt%/niso+:niso LexPNBoundary ;
+
+LEXICON LexPNIndependent
+%<EMPTYLEX%> PrenounEnd ;
+
+LEXICON LexPNPlainConjunct
+%<EMPTYLEX%> PrenounEnd ;
+
+LEXICON LexPNChangedConjunct
+%<EMPTYLEX%> PrenounEnd ;
+
+LEXICON LexPNBoundary 
+@C.ChCnj@:@C.ChCnj@- LexPN ;
+
+LEXICON PrenounEnd
+%<%< NounStems ;

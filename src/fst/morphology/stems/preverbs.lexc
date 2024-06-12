@@ -1,0 +1,174 @@
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                         !!
+!!   PV lexicons start     !!
+!!                         !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PreverbRoot
+SubPV ;
+VerbStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                         !!
+!!   Subordinating PV      !!
+!!                         !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON SubPV
+@U.Order.Cnj@ SubPVPlainConjunct ;
+TensePV ;
+
+LEXICON SubPVPlainConjunct
+ChCnj+:0 ChCnjPV ;
+@D.ChCnj@PVSub%/e+:@D.ChCnj@e SubPVBoundary ;
+@D.ChCnj@PVSub%/a+:@D.ChCnj@a SubPVBoundary ;
+@D.ChCnj@PVSub%/gaa+:@D.ChCnj@gaa SubPVBoundary ;
+
+LEXICON ChCnjPV
+@U.ChCnj.On@ TensePVChangedConjunct ;
+@U.ChCnj.On@ DirPVChangedConjunct ;
+@U.ChCnj.On@:@U.ChCnj.On@%<ChCnj%> TensePV ;
+
+LEXICON SubPVBoundary
+0:- TensePV ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                         !!
+!!        Tense PV         !!
+!!                         !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON TensePV
+TensePVAny ;
+@U.Order.Ind@ TensePVIndependent ;
+@U.Order.Cnj@ TensePVPlainConjunct ;
+DirPV ;
+
+LEXICON TensePVAny
+PVTense%/gii+:gii%<T%> TensePVBoundary ;
+PVTense%/gii'+:gii'%<T%> TensePVBoundary ;
+PVTense%/wii+:wii%<T%> TensePVBoundary ;
+PVTense%/wii'+:wii'%<T%> TensePVBoundary ;
+
+LEXICON TensePVIndependent
+PVTense%/ga+:ga TensePVBoundary ;
+PVTense%/daa+:daa TensePVBoundary ;
+PVTense%/daa+:daa TensePVBoundary ;
+
+LEXICON TensePVPlainConjunct
+@D.ChCnj@PVTense%/ga+:@D.ChCnj@ji TensePVBoundary ;
+@D.ChCnj@PVTense%/daa+:@D.ChCnj@ji TensePVBoundary ;
+@D.ChCnj@PVTense%/daa+:@D.ChCnj@da TensePVBoundary ;
+
+LEXICON TensePVChangedConjunct
+PVTense%/ga+:ge TensePVBoundary ;
+PVTense%/daa+:ge TensePVBoundary ;
+PVTense%/daa+:ge TensePVBoundary ;
+
+LEXICON TensePVBoundary 
+@C.ChCnj@:@C.ChCnj@- TensePV ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                         !!
+!!     Directional PV      !!
+!!                         !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON DirPV
+DirPVAny ;
+@U.Order.Ind@ DirPVIndependent ;
+@U.Order.Cnj@ DirPVPlainConjunct ;
+RelPV ;
+
+LEXICON DirPVAny
+PVDir%/ani+:ani DirPVBoundary ;
+PVDir%/awi+:awi DirPVBoundary ;
+PVDir%/baa+:baa DirPVBoundary ;
+PVDir%/babaa+:babaa DirPVBoundary ;
+PVDir%/bibaa+:bibaa DirPVBoundary ;
+PVDir%/biiji+:biiji DirPVBoundary ;
+PVDir%/bi+:bi DirPVBoundary ;
+PVDir%/bimi+:bimi DirPVBoundary ;
+PVDir%/ni+:ni DirPVBoundary ;
+PVDir%/o+:o DirPVBoundary ;
+PVDir%/ombi+:ombi DirPVBoundary ;
+PVDir%/wi+:wi DirPVBoundary ;
+PVDir%/zaagiji+:zaagiji DirPVBoundary ;
+
+LEXICON DirPVIndependent
+%<EMPTYLEX%> PREVERBEND ;
+
+LEXICON DirPVPlainConjunct
+%<EMPTYLEX%> PREVERBEND ;
+
+LEXICON DirPVChangedConjunct
+PVDir%/bi+:bi DirPVBoundary ;
+PVDir%/ni+:eni DirPVBoundary ;
+PVDir%/wi+:wi DirPVBoundary ;
+
+LEXICON DirPVBoundary 
+@C.ChCnj@:@C.ChCnj@- DirPV ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                         !!
+!!       Relative PV       !!
+!!                         !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON RelPV
+RelPVAny ;
+@U.Order.Ind@ RelPVIndependent ;
+@U.Order.Cnj@ RelPVPlainConjunct ;
+LexPV ;
+
+LEXICON RelPVAny
+PVRel%/ako+:ako RelPVBoundary ;
+
+LEXICON RelPVIndependent
+%<EMPTYLEX%> PREVERBEND ;
+
+LEXICON RelPVPlainConjunct
+%<EMPTYLEX%> PREVERBEND ;
+
+LEXICON RelPVChangedConjunct
+%<EMPTYLEX%> PREVERBEND ;
+
+LEXICON RelPVBoundary 
+@C.ChCnj@:@C.ChCnj@- RelPV ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                         !!
+!!        Lexical PV       !!
+!!                         !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON LexPV
+LexPVAny ;
+@U.Order.Ind@ LexPVIndependent ;
+@U.Order.Cnj@ LexPVPlainConjunct ;
+PREVERBEND ;
+
+LEXICON LexPVAny
+PVLex%/maajii+:maajii LexPVBoundary ;
+PVLex%/gichi+:gichi LexPVBoundary ;
+PVQnt%/ningo+:ningo LexPVBoundary ;
+PVQnt%/niizho+:niizho LexPVBoundary ;
+PVQnt%/niso+:niso LexPVBoundary ;
+
+LEXICON LexPVIndependent
+%<EMPTYLEX%> PREVERBEND ;
+
+LEXICON LexPVPlainConjunct
+%<EMPTYLEX%> PREVERBEND ;
+
+LEXICON LexPVChangedConjunct
+%<EMPTYLEX%> PREVERBEND ;
+
+LEXICON LexPVBoundary 
+@C.ChCnj@:@C.ChCnj@- LexPV ;
+
+
+LEXICON PREVERBEND
+%<%< VerbStems ;

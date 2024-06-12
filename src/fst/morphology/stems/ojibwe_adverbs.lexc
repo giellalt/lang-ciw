@@ -1,0 +1,501 @@
+LEXICON AdverbRoot
+@P.Paradigm.ADVConj@ ADVConj_Prefix ;
+@P.Paradigm.ADVDisc@ ADVDisc_Prefix ;
+@P.Paradigm.ADVDub@ ADVDub_Prefix ;
+@P.Paradigm.ADVGram@ ADVGram_Prefix ;
+@P.Paradigm.ADVInter@ ADVInter_Prefix ;
+@P.Paradigm.ADVLoc@ ADVLoc_Prefix ;
+@P.Paradigm.ADVMan@ ADVMan_Prefix ;
+@P.Paradigm.ADVNeg@ ADVNeg_Prefix ;
+@P.Paradigm.ADVPred@ ADVPred_Prefix ;
+@P.Paradigm.ADVQnt@ ADVQnt_Prefix ;
+@P.Paradigm.ADVTmp@ ADVTmp_Prefix ;
+@P.Paradigm.AVDDeg@ AVDDeg_Prefix ;
+
+LEXICON ADVConj_Prefix
+@P.Prefix.NONE@ ADVConj_PrefixBoundary ;
+
+LEXICON ADVConj_PrefixBoundary
+0:%<%< AdverbStems ;
+
+LEXICON AdverbStems
+@R.Paradigm.ADVConj@ ADVConj_Stems ;
+@R.Paradigm.ADVDisc@ ADVDisc_Stems ;
+@R.Paradigm.ADVDub@ ADVDub_Stems ;
+@R.Paradigm.ADVGram@ ADVGram_Stems ;
+@R.Paradigm.ADVInter@ ADVInter_Stems ;
+@R.Paradigm.ADVLoc@ ADVLoc_Stems ;
+@R.Paradigm.ADVMan@ ADVMan_Stems ;
+@R.Paradigm.ADVNeg@ ADVNeg_Stems ;
+@R.Paradigm.ADVPred@ ADVPred_Stems ;
+@R.Paradigm.ADVQnt@ ADVQnt_Stems ;
+@R.Paradigm.ADVTmp@ ADVTmp_Stems ;
+@R.Paradigm.AVDDeg@ AVDDeg_Stems ;
+
+LEXICON ADVConj_Stems
+dash ADVConj_Class=ADVConj_Boundary ;
+gaye ADVConj_Class=ADVConj_Boundary ;
+gemaa ADVConj_Class=ADVConj_Boundary ;
+miinawaa ADVConj_Class=ADVConj_Boundary ;
+
+LEXICON ADVConj_Class=ADVConj_Boundary
+0:%>%> ADVConj_Class=ADVConj_Flags ;
+
+LEXICON ADVConj_Class=ADVConj_Flags
+@R.Prefix.NONE@ ADVConj_Class=ADVConj_Prefix=NONE_Order=Other ;
+
+LEXICON ADVConj_Class=ADVConj_Prefix=NONE_Order=Other
+@U.Order.Other@ ADVConj_Class=ADVConj_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON ADVConj_Class=ADVConj_Prefix=NONE_Order=Other_Endings
++ADVConj: # ;
+
+LEXICON ADVDisc_Prefix
+@P.Prefix.NONE@ ADVDisc_PrefixBoundary ;
+
+LEXICON ADVDisc_PrefixBoundary
+0:%<%< AdverbStems ;
+
+LEXICON ADVDisc_Stems
+aapidek ADVDisc_Class=ADVDisc_Boundary ;
+
+LEXICON ADVDisc_Class=ADVDisc_Boundary
+0:%>%> ADVDisc_Class=ADVDisc_Flags ;
+
+LEXICON ADVDisc_Class=ADVDisc_Flags
+@R.Prefix.NONE@ ADVDisc_Class=ADVDisc_Prefix=NONE_Order=Other ;
+
+LEXICON ADVDisc_Class=ADVDisc_Prefix=NONE_Order=Other
+@U.Order.Other@ ADVDisc_Class=ADVDisc_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON ADVDisc_Class=ADVDisc_Prefix=NONE_Order=Other_Endings
++ADVDisc: # ;
+
+LEXICON ADVDub_Prefix
+@P.Prefix.NONE@ ADVDub_PrefixBoundary ;
+
+LEXICON ADVDub_PrefixBoundary
+0:%<%< AdverbStems ;
+
+LEXICON ADVDub_Stems
+dibi ADVDub_Class=ADVDub_Boundary ;
+dibi:dibiw2 ADVDub_Class=ADVDub_Boundary ;
+dibi% iidog ADVDub_Class=ADVDub_Boundary ;
+
+LEXICON ADVDub_Class=ADVDub_Boundary
+0:%>%> ADVDub_Class=ADVDub_Flags ;
+
+LEXICON ADVDub_Class=ADVDub_Flags
+@R.Prefix.NONE@ ADVDub_Class=ADVDub_Prefix=NONE_Order=Other ;
+
+LEXICON ADVDub_Class=ADVDub_Prefix=NONE_Order=Other
+@U.Order.Other@ ADVDub_Class=ADVDub_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON ADVDub_Class=ADVDub_Prefix=NONE_Order=Other_Endings
++ADVDub: # ;
+
+LEXICON ADVGram_Prefix
+@P.Prefix.NONE@ ADVGram_PrefixBoundary ;
+
+LEXICON ADVGram_PrefixBoundary
+0:%<%< AdverbStems ;
+
+LEXICON ADVGram_Stems
+biinish ADVGram_Class=ADVGram_Boundary ;
+giishpin ADVGram_Class=ADVGram_Boundary ;
+
+LEXICON ADVGram_Class=ADVGram_Boundary
+0:%>%> ADVGram_Class=ADVGram_Flags ;
+
+LEXICON ADVGram_Class=ADVGram_Flags
+@R.Prefix.NONE@ ADVGram_Class=ADVGram_Prefix=NONE_Order=Other ;
+
+LEXICON ADVGram_Class=ADVGram_Prefix=NONE_Order=Other
+@U.Order.Other@ ADVGram_Class=ADVGram_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON ADVGram_Class=ADVGram_Prefix=NONE_Order=Other_Endings
++ADVGram: # ;
+
+LEXICON ADVInter_Prefix
+@P.Prefix.NONE@ ADVInter_PrefixBoundary ;
+
+LEXICON ADVInter_PrefixBoundary
+0:%<%< AdverbStems ;
+
+LEXICON ADVInter_Stems
+aandi ADVInter_Class=ADVInter_Boundary ;
+aandi:aandiw2 ADVInter_Class=ADVInter_Boundary ;
+
+LEXICON ADVInter_Class=ADVInter_Boundary
+0:%>%> ADVInter_Class=ADVInter_Flags ;
+
+LEXICON ADVInter_Class=ADVInter_Flags
+@R.Prefix.NONE@ ADVInter_Class=ADVInter_Prefix=NONE_Order=Other ;
+
+LEXICON ADVInter_Class=ADVInter_Prefix=NONE_Order=Other
+@U.Order.Other@ ADVInter_Class=ADVInter_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON ADVInter_Class=ADVInter_Prefix=NONE_Order=Other_Endings
++ADVInter: # ;
+
+LEXICON ADVLoc_Prefix
+@P.Prefix.NONE@ ADVLoc_PrefixBoundary ;
+
+LEXICON ADVLoc_PrefixBoundary
+0:%<%< AdverbStems ;
+
+LEXICON ADVLoc_Stems
+aabitawagaam ADVLoc_Class=ADVLoc_Boundary ;
+aabitawaya'ii ADVLoc_Class=ADVLoc_Boundary ;
+aabitawikana:aabitawikanaw2 ADVLoc_Class=ADVLoc_Boundary ;
+aasamadaaki ADVLoc_Class=ADVLoc_Boundary ;
+aasamadaaki:aasamadaakiw2 ADVLoc_Class=ADVLoc_Boundary ;
+agaamakiing ADVLoc_Class=ADVLoc_Boundary ;
+agaamikana:agaamikanaw2 ADVLoc_Class=ADVLoc_Boundary ;
+agaaming ADVLoc_Class=ADVLoc_Boundary ;
+agwajiing ADVLoc_Class=ADVLoc_Boundary ;
+anaamaabik ADVLoc_Class=ADVLoc_Boundary ;
+anaamaagonag ADVLoc_Class=ADVLoc_Boundary ;
+anaamakamig ADVLoc_Class=ADVLoc_Boundary ;
+anaamaya'ii ADVLoc_Class=ADVLoc_Boundary ;
+anaami-nibaagan ADVLoc_Class=ADVLoc_Boundary ;
+anaamibiig ADVLoc_Class=ADVLoc_Boundary ;
+anaamikwam ADVLoc_Class=ADVLoc_Boundary ;
+anaamoonag ADVLoc_Class=ADVLoc_Boundary ;
+awasajiw ADVLoc_Class=ADVLoc_Boundary ;
+awasikana:awasikanaw2 ADVLoc_Class=ADVLoc_Boundary ;
+awasisag ADVLoc_Class=ADVLoc_Boundary ;
+besho:beshow2 ADVLoc_Class=ADVLoc_Boundary ;
+biindig ADVLoc_Class=ADVLoc_Boundary ;
+biindoonag ADVLoc_Class=ADVLoc_Boundary ;
+biinjaya'ii ADVLoc_Class=ADVLoc_Boundary ;
+biinjidaabaan ADVLoc_Class=ADVLoc_Boundary ;
+biinjidoon ADVLoc_Class=ADVLoc_Boundary ;
+biinjitawag ADVLoc_Class=ADVLoc_Boundary ;
+dabazhiish ADVLoc_Class=ADVLoc_Boundary ;
+gabekana:gabekanaw2 ADVLoc_Class=ADVLoc_Boundary ;
+ishkwe-ayi'ii ADVLoc_Class=ADVLoc_Boundary ;
+ishkweyaang ADVLoc_Class=ADVLoc_Boundary ;
+ishpaya'ii ADVLoc_Class=ADVLoc_Boundary ;
+ishpiming ADVLoc_Class=ADVLoc_Boundary ;
+iwidi:iwidiw2 ADVLoc_Class=ADVLoc_Boundary ;
+jiigaabik ADVLoc_Class=ADVLoc_Boundary ;
+jiigaatig ADVLoc_Class=ADVLoc_Boundary ;
+jiigashkiig ADVLoc_Class=ADVLoc_Boundary ;
+jiigasin ADVLoc_Class=ADVLoc_Boundary ;
+jiigi-aasamisag ADVLoc_Class=ADVLoc_Boundary ;
+jiigi-waakaa'igan ADVLoc_Class=ADVLoc_Boundary ;
+jiigi-ziibi:jiigi-ziibiw2 ADVLoc_Class=ADVLoc_Boundary ;
+jiigibiig ADVLoc_Class=ADVLoc_Boundary ;
+jiigikana:jiigikanaw2 ADVLoc_Class=ADVLoc_Boundary ;
+jiigishkode ADVLoc_Class=ADVLoc_Boundary ;
+megwekob ADVLoc_Class=ADVLoc_Boundary ;
+mishawagaam ADVLoc_Class=ADVLoc_Boundary ;
+mitaabik ADVLoc_Class=ADVLoc_Boundary ;
+mitakamig ADVLoc_Class=ADVLoc_Boundary ;
+mizhisha:mizhishaw2 ADVLoc_Class=ADVLoc_Boundary ;
+miziwe ADVLoc_Class=ADVLoc_Boundary ;
+naawaakigan ADVLoc_Class=ADVLoc_Boundary ;
+naawagaam ADVLoc_Class=ADVLoc_Boundary ;
+naawashkiig ADVLoc_Class=ADVLoc_Boundary ;
+naawaya'ii ADVLoc_Class=ADVLoc_Boundary ;
+naawi-ziibi:naawi-ziibiw2 ADVLoc_Class=ADVLoc_Boundary ;
+naawikana:naawikanaw2 ADVLoc_Class=ADVLoc_Boundary ;
+naawisag ADVLoc_Class=ADVLoc_Boundary ;
+naawiskatig ADVLoc_Class=ADVLoc_Boundary ;
+naawoonag ADVLoc_Class=ADVLoc_Boundary ;
+niigaan ADVLoc_Class=ADVLoc_Boundary ;
+niisaya'ii ADVLoc_Class=ADVLoc_Boundary ;
+noopiming ADVLoc_Class=ADVLoc_Boundary ;
+ogidaabik ADVLoc_Class=ADVLoc_Boundary ;
+ogidaagonag ADVLoc_Class=ADVLoc_Boundary ;
+ogidaaki:ogidaakiw2 ADVLoc_Class=ADVLoc_Boundary ;
+ogidadoopowinaak ADVLoc_Class=ADVLoc_Boundary ;
+ogidajiw ADVLoc_Class=ADVLoc_Boundary ;
+ogidakamig ADVLoc_Class=ADVLoc_Boundary ;
+ogidibiig ADVLoc_Class=ADVLoc_Boundary ;
+ogidigamig ADVLoc_Class=ADVLoc_Boundary ;
+ogijaya'ii ADVLoc_Class=ADVLoc_Boundary ;
+ogiji-adoopowin ADVLoc_Class=ADVLoc_Boundary ;
+ondaas ADVLoc_Class=ADVLoc_Boundary ;
+ondaasagaam ADVLoc_Class=ADVLoc_Boundary ;
+ondaasayi'ii ADVLoc_Class=ADVLoc_Boundary ;
+ondaasikana:ondaasikanaw2 ADVLoc_Class=ADVLoc_Boundary ;
+ondaasishkode ADVLoc_Class=ADVLoc_Boundary ;
+opime-ayi'ii ADVLoc_Class=ADVLoc_Boundary ;
+opimekana:opimekanaw2 ADVLoc_Class=ADVLoc_Boundary ;
+owidi:owidiw2 ADVLoc_Class=ADVLoc_Boundary ;
+waabanong ADVLoc_Class=ADVLoc_Boundary ;
+waasa:waasaw2 ADVLoc_Class=ADVLoc_Boundary ;
+zhaabwayi'ii ADVLoc_Class=ADVLoc_Boundary ;
+zhaawanong ADVLoc_Class=ADVLoc_Boundary ;
+zhishwajayi'ii ADVLoc_Class=ADVLoc_Boundary ;
+zhishwajigamig ADVLoc_Class=ADVLoc_Boundary ;
+zhishwajikana:zhishwajikanaw2 ADVLoc_Class=ADVLoc_Boundary ;
+
+LEXICON ADVLoc_Class=ADVLoc_Boundary
+0:%>%> ADVLoc_Class=ADVLoc_Flags ;
+
+LEXICON ADVLoc_Class=ADVLoc_Flags
+@R.Prefix.NONE@ ADVLoc_Class=ADVLoc_Prefix=NONE_Order=Other ;
+
+LEXICON ADVLoc_Class=ADVLoc_Prefix=NONE_Order=Other
+@U.Order.Other@ ADVLoc_Class=ADVLoc_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON ADVLoc_Class=ADVLoc_Prefix=NONE_Order=Other_Endings
++ADVLoc: # ;
+
+LEXICON ADVMan_Prefix
+@P.Prefix.NONE@ ADVMan_PrefixBoundary ;
+
+LEXICON ADVMan_PrefixBoundary
+0:%<%< AdverbStems ;
+
+LEXICON ADVMan_Stems
+aanawi:aanawiw2 ADVMan_Class=ADVMan_Boundary ;
+agaawaa% go:agaawaa% gow2 ADVMan_Class=ADVMan_Boundary ;
+awanjish ADVMan_Class=ADVMan_Boundary ;
+bakaan ADVMan_Class=ADVMan_Boundary ;
+bebakaan ADVMan_Class=ADVMan_Boundary ;
+bekaa ADVMan_Class=ADVMan_Boundary ;
+bizaan ADVMan_Class=ADVMan_Boundary ;
+booch ADVMan_Class=ADVMan_Boundary ;
+debinaak ADVMan_Class=ADVMan_Boundary ;
+dibishkoo ADVMan_Class=ADVMan_Boundary ;
+gaawiin% memwech ADVMan_Class=ADVMan_Boundary ;
+gagwaanisagakamig ADVMan_Class=ADVMan_Boundary ;
+ganage ADVMan_Class=ADVMan_Boundary ;
+geget ADVMan_Class=ADVMan_Boundary ;
+gego% ganage ADVMan_Class=ADVMan_Boundary ;
+gemaa% gaye ADVMan_Class=ADVMan_Boundary ;
+giimooj ADVMan_Class=ADVMan_Boundary ;
+gitwen ADVMan_Class=ADVMan_Boundary ;
+gwayak ADVMan_Class=ADVMan_Boundary ;
+indawaaj ADVMan_Class=ADVMan_Boundary ;
+indigo:indigow2 ADVMan_Class=ADVMan_Boundary ;
+maagizhaa ADVMan_Class=ADVMan_Boundary ;
+maamakaaj ADVMan_Class=ADVMan_Boundary ;
+maamawi:maamawiw2 ADVMan_Class=ADVMan_Boundary ;
+maanoo ADVMan_Class=ADVMan_Boundary ;
+memeshkwad ADVMan_Class=ADVMan_Boundary ;
+memindage ADVMan_Class=ADVMan_Boundary ;
+memindage% go:memindage% gow2 ADVMan_Class=ADVMan_Boundary ;
+memwech ADVMan_Class=ADVMan_Boundary ;
+miinooj ADVMan_Class=ADVMan_Boundary ;
+na'egaaj ADVMan_Class=ADVMan_Boundary ;
+naanabem ADVMan_Class=ADVMan_Boundary ;
+naasaab ADVMan_Class=ADVMan_Boundary ;
+onjida:onjidaw2 ADVMan_Class=ADVMan_Boundary ;
+wawiinge ADVMan_Class=ADVMan_Boundary ;
+wawiyazh ADVMan_Class=ADVMan_Boundary ;
+wegwaagi:wegwaagiw2 ADVMan_Class=ADVMan_Boundary ;
+weniban ADVMan_Class=ADVMan_Boundary ;
+wenipazh ADVMan_Class=ADVMan_Boundary ;
+weweni:weweniw2 ADVMan_Class=ADVMan_Boundary ;
+wewiib ADVMan_Class=ADVMan_Boundary ;
+zaaziibiskaaj ADVMan_Class=ADVMan_Boundary ;
+zazegaa ADVMan_Class=ADVMan_Boundary ;
+
+LEXICON ADVMan_Class=ADVMan_Boundary
+0:%>%> ADVMan_Class=ADVMan_Flags ;
+
+LEXICON ADVMan_Class=ADVMan_Flags
+@R.Prefix.NONE@ ADVMan_Class=ADVMan_Prefix=NONE_Order=Other ;
+
+LEXICON ADVMan_Class=ADVMan_Prefix=NONE_Order=Other
+@U.Order.Other@ ADVMan_Class=ADVMan_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON ADVMan_Class=ADVMan_Prefix=NONE_Order=Other_Endings
++ADVMan: # ;
+
+LEXICON ADVNeg_Prefix
+@P.Prefix.NONE@ ADVNeg_PrefixBoundary ;
+
+LEXICON ADVNeg_PrefixBoundary
+0:%<%< AdverbStems ;
+
+LEXICON ADVNeg_Stems
+gaawiin ADVNeg_Class=ADVNeg_Boundary ;
+gego:gegow2 ADVNeg_Class=ADVNeg_Boundary ;
+
+LEXICON ADVNeg_Class=ADVNeg_Boundary
+0:%>%> ADVNeg_Class=ADVNeg_Flags ;
+
+LEXICON ADVNeg_Class=ADVNeg_Flags
+@R.Prefix.NONE@ ADVNeg_Class=ADVNeg_Prefix=NONE_Order=Other ;
+
+LEXICON ADVNeg_Class=ADVNeg_Prefix=NONE_Order=Other
+@U.Order.Other@ ADVNeg_Class=ADVNeg_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON ADVNeg_Class=ADVNeg_Prefix=NONE_Order=Other_Endings
++ADVNeg: # ;
+
+LEXICON ADVPred_Prefix
+@P.Prefix.NONE@ ADVPred_PrefixBoundary ;
+
+LEXICON ADVPred_PrefixBoundary
+0:%<%< AdverbStems ;
+
+LEXICON ADVPred_Stems
+ambegish ADVPred_Class=ADVPred_Boundary ;
+
+LEXICON ADVPred_Class=ADVPred_Boundary
+0:%>%> ADVPred_Class=ADVPred_Flags ;
+
+LEXICON ADVPred_Class=ADVPred_Flags
+@R.Prefix.NONE@ ADVPred_Class=ADVPred_Prefix=NONE_Order=Other ;
+
+LEXICON ADVPred_Class=ADVPred_Prefix=NONE_Order=Other
+@U.Order.Other@ ADVPred_Class=ADVPred_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON ADVPred_Class=ADVPred_Prefix=NONE_Order=Other_Endings
++ADVPred: # ;
+
+LEXICON ADVQnt_Prefix
+@P.Prefix.NONE@ ADVQnt_PrefixBoundary ;
+
+LEXICON ADVQnt_PrefixBoundary
+0:%<%< AdverbStems ;
+
+LEXICON ADVQnt_Stems
+aanind ADVQnt_Class=ADVQnt_Boundary ;
+anooj ADVQnt_Class=ADVQnt_Boundary ;
+bangii ADVQnt_Class=ADVQnt_Boundary ;
+bebangii ADVQnt_Class=ADVQnt_Boundary ;
+gakina:gakinaw2 ADVQnt_Class=ADVQnt_Boundary ;
+gichi-niibowa:gichi-niibowaw2 ADVQnt_Class=ADVQnt_Boundary ;
+naagaj ADVQnt_Class=ADVQnt_Boundary ;
+neniibowa:neniibowaw2 ADVQnt_Class=ADVQnt_Boundary ;
+niibowa:niibowaw2 ADVQnt_Class=ADVQnt_Boundary ;
+onzaam ADVQnt_Class=ADVQnt_Boundary ;
+zhaangaching ADVQnt_Class=ADVQnt_Boundary ;
+
+LEXICON ADVQnt_Class=ADVQnt_Boundary
+0:%>%> ADVQnt_Class=ADVQnt_Flags ;
+
+LEXICON ADVQnt_Class=ADVQnt_Flags
+@R.Prefix.NONE@ ADVQnt_Class=ADVQnt_Prefix=NONE_Order=Other ;
+
+LEXICON ADVQnt_Class=ADVQnt_Prefix=NONE_Order=Other
+@U.Order.Other@ ADVQnt_Class=ADVQnt_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON ADVQnt_Class=ADVQnt_Prefix=NONE_Order=Other_Endings
++ADVQnt: # ;
+
+LEXICON ADVTmp_Prefix
+@P.Prefix.NONE@ ADVTmp_PrefixBoundary ;
+
+LEXICON ADVTmp_PrefixBoundary
+0:%<%< AdverbStems ;
+
+LEXICON ADVTmp_Stems
+aabiding ADVTmp_Class=ADVTmp_Boundary ;
+aanapiish ADVTmp_Class=ADVTmp_Boundary ;
+aangwaamas ADVTmp_Class=ADVTmp_Boundary ;
+ajina:ajinaw2 ADVTmp_Class=ADVTmp_Boundary ;
+akawe ADVTmp_Class=ADVTmp_Boundary ;
+apane ADVTmp_Class=ADVTmp_Boundary ;
+awasi-biboonong ADVTmp_Class=ADVTmp_Boundary ;
+awasi-dagwaagong ADVTmp_Class=ADVTmp_Boundary ;
+awasi-niibinong ADVTmp_Class=ADVTmp_Boundary ;
+awasi-ziigwanong ADVTmp_Class=ADVTmp_Boundary ;
+azhigwa:azhigwaw2 ADVTmp_Class=ADVTmp_Boundary ;
+baabige ADVTmp_Class=ADVTmp_Boundary ;
+babenag ADVTmp_Class=ADVTmp_Boundary ;
+biboonong ADVTmp_Class=ADVTmp_Boundary ;
+bijiinag ADVTmp_Class=ADVTmp_Boundary ;
+dagwaagong ADVTmp_Class=ADVTmp_Boundary ;
+dasing ADVTmp_Class=ADVTmp_Boundary ;
+daso-gikinoonowin ADVTmp_Class=ADVTmp_Boundary ;
+dibikong ADVTmp_Class=ADVTmp_Boundary ;
+endaso-dibik ADVTmp_Class=ADVTmp_Boundary ;
+endaso-gigizheb ADVTmp_Class=ADVTmp_Boundary ;
+endaso-giizhik ADVTmp_Class=ADVTmp_Boundary ;
+endaso-giizis ADVTmp_Class=ADVTmp_Boundary ;
+gaa% mashi:gaa% mashiw2 ADVTmp_Class=ADVTmp_Boundary ;
+gaa% wiikaa ADVTmp_Class=ADVTmp_Boundary ;
+gaawiin% geyaabi:gaawiin% geyaabiw2 ADVTmp_Class=ADVTmp_Boundary ;
+gaawiin% wiikaa ADVTmp_Class=ADVTmp_Boundary ;
+gabe-biboon ADVTmp_Class=ADVTmp_Boundary ;
+gabe-dagwaagi:gabe-dagwaagiw2 ADVTmp_Class=ADVTmp_Boundary ;
+gabe-dibik ADVTmp_Class=ADVTmp_Boundary ;
+gabe-giizhik ADVTmp_Class=ADVTmp_Boundary ;
+gabe-niibin ADVTmp_Class=ADVTmp_Boundary ;
+gabe-onaagosh ADVTmp_Class=ADVTmp_Boundary ;
+gabe-ziigwan ADVTmp_Class=ADVTmp_Boundary ;
+gabenaagosh ADVTmp_Class=ADVTmp_Boundary ;
+gabeya'ii ADVTmp_Class=ADVTmp_Boundary ;
+gayat ADVTmp_Class=ADVTmp_Boundary ;
+gegapii ADVTmp_Class=ADVTmp_Boundary ;
+gego% wiikaa ADVTmp_Class=ADVTmp_Boundary ;
+geyaabi:geyaabiw2 ADVTmp_Class=ADVTmp_Boundary ;
+gezika:gezikaw2 ADVTmp_Class=ADVTmp_Boundary ;
+gigizheb ADVTmp_Class=ADVTmp_Boundary ;
+giizhaa ADVTmp_Class=ADVTmp_Boundary ;
+ginwenzh ADVTmp_Class=ADVTmp_Boundary ;
+ingoding ADVTmp_Class=ADVTmp_Boundary ;
+ishkwaaj ADVTmp_Class=ADVTmp_Boundary ;
+megwaa ADVTmp_Class=ADVTmp_Boundary ;
+mewinzha:mewinzhaw2 ADVTmp_Class=ADVTmp_Boundary ;
+midaaching ADVTmp_Class=ADVTmp_Boundary ;
+moozhag ADVTmp_Class=ADVTmp_Boundary ;
+na'idaa ADVTmp_Class=ADVTmp_Boundary ;
+naaning ADVTmp_Class=ADVTmp_Boundary ;
+niiwing ADVTmp_Class=ADVTmp_Boundary ;
+niizhing ADVTmp_Class=ADVTmp_Boundary ;
+niizhwaaching ADVTmp_Class=ADVTmp_Boundary ;
+ningodwaaching ADVTmp_Class=ADVTmp_Boundary ;
+nishwaaching ADVTmp_Class=ADVTmp_Boundary ;
+nising ADVTmp_Class=ADVTmp_Boundary ;
+noomag ADVTmp_Class=ADVTmp_Boundary ;
+noomaya:noomayaw2 ADVTmp_Class=ADVTmp_Boundary ;
+noongom ADVTmp_Class=ADVTmp_Boundary ;
+waawiikaa ADVTmp_Class=ADVTmp_Boundary ;
+wayeshkad ADVTmp_Class=ADVTmp_Boundary ;
+wayiiba:wayiibaw2 ADVTmp_Class=ADVTmp_Boundary ;
+wewayiiba:wewayiibaw2 ADVTmp_Class=ADVTmp_Boundary ;
+wiiba:wiibaw2 ADVTmp_Class=ADVTmp_Boundary ;
+wiikaa ADVTmp_Class=ADVTmp_Boundary ;
+zhebaa ADVTmp_Class=ADVTmp_Boundary ;
+zhigwa:zhigwaw2 ADVTmp_Class=ADVTmp_Boundary ;
+ziigwanong ADVTmp_Class=ADVTmp_Boundary ;
+
+LEXICON ADVTmp_Class=ADVTmp_Boundary
+0:%>%> ADVTmp_Class=ADVTmp_Flags ;
+
+LEXICON ADVTmp_Class=ADVTmp_Flags
+@R.Prefix.NONE@ ADVTmp_Class=ADVTmp_Prefix=NONE_Order=Other ;
+
+LEXICON ADVTmp_Class=ADVTmp_Prefix=NONE_Order=Other
+@U.Order.Other@ ADVTmp_Class=ADVTmp_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON ADVTmp_Class=ADVTmp_Prefix=NONE_Order=Other_Endings
++ADVTmp: # ;
+
+LEXICON AVDDeg_Prefix
+@P.Prefix.NONE@ AVDDeg_PrefixBoundary ;
+
+LEXICON AVDDeg_PrefixBoundary
+0:%<%< AdverbStems ;
+
+LEXICON AVDDeg_Stems
+agaawaa AVDDeg_Class=AVDDeg_Boundary ;
+enigok AVDDeg_Class=AVDDeg_Boundary ;
+eniwek AVDDeg_Class=AVDDeg_Boundary ;
+eniwek% igo:eniwek% igow2 AVDDeg_Class=AVDDeg_Boundary ;
+eshkam AVDDeg_Class=AVDDeg_Boundary ;
+gegaa AVDDeg_Class=AVDDeg_Boundary ;
+gegaa% go:gegaa% gow2 AVDDeg_Class=AVDDeg_Boundary ;
+
+LEXICON AVDDeg_Class=AVDDeg_Boundary
+0:%>%> AVDDeg_Class=AVDDeg_Flags ;
+
+LEXICON AVDDeg_Class=AVDDeg_Flags
+@R.Prefix.NONE@ AVDDeg_Class=AVDDeg_Prefix=NONE_Order=Other ;
+
+LEXICON AVDDeg_Class=AVDDeg_Prefix=NONE_Order=Other
+@U.Order.Other@ AVDDeg_Class=AVDDeg_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON AVDDeg_Class=AVDDeg_Prefix=NONE_Order=Other_Endings
++AVDDeg: # ;
+

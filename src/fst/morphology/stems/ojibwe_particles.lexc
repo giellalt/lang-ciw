@@ -1,0 +1,39 @@
+LEXICON ParticleRoot
+@P.Paradigm.PC@ PC_Prefix ;
+
+LEXICON PC_Prefix
+@P.Prefix.NONE@ PC_PrefixBoundary ;
+
+LEXICON PC_PrefixBoundary
+0:%<%< ParticleStems ;
+
+LEXICON ParticleStems
+@R.Paradigm.PC@ PC_Stems ;
+
+LEXICON PC_Stems
+ambe PC_Class=PC_Boundary ;
+ambesanoo PC_Class=PC_Boundary ;
+awas PC_Class=PC_Boundary ;
+boozhoo PC_Class=PC_Boundary ;
+daga:dagaw2 PC_Class=PC_Boundary ;
+enyanh' PC_Class=PC_Boundary ;
+hay' PC_Class=PC_Boundary ;
+igo:igow2 PC_Class=PC_Boundary ;
+iinzan PC_Class=PC_Boundary ;
+maamakaadakamig PC_Class=PC_Boundary ;
+nashke PC_Class=PC_Boundary ;
+ondaashaan PC_Class=PC_Boundary ;
+owa:owaw2 PC_Class=PC_Boundary ;
+
+LEXICON PC_Class=PC_Boundary
+0:%>%> PC_Class=PC_Flags ;
+
+LEXICON PC_Class=PC_Flags
+@R.Prefix.NONE@ PC_Class=PC_Prefix=NONE_Order=Other ;
+
+LEXICON PC_Class=PC_Prefix=NONE_Order=Other
+@U.Order.Other@ PC_Class=PC_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON PC_Class=PC_Prefix=NONE_Order=Other_Endings
++PC: # ;
+

@@ -1,0 +1,231 @@
+LEXICON PronounRoot
+@P.Paradigm.PRONDem@ PRONDem_Prefix ;
+@P.Paradigm.PRONDub@ PRONDub_Prefix ;
+@P.Paradigm.PRONIndf@ PRONIndf_Prefix ;
+@P.Paradigm.PRONInter@ PRONInter_Prefix ;
+@P.Paradigm.PRONPer@ PRONPer_Prefix ;
+@P.Paradigm.PRONPret@ PRONPret_Prefix ;
+@P.Paradigm.PRONPsl@ PRONPsl_Prefix ;
+@P.Paradigm.PRONSim@ PRONSim_Prefix ;
+
+LEXICON PRONDem_Prefix
+@P.Prefix.NONE@ PRONDem_PrefixBoundary ;
+
+LEXICON PRONDem_PrefixBoundary
+0:%<%< PronounStems ;
+
+LEXICON PronounStems
+@R.Paradigm.PRONDem@ PRONDem_Stems ;
+@R.Paradigm.PRONDub@ PRONDub_Stems ;
+@R.Paradigm.PRONIndf@ PRONIndf_Stems ;
+@R.Paradigm.PRONInter@ PRONInter_Stems ;
+@R.Paradigm.PRONPer@ PRONPer_Stems ;
+@R.Paradigm.PRONPret@ PRONPret_Stems ;
+@R.Paradigm.PRONPsl@ PRONPsl_Stems ;
+@R.Paradigm.PRONSim@ PRONSim_Stems ;
+
+LEXICON PRONDem_Stems
+a'aw PRONDem_Class=PRONDem_Boundary ;
+awedi:awediw2 PRONDem_Class=PRONDem_Boundary ;
+i'iw PRONDem_Class=PRONDem_Boundary ;
+i'iwe PRONDem_Class=PRONDem_Boundary ;
+ingiw PRONDem_Class=PRONDem_Boundary ;
+ingiwedig PRONDem_Class=PRONDem_Boundary ;
+iwedi:iwediw2 PRONDem_Class=PRONDem_Boundary ;
+o'owe PRONDem_Class=PRONDem_Boundary ;
+ongow PRONDem_Class=PRONDem_Boundary ;
+ongowedig PRONDem_Class=PRONDem_Boundary ;
+onow PRONDem_Class=PRONDem_Boundary ;
+wa'aw PRONDem_Class=PRONDem_Boundary ;
+wa'awe PRONDem_Class=PRONDem_Boundary ;
+
+LEXICON PRONDem_Class=PRONDem_Boundary
+0:%>%> PRONDem_Class=PRONDem_Flags ;
+
+LEXICON PRONDem_Class=PRONDem_Flags
+@R.Prefix.NONE@ PRONDem_Class=PRONDem_Prefix=NONE_Order=Other ;
+
+LEXICON PRONDem_Class=PRONDem_Prefix=NONE_Order=Other
+@U.Order.Other@ PRONDem_Class=PRONDem_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON PRONDem_Class=PRONDem_Prefix=NONE_Order=Other_Endings
++PRONDem: # ;
+
+LEXICON PRONDub_Prefix
+@P.Prefix.NONE@ PRONDub_PrefixBoundary ;
+
+LEXICON PRONDub_PrefixBoundary
+0:%<%< PronounStems ;
+
+LEXICON PRONDub_Stems
+awegodogwen PRONDub_Class=PRONDub_Boundary ;
+awegwen PRONDub_Class=PRONDub_Boundary ;
+wegodogwen PRONDub_Class=PRONDub_Boundary ;
+
+LEXICON PRONDub_Class=PRONDub_Boundary
+0:%>%> PRONDub_Class=PRONDub_Flags ;
+
+LEXICON PRONDub_Class=PRONDub_Flags
+@R.Prefix.NONE@ PRONDub_Class=PRONDub_Prefix=NONE_Order=Other ;
+
+LEXICON PRONDub_Class=PRONDub_Prefix=NONE_Order=Other
+@U.Order.Other@ PRONDub_Class=PRONDub_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON PRONDub_Class=PRONDub_Prefix=NONE_Order=Other_Endings
++PRONDub: # ;
+
+LEXICON PRONIndf_Prefix
+@P.Prefix.NONE@ PRONIndf_PrefixBoundary ;
+
+LEXICON PRONIndf_PrefixBoundary
+0:%<%< PronounStems ;
+
+LEXICON PRONIndf_Stems
+awiya PRONIndf_Class=PRONIndf_Boundary ;
+awiya:awiyaw2 PRONIndf_Class=PRONIndf_Boundary ;
+gakina% awiya:gakina% awiyaw2 PRONIndf_Class=PRONIndf_Boundary ;
+gakina% gegoo PRONIndf_Class=PRONIndf_Boundary ;
+gegoo PRONIndf_Class=PRONIndf_Boundary ;
+
+LEXICON PRONIndf_Class=PRONIndf_Boundary
+0:%>%> PRONIndf_Class=PRONIndf_Flags ;
+
+LEXICON PRONIndf_Class=PRONIndf_Flags
+@R.Prefix.NONE@ PRONIndf_Class=PRONIndf_Prefix=NONE_Order=Other ;
+
+LEXICON PRONIndf_Class=PRONIndf_Prefix=NONE_Order=Other
+@U.Order.Other@ PRONIndf_Class=PRONIndf_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON PRONIndf_Class=PRONIndf_Prefix=NONE_Order=Other_Endings
++PRONIndf: # ;
+
+LEXICON PRONInter_Prefix
+@P.Prefix.NONE@ PRONInter_PrefixBoundary ;
+
+LEXICON PRONInter_PrefixBoundary
+0:%<%< PronounStems ;
+
+LEXICON PRONInter_Stems
+awegonen PRONInter_Class=PRONInter_Boundary ;
+awenen PRONInter_Class=PRONInter_Boundary ;
+awenesh PRONInter_Class=PRONInter_Boundary ;
+wegonen PRONInter_Class=PRONInter_Boundary ;
+wegonesh PRONInter_Class=PRONInter_Boundary ;
+
+LEXICON PRONInter_Class=PRONInter_Boundary
+0:%>%> PRONInter_Class=PRONInter_Flags ;
+
+LEXICON PRONInter_Class=PRONInter_Flags
+@R.Prefix.NONE@ PRONInter_Class=PRONInter_Prefix=NONE_Order=Other ;
+
+LEXICON PRONInter_Class=PRONInter_Prefix=NONE_Order=Other
+@U.Order.Other@ PRONInter_Class=PRONInter_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON PRONInter_Class=PRONInter_Prefix=NONE_Order=Other_Endings
++PRONInter: # ;
+
+LEXICON PRONPer_Prefix
+@P.Prefix.NONE@ PRONPer_PrefixBoundary ;
+
+LEXICON PRONPer_PrefixBoundary
+0:%<%< PronounStems ;
+
+LEXICON PRONPer_Stems
+giin PRONPer_Class=PRONPer_Boundary ;
+giinawaa PRONPer_Class=PRONPer_Boundary ;
+giineta:giinetaw2 PRONPer_Class=PRONPer_Boundary ;
+giinetawaa PRONPer_Class=PRONPer_Boundary ;
+giinetawind PRONPer_Class=PRONPer_Boundary ;
+giinitam PRONPer_Class=PRONPer_Boundary ;
+giinitamawaa PRONPer_Class=PRONPer_Boundary ;
+giinitamawind PRONPer_Class=PRONPer_Boundary ;
+niin PRONPer_Class=PRONPer_Boundary ;
+niinawind PRONPer_Class=PRONPer_Boundary ;
+niineta:niinetaw2 PRONPer_Class=PRONPer_Boundary ;
+niinetawind PRONPer_Class=PRONPer_Boundary ;
+niinitam PRONPer_Class=PRONPer_Boundary ;
+niinitamawind PRONPer_Class=PRONPer_Boundary ;
+wiin PRONPer_Class=PRONPer_Boundary ;
+wiinawaa PRONPer_Class=PRONPer_Boundary ;
+wiineta:wiinetaw2 PRONPer_Class=PRONPer_Boundary ;
+wiinetawaa PRONPer_Class=PRONPer_Boundary ;
+wiinitam PRONPer_Class=PRONPer_Boundary ;
+wiinitamawaa PRONPer_Class=PRONPer_Boundary ;
+
+LEXICON PRONPer_Class=PRONPer_Boundary
+0:%>%> PRONPer_Class=PRONPer_Flags ;
+
+LEXICON PRONPer_Class=PRONPer_Flags
+@R.Prefix.NONE@ PRONPer_Class=PRONPer_Prefix=NONE_Order=Other ;
+
+LEXICON PRONPer_Class=PRONPer_Prefix=NONE_Order=Other
+@U.Order.Other@ PRONPer_Class=PRONPer_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON PRONPer_Class=PRONPer_Prefix=NONE_Order=Other_Endings
++PRONPer: # ;
+
+LEXICON PRONPret_Prefix
+@P.Prefix.NONE@ PRONPret_PrefixBoundary ;
+
+LEXICON PRONPret_PrefixBoundary
+0:%<%< PronounStems ;
+
+LEXICON PRONPret_Stems
+aweniban PRONPret_Class=PRONPret_Boundary ;
+
+LEXICON PRONPret_Class=PRONPret_Boundary
+0:%>%> PRONPret_Class=PRONPret_Flags ;
+
+LEXICON PRONPret_Class=PRONPret_Flags
+@R.Prefix.NONE@ PRONPret_Class=PRONPret_Prefix=NONE_Order=Other ;
+
+LEXICON PRONPret_Class=PRONPret_Prefix=NONE_Order=Other
+@U.Order.Other@ PRONPret_Class=PRONPret_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON PRONPret_Class=PRONPret_Prefix=NONE_Order=Other_Endings
++PRONPret: # ;
+
+LEXICON PRONPsl_Prefix
+@P.Prefix.NONE@ PRONPsl_PrefixBoundary ;
+
+LEXICON PRONPsl_PrefixBoundary
+0:%<%< PronounStems ;
+
+LEXICON PRONPsl_Stems
+aya'aa PRONPsl_Class=PRONPsl_Boundary ;
+aya'ii PRONPsl_Class=PRONPsl_Boundary ;
+
+LEXICON PRONPsl_Class=PRONPsl_Boundary
+0:%>%> PRONPsl_Class=PRONPsl_Flags ;
+
+LEXICON PRONPsl_Class=PRONPsl_Flags
+@R.Prefix.NONE@ PRONPsl_Class=PRONPsl_Prefix=NONE_Order=Other ;
+
+LEXICON PRONPsl_Class=PRONPsl_Prefix=NONE_Order=Other
+@U.Order.Other@ PRONPsl_Class=PRONPsl_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON PRONPsl_Class=PRONPsl_Prefix=NONE_Order=Other_Endings
++PRONPsl: # ;
+
+LEXICON PRONSim_Prefix
+@P.Prefix.NONE@ PRONSim_PrefixBoundary ;
+
+LEXICON PRONSim_PrefixBoundary
+0:%<%< PronounStems ;
+
+LEXICON PRONSim_Stems
+dinowa PRONSim_Class=PRONSim_Boundary ;
+dinowa:dinowaw2 PRONSim_Class=PRONSim_Boundary ;
+
+LEXICON PRONSim_Class=PRONSim_Boundary
+0:%>%> PRONSim_Class=PRONSim_Flags ;
+
+LEXICON PRONSim_Class=PRONSim_Flags
+@R.Prefix.NONE@ PRONSim_Class=PRONSim_Prefix=NONE_Order=Other ;
+
+LEXICON PRONSim_Class=PRONSim_Prefix=NONE_Order=Other
+@U.Order.Other@ PRONSim_Class=PRONSim_Prefix=NONE_Order=Other_Endings ;
+
+LEXICON PRONSim_Class=PRONSim_Prefix=NONE_Order=Other_Endings
++PRONSim: # ;
+
