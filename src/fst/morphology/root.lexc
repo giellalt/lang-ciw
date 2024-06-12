@@ -1,165 +1,77 @@
-! Divvun & Giellatekno - open source grammars for Chippewa language
-! Copyright © 2015 The University of Tromsø & the Norwegian Sámi Parliament
-! http://giellatekno.uit.no & http://divvun.no
-!
-! This program is free software; you can redistribute and/or modify
-! this file under the terms of the GNU General Public License as published by
-! the Free Software Foundation, either version 3 of the License, or
-! (at your option) any later version. The GNU General Public License
-! is found at http://www.gnu.org/licenses/gpl.html. It is
-! also available in the file $GTHOME/LICENSE.txt.
-!
-! Other licensing options are available upon request, please contact
-! giellatekno@uit.no or feedback@divvun.no
-
-! ========================================================================== !
-!! Ojibwe postpositions
-! ========================================================================== !
-
-Multichar_Symbols  !!≈ # Definitions for @CODE@
 
 
-!! POS
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                         !!
+!!   Symbol declarations   !!
+!!                         !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-+N
-+V
-+A
+Multichar_Symbols
 
-+Adv
-+CC
-+CS
-+Interj
-+Pron
-+Num
-+Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
+%<ChCnj%> %<%<
 
-!! Verbal MSP
-+Prs  !!= * @CODE@
-+Fut  !!= * @CODE@
-+Prt  !!= * @CODE@
-+Prf  !!= * @CODE@
+! Flag diacritics for preverbs and prenouns
+@U.Order.Cnj@
+@U.Order.Ind@
+@U.ChCnj.On@
+@R.ChCnj.On@
+@D.ChCnj@
+@C.ChCnj@
 
-+Ind  !!= * @CODE@
-+Imp  !!= * @CODE@ Imperative
-+Sbj  !!= * @CODE@ Subjunctive
-+Imm  !!= * @CODE@ Immediate,
+! We sometimes end up with empty sub-lexicons. This can cause
+! artificial ambiguity (and even epsilon loops) due to sequences of
+! flag diacritics, which slows down analysis. Therefore, we mark empty
+! entries with an <EMPTYLEX> tag and filter them out using a
+! post-processing rule in phonology.xfst.
+%<EMPTYLEX%>
 
-+Int  !!= * @CODE@ Interdiction,
-+Dur  !!= * @CODE@ Durative
+! Add multichar symbols harvested from noun spreadsheets, verb
+! spreadsheets, pronoun spreadsheets, etc.
+%<%< %<T%> %>%> +%0PlObj +%0PlObvSubj +%0PlSubj +%0SgObj +%0SgObvSubj +%0SgSubj
++1SgObj +1SgPoss +1SgSubj +2PlObj +2PlPoss +2PlSubj +2SgObj +2SgPoss +2SgSubj
++3PlObvObj +3PlObvPoss +3PlObvSubj +3PlProxObj +3PlProxPoss +3PlProxSubj
++3SgObvObj +3SgObvPoss +3SgObvSubj +3SgProxObj +3SgProxPoss +3SgProxSubj
++ADVConj +ADVDisc +ADVDub +ADVGram +ADVInter +ADVLoc +ADVMan +ADVNeg +ADVPred
++ADVQnt +ADVTmp +AVDDeg +Cnj +Del +Dim +Dub +DubPrt +ExclObj +ExclPoss
++ExclSubj +Imp +InclObj +InclPoss +InclSubj +Ind +Loc +NA +NAD +NI +NID +NUM
++Neg +Neu +ObvPl +ObvSg +PC +PRONDem +PRONDub +PRONIndf +PRONInter +PRONPer
++PRONPret +PRONPsl +PRONSim +Pej +Pl +Pos +Poss +Prb +Pret +ProxPl +ProxSg +Prt
++Sg +Sim +VAI +VAIO +VAIPL +VII +VIIPL +VTA +VTI +Voc +XSubj
+@P.Paradigm.ADVConj@ @P.Paradigm.ADVDisc@ @P.Paradigm.ADVDub@
+@P.Paradigm.ADVGram@ @P.Paradigm.ADVInter@ @P.Paradigm.ADVLoc@
+@P.Paradigm.ADVMan@ @P.Paradigm.ADVNeg@ @P.Paradigm.ADVPred@
+@P.Paradigm.ADVQnt@ @P.Paradigm.ADVTmp@ @P.Paradigm.AVDDeg@ @P.Paradigm.NA@
+@P.Paradigm.NAD@ @P.Paradigm.NI@ @P.Paradigm.NID@ @P.Paradigm.NUM@
+@P.Paradigm.PC@ @P.Paradigm.PRONDem@ @P.Paradigm.PRONDub@ @P.Paradigm.PRONIndf@
+@P.Paradigm.PRONInter@ @P.Paradigm.PRONPer@ @P.Paradigm.PRONPret@
+@P.Paradigm.PRONPsl@ @P.Paradigm.PRONSim@ @P.Paradigm.VAI@ @P.Paradigm.VAIO@
+@P.Paradigm.VAIPL@ @P.Paradigm.VII@ @P.Paradigm.VIIPL@ @P.Paradigm.VTA@
+@P.Paradigm.VTI@ @P.Prefix.G@ @P.Prefix.GI@ @P.Prefix.GIDW@ @P.Prefix.N@
+@P.Prefix.NI@ @P.Prefix.NONE@ @P.Prefix.O@ @P.Prefix.W@ @R.Paradigm.ADVConj@
+@R.Paradigm.ADVDisc@ @R.Paradigm.ADVDub@ @R.Paradigm.ADVGram@
+@R.Paradigm.ADVInter@ @R.Paradigm.ADVLoc@ @R.Paradigm.ADVMan@
+@R.Paradigm.ADVNeg@ @R.Paradigm.ADVPred@ @R.Paradigm.ADVQnt@
+@R.Paradigm.ADVTmp@ @R.Paradigm.AVDDeg@ @R.Paradigm.NA@ @R.Paradigm.NAD@
+@R.Paradigm.NI@ @R.Paradigm.NID@ @R.Paradigm.NUM@ @R.Paradigm.PC@
+@R.Paradigm.PRONDem@ @R.Paradigm.PRONDub@ @R.Paradigm.PRONIndf@
+@R.Paradigm.PRONInter@ @R.Paradigm.PRONPer@ @R.Paradigm.PRONPret@
+@R.Paradigm.PRONPsl@ @R.Paradigm.PRONSim@ @R.Paradigm.VAI@ @R.Paradigm.VAIO@
+@R.Paradigm.VAIPL@ @R.Paradigm.VII@ @R.Paradigm.VIIPL@ @R.Paradigm.VTA@
+@R.Paradigm.VTI@ @R.Prefix.G@ @R.Prefix.GI@ @R.Prefix.GIDW@ @R.Prefix.N@
+@R.Prefix.NI@ @R.Prefix.NONE@ @R.Prefix.O@ @R.Prefix.W@ @U.Order.Cnj@
+@U.Order.Ind@ @U.Order.Other@ PNLex%/gichi+ PNLex%/maajii+ PNQnt%/niizho+
+PNQnt%/ningo+ PNQnt%/niso+ PVDir%/ani+ PVDir%/awi+ PVDir%/baa+ PVDir%/babaa+
+PVDir%/bi+ PVDir%/bibaa+ PVDir%/biiji+ PVDir%/bimi+ PVDir%/ni+ PVDir%/o+
+PVDir%/ombi+ PVDir%/wi+ PVDir%/zaagiji+ PVLex%/gichi+ PVLex%/maajii+
+PVQnt%/niizho+ PVQnt%/ningo+ PVQnt%/niso+ PVRel%/ako+ PVSub%/a+ PVSub%/e+
+PVSub%/gaa+ PVTense%/daa+ PVTense%/ga+ PVTense%/gii'+ PVTense%/gii+
+PVTense%/wii'+ PVTense%/wii+ V1 a1 i1 i2 n1 s1 w1 w2 y1 y2
 
-+1Sg    !!= * @CODE@ first singular
-+2Sg    !!= * @CODE@ etc
-+3Sg    !!= * @CODE@
-+3oSg   !!= * @CODE@ 3o is obviative,
-+3iSg   !!= * @CODE@ 3i is indefinite
-
-+1Pl    !!= * @CODE@ 1Pl is exclusive plural (I, them, not you)
-+2Pl    !!= * @CODE@
-+3Pl    !!= * @CODE@
-+3oPl   !!= * @CODE@
-+3iPl   !!= * @CODE@
-+12Pl   !!= * @CODE@ 12Pl is inclusive plural (I, you, ...)
-
-+1SgO   !!= * @CODE@ objective conjugation
-+2SgO   !!= * @CODE@
-+3SgO   !!= * @CODE@
-+SgO    !!= * @CODE@
-+3oSgO  !!= * @CODE@ obviative with objective conjugation
-+3iSgO  !!= * @CODE@
-+1PlO   !!= * @CODE@
-+P2lO   !!= * @CODE@
-+3PlO   !!= * @CODE@
-+PlO    !!= * @CODE@
-+3oPlO  !!= * @CODE@
-+3iPlO  !!= * @CODE@
-
-+Inf    !!= * @CODE@ infinitive (infinite?)
-+Pos    !!= * @CODE@ postitive
-+Neg    !!= * @CODE@ negative
-+ConNeg !!= * @CODE@ accompanying negative form
-
-!! Nominal MSP
-+Sg		 !!= * @CODE@ singular
-+Pl		 !!= * @CODE@ plural
-
-+Px1Sg	 !!= * @CODE@ person prefixes for nouns
-+Px2Sg	 !!= * @CODE@
-+Px3Sg	 !!= * @CODE@
-+Px1Pl	 !!= * @CODE@ obviative
-+Px12Pl	 !!= * @CODE@ inclusive
-+Px2Pl	 !!= * @CODE@
-+Px3Pl	 !!= * @CODE@
-
-+IA      !!= * @CODE@ intransitive with animate subject,
-+II      !!= * @CODE@ intransitive with inanimate subject,
-+TA      !!= * @CODE@ transitive with animate object, and
-+TI      !!= * @CODE@ transitive with inanimate object.
-
-+AN		 !!= * @CODE@ animate noun
-+IN		 !!= * @CODE@ inanimate noun
-
-%> 		 !!= * @CODE@ suffix border
-
-
-!! Flagdiacritics
-
-!! These are documented in Chapter 8 of Beesley/Karttunen, p. 456 zB.
-
-@U.verb.1sgindep@
-@U.verb.2sgindep@
-@U.verb.3sgindep@
-@U.verb.3osgindep@
-@U.verb.3isgindep@
-@U.verb.1plindep@
-@U.verb.12plindep@
-@U.verb.2plindep@
-@U.verb.3plindep@
-
-@U.verb.1sgsbj@
-@U.verb.2sgsbj@
-@U.verb.3sgsbj@
-@U.verb.3osgsbj@
-@U.verb.3isgsbj@
-@U.verb.1plsbj@
-@U.verb.12plsbj@
-@U.verb.2plsbj@
-@U.verb.3plsbj@
-
-@U.verb.2sgimp@
-@U.verb.1plimp@
-@U.verb.2plimp@
-
-@U.noun.1sg@
-@U.noun.2sg@
-@U.noun.3sg@
-@U.noun.1pl@
-@U.noun.12pl@
-@U.noun.2pl@
-@U.noun.3pl@
-
-
-        !! ## Symbols that need to be escaped on the lower side (towards twolc):
- »7     !!≈ * **@CODE@**:  Literal »
- «7     !!≈ * **@CODE@**:  Literal «
-        !! ```
- %[%>%] !!= @CODE@ - Literal >
- %[%<%] !!= @CODE@ - Literal <
-        !! ```
-
-
-
-! Key lexicon
-
-LEXICON Root 		 !!=  @CODE@ is where it all starts
-
-Noun ;	             !!= * @CODE@
-Verb ;	             !!= * @CODE@
-Pronoun ;            !!= * @CODE@
-Punctuation ;        !!= * @CODE@
-Symbols     ;        !!= * @CODE@
-!Particles ;
-
-
-! LEXICON K ! Clitics in Ojibwe? perhaps not...
-! # ;
-
+LEXICON Root
+AdverbRoot ;
+NounRoot ;
+NumeralRoot ;
+ParticleRoot ;
+PronounRoot ;
+VerbRoot ;
+VerbRootIrregular ;

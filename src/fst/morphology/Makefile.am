@@ -33,14 +33,15 @@ GT_LEXC_ROOT=$(srcdir)/root.lexc
 
 # Set this to the names of all regular lexc source files:
 GT_LEXC_SRCS_L1_L2=\
-			 stems/VII_stems.lexc \
-			 stems/VTI_stems.lexc \
-			 stems/VTA_stems.lexc \
-			 affixes/verb_prefixes.lexc \
-			 affixes/VII_suffixes.lexc \
-			 affixes/VAI_suffixes.lexc \
-			 affixes/VTI_suffixes.lexc \
-			 affixes/VTA_suffixes.lexc
+			stems/ojibwe_adverbs.lexc \
+			stems/ojibwe_irregular_verbs.lexc \
+			stems/ojibwe_nouns.lexc \
+			stems/ojibwe_numerals.lexc \
+			stems/ojibwe_particles.lexc \
+			stems/ojibwe_pronouns.lexc \
+			stems/ojibwe_verbs.lexc \
+			stems/prenouns.lexc \
+			stems/preverbs.lexc
 
 # If you are building an error-detecting L2 analyser, specify the lexc files
 # that differ between the regular L1 and the L2 analysers below, in L1 and
