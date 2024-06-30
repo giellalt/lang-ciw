@@ -426,41 +426,7 @@ LEXICON VAI_PrefixBoundary
 0:%<%< PreverbRoot ;
 
 LEXICON VAI_Stems
-aaba'igaazo VAI_Class=VAI_V_Boundary ;
-aaba'ige VAI_Class=VAI_VV_Boundary ;
-aaba'odizo VAI_Class=VAI_rfx_Boundary ;
-aaba'oodoo VAI_Class=VAI_VV_Boundary ;
-aabaabika'iganike VAI_Class=VAI_VV_Boundary ;
-aabaabika'ige VAI_Class=VAI_VV_Boundary ;
-aabaakawi-ayaa VAI_Class=VAI_VV_Boundary ;
-aabaakawizi VAI_Class=VAI_V_Boundary ;
-aabadizi VAI_Class=VAI_V_Boundary ;
-aabajichigaazo VAI_Class=VAI_V_Boundary ;
-aabajichige VAI_Class=VAI_VV_Boundary ;
-aabamibagizo VAI_Class=VAI_V_Boundary ;
-aabamigaabawi VAI_Class=VAI_V_Boundary ;
-aabanaabi VAI_Class=VAI_V_Boundary ;
-aabawaasige VAI_Class=VAI_VV_Boundary ;
-aabida'amaazo VAI_Class=VAI_V_Boundary ;
-aabidaanagidoon VAI_Class=VAI_n_Boundary ;
-aabidaanagidoone VAI_Class=VAI_VV_Boundary ;
-aabidaapi VAI_Class=VAI_V_Boundary ;
-aabidademo VAI_Class=VAI_V_Boundary ;
-aabidakamigizi VAI_Class=VAI_V_Boundary ;
-aabidanokii VAI_Class=VAI_VV_Boundary ;
-aabidwewebizo VAI_Class=VAI_V_Boundary ;
-aabidwewidam:aabidwewid+am VAI_Class=VAI_am_Boundary ;
-aabiiginige VAI_Class=VAI_VV_Boundary ;
-aabiinji'idiwag:aabiinji'idi VAI_Class=VAI_rcp_Boundary ;
-aabiinzonge VAI_Class=VAI_VV_Boundary ;
-aabijibatoo VAI_Class=VAI_VV_Boundary ;
-aabijibizo VAI_Class=VAI_V_Boundary ;
-aabijiibaa VAI_Class=VAI_VV_Boundary ;
-aabijitaa VAI_Class=VAI_VV_Boundary ;
-aabise VAI_Class=VAI_VV_Boundary ;
-aabishkaa VAI_Class=VAI_VV_Boundary ;
-aabiskonigaazo VAI_Class=VAI_V_Boundary ;
-aabiskonige VAI_Class=VAI_VV_Boundary ;
+nibaa VAI_Class=VAI_VV_Boundary ;
 
 LEXICON VAI_Class=VAI_VV_Boundary
 0:%>%> VAI_Class=VAI_VV_Flags ;
