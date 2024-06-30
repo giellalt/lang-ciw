@@ -27,24 +27,7 @@ LEXICON VerbStems
 @R.Paradigm.VTI@ VTI_Stems ;
 
 LEXICON VAIO_Stems
-aakozin:aakozi VAIO_Class=VAIO_Boundary ;
-abwen:abwe VAIO_Class=VAIO_Boundary ;
-adaawaagen:adaawaage VAIO_Class=VAIO_Boundary ;
-adaawangen:adaawange VAIO_Class=VAIO_Boundary ;
 adaawen:adaawe VAIO_Class=VAIO_Boundary ;
-adoopon:adoopo VAIO_Class=VAIO_Boundary ;
-agwaniin:agwanii VAIO_Class=VAIO_Boundary ;
-agwiin VAIO_Class=VAIO_Boundary ;
-akakanzhebwen:akakanzhebwe VAIO_Class=VAIO_Boundary ;
-andodamaagen VAIO_Class=VAIO_Boundary ;
-andodamaagen:nandodamaagen VAIO_Class=VAIO_Boundary ;
-apaabowen:apaabowe VAIO_Class=VAIO_Boundary ;
-apakwen:apakwe VAIO_Class=VAIO_Boundary ;
-apenimon:apenimo VAIO_Class=VAIO_Boundary ;
-apigaabawin:apigaabawi VAIO_Class=VAIO_Boundary ;
-apikweshimon:apikweshimo VAIO_Class=VAIO_Boundary ;
-apinikaazon:apinikaazo VAIO_Class=VAIO_Boundary ;
-asanjigon:asanjigo VAIO_Class=VAIO_Boundary ;
 
 LEXICON VAIO_Class=VAIO_Boundary
 0:%>%> VAIO_Class=VAIO_Flags ;
@@ -427,6 +410,12 @@ LEXICON VAI_PrefixBoundary
 
 LEXICON VAI_Stems
 nibaa VAI_Class=VAI_VV_Boundary ;
+bimibatoo VAI_Class=VAI_VV_Boundary ;
+minongwaam VAI_Class=VAI_am_Boundary ;
+nagamo VAI_Class=VAI_V_Boundary ;
+niimi VAI_Class=VAI_V_Boundary ;
+wanishin VAI_Class=VAI_n_Boundary ;
+zaaga'am VAI_Class=VAI_am_Boundary ;
 
 LEXICON VAI_Class=VAI_VV_Boundary
 0:%>%> VAI_Class=VAI_VV_Flags ;
@@ -1512,6 +1501,7 @@ LEXICON VAIPL_PrefixBoundary
 0:%<%< PreverbRoot ;
 
 LEXICON VAIPL_Stems
+okogewag:okoge VAIPL_Class=VAIPL_VV_Boundary ;
 aamiwag:aami VAIPL_Class=VAIPL_V_Boundary ;
 ayaaniginiwag:ayaanigini VAIPL_Class=VAIPL_V_Boundary ;
 ayaanzigweshimowag:ayaanzigweshimo VAIPL_Class=VAIPL_V_Boundary ;
@@ -2341,68 +2331,14 @@ LEXICON VII_PrefixBoundary
 0:%<%< PreverbRoot ;
 
 LEXICON VII_Stems
-aaba'igaade VII_Class=VII_VV_Boundary ;
-aabaabiigise VII_Class=VII_VV_Boundary ;
-aabaabika'igaade VII_Class=VII_VV_Boundary ;
-aabaakawaanimad VII_Class=VII_d_Boundary ;
-aabaakawad VII_Class=VII_d_Boundary ;
-aabadad VII_Class=VII_d_Boundary ;
-aabajichigaade VII_Class=VII_VV_Boundary ;
-aabawaa VII_Class=VII_VV_Boundary ;
-aabawaate VII_Class=VII_VV_Boundary ;
-aabidaanimad VII_Class=VII_d_Boundary ;
-aabidwewebide VII_Class=VII_VV_Boundary ;
-aabijibide VII_Class=VII_VV_Boundary ;
-aabijibiisaa VII_Class=VII_VV_Boundary ;
-aabijijiwan VII_Class=VII_n_Boundary ;
-aabise VII_Class=VII_VV_Boundary ;
-aabishkaa VII_Class=VII_VV_Boundary ;
-aabiskonigaade VII_Class=VII_VV_Boundary ;
-aabiskose VII_Class=VII_VV_Boundary ;
-aabiskweginigaade VII_Class=VII_VV_Boundary ;
-aabita-biboon VII_Class=VII_n_Boundary ;
-aabita-niibin VII_Class=VII_n_Boundary ;
-aabitaa-dibikad VII_Class=VII_d_Boundary ;
-aabitawise VII_Class=VII_VV_Boundary ;
-aabitoobii VII_Class=VII_VV_Boundary ;
-aabitoose VII_Class=VII_VV_Boundary ;
-aabitooshkine VII_Class=VII_VV_Boundary ;
-aaboojigwaade VII_Class=VII_VV_Boundary ;
-aaboojiiginigaade VII_Class=VII_VV_Boundary ;
-aaboozikaa VII_Class=VII_VV_Boundary ;
-aajikode VII_Class=VII_VV_Boundary ;
-aakomaagwad VII_Class=VII_d_Boundary ;
-aakomaate VII_Class=VII_VV_Boundary ;
-aakoziwinikaa VII_Class=VII_VV_Boundary ;
-aakwaagamide VII_Class=VII_VV_Boundary ;
-aakwaagamin:aakwaagami VII_Class=VII_n_Boundary ;
-aamookaa VII_Class=VII_VV_Boundary ;
-aanakwadokaa VII_Class=VII_VV_Boundary ;
-aanakwadowan VII_Class=VII_n_Boundary ;
-aanawendaagwad VII_Class=VII_d_Boundary ;
-aandegokaa VII_Class=VII_VV_Boundary ;
-aanikegamaa VII_Class=VII_VV_Boundary ;
-aanikoogwaade VII_Class=VII_VV_Boundary ;
-aanikoosijigaade VII_Class=VII_VV_Boundary ;
-aanikoosin VII_Class=VII_n_Boundary ;
-aanjibii'igaade VII_Class=VII_VV_Boundary ;
-aanjichigaade VII_Class=VII_VV_Boundary ;
-aanjidaabaade VII_Class=VII_VV_Boundary ;
-aanjigwaade VII_Class=VII_VV_Boundary ;
-aanjinaagwad VII_Class=VII_d_Boundary ;
-aanjinikaade VII_Class=VII_VV_Boundary ;
-aanjise VII_Class=VII_VV_Boundary ;
-aanjisin VII_Class=VII_n_Boundary ;
-aanzinaagwad VII_Class=VII_d_Boundary ;
-aapida'oode VII_Class=VII_VV_Boundary ;
-aapidapide VII_Class=VII_VV_Boundary ;
-aapijibide VII_Class=VII_VV_Boundary ;
-aapijigise VII_Class=VII_VV_Boundary ;
-aapijise VII_Class=VII_VV_Boundary ;
-aasaakamigokamigaa VII_Class=VII_VV_Boundary ;
-aasamaakwaa VII_Class=VII_VV_Boundary ;
-aasamaate VII_Class=VII_VV_Boundary ;
-aasamaatesin VII_Class=VII_n_Boundary ;
+ate:ate VII_Class=VII_VV_Boundary ;
+atemagad:atemagad VII_Class=VII_d_Boundary ;
+bangisin:bangisin VII_Class=VII_n_Boundary ;
+dakaagami:dakaagami VII_Class=VII_V_Boundary ;
+gonzaabii:gonzaabii VII_Class=VII_VV_Boundary ;
+inamo:inamo VII_Class=VII_V_Boundary ;
+michaa:michaa VII_Class=VII_VV_Boundary ;
+zanagad:zanagad VII_Class=VII_d_Boundary ;
 
 LEXICON VII_Class=VII_d_Boundary
 0:%>%> VII_Class=VII_d_Flags ;
@@ -2911,46 +2847,11 @@ LEXICON VTA_PrefixBoundary
 0:%<%< PreverbRoot ;
 
 LEXICON VTA_Stems
-aaba':aaba'w VTA_Class=VTA_Cw_Boundary ;
-aaba'amaw VTA_Class=VTA_aw_Boundary ;
-aaba'oozh:aaba'oon1 VTA_Class=VTA_n_Boundary ;
-aabaabiigin VTA_Class=VTA_C_Boundary ;
-aabaabika':aabaabika'w VTA_Class=VTA_Cw_Boundary ;
-aabaabika'amaw VTA_Class=VTA_aw_Boundary ;
-aabaakawi' VTA_Class=VTA_C_Boundary ;
-aabaji' VTA_Class=VTA_C_Boundary ;
-aabajitamaw VTA_Class=VTA_aw_Boundary ;
-aabanaabam VTA_Class=VTA_C_Boundary ;
-aabatebizh:aabatebin1 VTA_Class=VTA_n_Boundary ;
-aabibizh:aabibin1 VTA_Class=VTA_n_Boundary ;
-aabiigin VTA_Class=VTA_C_Boundary ;
-aabiindaganaam VTA_Class=VTA_C_Boundary ;
-aabiinji' VTA_Class=VTA_C_Boundary ;
-aabiinzom VTA_Class=VTA_C_Boundary ;
-aabiskobizh:aabiskobin1 VTA_Class=VTA_n_Boundary ;
-aabiskon VTA_Class=VTA_C_Boundary ;
-aabiskwam VTA_Class=VTA_C_Boundary ;
-aabiskwegin VTA_Class=VTA_C_Boundary ;
-aabiskweginamaw VTA_Class=VTA_aw_Boundary ;
-aabitawam VTA_Class=VTA_C_Boundary ;
-aabitoobazh:aabitooban1 VTA_Class=VTA_n_Boundary ;
-aabitoojiin VTA_Class=VTA_C_Boundary ;
-aabitoojiipizh:aabitoojiipin1 VTA_Class=VTA_n_Boundary ;
-aabitooshkina' VTA_Class=VTA_C_Boundary ;
-aabooda'wi:aabooda'w VTA_Class=VTA_Cw_Boundary ;
-aaboodin VTA_Class=VTA_C_Boundary ;
-aaboojibizh:aaboojibin1 VTA_Class=VTA_n_Boundary ;
-aaboojigwaazh:aaboojigwaan1 VTA_Class=VTA_n_Boundary ;
-aaboojiigin VTA_Class=VTA_C_Boundary ;
-aaboojishim VTA_Class=VTA_C_Boundary ;
-aaboozikaw VTA_Class=VTA_aw_Boundary ;
-aada':aada'w VTA_Class=VTA_Cw_Boundary ;
-aadawa'am VTA_Class=VTA_C_Boundary ;
-aadizookaazh:aadizookaan1 VTA_Class=VTA_n_Boundary ;
-aadizookaw VTA_Class=VTA_aw_Boundary ;
-aagonwetaw VTA_Class=VTA_aw_Boundary ;
-aagonweyenim VTA_Class=VTA_C_Boundary ;
-aajim VTA_Class=VTA_C_Boundary ;
+mawadish:mawadis1 VTA_Class=VTA_s_Boundary ;
+miizh:miin1 VTA_Class=VTA_n_Boundary ;
+mikaw:mikaw VTA_Class=VTA_aw_Boundary ;
+mizho:mizhw VTA_Class=VTA_Cw_Boundary ;
+waabam:waabam VTA_Class=VTA_C_Boundary ;
 
 LEXICON VTA_Class=VTA_s_Boundary
 0:%>%> VTA_Class=VTA_s_Flags ;
@@ -8945,23 +8846,10 @@ LEXICON VTI_PrefixBoundary
 0:%<%< PreverbRoot ;
 
 LEXICON VTI_Stems
-aaba'an:aaba' VTI_Class=VTI_am_Boundary ;
-aaba'oodoon:aaba'ood VTI_Class=VTI_oo_Boundary ;
-aabaabiiginan:aabaabiigin VTI_Class=VTI_am_Boundary ;
-aabaabika'an:aabaabika' VTI_Class=VTI_am_Boundary ;
-aabajitoon:aabajit VTI_Class=VTI_oo_Boundary ;
-aabanaabandan:aabanaaband VTI_Class=VTI_am_Boundary ;
-aabashkwemaginan:aabashkwemagin VTI_Class=VTI_am_Boundary ;
-aabibidoon:aabibid VTI_Class=VTI_oo_Boundary ;
-aabiiginan:aabiigin VTI_Class=VTI_am_Boundary ;
-aabiinjitoon:aabiinjit VTI_Class=VTI_oo_Boundary ;
-aabiskobidoon:aabiskobid VTI_Class=VTI_oo_Boundary ;
-aabiskonan:aabiskon VTI_Class=VTI_am_Boundary ;
-aabiskwandan:aabiskwand VTI_Class=VTI_am_Boundary ;
-aabiskweginan:aabiskwegin VTI_Class=VTI_am_Boundary ;
-aabitawandan:aabitawand VTI_Class=VTI_am_Boundary ;
-aabitoobadoon:aabitoobad VTI_Class=VTI_oo_Boundary ;
-aabitooshkinadoon:aabitooshkinad VTI_Class=VTI_oo_Boundary ;
+ayaan:ayaa VTI_Class=VTI_aa_Boundary ;
+miijin:miiji VTI_Class=VTI_i_Boundary ;
+waabandan:waaband VTI_Class=VTI_am_Boundary ;
+wanitoon:wanit VTI_Class=VTI_oo_Boundary ;
 
 LEXICON VTI_Class=VTI_aa_Boundary
 0:%>%> VTI_Class=VTI_aa_Flags ;
