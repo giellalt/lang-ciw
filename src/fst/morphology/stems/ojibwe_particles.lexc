@@ -1,39 +1,378 @@
 LEXICON ParticleRoot
-@P.Paradigm.PC@ PC_Prefix ;
+@P.Paradigm.PCAsp@ PCAsp_Prefix ;
+@P.Paradigm.PCDisc@ PCDisc_Prefix ;
+@P.Paradigm.PCEmph@ PCEmph_Prefix ;
+@P.Paradigm.PCInterj@ PCInterj_Prefix ;
 
-LEXICON PC_Prefix
-@P.Prefix.NONE@ PC_PrefixBoundary ;
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCInterj                                                   !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PC_PrefixBoundary
+LEXICON PCInterj_Prefix
+@P.Prefix.NONE@ PCInterj_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCInterj                                                   !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCInterj_PrefixBoundary
 0:%<%< ParticleStems ;
 
 LEXICON ParticleStems
-@R.Paradigm.PC@ PC_Stems ;
+@R.Paradigm.PCAsp@ PCAsp_Stems ;
+@R.Paradigm.PCDisc@ PCDisc_Stems ;
+@R.Paradigm.PCEmph@ PCEmph_Stems ;
+@R.Paradigm.PCInterj@ PCInterj_Stems ;
 
-LEXICON PC_Stems
-ambe PC_Class=PC_Boundary ;
-ambesanoo PC_Class=PC_Boundary ;
-awas PC_Class=PC_Boundary ;
-boozhoo PC_Class=PC_Boundary ;
-daga:dagaw2 PC_Class=PC_Boundary ;
-enyanh' PC_Class=PC_Boundary ;
-hay' PC_Class=PC_Boundary ;
-igo:igow2 PC_Class=PC_Boundary ;
-iinzan PC_Class=PC_Boundary ;
-maamakaadakamig PC_Class=PC_Boundary ;
-nashke PC_Class=PC_Boundary ;
-ondaashaan PC_Class=PC_Boundary ;
-owa:owaw2 PC_Class=PC_Boundary ;
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCInterj                                                   !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PC_Class=PC_Boundary
-0:%>%> PC_Class=PC_Flags ;
+LEXICON PCInterj_Stems
+aaniin PCInterj_Class=PCInterj_Boundary ;
+abaapiniziwaagan PCInterj_Class=PCInterj_Boundary ;
+ahaaw PCInterj_Class=PCInterj_Boundary ;
+ambe PCInterj_Class=PCInterj_Boundary ;
+ambesanoo PCInterj_Class=PCInterj_Boundary ;
+ashke PCInterj_Class=PCInterj_Boundary ;
+boohay PCInterj_Class=PCInterj_Boundary ;
+boozhoo PCInterj_Class=PCInterj_Boundary ;
+haaw PCInterj_Class=PCInterj_Boundary ;
+hay' PCInterj_Class=PCInterj_Boundary ;
+kaah PCInterj_Class=PCInterj_Boundary ;
+mash% mash PCInterj_Class=PCInterj_Boundary ;
+na' PCInterj_Class=PCInterj_Boundary ;
+niyaa PCInterj_Class=PCInterj_Boundary ;
+oo% yaay PCInterj_Class=PCInterj_Boundary ;
+poohay PCInterj_Class=PCInterj_Boundary ;
+wiikaage% sa:wiikaage% saw2 PCInterj_Class=PCInterj_Boundary ;
+woo-oo PCInterj_Class=PCInterj_Boundary ;
+yoo' PCInterj_Class=PCInterj_Boundary ;
 
-LEXICON PC_Class=PC_Flags
-@R.Prefix.NONE@ PC_Class=PC_Prefix=NONE_Order=Other ;
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCInterj, Class: PCInterj                                  !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PC_Class=PC_Prefix=NONE_Order=Other
-@U.Order.Other@ PC_Class=PC_Prefix=NONE_Order=Other_Endings ;
+LEXICON PCInterj_Class=PCInterj_Boundary
+0:%>%> PCInterj_Class=PCInterj_Flags ;
 
-LEXICON PC_Class=PC_Prefix=NONE_Order=Other_Endings
-+PC: # ;
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCInterj, Class: PCInterj                                  !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCInterj_Class=PCInterj_Flags
+@R.Prefix.NONE@ PCInterj_Class=PCInterj_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCInterj, Class: PCInterj                                  !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCInterj_Class=PCInterj_Flags_Prefix=NONE
+@U.Order.Other@ PCInterj_Class=PCInterj_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCInterj, Class: PCInterj, Prefix: NONE, Order: Other      !
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCInterj_Class=PCInterj_Prefix=NONE_Order=Other_Endings
++PCInterj: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCEmph                                                     !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCEmph_Prefix
+@P.Prefix.NONE@ PCEmph_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCEmph                                                     !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCEmph_PrefixBoundary
+0:%<%< ParticleStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCEmph                                                     !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCEmph_Stems
+goda:godaw2 PCEmph_Class=PCEmph_Boundary ;
+gosha:goshaw2 PCEmph_Class=PCEmph_Boundary ;
+igo PCEmph_Class=PCEmph_Boundary ;
+igo:igow2 PCEmph_Class=PCEmph_Boundary ;
+inaa PCEmph_Class=PCEmph_Boundary ;
+isa:isaw2 PCEmph_Class=PCEmph_Boundary ;
+naa PCEmph_Class=PCEmph_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCEmph, Class: PCEmph                                      !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCEmph_Class=PCEmph_Boundary
+0:%>%> PCEmph_Class=PCEmph_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCEmph, Class: PCEmph                                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCEmph_Class=PCEmph_Flags
+@R.Prefix.NONE@ PCEmph_Class=PCEmph_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCEmph, Class: PCEmph                                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCEmph_Class=PCEmph_Flags_Prefix=NONE
+@U.Order.Other@ PCEmph_Class=PCEmph_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCEmph, Class: PCEmph, Prefix: NONE, Order: Other          !
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCEmph_Class=PCEmph_Prefix=NONE_Order=Other_Endings
++PCEmph: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCDisc                                                     !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCDisc_Prefix
+@P.Prefix.NONE@ PCDisc_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCDisc                                                     !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCDisc_PrefixBoundary
+0:%<%< ParticleStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCDisc                                                     !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCDisc_Stems
+aapidekamig PCDisc_Class=PCDisc_Boundary ;
+aatayaa PCDisc_Class=PCDisc_Boundary ;
+awas PCDisc_Class=PCDisc_Boundary ;
+ay' PCDisc_Class=PCDisc_Boundary ;
+baapiniziwaagan PCDisc_Class=PCDisc_Boundary ;
+booshke% giin PCDisc_Class=PCDisc_Boundary ;
+da% naa PCDisc_Class=PCDisc_Boundary ;
+daga:dagaw2 PCDisc_Class=PCDisc_Boundary ;
+detiwe PCDisc_Class=PCDisc_Boundary ;
+en' PCDisc_Class=PCDisc_Boundary ;
+enange PCDisc_Class=PCDisc_Boundary ;
+enyanh' PCDisc_Class=PCDisc_Boundary ;
+eya' PCDisc_Class=PCDisc_Boundary ;
+gaawesaa PCDisc_Class=PCDisc_Boundary ;
+gaawiin% ingodinoo PCDisc_Class=PCDisc_Boundary ;
+giboj PCDisc_Class=PCDisc_Boundary ;
+giiwenh PCDisc_Class=PCDisc_Boundary ;
+go:gow2 PCDisc_Class=PCDisc_Boundary ;
+iinzan PCDisc_Class=PCDisc_Boundary ;
+ina:inaw2 PCDisc_Class=PCDisc_Boundary ;
+inashke PCDisc_Class=PCDisc_Boundary ;
+indaashaan PCDisc_Class=PCDisc_Boundary ;
+indaga:indagaw2 PCDisc_Class=PCDisc_Boundary ;
+ine PCDisc_Class=PCDisc_Boundary ;
+inge PCDisc_Class=PCDisc_Boundary ;
+ingwana:ingwanaw2 PCDisc_Class=PCDisc_Boundary ;
+ise PCDisc_Class=PCDisc_Boundary ;
+ke PCDisc_Class=PCDisc_Boundary ;
+maamakaadakamig PCDisc_Class=PCDisc_Boundary ;
+miigwech PCDisc_Class=PCDisc_Boundary ;
+miitagiin PCDisc_Class=PCDisc_Boundary ;
+na:naw2 PCDisc_Class=PCDisc_Boundary ;
+naasanaa PCDisc_Class=PCDisc_Boundary ;
+naayanh PCDisc_Class=PCDisc_Boundary ;
+nangwana:nangwanaw2 PCDisc_Class=PCDisc_Boundary ;
+nashke PCDisc_Class=PCDisc_Boundary ;
+nashke% giniin PCDisc_Class=PCDisc_Boundary ;
+nindaashaan PCDisc_Class=PCDisc_Boundary ;
+nyaa PCDisc_Class=PCDisc_Boundary ;
+ondaashaan PCDisc_Class=PCDisc_Boundary ;
+oo PCDisc_Class=PCDisc_Boundary ;
+oonh PCDisc_Class=PCDisc_Boundary ;
+oowa:oowaw2 PCDisc_Class=PCDisc_Boundary ;
+owa:owaw2 PCDisc_Class=PCDisc_Boundary ;
+sa PCDisc_Class=PCDisc_Boundary ;
+sa:saw2 PCDisc_Class=PCDisc_Boundary ;
+shke PCDisc_Class=PCDisc_Boundary ;
+taayaa PCDisc_Class=PCDisc_Boundary ;
+waa PCDisc_Class=PCDisc_Boundary ;
+way PCDisc_Class=PCDisc_Boundary ;
+wiin PCDisc_Class=PCDisc_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCDisc, Class: PCDisc                                      !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCDisc_Class=PCDisc_Boundary
+0:%>%> PCDisc_Class=PCDisc_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCDisc, Class: PCDisc                                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCDisc_Class=PCDisc_Flags
+@R.Prefix.NONE@ PCDisc_Class=PCDisc_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCDisc, Class: PCDisc                                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCDisc_Class=PCDisc_Flags_Prefix=NONE
+@U.Order.Other@ PCDisc_Class=PCDisc_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCDisc, Class: PCDisc, Prefix: NONE, Order: Other          !
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCDisc_Class=PCDisc_Prefix=NONE_Order=Other_Endings
++PCDisc: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCAsp                                                      !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCAsp_Prefix
+@P.Prefix.NONE@ PCAsp_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCAsp                                                      !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCAsp_PrefixBoundary
+0:%<%< ParticleStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCAsp                                                      !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCAsp_Stems
+ako:akow2 PCAsp_Class=PCAsp_Boundary ;
+iidog PCAsp_Class=PCAsp_Boundary ;
+iko:ikow2 PCAsp_Class=PCAsp_Boundary ;
+ko PCAsp_Class=PCAsp_Boundary ;
+ko:kow2 PCAsp_Class=PCAsp_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCAsp, Class: PCAsp                                        !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCAsp_Class=PCAsp_Boundary
+0:%>%> PCAsp_Class=PCAsp_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCAsp, Class: PCAsp                                        !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCAsp_Class=PCAsp_Flags
+@R.Prefix.NONE@ PCAsp_Class=PCAsp_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCAsp, Class: PCAsp                                        !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCAsp_Class=PCAsp_Flags_Prefix=NONE
+@U.Order.Other@ PCAsp_Class=PCAsp_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PCAsp, Class: PCAsp, Prefix: NONE, Order: Other            !
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PCAsp_Class=PCAsp_Prefix=NONE_Order=Other_Endings
++PCAsp: # ;
 

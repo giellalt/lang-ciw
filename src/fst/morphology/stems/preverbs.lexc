@@ -51,6 +51,9 @@ PVTense%/gii+:gii%<T%> TensePVBoundary ;
 PVTense%/gii'+:gii'%<T%> TensePVBoundary ;
 PVTense%/wii+:wii%<T%> TensePVBoundary ;
 PVTense%/wii'+:wii'%<T%> TensePVBoundary ;
+PVTense%/jibwaa+:jibwaa TensePVBoundary ;
+PVTense%/aano+:aano TensePVBoundary ;
+PVTense%/aana+:aana TensePVBoundary ;
 
 LEXICON TensePVIndependent
 PVTense%/ga+:ga TensePVBoundary ;
@@ -84,6 +87,7 @@ RelPV ;
 
 LEXICON DirPVAny
 PVDir%/ani+:ani DirPVBoundary ;
+PVDir%/ini+:ini DirPVBoundary ;
 PVDir%/awi+:awi DirPVBoundary ;
 PVDir%/baa+:baa DirPVBoundary ;
 PVDir%/babaa+:babaa DirPVBoundary ;
@@ -98,13 +102,13 @@ PVDir%/wi+:wi DirPVBoundary ;
 PVDir%/zaagiji+:zaagiji DirPVBoundary ;
 
 LEXICON DirPVIndependent
-%<EMPTYLEX%> PREVERBEND ;
+%<EMPTYLEX%> # ;
 
 LEXICON DirPVPlainConjunct
-%<EMPTYLEX%> PREVERBEND ;
+%<EMPTYLEX%> # ;
 
 LEXICON DirPVChangedConjunct
-PVDir%/bi+:bi DirPVBoundary ;
+PVDir%/bi+:ba DirPVBoundary ;
 PVDir%/ni+:eni DirPVBoundary ;
 PVDir%/wi+:wi DirPVBoundary ;
 
@@ -125,15 +129,21 @@ LexPV ;
 
 LEXICON RelPVAny
 PVRel%/ako+:ako RelPVBoundary ;
+PVRel%/apiichi+:apiichi RelPVBoundary ;
+PVRel%/dazhi+:dazhi RelPVBoundary ;
+PVRel%/dazhi+:dazhi RelPVBoundary ;
+PVRel%/daso+:daso RelPVBoundary ;
+PVRel%/onji+:onji RelPVBoundary ;
+PVRel%/izhi+:izhi RelPVBoundary ;
 
 LEXICON RelPVIndependent
-%<EMPTYLEX%> PREVERBEND ;
+%<EMPTYLEX%> # ;
 
 LEXICON RelPVPlainConjunct
-%<EMPTYLEX%> PREVERBEND ;
+%<EMPTYLEX%> # ;
 
 LEXICON RelPVChangedConjunct
-%<EMPTYLEX%> PREVERBEND ;
+%<EMPTYLEX%> # ;
 
 LEXICON RelPVBoundary 
 @C.ChCnj@:@C.ChCnj@- RelPV ;
@@ -148,7 +158,7 @@ LEXICON LexPV
 LexPVAny ;
 @U.Order.Ind@ LexPVIndependent ;
 @U.Order.Cnj@ LexPVPlainConjunct ;
-PREVERBEND ;
+PreverbEnd ;
 
 LEXICON LexPVAny
 PVLex%/maajii+:maajii LexPVBoundary ;
@@ -156,19 +166,175 @@ PVLex%/gichi+:gichi LexPVBoundary ;
 PVQnt%/ningo+:ningo LexPVBoundary ;
 PVQnt%/niizho+:niizho LexPVBoundary ;
 PVQnt%/niso+:niso LexPVBoundary ;
+PVLex%/waasiko+:waasikow2 LexPVBoundary ;
+PVLex%/waasamoo+:waasamoo LexPVBoundary ;
+PVLex%/waanda+:waandaw2 LexPVBoundary ;
+PVLex%/maji+:majiw2 LexPVBoundary ;
+PVLex%/zazegaa+:zazegaa LexPVBoundary ;
+PVLex%/waabi+:waabiw2 LexPVBoundary ;
+PVLex%/onzaami+:onzaamiw2 LexPVBoundary ;
+PVLex%/jiigi+:jiigiw2 LexPVBoundary ;
+PVLex%/oke+:oke LexPVBoundary ;
+PVLex%/ogiji+:ogijiw2 LexPVBoundary ;
+PVLex%/biitoo+:biitoo LexPVBoundary ;
+PVLex%/bibine+:bibine LexPVBoundary ;
+PVLex%/ando+:nandow2 LexPVBoundary ;
+PVLex%/ando+:andow2 LexPVBoundary ;
+PVLex%/gwiinawi+:gwiinawiw2 LexPVBoundary ;
+PVLex%/ashki+:ashkiw2 LexPVBoundary ;
+PVLex%/megwaa+:megwaa LexPVBoundary ;
+PVLex%/madwe+:madwe LexPVBoundary ;
+PVLex%/ozhaawashko+:ozhaawashkow2 LexPVBoundary ;
+PVLex%/miigwechiwi+:miigwechiwiw2 LexPVBoundary ;
+PVLex%/biisaawangi+:biisaawangiw2 LexPVBoundary ;
+PVLex%/baate+:baate LexPVBoundary ;
+PVLex%/agaasi+:agaasiw2 LexPVBoundary ;
+PVLex%/azhe+:azhe LexPVBoundary ;
+PVLex%/mino+:minow2 LexPVBoundary ;
+PVLex%/maamawoo+:maamawoo LexPVBoundary ;
+PVLex%/biinji+:biinjiw2 LexPVBoundary ;
+PVLex%/waabanoo+:waabanoo LexPVBoundary ;
+PVLex%/gaagige+:gaagige LexPVBoundary ;
+PVLex%/ondami+:ondamiw2 LexPVBoundary ;
+PVLex%/daki+:dakiw2 LexPVBoundary ;
+PVLex%/nitaa+:nitaa LexPVBoundary ;
+PVLex%/giiwitaawi+:giiwitaawiw2 LexPVBoundary ;
+PVLex%/wani+:waniw2 LexPVBoundary ;
+PVLex%/wiisagi+:wiisagiw2 LexPVBoundary ;
+PVLex%/baashki+:baashkiw2 LexPVBoundary ;
+PVLex%/giiwe+:giiwe LexPVBoundary ;
+PVLex%/mayagi+:mayagiw2 LexPVBoundary ;
+PVLex%/ozaawi+:ozaawiw2 LexPVBoundary ;
+PVLex%/wiiji+:wiijiw2 LexPVBoundary ;
+PVLex%/dibi+:dibiw2 LexPVBoundary ;
+PVLex%/megwe+:megwe LexPVBoundary ;
+PVLex%/ginibi+:ginibiw2 LexPVBoundary ;
+PVLex%/bigii+:bigii LexPVBoundary ;
+PVLex%/chi+:chiw2 LexPVBoundary ;
+PVLex%/zhiiwi+:zhiiwiw2 LexPVBoundary ;
+PVLex%/oko+:okow2 LexPVBoundary ;
+PVLex%/maazhi+:maazhiw2 LexPVBoundary ;
+PVLex%/biimasko+:biimaskow2 LexPVBoundary ;
+PVLex%/oshki+:oshkiw2 LexPVBoundary ;
+PVLex%/waabishki+:waabishkiw2 LexPVBoundary ;
+PVLex%/gijigi+:gijigiw2 LexPVBoundary ;
+PVLex%/nishkaaji+:nishkaajiw2 LexPVBoundary ;
+PVLex%/gete+:gete LexPVBoundary ;
+PVLex%/niiji+:niijiw2 LexPVBoundary ;
+PVLex%/aazhawi+:aazhawiw2 LexPVBoundary ;
+PVLex%/waabijii+:waabijii LexPVBoundary ;
+PVLex%/ojaanimi+:ojaanimiw2 LexPVBoundary ;
+PVLex%/de+:de LexPVBoundary ;
+PVLex%/agiji+:agijiw2 LexPVBoundary ;
+PVLex%/aabiji+:aabijiw2 LexPVBoundary ;
+PVLex%/ozhaashi+:ozhaashiw2 LexPVBoundary ;
+PVLex%/makade+:makade LexPVBoundary ;
+PVLex%/giimooji+:giimoojiw2 LexPVBoundary ;
+PVLex%/bagwaji+:bagwajiw2 LexPVBoundary ;
+PVLex%/ishpi+:ishpiw2 LexPVBoundary ;
+PVLex%/besho+:beshow2 LexPVBoundary ;
+PVLex%/gimooji+:gimoojiw2 LexPVBoundary ;
+PVLex%/aako+:aakow2 LexPVBoundary ;
+PVLex%/desi+:desiw2 LexPVBoundary ;
+PVLex%/agaami+:agaamiw2 LexPVBoundary ;
+PVLex%/mishi+:mishiw2 LexPVBoundary ;
+PVLex%/niibaa+:niibaa LexPVBoundary ;
+PVLex%/dago+:dagow2 LexPVBoundary ;
+PVLex%/aabitaa+:aabitaa LexPVBoundary ;
+PVLex%/awasi+:awasiw2 LexPVBoundary ;
+PVLex%/niisi+:niisiw2 LexPVBoundary ;
+PVLex%/giizhi+:giizhiw2 LexPVBoundary ;
+PVLex%/nisawi+:nisawiw2 LexPVBoundary ;
+PVLex%/misko+:miskow2 LexPVBoundary ;
+PVLex%/wake+:wake LexPVBoundary ;
+PVLex%/michi+:michiw2 LexPVBoundary ;
+PVLex%/enda+:endaw2 LexPVBoundary ;
+PVLex%/ginwaakojii+:ginwaakojii LexPVBoundary ;
+PVLex%/noonde+:noonde LexPVBoundary ;
+PVLex%/bichi+:bichiw2 LexPVBoundary ;
+PVLex%/goji+:gojiw2 LexPVBoundary ;
+PVLex%/noozhe+:noozhe LexPVBoundary ;
+PVLex%/niigaani+:niigaaniw2 LexPVBoundary ;
+PVLex%/anaami+:anaamiw2 LexPVBoundary ;
+PVLex%/gigizhebaa+:gigizhebaa LexPVBoundary ;
+PVLex%/wiishkobi+:wiishkobiw2 LexPVBoundary ;
+PVLex%/ishkwaa+:ishkwaa LexPVBoundary ;
+PVLex%/ziiwiski+:ziiwiskiw2 LexPVBoundary ;
+PVLex%/gichi+:gichiw2 LexPVBoundary ;
+PVLex%/zhiibaa+:zhiibaa LexPVBoundary ;
+PVLex%/naawi+:naawiw2 LexPVBoundary ;
+PVLex%/gagwe+:gagwe LexPVBoundary ;
+PVLex%/gashkii+:gashkii LexPVBoundary ;
+PVLex%/asho+:ashow2 LexPVBoundary ;
+PVLex%/biisadaawangi+:biisadaawangiw2 LexPVBoundary ;
+PVLex%/bagaki+:bagakiw2 LexPVBoundary ;
+PVLex%/gagaanwaabiigi+:gagaanwaabiigiw2 LexPVBoundary ;
+PVLex%/biichi+:biichiw2 LexPVBoundary ;
+PVLex%/waabani+:waabaniw2 LexPVBoundary ;
+PVLex%/naabe+:naabe LexPVBoundary ;
+PVLex%/jiigewe+:jiigewe LexPVBoundary ;
+PVLex%/gwayako+:gwayakow2 LexPVBoundary ;
+PVLex%/eyedawi+:eyedawiw2 LexPVBoundary ;
+PVLex%/aanji+:aanjiw2 LexPVBoundary ;
+PVLex%/ishkwe+:ishkwe LexPVBoundary ;
+PVLex%/mangi+:mangiw2 LexPVBoundary ;
+PVLex%/wiimaa+:wiimaa LexPVBoundary ;
+PVLex%/opime+:opime LexPVBoundary ;
+PVLex%/bagami+:bagamiw2 LexPVBoundary ;
+PVLex%/nanda+:nandaw2 LexPVBoundary ;
+PVLex%/anama'e+:anama'e LexPVBoundary ;
+PVLex%/ginwaako+:ginwaakow2 LexPVBoundary ;
+PVLex%/bigishki+:bigishkiw2 LexPVBoundary ;
+PVLex%/biini+:biiniw2 LexPVBoundary ;
+PVLex%/wenda+:wendaw2 LexPVBoundary ;
+PVLex%/bizaani+:bizaaniw2 LexPVBoundary ;
+PVLex%/gabe+:gabe LexPVBoundary ;
+PVLex%/noosooki+:noosookiw2 LexPVBoundary ;
+PVLex%/ditibi+:ditibiw2 LexPVBoundary ;
+PVLex%/dibiki+:dibikiw2 LexPVBoundary ;
+PVLex%/zhaawani+:zhaawaniw2 LexPVBoundary ;
+PVLex%/biisi+:biisiw2 LexPVBoundary ;
+PVLex%/bakobii+:bakobii LexPVBoundary ;
+PVLex%/giiwitaa+:giiwitaa LexPVBoundary ;
+PVLex%/gakaki+:gakakiw2 LexPVBoundary ;
+PVLex%/ayaangwaami+:ayaangwaamiw2 LexPVBoundary ;
+PVLex%/maajii+:maajii LexPVBoundary ;
+PVLex%/wagiji+:wagijiw2 LexPVBoundary ;
+PVLex%/nabagi+:nabagiw2 LexPVBoundary ;
+PVLex%/goshko+:goshkow2 LexPVBoundary ;
+PVLex%/eyiidawi+:eyiidawiw2 LexPVBoundary ;
+PVQnt%/naano+:naanow2 LexPVBoundary ;
+PVQnt%/nenishwaaswi+:nenishwaaswiw2 LexPVBoundary ;
+PVQnt%/ningo+:ningow2 LexPVBoundary ;
+PVQnt%/ashi-ningodwaaso+:ashi-ningodwaasow2 LexPVBoundary ;
+PVQnt%/niizhwaaso+:niizhwaasow2 LexPVBoundary ;
+PVQnt%/ashi-nishwaaso+:ashi-nishwaasow2 LexPVBoundary ;
+PVQnt%/ashi-zhaangaso+:ashi-zhaangasow2 LexPVBoundary ;
+PVQnt%/ingo+:ingow2 LexPVBoundary ;
+PVQnt%/niizho+:niizhow2 LexPVBoundary ;
+PVQnt%/niso+:nisow2 LexPVBoundary ;
+PVQnt%/ingodwaaso+:ingodwaasow2 LexPVBoundary ;
+PVQnt%/ashi-niizho+:ashi-niizhow2 LexPVBoundary ;
+PVQnt%/aabita+:aabitaw2 LexPVBoundary ;
+PVQnt%/bezhigo+:bezhigow2 LexPVBoundary ;
+PVQnt%/niiwo+:niiwow2 LexPVBoundary ;
+PVQnt%/ashi-bezhigo+:ashi-bezhigow2 LexPVBoundary ;
+PVQnt%/ishwaaso+:ishwaasow2 LexPVBoundary ;
+PVQnt%/ashi-niizhwaaso+:ashi-niizhwaasow2 LexPVBoundary ;
+PVQnt%/ashi-niso+:ashi-nisow2 LexPVBoundary ;
+PVQnt%/ashi-ingodwaaso+:ashi-ingodwaasow2 LexPVBoundary ;
+PVQnt%/ningodwaaso+:ningodwaasow2 LexPVBoundary ;
+PVQnt%/niiyo+:niiyow2 LexPVBoundary ;
+PVQnt%/midaaso+:midaasow2 LexPVBoundary ;
+PVQnt%/ashi-niiyo+:ashi-niiyow2 LexPVBoundary ;
+PVQnt%/ashi-naano+:ashi-naanow2 LexPVBoundary ;
+PVQnt%/zhaangaso+:zhaangasow2 LexPVBoundary ;
+PVQnt%/nishwaaso+:nishwaasow2 LexPVBoundary ;
+PVQnt%/ashi-ishwaaso+:ashi-ishwaasow2 LexPVBoundary ;
+PVQnt%/ashi-niiwo+:ashi-niiwow2 LexPVBoundary ;
 
-LEXICON LexPVIndependent
-%<EMPTYLEX%> PREVERBEND ;
+LEXICON LexPVBoundary
+0:- LexPV ;
 
-LEXICON LexPVPlainConjunct
-%<EMPTYLEX%> PREVERBEND ;
-
-LEXICON LexPVChangedConjunct
-%<EMPTYLEX%> PREVERBEND ;
-
-LEXICON LexPVBoundary 
-@C.ChCnj@:@C.ChCnj@- LexPV ;
-
-
-LEXICON PREVERBEND
-%<%< VerbStems ;
+LEXICON PreverbEnd
+0:%<%< VerbStems ;

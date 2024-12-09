@@ -1,8 +1,22 @@
 LEXICON NumeralRoot
 @P.Paradigm.NUM@ NUM_Prefix ;
 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NUM                                                        !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 LEXICON NUM_Prefix
 @P.Prefix.NONE@ NUM_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NUM                                                        !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON NUM_PrefixBoundary
 0:%<%< NumeralStems ;
@@ -10,99 +24,292 @@ LEXICON NUM_PrefixBoundary
 LEXICON NumeralStems
 @R.Paradigm.NUM@ NUM_Stems ;
 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NUM                                                        !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 LEXICON NUM_Stems
+aabita:aabitaw2 NUM_Class=NUM_Boundary ;
+aabita-diba'igan NUM_Class=NUM_Boundary ;
+aabita-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
+aabitooshkin NUM_Class=NUM_Boundary ;
 ashi-aabita NUM_Class=NUM_Boundary ;
 ashi-aabita:ashi-aabitaw2 NUM_Class=NUM_Boundary ;
 ashi-bezhig NUM_Class=NUM_Boundary ;
+ashi-bezhigo-anama'e-giizhik NUM_Class=NUM_Boundary ;
 ashi-bezhigo-diba'igan NUM_Class=NUM_Boundary ;
+ashi-ingodwaaswi:ashi-ingodwaaswiw2 NUM_Class=NUM_Boundary ;
+ashi-ishwaaswi:ashi-ishwaaswiw2 NUM_Class=NUM_Boundary ;
 ashi-naanan NUM_Class=NUM_Boundary ;
+ashi-niiwin NUM_Class=NUM_Boundary ;
 ashi-niizh NUM_Class=NUM_Boundary ;
 ashi-niizho-diba'igan NUM_Class=NUM_Boundary ;
+ashi-niizhwaaso:ashi-niizhwaasow2 NUM_Class=NUM_Boundary ;
 ashi-niizhwaaswi:ashi-niizhwaaswiw2 NUM_Class=NUM_Boundary ;
+ashi-ningodwaaswi:ashi-ningodwaaswiw2 NUM_Class=NUM_Boundary ;
+ashi-nishwaaswi:ashi-nishwaaswiw2 NUM_Class=NUM_Boundary ;
 ashi-niswi:ashi-niswiw2 NUM_Class=NUM_Boundary ;
+ashi-zhaangaswi:ashi-zhaangaswiw2 NUM_Class=NUM_Boundary ;
 bebezhig NUM_Class=NUM_Boundary ;
 bezhig NUM_Class=NUM_Boundary ;
+bezhigozigwam NUM_Class=NUM_Boundary ;
 bezhigwaatig NUM_Class=NUM_Boundary ;
+bezhigweg NUM_Class=NUM_Boundary ;
+biboon NUM_Class=NUM_Boundary ;
 daso-anama'e-giizhik NUM_Class=NUM_Boundary ;
 daso-biboon NUM_Class=NUM_Boundary ;
 daso-diba'igaans NUM_Class=NUM_Boundary ;
 daso-diba'igan NUM_Class=NUM_Boundary ;
 daso-diba'iminaan NUM_Class=NUM_Boundary ;
+daso-diba'oobaan NUM_Class=NUM_Boundary ;
 daso-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
 daso-dibik NUM_Class=NUM_Boundary ;
 daso-giizhik NUM_Class=NUM_Boundary ;
 daso-giizis NUM_Class=NUM_Boundary ;
+daso-minikwaajigan NUM_Class=NUM_Boundary ;
+daso-mininj NUM_Class=NUM_Boundary ;
+daso-mizid NUM_Class=NUM_Boundary ;
+dasodaabaan NUM_Class=NUM_Boundary ;
 dasogon NUM_Class=NUM_Boundary ;
 dasonaagaans NUM_Class=NUM_Boundary ;
+dasonaaganens NUM_Class=NUM_Boundary ;
 dasoninj NUM_Class=NUM_Boundary ;
+dasookik NUM_Class=NUM_Boundary ;
 dasoonag NUM_Class=NUM_Boundary ;
+dasooshkimod NUM_Class=NUM_Boundary ;
 dasooshkin NUM_Class=NUM_Boundary ;
 dasosagoons NUM_Class=NUM_Boundary ;
 dasozid NUM_Class=NUM_Boundary ;
 daswaabik NUM_Class=NUM_Boundary ;
 daswaak NUM_Class=NUM_Boundary ;
+daswaatig NUM_Class=NUM_Boundary ;
+dasweg NUM_Class=NUM_Boundary ;
+dasweginigan NUM_Class=NUM_Boundary ;
 daswemikwaanens NUM_Class=NUM_Boundary ;
 daswewaan NUM_Class=NUM_Boundary ;
 daswi:daswiw2 NUM_Class=NUM_Boundary ;
+dibaabiishkoojigan NUM_Class=NUM_Boundary ;
+eyishwaaswi:eyishwaaswiw2 NUM_Class=NUM_Boundary ;
+ingo-anama'e-giizhik NUM_Class=NUM_Boundary ;
+ingo-biboon NUM_Class=NUM_Boundary ;
 ingo-diba'igaans NUM_Class=NUM_Boundary ;
 ingo-diba'igan NUM_Class=NUM_Boundary ;
+ingo-diba'oobaan NUM_Class=NUM_Boundary ;
 ingo-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
+ingo-dibik NUM_Class=NUM_Boundary ;
+ingo-giizhik NUM_Class=NUM_Boundary ;
+ingo-giizis NUM_Class=NUM_Boundary ;
+ingo-gikinoonowin NUM_Class=NUM_Boundary ;
+ingo-minikwaajigan NUM_Class=NUM_Boundary ;
+ingodobaneninj NUM_Class=NUM_Boundary ;
+ingodonaagaans NUM_Class=NUM_Boundary ;
+ingodonaaganens NUM_Class=NUM_Boundary ;
+ingodoninj NUM_Class=NUM_Boundary ;
 ingodookik NUM_Class=NUM_Boundary ;
+ingodoonag NUM_Class=NUM_Boundary ;
+ingodooshkimod NUM_Class=NUM_Boundary ;
+ingodooshkin NUM_Class=NUM_Boundary ;
+ingodosagoons NUM_Class=NUM_Boundary ;
+ingodozid NUM_Class=NUM_Boundary ;
+ingodwaak NUM_Class=NUM_Boundary ;
+ingodwaasimidana:ingodwaasimidanaw2 NUM_Class=NUM_Boundary ;
+ingodwaasimidana% ashi-bezhig NUM_Class=NUM_Boundary ;
+ingodwaasimidana% ashi-ingodwaaswi:ingodwaasimidana% ashi-ingodwaaswiw2 NUM_Class=NUM_Boundary ;
+ingodwaasimidana% ashi-ishwaaswi:ingodwaasimidana% ashi-ishwaaswiw2 NUM_Class=NUM_Boundary ;
+ingodwaasimidana% ashi-naanan NUM_Class=NUM_Boundary ;
+ingodwaasimidana% ashi-niiwin NUM_Class=NUM_Boundary ;
+ingodwaasimidana% ashi-niizh NUM_Class=NUM_Boundary ;
+ingodwaasimidana% ashi-niizhwaaswi:ingodwaasimidana% ashi-niizhwaaswiw2 NUM_Class=NUM_Boundary ;
+ingodwaasimidana% ashi-niswi:ingodwaasimidana% ashi-niswiw2 NUM_Class=NUM_Boundary ;
+ingodwaasimidana% ashi-zhaangaaswi:ingodwaasimidana% ashi-zhaangaaswiw2 NUM_Class=NUM_Boundary ;
+ingodwaaso-anama'e-giizhik NUM_Class=NUM_Boundary ;
+ingodwaaso-biboon NUM_Class=NUM_Boundary ;
+ingodwaaso-diba'igaans NUM_Class=NUM_Boundary ;
+ingodwaaso-diba'igan NUM_Class=NUM_Boundary ;
+ingodwaaso-diba'oobaan NUM_Class=NUM_Boundary ;
+ingodwaaso-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
+ingodwaaso-dibik NUM_Class=NUM_Boundary ;
+ingodwaaso-giizhik NUM_Class=NUM_Boundary ;
+ingodwaaso-giizis NUM_Class=NUM_Boundary ;
+ingodwaaso-gikinoonowin NUM_Class=NUM_Boundary ;
+ingodwaaso-minikwaajigan NUM_Class=NUM_Boundary ;
+ingodwaasogon NUM_Class=NUM_Boundary ;
+ingodwaasonaagaans NUM_Class=NUM_Boundary ;
+ingodwaasonaaganens NUM_Class=NUM_Boundary ;
+ingodwaasoninj NUM_Class=NUM_Boundary ;
 ingodwaasookik NUM_Class=NUM_Boundary ;
+ingodwaasoonag NUM_Class=NUM_Boundary ;
+ingodwaasooshkimod NUM_Class=NUM_Boundary ;
+ingodwaasooshkin NUM_Class=NUM_Boundary ;
+ingodwaasosagoons NUM_Class=NUM_Boundary ;
+ingodwaasozid NUM_Class=NUM_Boundary ;
+ingodwaaswaabik NUM_Class=NUM_Boundary ;
+ingodwaaswaak NUM_Class=NUM_Boundary ;
+ingodwaasweg NUM_Class=NUM_Boundary ;
+ingodwaaswemikwaanens NUM_Class=NUM_Boundary ;
+ingodwaaswewaan NUM_Class=NUM_Boundary ;
+ingodwaaswi:ingodwaaswiw2 NUM_Class=NUM_Boundary ;
+ingodwemikwaanens NUM_Class=NUM_Boundary ;
+ingodwewaan NUM_Class=NUM_Boundary ;
+ishwaasimidana:ishwaasimidanaw2 NUM_Class=NUM_Boundary ;
+ishwaasimidana% % ashi-ishwaaswi:ishwaasimidana% % ashi-ishwaaswiw2 NUM_Class=NUM_Boundary ;
+ishwaasimidana% ashi-bezhig NUM_Class=NUM_Boundary ;
+ishwaasimidana% ashi-ingodwaaswi:ishwaasimidana% ashi-ingodwaaswiw2 NUM_Class=NUM_Boundary ;
+ishwaasimidana% ashi-naanan NUM_Class=NUM_Boundary ;
+ishwaasimidana% ashi-niiwin NUM_Class=NUM_Boundary ;
+ishwaasimidana% ashi-niizh NUM_Class=NUM_Boundary ;
+ishwaasimidana% ashi-niizhwaaswi:ishwaasimidana% ashi-niizhwaaswiw2 NUM_Class=NUM_Boundary ;
+ishwaasimidana% ashi-niswi:ishwaasimidana% ashi-niswiw2 NUM_Class=NUM_Boundary ;
+ishwaasimidana% ashi-zhaangaswi:ishwaasimidana% ashi-zhaangaswiw2 NUM_Class=NUM_Boundary ;
+ishwaaso-anama'e-giizhik NUM_Class=NUM_Boundary ;
+ishwaaso-biboon NUM_Class=NUM_Boundary ;
+ishwaaso-diba'igaans NUM_Class=NUM_Boundary ;
+ishwaaso-diba'igan NUM_Class=NUM_Boundary ;
+ishwaaso-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
+ishwaaso-dibik NUM_Class=NUM_Boundary ;
+ishwaaso-giizhik NUM_Class=NUM_Boundary ;
+ishwaaso-giizis NUM_Class=NUM_Boundary ;
+ishwaaso-gikinoonowin NUM_Class=NUM_Boundary ;
+ishwaaso-minikwaajigan NUM_Class=NUM_Boundary ;
+ishwaasogon NUM_Class=NUM_Boundary ;
+ishwaasonaagaans NUM_Class=NUM_Boundary ;
+ishwaasoninj NUM_Class=NUM_Boundary ;
 ishwaasookik NUM_Class=NUM_Boundary ;
+ishwaasoonag NUM_Class=NUM_Boundary ;
+ishwaasooshkin NUM_Class=NUM_Boundary ;
 ishwaasosagoons NUM_Class=NUM_Boundary ;
+ishwaasozid NUM_Class=NUM_Boundary ;
+ishwaaswaabik NUM_Class=NUM_Boundary ;
+ishwaaswaak NUM_Class=NUM_Boundary ;
+ishwaasweg NUM_Class=NUM_Boundary ;
+ishwaaswemikwaanens NUM_Class=NUM_Boundary ;
 ishwaaswewaan NUM_Class=NUM_Boundary ;
 ishwaaswi:ishwaaswiw2 NUM_Class=NUM_Boundary ;
+memidaaswi:memidaaswiw2 NUM_Class=NUM_Boundary ;
+midaaso:midaasow2 NUM_Class=NUM_Boundary ;
 midaaso-anama'e-giizhik NUM_Class=NUM_Boundary ;
 midaaso-biboon NUM_Class=NUM_Boundary ;
 midaaso-diba'igaans NUM_Class=NUM_Boundary ;
 midaaso-diba'igan NUM_Class=NUM_Boundary ;
+midaaso-diba'oobaan NUM_Class=NUM_Boundary ;
 midaaso-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
 midaaso-dibik NUM_Class=NUM_Boundary ;
+midaaso-giizhik NUM_Class=NUM_Boundary ;
 midaaso-giizis NUM_Class=NUM_Boundary ;
+midaaso-gikinoonowin NUM_Class=NUM_Boundary ;
+midaaso-minikwaajigan NUM_Class=NUM_Boundary ;
+midaaso-mininj NUM_Class=NUM_Boundary ;
+midaaso-mizid NUM_Class=NUM_Boundary ;
 midaasogon NUM_Class=NUM_Boundary ;
+midaasonaagaans NUM_Class=NUM_Boundary ;
+midaasonaaganens NUM_Class=NUM_Boundary ;
+midaasoninj NUM_Class=NUM_Boundary ;
 midaasookik NUM_Class=NUM_Boundary ;
 midaasoonag NUM_Class=NUM_Boundary ;
+midaasooshkimod NUM_Class=NUM_Boundary ;
+midaasooshkin NUM_Class=NUM_Boundary ;
+midaasosagoons NUM_Class=NUM_Boundary ;
 midaasozid NUM_Class=NUM_Boundary ;
 midaaswaabik NUM_Class=NUM_Boundary ;
 midaaswaak NUM_Class=NUM_Boundary ;
+midaasweg NUM_Class=NUM_Boundary ;
 midaaswemikwaanens NUM_Class=NUM_Boundary ;
 midaaswewaan NUM_Class=NUM_Boundary ;
 midaaswi:midaaswiw2 NUM_Class=NUM_Boundary ;
+midaaswi% ashi-bezhig NUM_Class=NUM_Boundary ;
+midaaswi% ashi-ingodwaaswi:midaaswi% ashi-ingodwaaswiw2 NUM_Class=NUM_Boundary ;
+midaaswi% ashi-niizh NUM_Class=NUM_Boundary ;
+midaaswi% ashi-ningodwaaswi:midaaswi% ashi-ningodwaaswiw2 NUM_Class=NUM_Boundary ;
+mininj NUM_Class=NUM_Boundary ;
+mizid NUM_Class=NUM_Boundary ;
+nIshwaasimidana% ashi-niizh NUM_Class=NUM_Boundary ;
 naanan NUM_Class=NUM_Boundary ;
 naanimidana:naanimidanaw2 NUM_Class=NUM_Boundary ;
+naano-anama'e-giizhik NUM_Class=NUM_Boundary ;
 naano-biboon NUM_Class=NUM_Boundary ;
 naano-diba'igaans NUM_Class=NUM_Boundary ;
 naano-diba'igan NUM_Class=NUM_Boundary ;
+naano-diba'oobaan NUM_Class=NUM_Boundary ;
+naano-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
 naano-dibik NUM_Class=NUM_Boundary ;
+naano-giizhik NUM_Class=NUM_Boundary ;
 naano-giizis NUM_Class=NUM_Boundary ;
+naano-gikinoonowin NUM_Class=NUM_Boundary ;
+naano-minikwaajigan NUM_Class=NUM_Boundary ;
+naano-mininj NUM_Class=NUM_Boundary ;
+naano-mizid NUM_Class=NUM_Boundary ;
+naanodaabaan NUM_Class=NUM_Boundary ;
 naanogon NUM_Class=NUM_Boundary ;
+naanonaagaans NUM_Class=NUM_Boundary ;
+naanonaaganens NUM_Class=NUM_Boundary ;
 naanoninj NUM_Class=NUM_Boundary ;
+naanoonag NUM_Class=NUM_Boundary ;
+naanooshkimod NUM_Class=NUM_Boundary ;
+naanooshkin NUM_Class=NUM_Boundary ;
 naanosagoons NUM_Class=NUM_Boundary ;
 naanozid NUM_Class=NUM_Boundary ;
 naanwaabik NUM_Class=NUM_Boundary ;
 naanwaak NUM_Class=NUM_Boundary ;
+naanweg NUM_Class=NUM_Boundary ;
+naanweginigan NUM_Class=NUM_Boundary ;
 naanwemikwaanens NUM_Class=NUM_Boundary ;
 naanwewaan NUM_Class=NUM_Boundary ;
 nenaanan NUM_Class=NUM_Boundary ;
+neniiwin NUM_Class=NUM_Boundary ;
 neniizh NUM_Class=NUM_Boundary ;
+neniizhooshkimod NUM_Class=NUM_Boundary ;
+neniizhwaaswi:neniizhwaaswiw2 NUM_Class=NUM_Boundary ;
+neningodwaaswi:neningodwaaswiw2 NUM_Class=NUM_Boundary ;
+nenisooshkimod NUM_Class=NUM_Boundary ;
 neniswi:neniswiw2 NUM_Class=NUM_Boundary ;
 niimidana:niimidanaw2 NUM_Class=NUM_Boundary ;
+niishtana:niishtanaw2 NUM_Class=NUM_Boundary ;
 niiwaabik NUM_Class=NUM_Boundary ;
 niiwaak NUM_Class=NUM_Boundary ;
+niiweg NUM_Class=NUM_Boundary ;
+niiweginigan NUM_Class=NUM_Boundary ;
 niiwemikwaanens NUM_Class=NUM_Boundary ;
 niiwewaan NUM_Class=NUM_Boundary ;
 niiwin NUM_Class=NUM_Boundary ;
+niiwo-anama'e-giizhik NUM_Class=NUM_Boundary ;
+niiwo-biboon NUM_Class=NUM_Boundary ;
+niiwo-diba'igaans NUM_Class=NUM_Boundary ;
+niiwo-diba'igan NUM_Class=NUM_Boundary ;
+niiwo-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
+niiwo-dibik NUM_Class=NUM_Boundary ;
+niiwo-giizhik NUM_Class=NUM_Boundary ;
+niiwo-giizis NUM_Class=NUM_Boundary ;
+niiwogon NUM_Class=NUM_Boundary ;
+niiwonaagaans NUM_Class=NUM_Boundary ;
+niiwoninj NUM_Class=NUM_Boundary ;
+niiwookik NUM_Class=NUM_Boundary ;
+niiwooshkin NUM_Class=NUM_Boundary ;
+niiwosagoons NUM_Class=NUM_Boundary ;
+niiwozid NUM_Class=NUM_Boundary ;
 niiyo-anama'e-giizhik NUM_Class=NUM_Boundary ;
 niiyo-biboon NUM_Class=NUM_Boundary ;
 niiyo-diba'igaans NUM_Class=NUM_Boundary ;
 niiyo-diba'igan NUM_Class=NUM_Boundary ;
+niiyo-diba'oobaan NUM_Class=NUM_Boundary ;
 niiyo-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
 niiyo-dibik NUM_Class=NUM_Boundary ;
+niiyo-giizhik NUM_Class=NUM_Boundary ;
 niiyo-giizis NUM_Class=NUM_Boundary ;
+niiyo-gikinoonowin NUM_Class=NUM_Boundary ;
+niiyo-minikwaajigan NUM_Class=NUM_Boundary ;
+niiyo-mizid NUM_Class=NUM_Boundary ;
+niiyodaabaan NUM_Class=NUM_Boundary ;
 niiyogon NUM_Class=NUM_Boundary ;
+niiyonaagaans NUM_Class=NUM_Boundary ;
+niiyonaaganens NUM_Class=NUM_Boundary ;
 niiyoninj NUM_Class=NUM_Boundary ;
 niiyookik NUM_Class=NUM_Boundary ;
+niiyoonag NUM_Class=NUM_Boundary ;
+niiyooshkimod NUM_Class=NUM_Boundary ;
+niiyooshkin NUM_Class=NUM_Boundary ;
 niiyosagoons NUM_Class=NUM_Boundary ;
 niiyozid NUM_Class=NUM_Boundary ;
 niizh NUM_Class=NUM_Boundary ;
@@ -110,113 +317,284 @@ niizho-anama'e-giizhik NUM_Class=NUM_Boundary ;
 niizho-biboon NUM_Class=NUM_Boundary ;
 niizho-diba'igaans NUM_Class=NUM_Boundary ;
 niizho-diba'igan NUM_Class=NUM_Boundary ;
+niizho-diba'oobaan NUM_Class=NUM_Boundary ;
 niizho-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
+niizho-dibik NUM_Class=NUM_Boundary ;
+niizho-giizhik NUM_Class=NUM_Boundary ;
 niizho-giizis NUM_Class=NUM_Boundary ;
+niizho-gikinoonowin NUM_Class=NUM_Boundary ;
+niizho-minikwaajigan NUM_Class=NUM_Boundary ;
+niizho-mininj NUM_Class=NUM_Boundary ;
+niizho-mizid NUM_Class=NUM_Boundary ;
+niizhodaabaan NUM_Class=NUM_Boundary ;
 niizhogon NUM_Class=NUM_Boundary ;
+niizhonaagaans NUM_Class=NUM_Boundary ;
+niizhonaaganens NUM_Class=NUM_Boundary ;
 niizhoninj NUM_Class=NUM_Boundary ;
 niizhookik NUM_Class=NUM_Boundary ;
+niizhoonag NUM_Class=NUM_Boundary ;
+niizhooshkimod NUM_Class=NUM_Boundary ;
+niizhooshkin NUM_Class=NUM_Boundary ;
 niizhosagoons NUM_Class=NUM_Boundary ;
 niizhozid NUM_Class=NUM_Boundary ;
 niizhwaabik NUM_Class=NUM_Boundary ;
 niizhwaak NUM_Class=NUM_Boundary ;
+niizhwaasimidana:niizhwaasimidanaw2 NUM_Class=NUM_Boundary ;
+niizhwaaso:niizhwaasow2 NUM_Class=NUM_Boundary ;
+niizhwaaso-anama'e-giizhik NUM_Class=NUM_Boundary ;
 niizhwaaso-biboon NUM_Class=NUM_Boundary ;
 niizhwaaso-diba'igaans NUM_Class=NUM_Boundary ;
 niizhwaaso-diba'igan NUM_Class=NUM_Boundary ;
+niizhwaaso-diba'oobaan NUM_Class=NUM_Boundary ;
+niizhwaaso-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
 niizhwaaso-dibik NUM_Class=NUM_Boundary ;
+niizhwaaso-giizhik NUM_Class=NUM_Boundary ;
 niizhwaaso-giizis NUM_Class=NUM_Boundary ;
+niizhwaaso-gikinoonowin NUM_Class=NUM_Boundary ;
+niizhwaaso-minikwaajigan NUM_Class=NUM_Boundary ;
+niizhwaaso-mininj NUM_Class=NUM_Boundary ;
+niizhwaaso-mizid NUM_Class=NUM_Boundary ;
 niizhwaasogon NUM_Class=NUM_Boundary ;
+niizhwaasonaagaans NUM_Class=NUM_Boundary ;
+niizhwaasonaaganens NUM_Class=NUM_Boundary ;
 niizhwaasoninj NUM_Class=NUM_Boundary ;
+niizhwaasookik NUM_Class=NUM_Boundary ;
+niizhwaasoonag NUM_Class=NUM_Boundary ;
+niizhwaasooshkimod NUM_Class=NUM_Boundary ;
+niizhwaasooshkin NUM_Class=NUM_Boundary ;
 niizhwaasosagoons NUM_Class=NUM_Boundary ;
 niizhwaasozid NUM_Class=NUM_Boundary ;
 niizhwaaswaabik NUM_Class=NUM_Boundary ;
 niizhwaaswaak NUM_Class=NUM_Boundary ;
+niizhwaasweg NUM_Class=NUM_Boundary ;
 niizhwaaswemikwaanens NUM_Class=NUM_Boundary ;
 niizhwaaswewaan NUM_Class=NUM_Boundary ;
 niizhwaaswi:niizhwaaswiw2 NUM_Class=NUM_Boundary ;
 niizhwaatig NUM_Class=NUM_Boundary ;
+niizhweg NUM_Class=NUM_Boundary ;
+niizhweginigan NUM_Class=NUM_Boundary ;
 niizhwemikwaanens NUM_Class=NUM_Boundary ;
 niizhwewaan NUM_Class=NUM_Boundary ;
 ningo-anama'e-giizhik NUM_Class=NUM_Boundary ;
 ningo-biboon NUM_Class=NUM_Boundary ;
 ningo-diba'igaans NUM_Class=NUM_Boundary ;
 ningo-diba'igan NUM_Class=NUM_Boundary ;
+ningo-diba'oobaan NUM_Class=NUM_Boundary ;
+ningo-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
 ningo-dibik NUM_Class=NUM_Boundary ;
+ningo-giizhik NUM_Class=NUM_Boundary ;
 ningo-giizis NUM_Class=NUM_Boundary ;
+ningo-gikinoonowin NUM_Class=NUM_Boundary ;
+ningo-minikwaajigan NUM_Class=NUM_Boundary ;
+ningo-mininj NUM_Class=NUM_Boundary ;
+ningo-mizid NUM_Class=NUM_Boundary ;
+ningodobaneninj NUM_Class=NUM_Boundary ;
+ningodonaagaans NUM_Class=NUM_Boundary ;
+ningodonaaganens NUM_Class=NUM_Boundary ;
+ningodoninj NUM_Class=NUM_Boundary ;
+ningodookik NUM_Class=NUM_Boundary ;
+ningodoonag NUM_Class=NUM_Boundary ;
+ningodooshkimod NUM_Class=NUM_Boundary ;
+ningodooshkin NUM_Class=NUM_Boundary ;
+ningodosagoons NUM_Class=NUM_Boundary ;
+ningodozid NUM_Class=NUM_Boundary ;
 ningodwaak NUM_Class=NUM_Boundary ;
+ningodwaasimidana:ningodwaasimidanaw2 NUM_Class=NUM_Boundary ;
+ningodwaasimidana% ashi-bezhig NUM_Class=NUM_Boundary ;
+ningodwaasimidana% ashi-ishwaaswi:ningodwaasimidana% ashi-ishwaaswiw2 NUM_Class=NUM_Boundary ;
+ningodwaasimidana% ashi-naanan NUM_Class=NUM_Boundary ;
+ningodwaasimidana% ashi-niiwin NUM_Class=NUM_Boundary ;
+ningodwaasimidana% ashi-niizh NUM_Class=NUM_Boundary ;
+ningodwaasimidana% ashi-niizhwaaswi:ningodwaasimidana% ashi-niizhwaaswiw2 NUM_Class=NUM_Boundary ;
+ningodwaasimidana% ashi-ningodwaaswi:ningodwaasimidana% ashi-ningodwaaswiw2 NUM_Class=NUM_Boundary ;
+ningodwaasimidana% ashi-niswi:ningodwaasimidana% ashi-niswiw2 NUM_Class=NUM_Boundary ;
+ningodwaasimidana% ashi-zhaangaswi:ningodwaasimidana% ashi-zhaangaswiw2 NUM_Class=NUM_Boundary ;
+ningodwaaso:ningodwaasow2 NUM_Class=NUM_Boundary ;
+ningodwaaso-anama'e-giizhik NUM_Class=NUM_Boundary ;
 ningodwaaso-biboon NUM_Class=NUM_Boundary ;
 ningodwaaso-diba'igaans NUM_Class=NUM_Boundary ;
 ningodwaaso-diba'igan NUM_Class=NUM_Boundary ;
+ningodwaaso-diba'oobaan NUM_Class=NUM_Boundary ;
+ningodwaaso-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
 ningodwaaso-dibik NUM_Class=NUM_Boundary ;
+ningodwaaso-giizhik NUM_Class=NUM_Boundary ;
 ningodwaaso-giizis NUM_Class=NUM_Boundary ;
+ningodwaaso-gikinoonowin NUM_Class=NUM_Boundary ;
+ningodwaaso-mininj NUM_Class=NUM_Boundary ;
+ningodwaaso-mizid NUM_Class=NUM_Boundary ;
 ningodwaasogon NUM_Class=NUM_Boundary ;
+ningodwaasonaagaans NUM_Class=NUM_Boundary ;
+ningodwaasonaaganens NUM_Class=NUM_Boundary ;
 ningodwaasoninj NUM_Class=NUM_Boundary ;
+ningodwaasookik NUM_Class=NUM_Boundary ;
+ningodwaasoonag NUM_Class=NUM_Boundary ;
+ningodwaasooshkimod NUM_Class=NUM_Boundary ;
+ningodwaasooshkin NUM_Class=NUM_Boundary ;
+ningodwaasosagoons NUM_Class=NUM_Boundary ;
 ningodwaasozid NUM_Class=NUM_Boundary ;
 ningodwaaswaabik NUM_Class=NUM_Boundary ;
 ningodwaaswaak NUM_Class=NUM_Boundary ;
+ningodwaasweg NUM_Class=NUM_Boundary ;
+ningodwaaswemikwaanens NUM_Class=NUM_Boundary ;
 ningodwaaswewaan NUM_Class=NUM_Boundary ;
+ningodwaaswi:ningodwaaswiw2 NUM_Class=NUM_Boundary ;
+ningodweginigan NUM_Class=NUM_Boundary ;
+ningodwemikwaanens NUM_Class=NUM_Boundary ;
 ningodwewaan NUM_Class=NUM_Boundary ;
+nishwaasimidana:nishwaasimidanaw2 NUM_Class=NUM_Boundary ;
+nishwaasimidana% ashi-bezhig NUM_Class=NUM_Boundary ;
+nishwaasimidana% ashi-naanan NUM_Class=NUM_Boundary ;
+nishwaasimidana% ashi-niiwin NUM_Class=NUM_Boundary ;
+nishwaasimidana% ashi-ningodwaaswi:nishwaasimidana% ashi-ningodwaaswiw2 NUM_Class=NUM_Boundary ;
+nishwaasimidana% ashi-nishwaaswi:nishwaasimidana% ashi-nishwaaswiw2 NUM_Class=NUM_Boundary ;
+nishwaasimidana% ashi-niswi:nishwaasimidana% ashi-niswiw2 NUM_Class=NUM_Boundary ;
+nishwaasimidana% ashi-zhaangaswi:nishwaasimidana% ashi-zhaangaswiw2 NUM_Class=NUM_Boundary ;
+nishwaaso:nishwaasow2 NUM_Class=NUM_Boundary ;
+nishwaaso-anama'e-giizhik NUM_Class=NUM_Boundary ;
 nishwaaso-biboon NUM_Class=NUM_Boundary ;
+nishwaaso-diba'igaans NUM_Class=NUM_Boundary ;
 nishwaaso-diba'igan NUM_Class=NUM_Boundary ;
+nishwaaso-diba'oobaan NUM_Class=NUM_Boundary ;
+nishwaaso-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
+nishwaaso-dibik NUM_Class=NUM_Boundary ;
+nishwaaso-giizhik NUM_Class=NUM_Boundary ;
+nishwaaso-gikinoonowin NUM_Class=NUM_Boundary ;
+nishwaaso-minikwaajigan NUM_Class=NUM_Boundary ;
+nishwaaso-mininj NUM_Class=NUM_Boundary ;
+nishwaaso-mizid NUM_Class=NUM_Boundary ;
+nishwaasogon NUM_Class=NUM_Boundary ;
+nishwaasomidano:nishwaasomidanow2 NUM_Class=NUM_Boundary ;
+nishwaasonaagaans NUM_Class=NUM_Boundary ;
+nishwaasonaaganens NUM_Class=NUM_Boundary ;
+nishwaasoninj NUM_Class=NUM_Boundary ;
+nishwaasookik NUM_Class=NUM_Boundary ;
+nishwaasoonag NUM_Class=NUM_Boundary ;
+nishwaasooshkimod NUM_Class=NUM_Boundary ;
+nishwaasooshkin NUM_Class=NUM_Boundary ;
+nishwaasosagoons NUM_Class=NUM_Boundary ;
+nishwaasozid NUM_Class=NUM_Boundary ;
+nishwaaswaabik NUM_Class=NUM_Boundary ;
 nishwaaswaak NUM_Class=NUM_Boundary ;
+nishwaasweg NUM_Class=NUM_Boundary ;
 nishwaaswemikwaanens NUM_Class=NUM_Boundary ;
 nishwaaswewaan NUM_Class=NUM_Boundary ;
+nishwaaswi:nishwaaswiw2 NUM_Class=NUM_Boundary ;
 nisimidana:nisimidanaw2 NUM_Class=NUM_Boundary ;
 nisimidana% ashi-bezhig NUM_Class=NUM_Boundary ;
+nisimidana% ashi-ishwaaswi:nisimidana% ashi-ishwaaswiw2 NUM_Class=NUM_Boundary ;
 nisimidana% ashi-naanan NUM_Class=NUM_Boundary ;
 nisimidana% ashi-ngodwaaswi:nisimidana% ashi-ngodwaaswiw2 NUM_Class=NUM_Boundary ;
 nisimidana% ashi-niiwin NUM_Class=NUM_Boundary ;
 nisimidana% ashi-niizh NUM_Class=NUM_Boundary ;
 nisimidana% ashi-niizhwaaswi:nisimidana% ashi-niizhwaaswiw2 NUM_Class=NUM_Boundary ;
+nisimidana% ashi-ningodwaaswi:nisimidana% ashi-ningodwaaswiw2 NUM_Class=NUM_Boundary ;
 nisimidana% ashi-nishwaaswi:nisimidana% ashi-nishwaaswiw2 NUM_Class=NUM_Boundary ;
+nisimidana% ashi-niswi:nisimidana% ashi-niswiw2 NUM_Class=NUM_Boundary ;
 nisimidana% ashi-zhaangaswi:nisimidana% ashi-zhaangaswiw2 NUM_Class=NUM_Boundary ;
 niso-anama'e-giizhik NUM_Class=NUM_Boundary ;
 niso-biboon NUM_Class=NUM_Boundary ;
 niso-diba'igaans NUM_Class=NUM_Boundary ;
 niso-diba'igan NUM_Class=NUM_Boundary ;
+niso-diba'oobaan NUM_Class=NUM_Boundary ;
 niso-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
 niso-dibik NUM_Class=NUM_Boundary ;
 niso-giizhik NUM_Class=NUM_Boundary ;
 niso-giizis NUM_Class=NUM_Boundary ;
+niso-gikinoonowin NUM_Class=NUM_Boundary ;
+niso-minikwaajigan NUM_Class=NUM_Boundary ;
+niso-mininj NUM_Class=NUM_Boundary ;
+niso-mizid NUM_Class=NUM_Boundary ;
+niso-zhooniyaansiwinaaganens NUM_Class=NUM_Boundary ;
+nisodaabaan NUM_Class=NUM_Boundary ;
 nisogon NUM_Class=NUM_Boundary ;
+nisonaagaans NUM_Class=NUM_Boundary ;
+nisonaaganens NUM_Class=NUM_Boundary ;
 nisoninj NUM_Class=NUM_Boundary ;
 nisookik NUM_Class=NUM_Boundary ;
+nisoonag NUM_Class=NUM_Boundary ;
+nisooshkimod NUM_Class=NUM_Boundary ;
 nisooshkin NUM_Class=NUM_Boundary ;
 nisosagoons NUM_Class=NUM_Boundary ;
 nisozid NUM_Class=NUM_Boundary ;
+niswaabiig NUM_Class=NUM_Boundary ;
 niswaabik NUM_Class=NUM_Boundary ;
 niswaak NUM_Class=NUM_Boundary ;
 niswaatig NUM_Class=NUM_Boundary ;
+nisweg NUM_Class=NUM_Boundary ;
+nisweginigan NUM_Class=NUM_Boundary ;
 niswemikwaanens NUM_Class=NUM_Boundary ;
 niswewaan NUM_Class=NUM_Boundary ;
 niswi:niswiw2 NUM_Class=NUM_Boundary ;
 zhaangasimidana:zhaangasimidanaw2 NUM_Class=NUM_Boundary ;
+zhaangaso:zhaangasow2 NUM_Class=NUM_Boundary ;
 zhaangaso-anama'e-giizhik NUM_Class=NUM_Boundary ;
 zhaangaso-biboon NUM_Class=NUM_Boundary ;
 zhaangaso-diba'igaans NUM_Class=NUM_Boundary ;
 zhaangaso-diba'igan NUM_Class=NUM_Boundary ;
+zhaangaso-diba'oobaan NUM_Class=NUM_Boundary ;
 zhaangaso-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
 zhaangaso-giizhik NUM_Class=NUM_Boundary ;
 zhaangaso-giizis NUM_Class=NUM_Boundary ;
+zhaangaso-gikinoonowin NUM_Class=NUM_Boundary ;
+zhaangaso-minikwaajigan NUM_Class=NUM_Boundary ;
+zhaangaso-mininj NUM_Class=NUM_Boundary ;
+zhaangaso-mizid NUM_Class=NUM_Boundary ;
 zhaangasogon NUM_Class=NUM_Boundary ;
+zhaangasonaagaans NUM_Class=NUM_Boundary ;
+zhaangasonaaganens NUM_Class=NUM_Boundary ;
 zhaangasoninj NUM_Class=NUM_Boundary ;
+zhaangasookik NUM_Class=NUM_Boundary ;
+zhaangasoonag NUM_Class=NUM_Boundary ;
+zhaangasooshkimod NUM_Class=NUM_Boundary ;
 zhaangasooshkin NUM_Class=NUM_Boundary ;
 zhaangasosagoons NUM_Class=NUM_Boundary ;
 zhaangasozid NUM_Class=NUM_Boundary ;
 zhaangaswaabik NUM_Class=NUM_Boundary ;
 zhaangaswaak NUM_Class=NUM_Boundary ;
+zhaangasweg NUM_Class=NUM_Boundary ;
 zhaangaswemikwaanens NUM_Class=NUM_Boundary ;
 zhaangaswewaan NUM_Class=NUM_Boundary ;
 zhaangaswi:zhaangaswiw2 NUM_Class=NUM_Boundary ;
 zhezhaangaswi:zhezhaangaswiw2 NUM_Class=NUM_Boundary ;
 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NUM, Class: NUM                                            !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 LEXICON NUM_Class=NUM_Boundary
 0:%>%> NUM_Class=NUM_Flags ;
 
-LEXICON NUM_Class=NUM_Flags
-@R.Prefix.NONE@ NUM_Class=NUM_Prefix=NONE_Order=Other ;
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NUM, Class: NUM                                            !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON NUM_Class=NUM_Prefix=NONE_Order=Other
+LEXICON NUM_Class=NUM_Flags
+@R.Prefix.NONE@ NUM_Class=NUM_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NUM, Class: NUM                                            !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NUM_Class=NUM_Flags_Prefix=NONE
 @U.Order.Other@ NUM_Class=NUM_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NUM, Class: NUM, Prefix: NONE, Order: Other                !
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON NUM_Class=NUM_Prefix=NONE_Order=Other_Endings
 +NUM: # ;
