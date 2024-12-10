@@ -15,6 +15,7 @@
                 * [interjections.lexc](src-fst-morphology-stems-interjections.lexc.html) ([src](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/interjections.lexc))
                 * [nouns.lexc](src-fst-morphology-stems-nouns.lexc.html) ([src](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/nouns.lexc))
                 * [numerals.lexc](src-fst-morphology-stems-numerals.lexc.html) ([src](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/numerals.lexc))
+                * [preadverbs.lexc](src-fst-morphology-stems-preadverbs.lexc.html) ([src](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/preadverbs.lexc))
                 * [prenouns.lexc](src-fst-morphology-stems-prenouns.lexc.html) ([src](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/prenouns.lexc))
                 * [prepositions.lexc](src-fst-morphology-stems-prepositions.lexc.html) ([src](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/prepositions.lexc))
                 * [preverbs.lexc](src-fst-morphology-stems-preverbs.lexc.html) ([src](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/preverbs.lexc))
