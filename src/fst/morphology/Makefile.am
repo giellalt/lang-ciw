@@ -40,6 +40,7 @@ GT_LEXC_SRCS_L1_L2=\
 			stems/ojibwe_particles.lexc \
 			stems/ojibwe_pronouns.lexc \
 			stems/ojibwe_verbs.lexc \
+			stems/preadverbs.lexc \
 			stems/prenouns.lexc \
 			stems/preverbs.lexc
 
