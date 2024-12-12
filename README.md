@@ -20,7 +20,7 @@ This repository contains finite state source files for the Southwestern Ojibwe l
 for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under Creative Commons Attribution NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 licence, also detailed in the
-[LICENSE](https://github.com/giellalt/lang-ciw/blob/main/LICENSE). The
+[LICENSE](https://github.com/giellalt/lang-ciw/blob/main/LICENSE.md). The
 authors named in the [AUTHORS](https://github.com/giellalt/lang-ciw/blob/main/AUTHORS) file are available to grant other licencing
 choices.
 
