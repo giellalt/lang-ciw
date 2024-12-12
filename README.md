@@ -21,7 +21,7 @@ for building morphological analysers, proofing tools
 and dictionaries. The data and implementation are licenced under Creative Commons Attribution NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 licence, also detailed in the
 [LICENSE](https://github.com/giellalt/lang-ciw/blob/main/LICENSE). The
-authors named in the AUTHORS file are available to grant other licencing
+authors named in the [AUTHORS](https://github.com/giellalt/lang-ciw/blob/main/AUTHORS) file are available to grant other licencing
 choices.
 
 Install proofing tools and [keyboards](https://github.com/giellalt/keyboard-ciw)
