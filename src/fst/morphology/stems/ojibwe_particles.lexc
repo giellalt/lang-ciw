@@ -48,6 +48,7 @@ boohay PCInterj_Class=PCInterj_Boundary ;
 boozhoo PCInterj_Class=PCInterj_Boundary ;
 haaw PCInterj_Class=PCInterj_Boundary ;
 hay' PCInterj_Class=PCInterj_Boundary ;
+hoo% wah PCInterj_Class=PCInterj_Boundary ;
 kaah PCInterj_Class=PCInterj_Boundary ;
 mash% mash PCInterj_Class=PCInterj_Boundary ;
 na' PCInterj_Class=PCInterj_Boundary ;
@@ -56,6 +57,8 @@ oo% yaay PCInterj_Class=PCInterj_Boundary ;
 poohay PCInterj_Class=PCInterj_Boundary ;
 wiikaage% sa:wiikaage% saw2 PCInterj_Class=PCInterj_Boundary ;
 woo-oo PCInterj_Class=PCInterj_Boundary ;
+yaay PCInterj_Class=PCInterj_Boundary ;
+yay PCInterj_Class=PCInterj_Boundary ;
 yoo' PCInterj_Class=PCInterj_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -256,7 +259,6 @@ shke PCDisc_Class=PCDisc_Boundary ;
 taayaa PCDisc_Class=PCDisc_Boundary ;
 waa PCDisc_Class=PCDisc_Boundary ;
 way PCDisc_Class=PCDisc_Boundary ;
-wiin PCDisc_Class=PCDisc_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !

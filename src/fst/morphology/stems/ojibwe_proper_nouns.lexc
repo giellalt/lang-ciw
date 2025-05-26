@@ -1,0 +1,188 @@
+LEXICON ProperNounRoot
+@P.Paradigm.NamePerson@ NamePerson_Prefix ;
+@P.Paradigm.NamePlace@ NamePlace_Prefix ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePerson                                                 !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePerson_Prefix
+@P.Prefix.NONE@ NamePerson_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePerson                                                 !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePerson_PrefixBoundary
+0:%<%< ProperNounStems ;
+
+LEXICON ProperNounStems
+@R.Paradigm.NamePerson@ NamePerson_Stems ;
+@R.Paradigm.NamePlace@ NamePlace_Stems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePerson                                                 !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePerson_Stems
+Naawakamigook NamePerson_Class=NamePerson_Boundary ;
+Ogimaawigwanebiik NamePerson_Class=NamePerson_Boundary ;
+Wenabozho:Wenabozhow2 NamePerson_Class=NamePerson_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePerson, Class: NamePerson                              !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePerson_Class=NamePerson_Boundary
+0:%>%> NamePerson_Class=NamePerson_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePerson, Class: NamePerson                              !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePerson_Class=NamePerson_Flags
+@R.Prefix.NONE@ NamePerson_Class=NamePerson_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePerson, Class: NamePerson                              !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePerson_Class=NamePerson_Flags_Prefix=NONE
+@U.Order.Other@ NamePerson_Class=NamePerson_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePerson, Class: NamePerson, Prefix: NONE, Order: Other  !
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePerson_Class=NamePerson_Prefix=NONE_Order=Other_Endings
++NamePerson: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePlace                                                  !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePlace_Prefix
+@P.Prefix.NONE@ NamePlace_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePlace                                                  !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePlace_PrefixBoundary
+0:%<%< ProperNounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePlace                                                  !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePlace_Stems
+Agwadaashiwi-ziibiing NamePlace_Class=NamePlace_Boundary ;
+Animikii-wiikwedong:Animikii-wiikwedw NamePlace_Class=NamePlace_Boundary ;
+Asabiikone-zaaga'iganiing NamePlace_Class=NamePlace_Boundary ;
+Ashkibagi-ziibiing NamePlace_Class=NamePlace_Boundary ;
+Baaga'adowaaning NamePlace_Class=NamePlace_Boundary ;
+Bemijigamaag NamePlace_Class=NamePlace_Boundary ;
+Biiwaabikokaaning NamePlace_Class=NamePlace_Boundary ;
+Chi-badaka'iganing NamePlace_Class=NamePlace_Boundary ;
+Gaa-ginwaajiwanaag NamePlace_Class=NamePlace_Boundary ;
+Gaa-miskwaawaakokaag NamePlace_Class=NamePlace_Boundary ;
+Gaa-waabaabiganikaag NamePlace_Class=NamePlace_Boundary ;
+Gaa-waawiyegamaag NamePlace_Class=NamePlace_Boundary ;
+Gaa-zagaskwaajimekaag NamePlace_Class=NamePlace_Boundary ;
+Gabekanaansing NamePlace_Class=NamePlace_Boundary ;
+Gakaabikaang NamePlace_Class=NamePlace_Boundary ;
+Gibaakwa'igaansing NamePlace_Class=NamePlace_Boundary ;
+Gichi-onigamiing NamePlace_Class=NamePlace_Boundary ;
+Gojijiiwi-zaaga'igan NamePlace_Class=NamePlace_Boundary ;
+Gwaaba'iganing NamePlace_Class=NamePlace_Boundary ;
+Jaachaabaaning NamePlace_Class=NamePlace_Boundary ;
+Madaabiimog NamePlace_Class=NamePlace_Boundary ;
+Mazhii'iganing NamePlace_Class=NamePlace_Boundary ;
+Misi-zaaga'iganiing NamePlace_Class=NamePlace_Boundary ;
+Misi-zaaga'iganing NamePlace_Class=NamePlace_Boundary ;
+Miskwaagamiiwi-zaaga'igan NamePlace_Class=NamePlace_Boundary ;
+Nagaajiwanaang NamePlace_Class=NamePlace_Boundary ;
+Nigigoonsiminikaaning NamePlace_Class=NamePlace_Boundary ;
+Obashkiigaang NamePlace_Class=NamePlace_Boundary ;
+Ogaakaaning NamePlace_Class=NamePlace_Boundary ;
+Okikaandagoonsing NamePlace_Class=NamePlace_Boundary ;
+Onigamiinsing NamePlace_Class=NamePlace_Boundary ;
+Oshki-adaawewigamigong NamePlace_Class=NamePlace_Boundary ;
+Waashtanong NamePlace_Class=NamePlace_Boundary ;
+Waawaashkeshiwi-ziibiing NamePlace_Class=NamePlace_Boundary ;
+Wiikwegamaang NamePlace_Class=NamePlace_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePlace, Class: NamePlace                                !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePlace_Class=NamePlace_Boundary
+0:%>%> NamePlace_Class=NamePlace_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePlace, Class: NamePlace                                !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePlace_Class=NamePlace_Flags
+@R.Prefix.NONE@ NamePlace_Class=NamePlace_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePlace, Class: NamePlace                                !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePlace_Class=NamePlace_Flags_Prefix=NONE
+@U.Order.Other@ NamePlace_Class=NamePlace_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePlace, Class: NamePlace, Prefix: NONE, Order: Other    !
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePlace_Class=NamePlace_Prefix=NONE_Order=Other_Endings
++NamePlace: # ;
+

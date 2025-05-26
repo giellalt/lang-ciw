@@ -30,25 +30,48 @@ Multichar_Symbols
 %<%< %<T%> %>%> +%0PlHead +%0PlObj +%0PlObvHead +%0PlObvSubj +%0PlSubj
 +%0SgHead +%0SgObj +%0SgObvHead +%0SgObvSubj +%0SgSubj +1SgObj +1SgPoss
 +1SgSubj +2PlObj +2PlPoss +2PlSubj +2SgObj +2SgPoss +2SgSubj +3PlObvHead
-+3PlObvObj +3PlObvPoss +3PlObvSubj +3PlProxHead +3PlProxObj +3PlProxPoss
-+3PlProxSubj +3SgObvHead +3SgObvObj +3SgObvPoss +3SgObvSubj +3SgProxHead
-+3SgProxObj +3SgProxPoss +3SgProxSubj +ADVConj +ADVDisc +ADVDub +ADVGram
-+ADVInter +ADVLoc +ADVMan +ADVNeg +ADVPred +ADVQnt +ADVTmp +AVDDeg +Alt
-+Aug/magad +Cnj +Del +Der/magad +Dim +Dub +DubPrt +ExclObj +ExclPoss +ExclSubj
-+Imp +InclObj +InclPoss +InclSubj +Ind +Loc +NA +NAD +NI +NID +NUM +Neg +Neu
-+ObvPl +ObvSg +PCAsp +PCDisc +PCEmph +PCInterj +PRONDem +PRONDub +PRONIndf
-+PRONInter +PRONPer +PRONPret +PRONPsl +PRONSim +Pcp +Pej +Pl +Pos +Poss +Prb
-+Pret +ProxPl +ProxSg +Prt +Recip/di +Reflex/dizo +Sg +Sim +VAI +VAIO +VAIPL
-+VII +VIIPL +VTA +VTI +Voc +XObj +XSubj @P.Paradigm.ADVConj@
-@P.Paradigm.ADVDisc@ @P.Paradigm.ADVDub@ @P.Paradigm.ADVGram@
-@P.Paradigm.ADVInter@ @P.Paradigm.ADVLoc@ @P.Paradigm.ADVMan@
-@P.Paradigm.ADVNeg@ @P.Paradigm.ADVPred@ @P.Paradigm.ADVQnt@
-@P.Paradigm.ADVTmp@ @P.Paradigm.AVDDeg@ @P.Paradigm.NA@ @P.Paradigm.NAD@
-@P.Paradigm.NI@ @P.Paradigm.NID@ @P.Paradigm.NUM@ @P.Paradigm.PCAsp@
-@P.Paradigm.PCDisc@ @P.Paradigm.PCEmph@ @P.Paradigm.PCInterj@
-@P.Paradigm.PRONDem@ @P.Paradigm.PRONDub@ @P.Paradigm.PRONIndf@
-@P.Paradigm.PRONInter@ @P.Paradigm.PRONPer@ @P.Paradigm.PRONPret@
-@P.Paradigm.PRONPsl@ @P.Paradigm.PRONSim@ @P.Paradigm.VAI@ @P.Paradigm.VAIO@
++3PlObvObj +3PlObvPoss +3PlObvSubj +3PlProx +3PlProxHead +3PlProxObj
++3PlProxPoss +3PlProxSubj +3SgObvHead +3SgObvObj +3SgObvPoss +3SgObvSubj
++3SgProx +3SgProxHead +3SgProxObj +3SgProxPoss +3SgProxSubj +ADVConj +ADVDisc
++ADVDub +ADVGram +ADVInter +ADVLoc +ADVMan +ADVNeg +ADVPred +ADVQnt +ADVTmp
++AVDDeg +Alt +Aug/magad +Cnj +Del +Der/magad +Dim +Dub +DubPrt +ExclObj
++ExclPoss +ExclSubj +Imp +InclObj +InclPoss +InclSubj +Ind +Loc +NA +NAD +NI
++NID +NUM +NamePerson +NamePlace +Neg +Neu +ObvPl +ObvSg +PCAsp +PCDisc +PCEmph
++PCInterj +PRONDem+NA+ObvPl +PRONDem+NA+ObvSg +PRONDem+NA+ProxPl
++PRONDem+NA+ProxSg +PRONDem+NI+Pl +PRONDem+NI+Sg +PRONDub+NA+ObvPl
++PRONDub+NA+ObvSg +PRONDub+NA+ProxPl +PRONDub+NA+ProxSg +PRONDub+NI+Pl
++PRONDub+NI+Sg +PRONIndf+NA +PRONIndf+NI +PRONInter+NA +PRONInter+NA+ObvPl
++PRONInter+NA+ObvSg +PRONInter+NA+ProxPl +PRONInter+NA+ProxSg +PRONInter+NI+Pl
++PRONInter+NI+Sg +PRONPer+NA+1Sg +PRONPer+NA+2Pl +PRONPer+NA+2Sg
++PRONPer+NA+3Pl +PRONPer+NA+3Sg +PRONPer+NA+Excl +PRONPer+NA+Incl +PRONPret+NA
++PRONSim+NA+ObvPl +PRONSim+NA+ObvSg +PRONSim+NA+ProxPl +PRONSim+NA+ProxSg
++PRONSim+NI+Pl +PRONSim+NI+Sg +Pcp +Pej +Pl +Pos +Poss +Prb +Pret +ProxPl
++ProxSg +Prt +Recip/di +Reflex/dizo +Sg +Sim +VAI +VAIO +VAIPL +VII +VIIPL +VTA
++VTI +Voc +XObj +XSubj @P.Paradigm.ADVConj@ @P.Paradigm.ADVDisc@
+@P.Paradigm.ADVDub@ @P.Paradigm.ADVGram@ @P.Paradigm.ADVInter@
+@P.Paradigm.ADVLoc@ @P.Paradigm.ADVMan@ @P.Paradigm.ADVNeg@
+@P.Paradigm.ADVPred@ @P.Paradigm.ADVQnt@ @P.Paradigm.ADVTmp@
+@P.Paradigm.AVDDeg@ @P.Paradigm.NA@ @P.Paradigm.NAD@ @P.Paradigm.NI@
+@P.Paradigm.NID@ @P.Paradigm.NUM@ @P.Paradigm.NamePerson@
+@P.Paradigm.NamePlace@ @P.Paradigm.PCAsp@ @P.Paradigm.PCDisc@
+@P.Paradigm.PCEmph@ @P.Paradigm.PCInterj@ @P.Paradigm.PRONDem+NA+ObvPl@
+@P.Paradigm.PRONDem+NA+ObvSg@ @P.Paradigm.PRONDem+NA+ProxPl@
+@P.Paradigm.PRONDem+NA+ProxSg@ @P.Paradigm.PRONDem+NI+Pl@
+@P.Paradigm.PRONDem+NI+Sg@ @P.Paradigm.PRONDub+NA+ObvPl@
+@P.Paradigm.PRONDub+NA+ObvSg@ @P.Paradigm.PRONDub+NA+ProxPl@
+@P.Paradigm.PRONDub+NA+ProxSg@ @P.Paradigm.PRONDub+NI+Pl@
+@P.Paradigm.PRONDub+NI+Sg@ @P.Paradigm.PRONIndf+NA@ @P.Paradigm.PRONIndf+NI@
+@P.Paradigm.PRONInter+NA+ObvPl@ @P.Paradigm.PRONInter+NA+ObvSg@
+@P.Paradigm.PRONInter+NA+ProxPl@ @P.Paradigm.PRONInter+NA+ProxSg@
+@P.Paradigm.PRONInter+NA@ @P.Paradigm.PRONInter+NI+Pl@
+@P.Paradigm.PRONInter+NI+Sg@ @P.Paradigm.PRONPer+NA+1Sg@
+@P.Paradigm.PRONPer+NA+2Pl@ @P.Paradigm.PRONPer+NA+2Sg@
+@P.Paradigm.PRONPer+NA+3Pl@ @P.Paradigm.PRONPer+NA+3Sg@
+@P.Paradigm.PRONPer+NA+Excl@ @P.Paradigm.PRONPer+NA+Incl@
+@P.Paradigm.PRONPret+NA@ @P.Paradigm.PRONSim+NA+ObvPl@
+@P.Paradigm.PRONSim+NA+ObvSg@ @P.Paradigm.PRONSim+NA+ProxPl@
+@P.Paradigm.PRONSim+NA+ProxSg@ @P.Paradigm.PRONSim+NI+Pl@
+@P.Paradigm.PRONSim+NI+Sg@ @P.Paradigm.VAI@ @P.Paradigm.VAIO@
 @P.Paradigm.VAIPL@ @P.Paradigm.VII@ @P.Paradigm.VIIPL@ @P.Paradigm.VTA@
 @P.Paradigm.VTI@ @P.Prefix.%<CHCNJ%>@ @P.Prefix.G@ @P.Prefix.GI@
 @P.Prefix.GIDW@ @P.Prefix.N@ @P.Prefix.NI@ @P.Prefix.NONE@ @P.Prefix.O@
@@ -57,24 +80,39 @@ Multichar_Symbols
 @R.Paradigm.ADVMan@ @R.Paradigm.ADVNeg@ @R.Paradigm.ADVPred@
 @R.Paradigm.ADVQnt@ @R.Paradigm.ADVTmp@ @R.Paradigm.AVDDeg@ @R.Paradigm.NA@
 @R.Paradigm.NAD@ @R.Paradigm.NI@ @R.Paradigm.NID@ @R.Paradigm.NUM@
-@R.Paradigm.PCAsp@ @R.Paradigm.PCDisc@ @R.Paradigm.PCEmph@
-@R.Paradigm.PCInterj@ @R.Paradigm.PRONDem@ @R.Paradigm.PRONDub@
-@R.Paradigm.PRONIndf@ @R.Paradigm.PRONInter@ @R.Paradigm.PRONPer@
-@R.Paradigm.PRONPret@ @R.Paradigm.PRONPsl@ @R.Paradigm.PRONSim@
-@R.Paradigm.VAI@ @R.Paradigm.VAIO@ @R.Paradigm.VAIPL@ @R.Paradigm.VII@
-@R.Paradigm.VIIPL@ @R.Paradigm.VTA@ @R.Paradigm.VTI@ @R.Prefix.%<CHCNJ%>@
-@R.Prefix.G@ @R.Prefix.GI@ @R.Prefix.GIDW@ @R.Prefix.N@ @R.Prefix.NI@
-@R.Prefix.NONE@ @R.Prefix.O@ @R.Prefix.W@ @U.Order.Cnj@ @U.Order.Ind@
-@U.Order.Other@ PNLex%/aabiji+ PNLex%/aabitaa+ PNLex%/aako+ PNLex%/aanji+
-PNLex%/aazhawi+ PNLex%/agaami+ PNLex%/agaasi+ PNLex%/agiji+ PNLex%/anaami+
-PNLex%/anama'e+ PNLex%/ando+ PNLex%/ashki+ PNLex%/asho+ PNLex%/awasi+
-PNLex%/ayaangwaami+ PNLex%/azhe+ PNLex%/baashki+ PNLex%/baate+ PNLex%/bagaki+
-PNLex%/bagami+ PNLex%/bagwaji+ PNLex%/bakobii+ PNLex%/besho+ PNLex%/bibine+
-PNLex%/bichi+ PNLex%/bigii+ PNLex%/bigishki+ PNLex%/biichi+ PNLex%/biimasko+
-PNLex%/biini+ PNLex%/biinji+ PNLex%/biisaawangi+ PNLex%/biisadaawangi+
-PNLex%/biisi+ PNLex%/biitoo+ PNLex%/bizaani+ PNLex%/chi+ PNLex%/dago+
-PNLex%/daki+ PNLex%/de+ PNLex%/desi+ PNLex%/dibi+ PNLex%/dibiki+ PNLex%/ditibi+
-PNLex%/enda+ PNLex%/eyedawi+ PNLex%/eyiidawi+ PNLex%/gaagige+ PNLex%/gabe+
+@R.Paradigm.NamePerson@ @R.Paradigm.NamePlace@ @R.Paradigm.PCAsp@
+@R.Paradigm.PCDisc@ @R.Paradigm.PCEmph@ @R.Paradigm.PCInterj@
+@R.Paradigm.PRONDem+NA+ObvPl@ @R.Paradigm.PRONDem+NA+ObvSg@
+@R.Paradigm.PRONDem+NA+ProxPl@ @R.Paradigm.PRONDem+NA+ProxSg@
+@R.Paradigm.PRONDem+NI+Pl@ @R.Paradigm.PRONDem+NI+Sg@
+@R.Paradigm.PRONDub+NA+ObvPl@ @R.Paradigm.PRONDub+NA+ObvSg@
+@R.Paradigm.PRONDub+NA+ProxPl@ @R.Paradigm.PRONDub+NA+ProxSg@
+@R.Paradigm.PRONDub+NI+Pl@ @R.Paradigm.PRONDub+NI+Sg@ @R.Paradigm.PRONIndf+NA@
+@R.Paradigm.PRONIndf+NI@ @R.Paradigm.PRONInter+NA+ObvPl@
+@R.Paradigm.PRONInter+NA+ObvSg@ @R.Paradigm.PRONInter+NA+ProxPl@
+@R.Paradigm.PRONInter+NA+ProxSg@ @R.Paradigm.PRONInter+NA@
+@R.Paradigm.PRONInter+NI+Pl@ @R.Paradigm.PRONInter+NI+Sg@
+@R.Paradigm.PRONPer+NA+1Sg@ @R.Paradigm.PRONPer+NA+2Pl@
+@R.Paradigm.PRONPer+NA+2Sg@ @R.Paradigm.PRONPer+NA+3Pl@
+@R.Paradigm.PRONPer+NA+3Sg@ @R.Paradigm.PRONPer+NA+Excl@
+@R.Paradigm.PRONPer+NA+Incl@ @R.Paradigm.PRONPret+NA@
+@R.Paradigm.PRONSim+NA+ObvPl@ @R.Paradigm.PRONSim+NA+ObvSg@
+@R.Paradigm.PRONSim+NA+ProxPl@ @R.Paradigm.PRONSim+NA+ProxSg@
+@R.Paradigm.PRONSim+NI+Pl@ @R.Paradigm.PRONSim+NI+Sg@ @R.Paradigm.VAI@
+@R.Paradigm.VAIO@ @R.Paradigm.VAIPL@ @R.Paradigm.VII@ @R.Paradigm.VIIPL@
+@R.Paradigm.VTA@ @R.Paradigm.VTI@ @R.Prefix.%<CHCNJ%>@ @R.Prefix.G@
+@R.Prefix.GI@ @R.Prefix.GIDW@ @R.Prefix.N@ @R.Prefix.NI@ @R.Prefix.NONE@
+@R.Prefix.O@ @R.Prefix.W@ @U.Order.Cnj@ @U.Order.Ind@ @U.Order.Other@
+PNLex%/aabiji+ PNLex%/aabitaa+ PNLex%/aako+ PNLex%/aanji+ PNLex%/aazhawi+
+PNLex%/agaami+ PNLex%/agaasi+ PNLex%/agiji+ PNLex%/anaami+ PNLex%/anama'e+
+PNLex%/ando+ PNLex%/ashki+ PNLex%/asho+ PNLex%/awasi+ PNLex%/ayaangwaami+
+PNLex%/azhe+ PNLex%/baashki+ PNLex%/baate+ PNLex%/bagaki+ PNLex%/bagami+
+PNLex%/bagwaji+ PNLex%/bakobii+ PNLex%/besho+ PNLex%/bibine+ PNLex%/bichi+
+PNLex%/bigii+ PNLex%/bigishki+ PNLex%/biichi+ PNLex%/biimasko+ PNLex%/biini+
+PNLex%/biinji+ PNLex%/biisaawangi+ PNLex%/biisadaawangi+ PNLex%/biisi+
+PNLex%/biitoo+ PNLex%/bizaani+ PNLex%/chi+ PNLex%/dago+ PNLex%/daki+ PNLex%/de+
+PNLex%/desi+ PNLex%/dibi+ PNLex%/dibiki+ PNLex%/ditibi+ PNLex%/enda+
+PNLex%/eyedawi+ PNLex%/eyiidawi+ PNLex%/gaagige+ PNLex%/gabe+
 PNLex%/gagaanwaabiigi+ PNLex%/gagwe+ PNLex%/gakaki+ PNLex%/gashkii+
 PNLex%/gete+ PNLex%/gichi+ PNLex%/gigizhebaa+ PNLex%/giimooji+ PNLex%/giiwe+
 PNLex%/giiwitaa+ PNLex%/giiwitaawi+ PNLex%/giizhi+ PNLex%/gijigi+
@@ -151,5 +189,6 @@ NounRoot ;
 NumeralRoot ;
 ParticleRoot ;
 PronounRoot ;
+ProperNounRoot ;
 VerbRoot ;
 VerbRootIrregular ;

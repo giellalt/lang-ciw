@@ -1,711 +1,2719 @@
 LEXICON PronounRoot
-@P.Paradigm.PRONDem@ PRONDem_Prefix ;
-@P.Paradigm.PRONDub@ PRONDub_Prefix ;
-@P.Paradigm.PRONIndf@ PRONIndf_Prefix ;
-@P.Paradigm.PRONInter@ PRONInter_Prefix ;
-@P.Paradigm.PRONPer@ PRONPer_Prefix ;
-@P.Paradigm.PRONPret@ PRONPret_Prefix ;
-@P.Paradigm.PRONPsl@ PRONPsl_Prefix ;
-@P.Paradigm.PRONSim@ PRONSim_Prefix ;
+@P.Paradigm.PRONDem+NA+ObvPl@ PRONDem+NA+ObvPl_Prefix ;
+@P.Paradigm.PRONDem+NA+ObvSg@ PRONDem+NA+ObvSg_Prefix ;
+@P.Paradigm.PRONDem+NA+ProxPl@ PRONDem+NA+ProxPl_Prefix ;
+@P.Paradigm.PRONDem+NA+ProxSg@ PRONDem+NA+ProxSg_Prefix ;
+@P.Paradigm.PRONDem+NI+Pl@ PRONDem+NI+Pl_Prefix ;
+@P.Paradigm.PRONDem+NI+Sg@ PRONDem+NI+Sg_Prefix ;
+@P.Paradigm.PRONDub+NA+ObvPl@ PRONDub+NA+ObvPl_Prefix ;
+@P.Paradigm.PRONDub+NA+ObvSg@ PRONDub+NA+ObvSg_Prefix ;
+@P.Paradigm.PRONDub+NA+ProxPl@ PRONDub+NA+ProxPl_Prefix ;
+@P.Paradigm.PRONDub+NA+ProxSg@ PRONDub+NA+ProxSg_Prefix ;
+@P.Paradigm.PRONDub+NI+Pl@ PRONDub+NI+Pl_Prefix ;
+@P.Paradigm.PRONDub+NI+Sg@ PRONDub+NI+Sg_Prefix ;
+@P.Paradigm.PRONIndf+NA@ PRONIndf+NA_Prefix ;
+@P.Paradigm.PRONIndf+NI@ PRONIndf+NI_Prefix ;
+@P.Paradigm.PRONInter+NA+ObvPl@ PRONInter+NA+ObvPl_Prefix ;
+@P.Paradigm.PRONInter+NA+ObvSg@ PRONInter+NA+ObvSg_Prefix ;
+@P.Paradigm.PRONInter+NA+ProxPl@ PRONInter+NA+ProxPl_Prefix ;
+@P.Paradigm.PRONInter+NA+ProxSg@ PRONInter+NA+ProxSg_Prefix ;
+@P.Paradigm.PRONInter+NA@ PRONInter+NA_Prefix ;
+@P.Paradigm.PRONInter+NI+Pl@ PRONInter+NI+Pl_Prefix ;
+@P.Paradigm.PRONInter+NI+Sg@ PRONInter+NI+Sg_Prefix ;
+@P.Paradigm.PRONPer+NA+1Sg@ PRONPer+NA+1Sg_Prefix ;
+@P.Paradigm.PRONPer+NA+2Pl@ PRONPer+NA+2Pl_Prefix ;
+@P.Paradigm.PRONPer+NA+2Sg@ PRONPer+NA+2Sg_Prefix ;
+@P.Paradigm.PRONPer+NA+3Pl@ PRONPer+NA+3Pl_Prefix ;
+@P.Paradigm.PRONPer+NA+3Sg@ PRONPer+NA+3Sg_Prefix ;
+@P.Paradigm.PRONPer+NA+Excl@ PRONPer+NA+Excl_Prefix ;
+@P.Paradigm.PRONPer+NA+Incl@ PRONPer+NA+Incl_Prefix ;
+@P.Paradigm.PRONPret+NA@ PRONPret+NA_Prefix ;
+@P.Paradigm.PRONSim+NA+ObvPl@ PRONSim+NA+ObvPl_Prefix ;
+@P.Paradigm.PRONSim+NA+ObvSg@ PRONSim+NA+ObvSg_Prefix ;
+@P.Paradigm.PRONSim+NA+ProxPl@ PRONSim+NA+ProxPl_Prefix ;
+@P.Paradigm.PRONSim+NA+ProxSg@ PRONSim+NA+ProxSg_Prefix ;
+@P.Paradigm.PRONSim+NI+Pl@ PRONSim+NI+Pl_Prefix ;
+@P.Paradigm.PRONSim+NI+Sg@ PRONSim+NI+Sg_Prefix ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDem                                                    !
+!         Paradigm: PRONDem+NA+ProxSg                                          !
 !         Prefixes                                                             !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDem_Prefix
-@P.Prefix.NONE@ PRONDem_PrefixBoundary ;
+LEXICON PRONDem+NA+ProxSg_Prefix
+@P.Prefix.NONE@ PRONDem+NA+ProxSg_PrefixBoundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDem                                                    !
+!         Paradigm: PRONDem+NA+ProxSg                                          !
 !         Morpheme boundary between prefix and stem                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDem_PrefixBoundary
+LEXICON PRONDem+NA+ProxSg_PrefixBoundary
 0:%<%< PronounStems ;
 
 LEXICON PronounStems
-@R.Paradigm.PRONDem@ PRONDem_Stems ;
-@R.Paradigm.PRONDub@ PRONDub_Stems ;
-@R.Paradigm.PRONIndf@ PRONIndf_Stems ;
-@R.Paradigm.PRONInter@ PRONInter_Stems ;
-@R.Paradigm.PRONPer@ PRONPer_Stems ;
-@R.Paradigm.PRONPret@ PRONPret_Stems ;
-@R.Paradigm.PRONPsl@ PRONPsl_Stems ;
-@R.Paradigm.PRONSim@ PRONSim_Stems ;
+@R.Paradigm.PRONDem+NA+ObvPl@ PRONDem+NA+ObvPl_Stems ;
+@R.Paradigm.PRONDem+NA+ObvSg@ PRONDem+NA+ObvSg_Stems ;
+@R.Paradigm.PRONDem+NA+ProxPl@ PRONDem+NA+ProxPl_Stems ;
+@R.Paradigm.PRONDem+NA+ProxSg@ PRONDem+NA+ProxSg_Stems ;
+@R.Paradigm.PRONDem+NI+Pl@ PRONDem+NI+Pl_Stems ;
+@R.Paradigm.PRONDem+NI+Sg@ PRONDem+NI+Sg_Stems ;
+@R.Paradigm.PRONDub+NA+ObvPl@ PRONDub+NA+ObvPl_Stems ;
+@R.Paradigm.PRONDub+NA+ObvSg@ PRONDub+NA+ObvSg_Stems ;
+@R.Paradigm.PRONDub+NA+ProxPl@ PRONDub+NA+ProxPl_Stems ;
+@R.Paradigm.PRONDub+NA+ProxSg@ PRONDub+NA+ProxSg_Stems ;
+@R.Paradigm.PRONDub+NI+Pl@ PRONDub+NI+Pl_Stems ;
+@R.Paradigm.PRONDub+NI+Sg@ PRONDub+NI+Sg_Stems ;
+@R.Paradigm.PRONIndf+NA@ PRONIndf+NA_Stems ;
+@R.Paradigm.PRONIndf+NI@ PRONIndf+NI_Stems ;
+@R.Paradigm.PRONInter+NA+ObvPl@ PRONInter+NA+ObvPl_Stems ;
+@R.Paradigm.PRONInter+NA+ObvSg@ PRONInter+NA+ObvSg_Stems ;
+@R.Paradigm.PRONInter+NA+ProxPl@ PRONInter+NA+ProxPl_Stems ;
+@R.Paradigm.PRONInter+NA+ProxSg@ PRONInter+NA+ProxSg_Stems ;
+@R.Paradigm.PRONInter+NA@ PRONInter+NA_Stems ;
+@R.Paradigm.PRONInter+NI+Pl@ PRONInter+NI+Pl_Stems ;
+@R.Paradigm.PRONInter+NI+Sg@ PRONInter+NI+Sg_Stems ;
+@R.Paradigm.PRONPer+NA+1Sg@ PRONPer+NA+1Sg_Stems ;
+@R.Paradigm.PRONPer+NA+2Pl@ PRONPer+NA+2Pl_Stems ;
+@R.Paradigm.PRONPer+NA+2Sg@ PRONPer+NA+2Sg_Stems ;
+@R.Paradigm.PRONPer+NA+3Pl@ PRONPer+NA+3Pl_Stems ;
+@R.Paradigm.PRONPer+NA+3Sg@ PRONPer+NA+3Sg_Stems ;
+@R.Paradigm.PRONPer+NA+Excl@ PRONPer+NA+Excl_Stems ;
+@R.Paradigm.PRONPer+NA+Incl@ PRONPer+NA+Incl_Stems ;
+@R.Paradigm.PRONPret+NA@ PRONPret+NA_Stems ;
+@R.Paradigm.PRONSim+NA+ObvPl@ PRONSim+NA+ObvPl_Stems ;
+@R.Paradigm.PRONSim+NA+ObvSg@ PRONSim+NA+ObvSg_Stems ;
+@R.Paradigm.PRONSim+NA+ProxPl@ PRONSim+NA+ProxPl_Stems ;
+@R.Paradigm.PRONSim+NA+ProxSg@ PRONSim+NA+ProxSg_Stems ;
+@R.Paradigm.PRONSim+NI+Pl@ PRONSim+NI+Pl_Stems ;
+@R.Paradigm.PRONSim+NI+Sg@ PRONSim+NI+Sg_Stems ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDem                                                    !
+!         Paradigm: PRONDem+NA+ProxSg                                          !
 !         Stems                                                                !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDem_Stems
-'a:'aw2 PRONDem_Class=PRONDem_Boundary ;
-'aw PRONDem_Class=PRONDem_Boundary ;
-'iwedi:'iwediw2 PRONDem_Class=PRONDem_Boundary ;
-'o:'ow2 PRONDem_Class=PRONDem_Boundary ;
-'ow PRONDem_Class=PRONDem_Boundary ;
-'owe PRONDem_Class=PRONDem_Boundary ;
-a'a:a'aw2 PRONDem_Class=PRONDem_Boundary ;
-a'aw PRONDem_Class=PRONDem_Boundary ;
-a'awe PRONDem_Class=PRONDem_Boundary ;
-a'awedi:a'awediw2 PRONDem_Class=PRONDem_Boundary ;
-agiw PRONDem_Class=PRONDem_Boundary ;
-aniw PRONDem_Class=PRONDem_Boundary ;
-aw PRONDem_Class=PRONDem_Boundary ;
-awedi:awediw2 PRONDem_Class=PRONDem_Boundary ;
-i'iw PRONDem_Class=PRONDem_Boundary ;
-i'iwe PRONDem_Class=PRONDem_Boundary ;
-i'iwedi:i'iwediw2 PRONDem_Class=PRONDem_Boundary ;
-igiw PRONDem_Class=PRONDem_Boundary ;
-igiwe PRONDem_Class=PRONDem_Boundary ;
-igiwedi:igiwediw2 PRONDem_Class=PRONDem_Boundary ;
-igiwedig PRONDem_Class=PRONDem_Boundary ;
-igiweg PRONDem_Class=PRONDem_Boundary ;
-ingiw PRONDem_Class=PRONDem_Boundary ;
-ingiwedig PRONDem_Class=PRONDem_Boundary ;
-iniw PRONDem_Class=PRONDem_Boundary ;
-iniwe PRONDem_Class=PRONDem_Boundary ;
-iniwedi:iniwediw2 PRONDem_Class=PRONDem_Boundary ;
-iniwedin PRONDem_Class=PRONDem_Boundary ;
-iniwen PRONDem_Class=PRONDem_Boundary ;
-iw PRONDem_Class=PRONDem_Boundary ;
-miiwa' PRONDem_Class=PRONDem_Boundary ;
-miiwag PRONDem_Class=PRONDem_Boundary ;
-miiwan PRONDem_Class=PRONDem_Boundary ;
-o'o:o'ow2 PRONDem_Class=PRONDem_Boundary ;
-o'ow PRONDem_Class=PRONDem_Boundary ;
-o'owe PRONDem_Class=PRONDem_Boundary ;
-o'owedi:o'owediw2 PRONDem_Class=PRONDem_Boundary ;
-ogow PRONDem_Class=PRONDem_Boundary ;
-ogowe PRONDem_Class=PRONDem_Boundary ;
-ogowedi:ogowediw2 PRONDem_Class=PRONDem_Boundary ;
-ogowedig PRONDem_Class=PRONDem_Boundary ;
-ogoweg PRONDem_Class=PRONDem_Boundary ;
-ongow PRONDem_Class=PRONDem_Boundary ;
-ongowedig PRONDem_Class=PRONDem_Boundary ;
-ono:onow2 PRONDem_Class=PRONDem_Boundary ;
-onow PRONDem_Class=PRONDem_Boundary ;
-onowe PRONDem_Class=PRONDem_Boundary ;
-onowedi:onowediw2 PRONDem_Class=PRONDem_Boundary ;
-onowedin PRONDem_Class=PRONDem_Boundary ;
-onowen PRONDem_Class=PRONDem_Boundary ;
-owe PRONDem_Class=PRONDem_Boundary ;
-owedi:owediw2 PRONDem_Class=PRONDem_Boundary ;
-wa'a:wa'aw2 PRONDem_Class=PRONDem_Boundary ;
-wa'aw PRONDem_Class=PRONDem_Boundary ;
-wa'awe PRONDem_Class=PRONDem_Boundary ;
-wa'awedi:wa'awediw2 PRONDem_Class=PRONDem_Boundary ;
-ya'aw PRONDem_Class=PRONDem_Boundary ;
-yo'o:yo'ow2 PRONDem_Class=PRONDem_Boundary ;
-yo'ow PRONDem_Class=PRONDem_Boundary ;
+LEXICON PRONDem+NA+ProxSg_Stems
+'a:'aw2 PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+'aw PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+'awe PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+a' PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+a'a:a'aw2 PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+a'aw PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+a'awe PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+a'awedi:a'awediw2 PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+aw PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+awe PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+awedi:awediw2 PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+wa'a:wa'aw2 PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+wa'aw PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+wa'awe PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+wa'awedi:wa'awediw2 PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
+ya'aw PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDem, Class: PRONDem                                    !
+!         Paradigm: PRONDem+NA+ProxSg, Class: PRONDem+NA+ProxSg                !
 !         Morpheme boundary between stem and suffix                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDem_Class=PRONDem_Boundary
-0:%>%> PRONDem_Class=PRONDem_Flags ;
+LEXICON PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Boundary
+0:%>%> PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Flags ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDem, Class: PRONDem                                    !
+!         Paradigm: PRONDem+NA+ProxSg, Class: PRONDem+NA+ProxSg                !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending                                                    !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDem_Class=PRONDem_Flags
-@R.Prefix.NONE@ PRONDem_Class=PRONDem_Flags_Prefix=NONE ;
+LEXICON PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Flags
+@R.Prefix.NONE@ PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Flags_Prefix=NONE ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDem, Class: PRONDem                                    !
+!         Paradigm: PRONDem+NA+ProxSg, Class: PRONDem+NA+ProxSg                !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending_Prefix=NONE                                        !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDem_Class=PRONDem_Flags_Prefix=NONE
-@U.Order.Other@ PRONDem_Class=PRONDem_Prefix=NONE_Order=Other_Endings ;
+LEXICON PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Flags_Prefix=NONE
+@U.Order.Other@ PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Prefix=NONE_Order=Other_Endings ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDem, Class: PRONDem, Prefix: NONE, Order: Other        !
+!         Paradigm: PRONDem+NA+ProxSg, Class: PRONDem+NA+ProxSg, Prefix: NONE, Order: Other
 !         Endings                                                              !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDem_Class=PRONDem_Prefix=NONE_Order=Other_Endings
-+PRONDem: # ;
+LEXICON PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Prefix=NONE_Order=Other_Endings
++PRONDem+NA+ProxSg: # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDub                                                    !
+!         Paradigm: PRONDem+NA+ProxPl                                          !
 !         Prefixes                                                             !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDub_Prefix
-@P.Prefix.NONE@ PRONDub_PrefixBoundary ;
+LEXICON PRONDem+NA+ProxPl_Prefix
+@P.Prefix.NONE@ PRONDem+NA+ProxPl_PrefixBoundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDub                                                    !
+!         Paradigm: PRONDem+NA+ProxPl                                          !
 !         Morpheme boundary between prefix and stem                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDub_PrefixBoundary
+LEXICON PRONDem+NA+ProxPl_PrefixBoundary
 0:%<%< PronounStems ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDub                                                    !
+!         Paradigm: PRONDem+NA+ProxPl                                          !
 !         Stems                                                                !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDub_Stems
-awegodogwen PRONDub_Class=PRONDub_Boundary ;
-awegwen PRONDub_Class=PRONDub_Boundary ;
-awegwen% igo:awegwen% igow2 PRONDub_Class=PRONDub_Boundary ;
-wegodogwen PRONDub_Class=PRONDub_Boundary ;
-wegodogwen% igo:wegodogwen% igow2 PRONDub_Class=PRONDub_Boundary ;
+LEXICON PRONDem+NA+ProxPl_Stems
+agiw PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+igi:igiw2 PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+igiw PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+igiwe PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+igiwedi:igiwediw2 PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+igiwedig PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+igiweg PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+ingiw PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+ingiwedig PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+ogow PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+ogowe PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+ogowedi:ogowediw2 PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+ogowedig PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+ogoweg PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+ongow PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+ongowedig PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDub, Class: PRONDub                                    !
+!         Paradigm: PRONDem+NA+ProxPl, Class: PRONDem+NA+ProxPl                !
 !         Morpheme boundary between stem and suffix                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDub_Class=PRONDub_Boundary
-0:%>%> PRONDub_Class=PRONDub_Flags ;
+LEXICON PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary
+0:%>%> PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Flags ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDub, Class: PRONDub                                    !
+!         Paradigm: PRONDem+NA+ProxPl, Class: PRONDem+NA+ProxPl                !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending                                                    !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDub_Class=PRONDub_Flags
-@R.Prefix.NONE@ PRONDub_Class=PRONDub_Flags_Prefix=NONE ;
+LEXICON PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Flags
+@R.Prefix.NONE@ PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Flags_Prefix=NONE ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDub, Class: PRONDub                                    !
+!         Paradigm: PRONDem+NA+ProxPl, Class: PRONDem+NA+ProxPl                !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending_Prefix=NONE                                        !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDub_Class=PRONDub_Flags_Prefix=NONE
-@U.Order.Other@ PRONDub_Class=PRONDub_Prefix=NONE_Order=Other_Endings ;
+LEXICON PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Flags_Prefix=NONE
+@U.Order.Other@ PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Prefix=NONE_Order=Other_Endings ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONDub, Class: PRONDub, Prefix: NONE, Order: Other        !
+!         Paradigm: PRONDem+NA+ProxPl, Class: PRONDem+NA+ProxPl, Prefix: NONE, Order: Other
 !         Endings                                                              !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONDub_Class=PRONDub_Prefix=NONE_Order=Other_Endings
-+PRONDub: # ;
+LEXICON PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Prefix=NONE_Order=Other_Endings
++PRONDem+NA+ProxPl: # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONIndf                                                   !
+!         Paradigm: PRONDem+NA+ObvSg                                           !
 !         Prefixes                                                             !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONIndf_Prefix
-@P.Prefix.NONE@ PRONIndf_PrefixBoundary ;
+LEXICON PRONDem+NA+ObvSg_Prefix
+@P.Prefix.NONE@ PRONDem+NA+ObvSg_PrefixBoundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONIndf                                                   !
+!         Paradigm: PRONDem+NA+ObvSg                                           !
 !         Morpheme boundary between prefix and stem                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONIndf_PrefixBoundary
+LEXICON PRONDem+NA+ObvSg_PrefixBoundary
 0:%<%< PronounStems ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONIndf                                                   !
+!         Paradigm: PRONDem+NA+ObvSg                                           !
 !         Stems                                                                !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONIndf_Stems
-akina% awiya:akina% awiyaw2 PRONIndf_Class=PRONIndf_Boundary ;
-akina% gegoo PRONIndf_Class=PRONIndf_Boundary ;
-anooj% gegoo PRONIndf_Class=PRONIndf_Boundary ;
-awiya PRONIndf_Class=PRONIndf_Boundary ;
-awiya:awiyaw2 PRONIndf_Class=PRONIndf_Boundary ;
-gaawiin% awiya:gaawiin% awiyaw2 PRONIndf_Class=PRONIndf_Boundary ;
-gaawiin% gegoo PRONIndf_Class=PRONIndf_Boundary ;
-gakina% awiya:gakina% awiyaw2 PRONIndf_Class=PRONIndf_Boundary ;
-gakina% gegoo PRONIndf_Class=PRONIndf_Boundary ;
-gegoo PRONIndf_Class=PRONIndf_Boundary ;
+LEXICON PRONDem+NA+ObvSg_Stems
+aniw PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Boundary ;
+ini:iniw2 PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Boundary ;
+iniw PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Boundary ;
+iniwe PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Boundary ;
+iniwedi:iniwediw2 PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Boundary ;
+iniwedin PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Boundary ;
+iniwen PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Boundary ;
+ono:onow2 PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Boundary ;
+onow PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Boundary ;
+onowe PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Boundary ;
+onowedi:onowediw2 PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Boundary ;
+onowedin PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONIndf, Class: PRONIndf                                  !
+!         Paradigm: PRONDem+NA+ObvSg, Class: PRONDem+NA+ObvSg                  !
 !         Morpheme boundary between stem and suffix                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONIndf_Class=PRONIndf_Boundary
-0:%>%> PRONIndf_Class=PRONIndf_Flags ;
+LEXICON PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Boundary
+0:%>%> PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Flags ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONIndf, Class: PRONIndf                                  !
+!         Paradigm: PRONDem+NA+ObvSg, Class: PRONDem+NA+ObvSg                  !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending                                                    !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONIndf_Class=PRONIndf_Flags
-@R.Prefix.NONE@ PRONIndf_Class=PRONIndf_Flags_Prefix=NONE ;
+LEXICON PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Flags
+@R.Prefix.NONE@ PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Flags_Prefix=NONE ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONIndf, Class: PRONIndf                                  !
+!         Paradigm: PRONDem+NA+ObvSg, Class: PRONDem+NA+ObvSg                  !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending_Prefix=NONE                                        !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONIndf_Class=PRONIndf_Flags_Prefix=NONE
-@U.Order.Other@ PRONIndf_Class=PRONIndf_Prefix=NONE_Order=Other_Endings ;
+LEXICON PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Flags_Prefix=NONE
+@U.Order.Other@ PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Prefix=NONE_Order=Other_Endings ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONIndf, Class: PRONIndf, Prefix: NONE, Order: Other      !
+!         Paradigm: PRONDem+NA+ObvSg, Class: PRONDem+NA+ObvSg, Prefix: NONE, Order: Other
 !         Endings                                                              !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONIndf_Class=PRONIndf_Prefix=NONE_Order=Other_Endings
-+PRONIndf: # ;
+LEXICON PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Prefix=NONE_Order=Other_Endings
++PRONDem+NA+ObvSg: # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONInter                                                  !
+!         Paradigm: PRONDem+NA+ObvPl                                           !
 !         Prefixes                                                             !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONInter_Prefix
-@P.Prefix.NONE@ PRONInter_PrefixBoundary ;
+LEXICON PRONDem+NA+ObvPl_Prefix
+@P.Prefix.NONE@ PRONDem+NA+ObvPl_PrefixBoundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONInter                                                  !
+!         Paradigm: PRONDem+NA+ObvPl                                           !
 !         Morpheme boundary between prefix and stem                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONInter_PrefixBoundary
+LEXICON PRONDem+NA+ObvPl_PrefixBoundary
 0:%<%< PronounStems ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONInter                                                  !
+!         Paradigm: PRONDem+NA+ObvPl                                           !
 !         Stems                                                                !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONInter_Stems
-awegonen PRONInter_Class=PRONInter_Boundary ;
-awegonesh PRONInter_Class=PRONInter_Boundary ;
-awenen PRONInter_Class=PRONInter_Boundary ;
-awenesh PRONInter_Class=PRONInter_Boundary ;
-wegonen PRONInter_Class=PRONInter_Boundary ;
-wegonen% (+% -onji-) PRONInter_Class=PRONInter_Boundary ;
-wegonesh PRONInter_Class=PRONInter_Boundary ;
+LEXICON PRONDem+NA+ObvPl_Stems
+aniw PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Boundary ;
+ini:iniw2 PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Boundary ;
+iniw PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Boundary ;
+iniwe PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Boundary ;
+iniwedi:iniwediw2 PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Boundary ;
+iniwedin PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Boundary ;
+iniwen PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Boundary ;
+ono:onow2 PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Boundary ;
+onow PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Boundary ;
+onowe PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Boundary ;
+onowedi:onowediw2 PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Boundary ;
+onowedin PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONInter, Class: PRONInter                                !
+!         Paradigm: PRONDem+NA+ObvPl, Class: PRONDem+NA+ObvPl                  !
 !         Morpheme boundary between stem and suffix                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONInter_Class=PRONInter_Boundary
-0:%>%> PRONInter_Class=PRONInter_Flags ;
+LEXICON PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Boundary
+0:%>%> PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Flags ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONInter, Class: PRONInter                                !
+!         Paradigm: PRONDem+NA+ObvPl, Class: PRONDem+NA+ObvPl                  !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending                                                    !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONInter_Class=PRONInter_Flags
-@R.Prefix.NONE@ PRONInter_Class=PRONInter_Flags_Prefix=NONE ;
+LEXICON PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Flags
+@R.Prefix.NONE@ PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Flags_Prefix=NONE ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONInter, Class: PRONInter                                !
+!         Paradigm: PRONDem+NA+ObvPl, Class: PRONDem+NA+ObvPl                  !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending_Prefix=NONE                                        !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONInter_Class=PRONInter_Flags_Prefix=NONE
-@U.Order.Other@ PRONInter_Class=PRONInter_Prefix=NONE_Order=Other_Endings ;
+LEXICON PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Flags_Prefix=NONE
+@U.Order.Other@ PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Prefix=NONE_Order=Other_Endings ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONInter, Class: PRONInter, Prefix: NONE, Order: Other    !
+!         Paradigm: PRONDem+NA+ObvPl, Class: PRONDem+NA+ObvPl, Prefix: NONE, Order: Other
 !         Endings                                                              !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONInter_Class=PRONInter_Prefix=NONE_Order=Other_Endings
-+PRONInter: # ;
+LEXICON PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Prefix=NONE_Order=Other_Endings
++PRONDem+NA+ObvPl: # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPer                                                    !
+!         Paradigm: PRONDem+NI+Sg                                              !
 !         Prefixes                                                             !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPer_Prefix
-@P.Prefix.NONE@ PRONPer_PrefixBoundary ;
+LEXICON PRONDem+NI+Sg_Prefix
+@P.Prefix.NONE@ PRONDem+NI+Sg_PrefixBoundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPer                                                    !
+!         Paradigm: PRONDem+NI+Sg                                              !
 !         Morpheme boundary between prefix and stem                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPer_PrefixBoundary
+LEXICON PRONDem+NI+Sg_PrefixBoundary
 0:%<%< PronounStems ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPer                                                    !
+!         Paradigm: PRONDem+NI+Sg                                              !
 !         Stems                                                                !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPer_Stems
-gaye% giin PRONPer_Class=PRONPer_Boundary ;
-gaye% giinawaa PRONPer_Class=PRONPer_Boundary ;
-gaye% giinawind PRONPer_Class=PRONPer_Boundary ;
-gaye% niin PRONPer_Class=PRONPer_Boundary ;
-gaye% niinawind PRONPer_Class=PRONPer_Boundary ;
-gaye% wiin PRONPer_Class=PRONPer_Boundary ;
-gaye% wiinawaa PRONPer_Class=PRONPer_Boundary ;
-gegiin PRONPer_Class=PRONPer_Boundary ;
-gegiinawaa PRONPer_Class=PRONPer_Boundary ;
-gegiinawind PRONPer_Class=PRONPer_Boundary ;
-geniin PRONPer_Class=PRONPer_Boundary ;
-geniinawind PRONPer_Class=PRONPer_Boundary ;
-gewiin PRONPer_Class=PRONPer_Boundary ;
-gewiinawaa PRONPer_Class=PRONPer_Boundary ;
-giin PRONPer_Class=PRONPer_Boundary ;
-giinawaa PRONPer_Class=PRONPer_Boundary ;
-giinawind PRONPer_Class=PRONPer_Boundary ;
-giineta:giinetaw2 PRONPer_Class=PRONPer_Boundary ;
-giinetawaa PRONPer_Class=PRONPer_Boundary ;
-giinetawind PRONPer_Class=PRONPer_Boundary ;
-giinitam PRONPer_Class=PRONPer_Boundary ;
-giinitamawaa PRONPer_Class=PRONPer_Boundary ;
-giinitamawind PRONPer_Class=PRONPer_Boundary ;
-niin PRONPer_Class=PRONPer_Boundary ;
-niinawind PRONPer_Class=PRONPer_Boundary ;
-niineta:niinetaw2 PRONPer_Class=PRONPer_Boundary ;
-niinetawind PRONPer_Class=PRONPer_Boundary ;
-niinitam PRONPer_Class=PRONPer_Boundary ;
-niinitamawind PRONPer_Class=PRONPer_Boundary ;
-wiin PRONPer_Class=PRONPer_Boundary ;
-wiinawaa PRONPer_Class=PRONPer_Boundary ;
-wiineta:wiinetaw2 PRONPer_Class=PRONPer_Boundary ;
-wiinetawaa PRONPer_Class=PRONPer_Boundary ;
-wiinitam PRONPer_Class=PRONPer_Boundary ;
-wiinitamawaa PRONPer_Class=PRONPer_Boundary ;
+LEXICON PRONDem+NI+Sg_Stems
+'i:'iw2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+'iw PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+'iwe PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+'iwedi:'iwediw2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+'o:'ow2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+'ow PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+'owe PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+i' PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+i'i:i'iw2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+i'iw PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+i'iwe PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+i'iwedi:i'iwediw2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+iw PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+iwe PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+o'o:o'ow2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+o'ow PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+o'owe PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+o'owedi:o'owediw2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+owe PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+owedi:owediw2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+yo'o:yo'ow2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+yo'ow PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPer, Class: PRONPer                                    !
+!         Paradigm: PRONDem+NI+Sg, Class: PRONDem+NI+Sg                        !
 !         Morpheme boundary between stem and suffix                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPer_Class=PRONPer_Boundary
-0:%>%> PRONPer_Class=PRONPer_Flags ;
+LEXICON PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary
+0:%>%> PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Flags ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPer, Class: PRONPer                                    !
+!         Paradigm: PRONDem+NI+Sg, Class: PRONDem+NI+Sg                        !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending                                                    !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPer_Class=PRONPer_Flags
-@R.Prefix.NONE@ PRONPer_Class=PRONPer_Flags_Prefix=NONE ;
+LEXICON PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Flags
+@R.Prefix.NONE@ PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Flags_Prefix=NONE ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPer, Class: PRONPer                                    !
+!         Paradigm: PRONDem+NI+Sg, Class: PRONDem+NI+Sg                        !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending_Prefix=NONE                                        !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPer_Class=PRONPer_Flags_Prefix=NONE
-@U.Order.Other@ PRONPer_Class=PRONPer_Prefix=NONE_Order=Other_Endings ;
+LEXICON PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Flags_Prefix=NONE
+@U.Order.Other@ PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Prefix=NONE_Order=Other_Endings ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPer, Class: PRONPer, Prefix: NONE, Order: Other        !
+!         Paradigm: PRONDem+NI+Sg, Class: PRONDem+NI+Sg, Prefix: NONE, Order: Other
 !         Endings                                                              !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPer_Class=PRONPer_Prefix=NONE_Order=Other_Endings
-+PRONPer: # ;
+LEXICON PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Prefix=NONE_Order=Other_Endings
++PRONDem+NI+Sg: # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPret                                                   !
+!         Paradigm: PRONDem+NI+Pl                                              !
 !         Prefixes                                                             !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPret_Prefix
-@P.Prefix.NONE@ PRONPret_PrefixBoundary ;
+LEXICON PRONDem+NI+Pl_Prefix
+@P.Prefix.NONE@ PRONDem+NI+Pl_PrefixBoundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPret                                                   !
+!         Paradigm: PRONDem+NI+Pl                                              !
 !         Morpheme boundary between prefix and stem                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPret_PrefixBoundary
+LEXICON PRONDem+NI+Pl_PrefixBoundary
 0:%<%< PronounStems ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPret                                                   !
+!         Paradigm: PRONDem+NI+Pl                                              !
 !         Stems                                                                !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPret_Stems
-aweniban PRONPret_Class=PRONPret_Boundary ;
+LEXICON PRONDem+NI+Pl_Stems
+aniw PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary ;
+ini:iniw2 PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary ;
+iniw PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary ;
+iniwe PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary ;
+iniwedi:iniwediw2 PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary ;
+iniwedin PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary ;
+iniwen PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary ;
+ono:onow2 PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary ;
+onow PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary ;
+onowe PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary ;
+onowedi:onowediw2 PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary ;
+onowedin PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary ;
+onowen PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPret, Class: PRONPret                                  !
+!         Paradigm: PRONDem+NI+Pl, Class: PRONDem+NI+Pl                        !
 !         Morpheme boundary between stem and suffix                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPret_Class=PRONPret_Boundary
-0:%>%> PRONPret_Class=PRONPret_Flags ;
+LEXICON PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Boundary
+0:%>%> PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Flags ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPret, Class: PRONPret                                  !
+!         Paradigm: PRONDem+NI+Pl, Class: PRONDem+NI+Pl                        !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending                                                    !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPret_Class=PRONPret_Flags
-@R.Prefix.NONE@ PRONPret_Class=PRONPret_Flags_Prefix=NONE ;
+LEXICON PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Flags
+@R.Prefix.NONE@ PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Flags_Prefix=NONE ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPret, Class: PRONPret                                  !
+!         Paradigm: PRONDem+NI+Pl, Class: PRONDem+NI+Pl                        !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending_Prefix=NONE                                        !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPret_Class=PRONPret_Flags_Prefix=NONE
-@U.Order.Other@ PRONPret_Class=PRONPret_Prefix=NONE_Order=Other_Endings ;
+LEXICON PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Flags_Prefix=NONE
+@U.Order.Other@ PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Prefix=NONE_Order=Other_Endings ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPret, Class: PRONPret, Prefix: NONE, Order: Other      !
+!         Paradigm: PRONDem+NI+Pl, Class: PRONDem+NI+Pl, Prefix: NONE, Order: Other
 !         Endings                                                              !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPret_Class=PRONPret_Prefix=NONE_Order=Other_Endings
-+PRONPret: # ;
+LEXICON PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Prefix=NONE_Order=Other_Endings
++PRONDem+NI+Pl: # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPsl                                                    !
+!         Paradigm: PRONDub+NI+Sg                                              !
 !         Prefixes                                                             !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPsl_Prefix
-@P.Prefix.NONE@ PRONPsl_PrefixBoundary ;
+LEXICON PRONDub+NI+Sg_Prefix
+@P.Prefix.NONE@ PRONDub+NI+Sg_PrefixBoundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPsl                                                    !
+!         Paradigm: PRONDub+NI+Sg                                              !
 !         Morpheme boundary between prefix and stem                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPsl_PrefixBoundary
+LEXICON PRONDub+NI+Sg_PrefixBoundary
 0:%<%< PronounStems ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPsl                                                    !
+!         Paradigm: PRONDub+NI+Sg                                              !
 !         Stems                                                                !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPsl_Stems
-aya'aa PRONPsl_Class=PRONPsl_Boundary ;
-aya'ii PRONPsl_Class=PRONPsl_Boundary ;
-ayi'ii PRONPsl_Class=PRONPsl_Boundary ;
+LEXICON PRONDub+NI+Sg_Stems
+awegodogwen PRONDub+NI+Sg_Class=PRONDub+NI+Sg_Boundary ;
+wegodogwen PRONDub+NI+Sg_Class=PRONDub+NI+Sg_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPsl, Class: PRONPsl                                    !
+!         Paradigm: PRONDub+NI+Sg, Class: PRONDub+NI+Sg                        !
 !         Morpheme boundary between stem and suffix                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPsl_Class=PRONPsl_Boundary
-0:%>%> PRONPsl_Class=PRONPsl_Flags ;
+LEXICON PRONDub+NI+Sg_Class=PRONDub+NI+Sg_Boundary
+0:%>%> PRONDub+NI+Sg_Class=PRONDub+NI+Sg_Flags ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPsl, Class: PRONPsl                                    !
+!         Paradigm: PRONDub+NI+Sg, Class: PRONDub+NI+Sg                        !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending                                                    !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPsl_Class=PRONPsl_Flags
-@R.Prefix.NONE@ PRONPsl_Class=PRONPsl_Flags_Prefix=NONE ;
+LEXICON PRONDub+NI+Sg_Class=PRONDub+NI+Sg_Flags
+@R.Prefix.NONE@ PRONDub+NI+Sg_Class=PRONDub+NI+Sg_Flags_Prefix=NONE ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPsl, Class: PRONPsl                                    !
+!         Paradigm: PRONDub+NI+Sg, Class: PRONDub+NI+Sg                        !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending_Prefix=NONE                                        !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPsl_Class=PRONPsl_Flags_Prefix=NONE
-@U.Order.Other@ PRONPsl_Class=PRONPsl_Prefix=NONE_Order=Other_Endings ;
+LEXICON PRONDub+NI+Sg_Class=PRONDub+NI+Sg_Flags_Prefix=NONE
+@U.Order.Other@ PRONDub+NI+Sg_Class=PRONDub+NI+Sg_Prefix=NONE_Order=Other_Endings ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONPsl, Class: PRONPsl, Prefix: NONE, Order: Other        !
+!         Paradigm: PRONDub+NI+Sg, Class: PRONDub+NI+Sg, Prefix: NONE, Order: Other
 !         Endings                                                              !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONPsl_Class=PRONPsl_Prefix=NONE_Order=Other_Endings
-+PRONPsl: # ;
+LEXICON PRONDub+NI+Sg_Class=PRONDub+NI+Sg_Prefix=NONE_Order=Other_Endings
++PRONDub+NI+Sg: # ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONSim                                                    !
+!         Paradigm: PRONDub+NI+Pl                                              !
 !         Prefixes                                                             !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONSim_Prefix
-@P.Prefix.NONE@ PRONSim_PrefixBoundary ;
+LEXICON PRONDub+NI+Pl_Prefix
+@P.Prefix.NONE@ PRONDub+NI+Pl_PrefixBoundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONSim                                                    !
+!         Paradigm: PRONDub+NI+Pl                                              !
 !         Morpheme boundary between prefix and stem                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONSim_PrefixBoundary
+LEXICON PRONDub+NI+Pl_PrefixBoundary
 0:%<%< PronounStems ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONSim                                                    !
+!         Paradigm: PRONDub+NI+Pl                                              !
 !         Stems                                                                !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONSim_Stems
-dino:dinow2 PRONSim_Class=PRONSim_Boundary ;
-dinowa PRONSim_Class=PRONSim_Boundary ;
-dinowa:dinowaw2 PRONSim_Class=PRONSim_Boundary ;
+LEXICON PRONDub+NI+Pl_Stems
+awegodogwenan PRONDub+NI+Pl_Class=PRONDub+NI+Pl_Boundary ;
+wegodogwenan PRONDub+NI+Pl_Class=PRONDub+NI+Pl_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONSim, Class: PRONSim                                    !
+!         Paradigm: PRONDub+NI+Pl, Class: PRONDub+NI+Pl                        !
 !         Morpheme boundary between stem and suffix                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONSim_Class=PRONSim_Boundary
-0:%>%> PRONSim_Class=PRONSim_Flags ;
+LEXICON PRONDub+NI+Pl_Class=PRONDub+NI+Pl_Boundary
+0:%>%> PRONDub+NI+Pl_Class=PRONDub+NI+Pl_Flags ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONSim, Class: PRONSim                                    !
+!         Paradigm: PRONDub+NI+Pl, Class: PRONDub+NI+Pl                        !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending                                                    !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONSim_Class=PRONSim_Flags
-@R.Prefix.NONE@ PRONSim_Class=PRONSim_Flags_Prefix=NONE ;
+LEXICON PRONDub+NI+Pl_Class=PRONDub+NI+Pl_Flags
+@R.Prefix.NONE@ PRONDub+NI+Pl_Class=PRONDub+NI+Pl_Flags_Prefix=NONE ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONSim, Class: PRONSim                                    !
+!         Paradigm: PRONDub+NI+Pl, Class: PRONDub+NI+Pl                        !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending_Prefix=NONE                                        !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONSim_Class=PRONSim_Flags_Prefix=NONE
-@U.Order.Other@ PRONSim_Class=PRONSim_Prefix=NONE_Order=Other_Endings ;
+LEXICON PRONDub+NI+Pl_Class=PRONDub+NI+Pl_Flags_Prefix=NONE
+@U.Order.Other@ PRONDub+NI+Pl_Class=PRONDub+NI+Pl_Prefix=NONE_Order=Other_Endings ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: PRONSim, Class: PRONSim, Prefix: NONE, Order: Other        !
+!         Paradigm: PRONDub+NI+Pl, Class: PRONDub+NI+Pl, Prefix: NONE, Order: Other
 !         Endings                                                              !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON PRONSim_Class=PRONSim_Prefix=NONE_Order=Other_Endings
-+PRONSim: # ;
+LEXICON PRONDub+NI+Pl_Class=PRONDub+NI+Pl_Prefix=NONE_Order=Other_Endings
++PRONDub+NI+Pl: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxSg                                          !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxSg_Prefix
+@P.Prefix.NONE@ PRONDub+NA+ProxSg_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxSg                                          !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxSg_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxSg                                          !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxSg_Stems
+awegwen PRONDub+NA+ProxSg_Class=PRONDub+NA+ProxSg_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxSg, Class: PRONDub+NA+ProxSg                !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxSg_Class=PRONDub+NA+ProxSg_Boundary
+0:%>%> PRONDub+NA+ProxSg_Class=PRONDub+NA+ProxSg_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxSg, Class: PRONDub+NA+ProxSg                !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxSg_Class=PRONDub+NA+ProxSg_Flags
+@R.Prefix.NONE@ PRONDub+NA+ProxSg_Class=PRONDub+NA+ProxSg_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxSg, Class: PRONDub+NA+ProxSg                !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxSg_Class=PRONDub+NA+ProxSg_Flags_Prefix=NONE
+@U.Order.Other@ PRONDub+NA+ProxSg_Class=PRONDub+NA+ProxSg_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxSg, Class: PRONDub+NA+ProxSg, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxSg_Class=PRONDub+NA+ProxSg_Prefix=NONE_Order=Other_Endings
++PRONDub+NA+ProxSg: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxPl                                          !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxPl_Prefix
+@P.Prefix.NONE@ PRONDub+NA+ProxPl_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxPl                                          !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxPl_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxPl                                          !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxPl_Stems
+awegwenag PRONDub+NA+ProxPl_Class=PRONDub+NA+ProxPl_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxPl, Class: PRONDub+NA+ProxPl                !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxPl_Class=PRONDub+NA+ProxPl_Boundary
+0:%>%> PRONDub+NA+ProxPl_Class=PRONDub+NA+ProxPl_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxPl, Class: PRONDub+NA+ProxPl                !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxPl_Class=PRONDub+NA+ProxPl_Flags
+@R.Prefix.NONE@ PRONDub+NA+ProxPl_Class=PRONDub+NA+ProxPl_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxPl, Class: PRONDub+NA+ProxPl                !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxPl_Class=PRONDub+NA+ProxPl_Flags_Prefix=NONE
+@U.Order.Other@ PRONDub+NA+ProxPl_Class=PRONDub+NA+ProxPl_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ProxPl, Class: PRONDub+NA+ProxPl, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ProxPl_Class=PRONDub+NA+ProxPl_Prefix=NONE_Order=Other_Endings
++PRONDub+NA+ProxPl: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvSg                                           !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvSg_Prefix
+@P.Prefix.NONE@ PRONDub+NA+ObvSg_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvSg                                           !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvSg_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvSg                                           !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvSg_Stems
+awegwenan PRONDub+NA+ObvSg_Class=PRONDub+NA+ObvSg_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvSg, Class: PRONDub+NA+ObvSg                  !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvSg_Class=PRONDub+NA+ObvSg_Boundary
+0:%>%> PRONDub+NA+ObvSg_Class=PRONDub+NA+ObvSg_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvSg, Class: PRONDub+NA+ObvSg                  !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvSg_Class=PRONDub+NA+ObvSg_Flags
+@R.Prefix.NONE@ PRONDub+NA+ObvSg_Class=PRONDub+NA+ObvSg_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvSg, Class: PRONDub+NA+ObvSg                  !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvSg_Class=PRONDub+NA+ObvSg_Flags_Prefix=NONE
+@U.Order.Other@ PRONDub+NA+ObvSg_Class=PRONDub+NA+ObvSg_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvSg, Class: PRONDub+NA+ObvSg, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvSg_Class=PRONDub+NA+ObvSg_Prefix=NONE_Order=Other_Endings
++PRONDub+NA+ObvSg: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvPl                                           !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvPl_Prefix
+@P.Prefix.NONE@ PRONDub+NA+ObvPl_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvPl                                           !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvPl_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvPl                                           !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvPl_Stems
+awegwena' PRONDub+NA+ObvPl_Class=PRONDub+NA+ObvPl_Boundary ;
+awegwenan PRONDub+NA+ObvPl_Class=PRONDub+NA+ObvPl_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvPl, Class: PRONDub+NA+ObvPl                  !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvPl_Class=PRONDub+NA+ObvPl_Boundary
+0:%>%> PRONDub+NA+ObvPl_Class=PRONDub+NA+ObvPl_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvPl, Class: PRONDub+NA+ObvPl                  !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvPl_Class=PRONDub+NA+ObvPl_Flags
+@R.Prefix.NONE@ PRONDub+NA+ObvPl_Class=PRONDub+NA+ObvPl_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvPl, Class: PRONDub+NA+ObvPl                  !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvPl_Class=PRONDub+NA+ObvPl_Flags_Prefix=NONE
+@U.Order.Other@ PRONDub+NA+ObvPl_Class=PRONDub+NA+ObvPl_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONDub+NA+ObvPl, Class: PRONDub+NA+ObvPl, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONDub+NA+ObvPl_Class=PRONDub+NA+ObvPl_Prefix=NONE_Order=Other_Endings
++PRONDub+NA+ObvPl: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA                                                !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA_Prefix
+@P.Prefix.NONE@ PRONIndf+NA_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA                                                !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA                                                !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA_Stems
+akina% awiya:akina% awiyaw2 PRONIndf+NA_Class=PRONIndf+NA_Boundary ;
+awiiya:awiiyaw2 PRONIndf+NA_Class=PRONIndf+NA_Boundary ;
+awiya:awiyaw2 PRONIndf+NA_Class=PRONIndf+NA_Boundary ;
+gaawiin% awiya:gaawiin% awiyaw2 PRONIndf+NA_Class=PRONIndf+NA_Boundary ;
+gakina% awiya:gakina% awiyaw2 PRONIndf+NA_Class=PRONIndf+NA_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA, Class: PRONIndf+NA                            !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA_Class=PRONIndf+NA_Boundary
+0:%>%> PRONIndf+NA_Class=PRONIndf+NA_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA, Class: PRONIndf+NA                            !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA_Class=PRONIndf+NA_Flags
+@R.Prefix.NONE@ PRONIndf+NA_Class=PRONIndf+NA_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA, Class: PRONIndf+NA                            !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA_Class=PRONIndf+NA_Flags_Prefix=NONE
+@U.Order.Other@ PRONIndf+NA_Class=PRONIndf+NA_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA, Class: PRONIndf+NA, Prefix: NONE, Order: Other!
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA_Class=PRONIndf+NA_Prefix=NONE_Order=Other_Endings
++PRONIndf+NA: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NI                                                !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NI_Prefix
+@P.Prefix.NONE@ PRONIndf+NI_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NI                                                !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NI_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NI                                                !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NI_Stems
+akina% gegoo PRONIndf+NI_Class=PRONIndf+NI_Boundary ;
+anooj% gegoo PRONIndf+NI_Class=PRONIndf+NI_Boundary ;
+gaawiin% gegoo PRONIndf+NI_Class=PRONIndf+NI_Boundary ;
+gakina% gegoo PRONIndf+NI_Class=PRONIndf+NI_Boundary ;
+gegoo PRONIndf+NI_Class=PRONIndf+NI_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NI, Class: PRONIndf+NI                            !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NI_Class=PRONIndf+NI_Boundary
+0:%>%> PRONIndf+NI_Class=PRONIndf+NI_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NI, Class: PRONIndf+NI                            !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NI_Class=PRONIndf+NI_Flags
+@R.Prefix.NONE@ PRONIndf+NI_Class=PRONIndf+NI_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NI, Class: PRONIndf+NI                            !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NI_Class=PRONIndf+NI_Flags_Prefix=NONE
+@U.Order.Other@ PRONIndf+NI_Class=PRONIndf+NI_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NI, Class: PRONIndf+NI, Prefix: NONE, Order: Other!
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NI_Class=PRONIndf+NI_Prefix=NONE_Order=Other_Endings
++PRONIndf+NI: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA                                               !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA_Prefix
+@P.Prefix.NONE@ PRONInter+NA_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA                                               !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA                                               !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA_Stems
+awenesh PRONInter+NA_Class=PRONInter+NA_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA, Class: PRONInter+NA                          !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA_Class=PRONInter+NA_Boundary
+0:%>%> PRONInter+NA_Class=PRONInter+NA_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA, Class: PRONInter+NA                          !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA_Class=PRONInter+NA_Flags
+@R.Prefix.NONE@ PRONInter+NA_Class=PRONInter+NA_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA, Class: PRONInter+NA                          !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA_Class=PRONInter+NA_Flags_Prefix=NONE
+@U.Order.Other@ PRONInter+NA_Class=PRONInter+NA_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA, Class: PRONInter+NA, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA_Class=PRONInter+NA_Prefix=NONE_Order=Other_Endings
++PRONInter+NA: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Sg                                            !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Sg_Prefix
+@P.Prefix.NONE@ PRONInter+NI+Sg_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Sg                                            !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Sg_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Sg                                            !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Sg_Stems
+awegonen PRONInter+NI+Sg_Class=PRONInter+NI+Sg_Boundary ;
+awegonesh PRONInter+NI+Sg_Class=PRONInter+NI+Sg_Boundary ;
+wegonen PRONInter+NI+Sg_Class=PRONInter+NI+Sg_Boundary ;
+wegonesh PRONInter+NI+Sg_Class=PRONInter+NI+Sg_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Sg, Class: PRONInter+NI+Sg                    !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Sg_Class=PRONInter+NI+Sg_Boundary
+0:%>%> PRONInter+NI+Sg_Class=PRONInter+NI+Sg_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Sg, Class: PRONInter+NI+Sg                    !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Sg_Class=PRONInter+NI+Sg_Flags
+@R.Prefix.NONE@ PRONInter+NI+Sg_Class=PRONInter+NI+Sg_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Sg, Class: PRONInter+NI+Sg                    !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Sg_Class=PRONInter+NI+Sg_Flags_Prefix=NONE
+@U.Order.Other@ PRONInter+NI+Sg_Class=PRONInter+NI+Sg_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Sg, Class: PRONInter+NI+Sg, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Sg_Class=PRONInter+NI+Sg_Prefix=NONE_Order=Other_Endings
++PRONInter+NI+Sg: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Pl                                            !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Pl_Prefix
+@P.Prefix.NONE@ PRONInter+NI+Pl_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Pl                                            !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Pl_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Pl                                            !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Pl_Stems
+awegonenan PRONInter+NI+Pl_Class=PRONInter+NI+Pl_Boundary ;
+wegonenan PRONInter+NI+Pl_Class=PRONInter+NI+Pl_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Pl, Class: PRONInter+NI+Pl                    !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Pl_Class=PRONInter+NI+Pl_Boundary
+0:%>%> PRONInter+NI+Pl_Class=PRONInter+NI+Pl_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Pl, Class: PRONInter+NI+Pl                    !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Pl_Class=PRONInter+NI+Pl_Flags
+@R.Prefix.NONE@ PRONInter+NI+Pl_Class=PRONInter+NI+Pl_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Pl, Class: PRONInter+NI+Pl                    !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Pl_Class=PRONInter+NI+Pl_Flags_Prefix=NONE
+@U.Order.Other@ PRONInter+NI+Pl_Class=PRONInter+NI+Pl_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NI+Pl, Class: PRONInter+NI+Pl, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NI+Pl_Class=PRONInter+NI+Pl_Prefix=NONE_Order=Other_Endings
++PRONInter+NI+Pl: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxSg                                        !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxSg_Prefix
+@P.Prefix.NONE@ PRONInter+NA+ProxSg_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxSg                                        !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxSg_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxSg                                        !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxSg_Stems
+awenen PRONInter+NA+ProxSg_Class=PRONInter+NA+ProxSg_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxSg, Class: PRONInter+NA+ProxSg            !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxSg_Class=PRONInter+NA+ProxSg_Boundary
+0:%>%> PRONInter+NA+ProxSg_Class=PRONInter+NA+ProxSg_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxSg, Class: PRONInter+NA+ProxSg            !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxSg_Class=PRONInter+NA+ProxSg_Flags
+@R.Prefix.NONE@ PRONInter+NA+ProxSg_Class=PRONInter+NA+ProxSg_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxSg, Class: PRONInter+NA+ProxSg            !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxSg_Class=PRONInter+NA+ProxSg_Flags_Prefix=NONE
+@U.Order.Other@ PRONInter+NA+ProxSg_Class=PRONInter+NA+ProxSg_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxSg, Class: PRONInter+NA+ProxSg, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxSg_Class=PRONInter+NA+ProxSg_Prefix=NONE_Order=Other_Endings
++PRONInter+NA+ProxSg: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvSg                                         !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvSg_Prefix
+@P.Prefix.NONE@ PRONInter+NA+ObvSg_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvSg                                         !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvSg_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvSg                                         !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvSg_Stems
+awenenan PRONInter+NA+ObvSg_Class=PRONInter+NA+ObvSg_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvSg, Class: PRONInter+NA+ObvSg              !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvSg_Class=PRONInter+NA+ObvSg_Boundary
+0:%>%> PRONInter+NA+ObvSg_Class=PRONInter+NA+ObvSg_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvSg, Class: PRONInter+NA+ObvSg              !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvSg_Class=PRONInter+NA+ObvSg_Flags
+@R.Prefix.NONE@ PRONInter+NA+ObvSg_Class=PRONInter+NA+ObvSg_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvSg, Class: PRONInter+NA+ObvSg              !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvSg_Class=PRONInter+NA+ObvSg_Flags_Prefix=NONE
+@U.Order.Other@ PRONInter+NA+ObvSg_Class=PRONInter+NA+ObvSg_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvSg, Class: PRONInter+NA+ObvSg, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvSg_Class=PRONInter+NA+ObvSg_Prefix=NONE_Order=Other_Endings
++PRONInter+NA+ObvSg: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvPl                                         !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvPl_Prefix
+@P.Prefix.NONE@ PRONInter+NA+ObvPl_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvPl                                         !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvPl_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvPl                                         !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvPl_Stems
+awenena' PRONInter+NA+ObvPl_Class=PRONInter+NA+ObvPl_Boundary ;
+awenenan PRONInter+NA+ObvPl_Class=PRONInter+NA+ObvPl_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvPl, Class: PRONInter+NA+ObvPl              !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvPl_Class=PRONInter+NA+ObvPl_Boundary
+0:%>%> PRONInter+NA+ObvPl_Class=PRONInter+NA+ObvPl_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvPl, Class: PRONInter+NA+ObvPl              !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvPl_Class=PRONInter+NA+ObvPl_Flags
+@R.Prefix.NONE@ PRONInter+NA+ObvPl_Class=PRONInter+NA+ObvPl_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvPl, Class: PRONInter+NA+ObvPl              !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvPl_Class=PRONInter+NA+ObvPl_Flags_Prefix=NONE
+@U.Order.Other@ PRONInter+NA+ObvPl_Class=PRONInter+NA+ObvPl_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ObvPl, Class: PRONInter+NA+ObvPl, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ObvPl_Class=PRONInter+NA+ObvPl_Prefix=NONE_Order=Other_Endings
++PRONInter+NA+ObvPl: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxPl                                        !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxPl_Prefix
+@P.Prefix.NONE@ PRONInter+NA+ProxPl_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxPl                                        !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxPl_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxPl                                        !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxPl_Stems
+awenenag PRONInter+NA+ProxPl_Class=PRONInter+NA+ProxPl_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxPl, Class: PRONInter+NA+ProxPl            !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxPl_Class=PRONInter+NA+ProxPl_Boundary
+0:%>%> PRONInter+NA+ProxPl_Class=PRONInter+NA+ProxPl_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxPl, Class: PRONInter+NA+ProxPl            !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxPl_Class=PRONInter+NA+ProxPl_Flags
+@R.Prefix.NONE@ PRONInter+NA+ProxPl_Class=PRONInter+NA+ProxPl_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxPl, Class: PRONInter+NA+ProxPl            !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxPl_Class=PRONInter+NA+ProxPl_Flags_Prefix=NONE
+@U.Order.Other@ PRONInter+NA+ProxPl_Class=PRONInter+NA+ProxPl_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONInter+NA+ProxPl, Class: PRONInter+NA+ProxPl, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONInter+NA+ProxPl_Class=PRONInter+NA+ProxPl_Prefix=NONE_Order=Other_Endings
++PRONInter+NA+ProxPl: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPret+NA                                                !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPret+NA_Prefix
+@P.Prefix.NONE@ PRONPret+NA_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPret+NA                                                !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPret+NA_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPret+NA                                                !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPret+NA_Stems
+aweniban PRONPret+NA_Class=PRONPret+NA_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPret+NA, Class: PRONPret+NA                            !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPret+NA_Class=PRONPret+NA_Boundary
+0:%>%> PRONPret+NA_Class=PRONPret+NA_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPret+NA, Class: PRONPret+NA                            !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPret+NA_Class=PRONPret+NA_Flags
+@R.Prefix.NONE@ PRONPret+NA_Class=PRONPret+NA_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPret+NA, Class: PRONPret+NA                            !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPret+NA_Class=PRONPret+NA_Flags_Prefix=NONE
+@U.Order.Other@ PRONPret+NA_Class=PRONPret+NA_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPret+NA, Class: PRONPret+NA, Prefix: NONE, Order: Other!
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPret+NA_Class=PRONPret+NA_Prefix=NONE_Order=Other_Endings
++PRONPret+NA: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Sg                                              !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Sg_Prefix
+@P.Prefix.NONE@ PRONSim+NI+Sg_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Sg                                              !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Sg_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Sg                                              !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Sg_Stems
+dino:dinow2 PRONSim+NI+Sg_Class=PRONSim+NI+Sg_Boundary ;
+dinowa:dinowaw2 PRONSim+NI+Sg_Class=PRONSim+NI+Sg_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Sg, Class: PRONSim+NI+Sg                        !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Sg_Class=PRONSim+NI+Sg_Boundary
+0:%>%> PRONSim+NI+Sg_Class=PRONSim+NI+Sg_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Sg, Class: PRONSim+NI+Sg                        !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Sg_Class=PRONSim+NI+Sg_Flags
+@R.Prefix.NONE@ PRONSim+NI+Sg_Class=PRONSim+NI+Sg_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Sg, Class: PRONSim+NI+Sg                        !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Sg_Class=PRONSim+NI+Sg_Flags_Prefix=NONE
+@U.Order.Other@ PRONSim+NI+Sg_Class=PRONSim+NI+Sg_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Sg, Class: PRONSim+NI+Sg, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Sg_Class=PRONSim+NI+Sg_Prefix=NONE_Order=Other_Endings
++PRONSim+NI+Sg: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Pl                                              !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Pl_Prefix
+@P.Prefix.NONE@ PRONSim+NI+Pl_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Pl                                              !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Pl_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Pl                                              !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Pl_Stems
+dinowan PRONSim+NI+Pl_Class=PRONSim+NI+Pl_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Pl, Class: PRONSim+NI+Pl                        !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Pl_Class=PRONSim+NI+Pl_Boundary
+0:%>%> PRONSim+NI+Pl_Class=PRONSim+NI+Pl_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Pl, Class: PRONSim+NI+Pl                        !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Pl_Class=PRONSim+NI+Pl_Flags
+@R.Prefix.NONE@ PRONSim+NI+Pl_Class=PRONSim+NI+Pl_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Pl, Class: PRONSim+NI+Pl                        !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Pl_Class=PRONSim+NI+Pl_Flags_Prefix=NONE
+@U.Order.Other@ PRONSim+NI+Pl_Class=PRONSim+NI+Pl_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NI+Pl, Class: PRONSim+NI+Pl, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NI+Pl_Class=PRONSim+NI+Pl_Prefix=NONE_Order=Other_Endings
++PRONSim+NI+Pl: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxSg                                          !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxSg_Prefix
+@P.Prefix.NONE@ PRONSim+NA+ProxSg_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxSg                                          !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxSg_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxSg                                          !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxSg_Stems
+dino:dinow2 PRONSim+NA+ProxSg_Class=PRONSim+NA+ProxSg_Boundary ;
+dinowa:dinowaw2 PRONSim+NA+ProxSg_Class=PRONSim+NA+ProxSg_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxSg, Class: PRONSim+NA+ProxSg                !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxSg_Class=PRONSim+NA+ProxSg_Boundary
+0:%>%> PRONSim+NA+ProxSg_Class=PRONSim+NA+ProxSg_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxSg, Class: PRONSim+NA+ProxSg                !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxSg_Class=PRONSim+NA+ProxSg_Flags
+@R.Prefix.NONE@ PRONSim+NA+ProxSg_Class=PRONSim+NA+ProxSg_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxSg, Class: PRONSim+NA+ProxSg                !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxSg_Class=PRONSim+NA+ProxSg_Flags_Prefix=NONE
+@U.Order.Other@ PRONSim+NA+ProxSg_Class=PRONSim+NA+ProxSg_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxSg, Class: PRONSim+NA+ProxSg, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxSg_Class=PRONSim+NA+ProxSg_Prefix=NONE_Order=Other_Endings
++PRONSim+NA+ProxSg: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxPl                                          !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxPl_Prefix
+@P.Prefix.NONE@ PRONSim+NA+ProxPl_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxPl                                          !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxPl_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxPl                                          !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxPl_Stems
+dinowag PRONSim+NA+ProxPl_Class=PRONSim+NA+ProxPl_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxPl, Class: PRONSim+NA+ProxPl                !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxPl_Class=PRONSim+NA+ProxPl_Boundary
+0:%>%> PRONSim+NA+ProxPl_Class=PRONSim+NA+ProxPl_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxPl, Class: PRONSim+NA+ProxPl                !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxPl_Class=PRONSim+NA+ProxPl_Flags
+@R.Prefix.NONE@ PRONSim+NA+ProxPl_Class=PRONSim+NA+ProxPl_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxPl, Class: PRONSim+NA+ProxPl                !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxPl_Class=PRONSim+NA+ProxPl_Flags_Prefix=NONE
+@U.Order.Other@ PRONSim+NA+ProxPl_Class=PRONSim+NA+ProxPl_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ProxPl, Class: PRONSim+NA+ProxPl, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ProxPl_Class=PRONSim+NA+ProxPl_Prefix=NONE_Order=Other_Endings
++PRONSim+NA+ProxPl: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvSg                                           !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvSg_Prefix
+@P.Prefix.NONE@ PRONSim+NA+ObvSg_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvSg                                           !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvSg_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvSg                                           !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvSg_Stems
+dinowan PRONSim+NA+ObvSg_Class=PRONSim+NA+ObvSg_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvSg, Class: PRONSim+NA+ObvSg                  !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvSg_Class=PRONSim+NA+ObvSg_Boundary
+0:%>%> PRONSim+NA+ObvSg_Class=PRONSim+NA+ObvSg_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvSg, Class: PRONSim+NA+ObvSg                  !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvSg_Class=PRONSim+NA+ObvSg_Flags
+@R.Prefix.NONE@ PRONSim+NA+ObvSg_Class=PRONSim+NA+ObvSg_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvSg, Class: PRONSim+NA+ObvSg                  !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvSg_Class=PRONSim+NA+ObvSg_Flags_Prefix=NONE
+@U.Order.Other@ PRONSim+NA+ObvSg_Class=PRONSim+NA+ObvSg_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvSg, Class: PRONSim+NA+ObvSg, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvSg_Class=PRONSim+NA+ObvSg_Prefix=NONE_Order=Other_Endings
++PRONSim+NA+ObvSg: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvPl                                           !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvPl_Prefix
+@P.Prefix.NONE@ PRONSim+NA+ObvPl_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvPl                                           !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvPl_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvPl                                           !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvPl_Stems
+dinowa' PRONSim+NA+ObvPl_Class=PRONSim+NA+ObvPl_Boundary ;
+dinowan PRONSim+NA+ObvPl_Class=PRONSim+NA+ObvPl_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvPl, Class: PRONSim+NA+ObvPl                  !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvPl_Class=PRONSim+NA+ObvPl_Boundary
+0:%>%> PRONSim+NA+ObvPl_Class=PRONSim+NA+ObvPl_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvPl, Class: PRONSim+NA+ObvPl                  !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvPl_Class=PRONSim+NA+ObvPl_Flags
+@R.Prefix.NONE@ PRONSim+NA+ObvPl_Class=PRONSim+NA+ObvPl_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvPl, Class: PRONSim+NA+ObvPl                  !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvPl_Class=PRONSim+NA+ObvPl_Flags_Prefix=NONE
+@U.Order.Other@ PRONSim+NA+ObvPl_Class=PRONSim+NA+ObvPl_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONSim+NA+ObvPl, Class: PRONSim+NA+ObvPl, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONSim+NA+ObvPl_Class=PRONSim+NA+ObvPl_Prefix=NONE_Order=Other_Endings
++PRONSim+NA+ObvPl: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+1Sg                                             !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+1Sg_Prefix
+@P.Prefix.NONE@ PRONPer+NA+1Sg_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+1Sg                                             !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+1Sg_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+1Sg                                             !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+1Sg_Stems
+geniin PRONPer+NA+1Sg_Class=PRONPer+NA+1Sg_Boundary ;
+niin PRONPer+NA+1Sg_Class=PRONPer+NA+1Sg_Boundary ;
+niineta:niinetaw2 PRONPer+NA+1Sg_Class=PRONPer+NA+1Sg_Boundary ;
+niinitam PRONPer+NA+1Sg_Class=PRONPer+NA+1Sg_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+1Sg, Class: PRONPer+NA+1Sg                      !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+1Sg_Class=PRONPer+NA+1Sg_Boundary
+0:%>%> PRONPer+NA+1Sg_Class=PRONPer+NA+1Sg_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+1Sg, Class: PRONPer+NA+1Sg                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+1Sg_Class=PRONPer+NA+1Sg_Flags
+@R.Prefix.NONE@ PRONPer+NA+1Sg_Class=PRONPer+NA+1Sg_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+1Sg, Class: PRONPer+NA+1Sg                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+1Sg_Class=PRONPer+NA+1Sg_Flags_Prefix=NONE
+@U.Order.Other@ PRONPer+NA+1Sg_Class=PRONPer+NA+1Sg_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+1Sg, Class: PRONPer+NA+1Sg, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+1Sg_Class=PRONPer+NA+1Sg_Prefix=NONE_Order=Other_Endings
++PRONPer+NA+1Sg: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Pl                                             !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Pl_Prefix
+@P.Prefix.NONE@ PRONPer+NA+2Pl_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Pl                                             !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Pl_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Pl                                             !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Pl_Stems
+gegiinawaa PRONPer+NA+2Pl_Class=PRONPer+NA+2Pl_Boundary ;
+giinawaa PRONPer+NA+2Pl_Class=PRONPer+NA+2Pl_Boundary ;
+giinetawaa PRONPer+NA+2Pl_Class=PRONPer+NA+2Pl_Boundary ;
+giinitamawaa PRONPer+NA+2Pl_Class=PRONPer+NA+2Pl_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Pl, Class: PRONPer+NA+2Pl                      !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Pl_Class=PRONPer+NA+2Pl_Boundary
+0:%>%> PRONPer+NA+2Pl_Class=PRONPer+NA+2Pl_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Pl, Class: PRONPer+NA+2Pl                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Pl_Class=PRONPer+NA+2Pl_Flags
+@R.Prefix.NONE@ PRONPer+NA+2Pl_Class=PRONPer+NA+2Pl_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Pl, Class: PRONPer+NA+2Pl                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Pl_Class=PRONPer+NA+2Pl_Flags_Prefix=NONE
+@U.Order.Other@ PRONPer+NA+2Pl_Class=PRONPer+NA+2Pl_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Pl, Class: PRONPer+NA+2Pl, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Pl_Class=PRONPer+NA+2Pl_Prefix=NONE_Order=Other_Endings
++PRONPer+NA+2Pl: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Sg                                             !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Sg_Prefix
+@P.Prefix.NONE@ PRONPer+NA+2Sg_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Sg                                             !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Sg_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Sg                                             !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Sg_Stems
+gegiin PRONPer+NA+2Sg_Class=PRONPer+NA+2Sg_Boundary ;
+giin PRONPer+NA+2Sg_Class=PRONPer+NA+2Sg_Boundary ;
+giineta:giinetaw2 PRONPer+NA+2Sg_Class=PRONPer+NA+2Sg_Boundary ;
+giinitam PRONPer+NA+2Sg_Class=PRONPer+NA+2Sg_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Sg, Class: PRONPer+NA+2Sg                      !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Sg_Class=PRONPer+NA+2Sg_Boundary
+0:%>%> PRONPer+NA+2Sg_Class=PRONPer+NA+2Sg_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Sg, Class: PRONPer+NA+2Sg                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Sg_Class=PRONPer+NA+2Sg_Flags
+@R.Prefix.NONE@ PRONPer+NA+2Sg_Class=PRONPer+NA+2Sg_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Sg, Class: PRONPer+NA+2Sg                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Sg_Class=PRONPer+NA+2Sg_Flags_Prefix=NONE
+@U.Order.Other@ PRONPer+NA+2Sg_Class=PRONPer+NA+2Sg_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+2Sg, Class: PRONPer+NA+2Sg, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+2Sg_Class=PRONPer+NA+2Sg_Prefix=NONE_Order=Other_Endings
++PRONPer+NA+2Sg: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Pl                                             !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Pl_Prefix
+@P.Prefix.NONE@ PRONPer+NA+3Pl_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Pl                                             !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Pl_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Pl                                             !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Pl_Stems
+gewiinawaa PRONPer+NA+3Pl_Class=PRONPer+NA+3Pl_Boundary ;
+wiinawaa PRONPer+NA+3Pl_Class=PRONPer+NA+3Pl_Boundary ;
+wiinetawaa PRONPer+NA+3Pl_Class=PRONPer+NA+3Pl_Boundary ;
+wiinitamawaa PRONPer+NA+3Pl_Class=PRONPer+NA+3Pl_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Pl, Class: PRONPer+NA+3Pl                      !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Pl_Class=PRONPer+NA+3Pl_Boundary
+0:%>%> PRONPer+NA+3Pl_Class=PRONPer+NA+3Pl_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Pl, Class: PRONPer+NA+3Pl                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Pl_Class=PRONPer+NA+3Pl_Flags
+@R.Prefix.NONE@ PRONPer+NA+3Pl_Class=PRONPer+NA+3Pl_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Pl, Class: PRONPer+NA+3Pl                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Pl_Class=PRONPer+NA+3Pl_Flags_Prefix=NONE
+@U.Order.Other@ PRONPer+NA+3Pl_Class=PRONPer+NA+3Pl_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Pl, Class: PRONPer+NA+3Pl, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Pl_Class=PRONPer+NA+3Pl_Prefix=NONE_Order=Other_Endings
++PRONPer+NA+3Pl: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Sg                                             !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Sg_Prefix
+@P.Prefix.NONE@ PRONPer+NA+3Sg_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Sg                                             !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Sg_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Sg                                             !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Sg_Stems
+gewiin PRONPer+NA+3Sg_Class=PRONPer+NA+3Sg_Boundary ;
+wiin PRONPer+NA+3Sg_Class=PRONPer+NA+3Sg_Boundary ;
+wiineta:wiinetaw2 PRONPer+NA+3Sg_Class=PRONPer+NA+3Sg_Boundary ;
+wiinitam PRONPer+NA+3Sg_Class=PRONPer+NA+3Sg_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Sg, Class: PRONPer+NA+3Sg                      !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Sg_Class=PRONPer+NA+3Sg_Boundary
+0:%>%> PRONPer+NA+3Sg_Class=PRONPer+NA+3Sg_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Sg, Class: PRONPer+NA+3Sg                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Sg_Class=PRONPer+NA+3Sg_Flags
+@R.Prefix.NONE@ PRONPer+NA+3Sg_Class=PRONPer+NA+3Sg_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Sg, Class: PRONPer+NA+3Sg                      !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Sg_Class=PRONPer+NA+3Sg_Flags_Prefix=NONE
+@U.Order.Other@ PRONPer+NA+3Sg_Class=PRONPer+NA+3Sg_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+3Sg, Class: PRONPer+NA+3Sg, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+3Sg_Class=PRONPer+NA+3Sg_Prefix=NONE_Order=Other_Endings
++PRONPer+NA+3Sg: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Excl                                            !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Excl_Prefix
+@P.Prefix.NONE@ PRONPer+NA+Excl_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Excl                                            !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Excl_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Excl                                            !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Excl_Stems
+geniinawind PRONPer+NA+Excl_Class=PRONPer+NA+Excl_Boundary ;
+niinawind PRONPer+NA+Excl_Class=PRONPer+NA+Excl_Boundary ;
+niinetawind PRONPer+NA+Excl_Class=PRONPer+NA+Excl_Boundary ;
+niinitamawind PRONPer+NA+Excl_Class=PRONPer+NA+Excl_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Excl, Class: PRONPer+NA+Excl                    !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Excl_Class=PRONPer+NA+Excl_Boundary
+0:%>%> PRONPer+NA+Excl_Class=PRONPer+NA+Excl_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Excl, Class: PRONPer+NA+Excl                    !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Excl_Class=PRONPer+NA+Excl_Flags
+@R.Prefix.NONE@ PRONPer+NA+Excl_Class=PRONPer+NA+Excl_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Excl, Class: PRONPer+NA+Excl                    !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Excl_Class=PRONPer+NA+Excl_Flags_Prefix=NONE
+@U.Order.Other@ PRONPer+NA+Excl_Class=PRONPer+NA+Excl_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Excl, Class: PRONPer+NA+Excl, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Excl_Class=PRONPer+NA+Excl_Prefix=NONE_Order=Other_Endings
++PRONPer+NA+Excl: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Incl                                            !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Incl_Prefix
+@P.Prefix.NONE@ PRONPer+NA+Incl_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Incl                                            !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Incl_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Incl                                            !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Incl_Stems
+gegiinawind PRONPer+NA+Incl_Class=PRONPer+NA+Incl_Boundary ;
+giinawind PRONPer+NA+Incl_Class=PRONPer+NA+Incl_Boundary ;
+giinetawind PRONPer+NA+Incl_Class=PRONPer+NA+Incl_Boundary ;
+giinitamawind PRONPer+NA+Incl_Class=PRONPer+NA+Incl_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Incl, Class: PRONPer+NA+Incl                    !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Incl_Class=PRONPer+NA+Incl_Boundary
+0:%>%> PRONPer+NA+Incl_Class=PRONPer+NA+Incl_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Incl, Class: PRONPer+NA+Incl                    !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Incl_Class=PRONPer+NA+Incl_Flags
+@R.Prefix.NONE@ PRONPer+NA+Incl_Class=PRONPer+NA+Incl_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Incl, Class: PRONPer+NA+Incl                    !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Incl_Class=PRONPer+NA+Incl_Flags_Prefix=NONE
+@U.Order.Other@ PRONPer+NA+Incl_Class=PRONPer+NA+Incl_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONPer+NA+Incl, Class: PRONPer+NA+Incl, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONPer+NA+Incl_Class=PRONPer+NA+Incl_Prefix=NONE_Order=Other_Endings
++PRONPer+NA+Incl: # ;
 
