@@ -1,0 +1,27 @@
+# Ojibwe
+
+# TODO long for fiero
+
+a (->) {aa}::1.0,
+{aa} (->) a::0.5,
+o (->) {oo}::1.0,
+{oo} (->) o::0.5,
+i (->) {ii}::1.0,
+{ii} (->) i::0.5,
+e (->) {ee}::1.0,
+d (->) t::1.0,
+t (->) d::1.0,
+g (->) k::1.0,
+k (->) g::1.0,
+b (->) p::1.0,
+p (->) b::1.0,
+{ch} (->) {tch}::0.5,
+
+# Dealing with spaces instead of hyphens as separators in multipart words
+
+[ %- ] (->) [ %- | " " ]+, # Multiple hyphens into a single hyphen
+[ %- ] (->) 0::2.0         # Missing hyphens between prefixes/preverbs
+;
+
+# Explanation:
+# lexical side (->) input 
