@@ -1,0 +1,31 @@
+read lexc ../morphology/.generated/lexicon.lexc
+#save stack lexicon.hfst
+#load lexicon.hfst
+define Morph
+
+
+source ../morphology/phonology.xfscript
+#save stack phonology.hfst
+#load phonology.hfst
+define Phon
+
+set flag-is-epsilon ON
+regex [ Morph .o. Phon ];
+twosided flag-diacritics
+
+save stack generator-gt-norm.hfst
+invert net
+save stack analyzer-gt-norm.hfst
+invert net
+define Norm
+
+source ../orthography/spellrelax-weighted.xfscript
+define SpellRelaxWeighted
+
+regex [ Norm .o. SpellRelaxWeighted ];
+twosided flag-diacritics
+invert net
+save stack analyzer-gt-desc.hfst
+invert net
+
+set print-weight ON
