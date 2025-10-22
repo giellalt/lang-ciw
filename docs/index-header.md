@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-ciw)](https://github.com/giellalt/lang-ciw/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-ciw)](https://github.com/giellalt/lang-ciw/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-ciw?label=CI)](https://builds.giellalt.org/pipelines/lang-ciw/builds/latest)
-[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the [Chippewa language model](https://github.com/giellalt/lang-ciw). 
 It contains some 750 nouns and verbs, and a morphological
