@@ -35,6 +35,7 @@ LEXICON NUM_Stems
 aabita:aabitaw2 NUM_Class=NUM_Boundary ;
 aabita-diba'igan NUM_Class=NUM_Boundary ;
 aabita-dibaabiishkoojigan NUM_Class=NUM_Boundary ;
+aabito-diba'igan NUM_Class=NUM_Boundary ;
 aabitooshkin NUM_Class=NUM_Boundary ;
 ashi-aabita NUM_Class=NUM_Boundary ;
 ashi-aabita:ashi-aabitaw2 NUM_Class=NUM_Boundary ;
@@ -44,6 +45,7 @@ ashi-bezhigo-diba'igan NUM_Class=NUM_Boundary ;
 ashi-ingodwaaswi:ashi-ingodwaaswiw2 NUM_Class=NUM_Boundary ;
 ashi-ishwaaswi:ashi-ishwaaswiw2 NUM_Class=NUM_Boundary ;
 ashi-naanan NUM_Class=NUM_Boundary ;
+ashi-naano-diba'iganens NUM_Class=NUM_Boundary ;
 ashi-niiwin NUM_Class=NUM_Boundary ;
 ashi-niizh NUM_Class=NUM_Boundary ;
 ashi-niizho-diba'igan NUM_Class=NUM_Boundary ;
@@ -51,6 +53,7 @@ ashi-niizhwaaso:ashi-niizhwaasow2 NUM_Class=NUM_Boundary ;
 ashi-niizhwaaswi:ashi-niizhwaaswiw2 NUM_Class=NUM_Boundary ;
 ashi-ningodwaaswi:ashi-ningodwaaswiw2 NUM_Class=NUM_Boundary ;
 ashi-nishwaaswi:ashi-nishwaaswiw2 NUM_Class=NUM_Boundary ;
+ashi-nising NUM_Class=NUM_Boundary ;
 ashi-niswi:ashi-niswiw2 NUM_Class=NUM_Boundary ;
 ashi-zhaangaswi:ashi-zhaangaswiw2 NUM_Class=NUM_Boundary ;
 bebezhig NUM_Class=NUM_Boundary ;
@@ -597,5 +600,5 @@ LEXICON NUM_Class=NUM_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON NUM_Class=NUM_Prefix=NONE_Order=Other_Endings
-+NUM: # ;
++NUM: EncliticRoot ;
 

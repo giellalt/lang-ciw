@@ -162,6 +162,8 @@ PNLex%/wagiji+:wagijiw2 LexPNBoundary ;
 PNLex%/nabagi+:nabagiw2 LexPNBoundary ;
 PNLex%/goshko+:goshkow2 LexPNBoundary ;
 PNLex%/eyiidawi+:eyiidawiw2 LexPNBoundary ;
+PNLex%/anda+:andaw2 LexPNBoundary ;
+PNLex%/nitami+:nitamiw2 LexPNBoundary ;
 PNQnt%/naano+:naanow2 LexPNBoundary ;
 PNQnt%/nenishwaaswi+:nenishwaaswiw2 LexPNBoundary ;
 PNQnt%/ningo+:ningow2 LexPNBoundary ;

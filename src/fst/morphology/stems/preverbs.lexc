@@ -89,6 +89,7 @@ LEXICON DirPVAny
 PVDir%/ani+:ani DirPVBoundary ;
 PVDir%/ini+:ini DirPVBoundary ;
 PVDir%/awi+:awi DirPVBoundary ;
+PVDir%/owi+:owi DirPVBoundary ;
 PVDir%/baa+:baa DirPVBoundary ;
 PVDir%/babaa+:babaa DirPVBoundary ;
 PVDir%/bibaa+:bibaa DirPVBoundary ;
@@ -303,6 +304,8 @@ PVLex%/wagiji+:wagijiw2 LexPVBoundary ;
 PVLex%/nabagi+:nabagiw2 LexPVBoundary ;
 PVLex%/goshko+:goshkow2 LexPVBoundary ;
 PVLex%/eyiidawi+:eyiidawiw2 LexPVBoundary ;
+PVLex%/anda+:andaw2 LexPVBoundary ;
+PVLex%/nitami+:nitamiw2 LexPVBoundary ;
 PVQnt%/naano+:naanow2 LexPVBoundary ;
 PVQnt%/nenishwaaswi+:nenishwaaswiw2 LexPVBoundary ;
 PVQnt%/ningo+:ningow2 LexPVBoundary ;

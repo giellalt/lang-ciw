@@ -1,5 +1,6 @@
 LEXICON AdverbRoot
 @P.Paradigm.ADVConj@ ADVConj_Prefix ;
+@P.Paradigm.ADVDeg@ ADVDeg_Prefix ;
 @P.Paradigm.ADVDisc@ ADVDisc_Prefix ;
 @P.Paradigm.ADVDub@ ADVDub_Prefix ;
 @P.Paradigm.ADVGram@ ADVGram_Prefix ;
@@ -10,7 +11,6 @@ LEXICON AdverbRoot
 @P.Paradigm.ADVPred@ ADVPred_Prefix ;
 @P.Paradigm.ADVQnt@ ADVQnt_Prefix ;
 @P.Paradigm.ADVTmp@ ADVTmp_Prefix ;
-@P.Paradigm.AVDDeg@ AVDDeg_Prefix ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -34,6 +34,7 @@ LEXICON ADVConj_PrefixBoundary
 
 LEXICON AdverbStems
 @R.Paradigm.ADVConj@ ADVConj_Stems ;
+@R.Paradigm.ADVDeg@ ADVDeg_Stems ;
 @R.Paradigm.ADVDisc@ ADVDisc_Stems ;
 @R.Paradigm.ADVDub@ ADVDub_Stems ;
 @R.Paradigm.ADVGram@ ADVGram_Stems ;
@@ -44,7 +45,6 @@ LEXICON AdverbStems
 @R.Paradigm.ADVPred@ ADVPred_Stems ;
 @R.Paradigm.ADVQnt@ ADVQnt_Stems ;
 @R.Paradigm.ADVTmp@ ADVTmp_Stems ;
-@R.Paradigm.AVDDeg@ AVDDeg_Stems ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -106,7 +106,7 @@ LEXICON ADVConj_Class=ADVConj_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ADVConj_Class=ADVConj_Prefix=NONE_Order=Other_Endings
-+ADVConj: # ;
++ADVConj: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -178,7 +178,7 @@ LEXICON ADVDisc_Class=ADVDisc_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ADVDisc_Class=ADVDisc_Prefix=NONE_Order=Other_Endings
-+ADVDisc: # ;
++ADVDisc: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -260,7 +260,7 @@ LEXICON ADVDub_Class=ADVDub_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ADVDub_Class=ADVDub_Prefix=NONE_Order=Other_Endings
-+ADVDub: # ;
++ADVDub: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -293,6 +293,7 @@ LEXICON ADVGram_Stems
 apiich ADVGram_Class=ADVGram_Boundary ;
 biinish ADVGram_Class=ADVGram_Boundary ;
 daabishkoo ADVGram_Class=ADVGram_Boundary ;
+daabishkooj ADVGram_Class=ADVGram_Boundary ;
 gego% bina:gego% binaw2 ADVGram_Class=ADVGram_Boundary ;
 giishpin ADVGram_Class=ADVGram_Boundary ;
 misawaa ADVGram_Class=ADVGram_Boundary ;
@@ -337,7 +338,7 @@ LEXICON ADVGram_Class=ADVGram_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ADVGram_Class=ADVGram_Prefix=NONE_Order=Other_Endings
-+ADVGram: # ;
++ADVGram: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -369,6 +370,7 @@ LEXICON ADVInter_PrefixBoundary
 LEXICON ADVInter_Stems
 aandi ADVInter_Class=ADVInter_Boundary ;
 aandi:aandiw2 ADVInter_Class=ADVInter_Boundary ;
+aanii ADVInter_Class=ADVInter_Boundary ;
 aaniin ADVInter_Class=ADVInter_Boundary ;
 aaniin% apii ADVInter_Class=ADVInter_Boundary ;
 aaniin% danaa ADVInter_Class=ADVInter_Boundary ;
@@ -419,7 +421,7 @@ LEXICON ADVInter_Class=ADVInter_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ADVInter_Class=ADVInter_Prefix=NONE_Order=Other_Endings
-+ADVInter: # ;
++ADVInter: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -449,14 +451,20 @@ LEXICON ADVLoc_PrefixBoundary
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ADVLoc_Stems
+'imaa ADVLoc_Class=ADVLoc_Boundary ;
+'omaa ADVLoc_Class=ADVLoc_Boundary ;
 aabitawagaam ADVLoc_Class=ADVLoc_Boundary ;
 aabitawaya'ii ADVLoc_Class=ADVLoc_Boundary ;
 aabitawayi'ii ADVLoc_Class=ADVLoc_Boundary ;
 aabitawigaad ADVLoc_Class=ADVLoc_Boundary ;
 aabitawikana:aabitawikanaw2 ADVLoc_Class=ADVLoc_Boundary ;
+aabitawinaaganens ADVLoc_Class=ADVLoc_Boundary ;
 aabitawinigam ADVLoc_Class=ADVLoc_Boundary ;
+aabitawisag ADVLoc_Class=ADVLoc_Boundary ;
 aabitawoonag ADVLoc_Class=ADVLoc_Boundary ;
+aabitoonag ADVLoc_Class=ADVLoc_Boundary ;
 aabitoonigam ADVLoc_Class=ADVLoc_Boundary ;
+aabitooshkimod ADVLoc_Class=ADVLoc_Boundary ;
 aajisag ADVLoc_Class=ADVLoc_Boundary ;
 aandi% go:aandi% gow2 ADVLoc_Class=ADVLoc_Boundary ;
 aaniindi% go:aaniindi% gow2 ADVLoc_Class=ADVLoc_Boundary ;
@@ -468,8 +476,11 @@ aasamajiw ADVLoc_Class=ADVLoc_Boundary ;
 aasamayi'ii ADVLoc_Class=ADVLoc_Boundary ;
 aasamewaam ADVLoc_Class=ADVLoc_Boundary ;
 aasamoonag ADVLoc_Class=ADVLoc_Boundary ;
+aazhawaya'ii ADVLoc_Class=ADVLoc_Boundary ;
 aazhawayi'ii ADVLoc_Class=ADVLoc_Boundary ;
+aazhawew ADVLoc_Class=ADVLoc_Boundary ;
 aazhawikana:aazhawikanaw2 ADVLoc_Class=ADVLoc_Boundary ;
+aazhidemog ADVLoc_Class=ADVLoc_Boundary ;
 aazhookana:aazhookanaw2 ADVLoc_Class=ADVLoc_Boundary ;
 agaamaabik ADVLoc_Class=ADVLoc_Boundary ;
 agaamaakwaa ADVLoc_Class=ADVLoc_Boundary ;
@@ -493,11 +504,13 @@ agamiing ADVLoc_Class=ADVLoc_Boundary ;
 agidaabik ADVLoc_Class=ADVLoc_Boundary ;
 agidaajiwan ADVLoc_Class=ADVLoc_Boundary ;
 agidaaki:agidaakiw2 ADVLoc_Class=ADVLoc_Boundary ;
+agidagamig ADVLoc_Class=ADVLoc_Boundary ;
 agidajiw ADVLoc_Class=ADVLoc_Boundary ;
 agidakamig ADVLoc_Class=ADVLoc_Boundary ;
 agidasin ADVLoc_Class=ADVLoc_Boundary ;
 agidibiig ADVLoc_Class=ADVLoc_Boundary ;
 agidigamig ADVLoc_Class=ADVLoc_Boundary ;
+agidikwam ADVLoc_Class=ADVLoc_Boundary ;
 agidiskwam ADVLoc_Class=ADVLoc_Boundary ;
 agidoonag ADVLoc_Class=ADVLoc_Boundary ;
 agijayi'ii ADVLoc_Class=ADVLoc_Boundary ;
@@ -505,6 +518,7 @@ agwajiing ADVLoc_Class=ADVLoc_Boundary ;
 agwajiishkwaand ADVLoc_Class=ADVLoc_Boundary ;
 akeyaa ADVLoc_Class=ADVLoc_Boundary ;
 anaamaabik ADVLoc_Class=ADVLoc_Boundary ;
+anaamaabikong ADVLoc_Class=ADVLoc_Boundary ;
 anaamaagon ADVLoc_Class=ADVLoc_Boundary ;
 anaamaagonag ADVLoc_Class=ADVLoc_Boundary ;
 anaamaandag ADVLoc_Class=ADVLoc_Boundary ;
@@ -540,7 +554,9 @@ awasaya'ii ADVLoc_Class=ADVLoc_Boundary ;
 awasayi'ii ADVLoc_Class=ADVLoc_Boundary ;
 awasekana:awasekanaw2 ADVLoc_Class=ADVLoc_Boundary ;
 awasew ADVLoc_Class=ADVLoc_Boundary ;
+awasewegamig ADVLoc_Class=ADVLoc_Boundary ;
 awaseweya'ii ADVLoc_Class=ADVLoc_Boundary ;
+awashishkode ADVLoc_Class=ADVLoc_Boundary ;
 awasi-baawitig ADVLoc_Class=ADVLoc_Boundary ;
 awasi-gakiiw ADVLoc_Class=ADVLoc_Boundary ;
 awasi-minis ADVLoc_Class=ADVLoc_Boundary ;
@@ -554,6 +570,8 @@ awasishkode ADVLoc_Class=ADVLoc_Boundary ;
 bagwadakamig ADVLoc_Class=ADVLoc_Boundary ;
 bagwaj ADVLoc_Class=ADVLoc_Boundary ;
 bagwaj-aya'ii ADVLoc_Class=ADVLoc_Boundary ;
+bagwajiing ADVLoc_Class=ADVLoc_Boundary ;
+bakeya'ii ADVLoc_Class=ADVLoc_Boundary ;
 bebesho:bebeshow2 ADVLoc_Class=ADVLoc_Boundary ;
 besho:beshow2 ADVLoc_Class=ADVLoc_Boundary ;
 bezhigwanong ADVLoc_Class=ADVLoc_Boundary ;
@@ -588,6 +606,7 @@ dabazhiish ADVLoc_Class=ADVLoc_Boundary ;
 dedibishkoodagaam ADVLoc_Class=ADVLoc_Boundary ;
 dibishkoodagaam ADVLoc_Class=ADVLoc_Boundary ;
 dibishkookamig ADVLoc_Class=ADVLoc_Boundary ;
+dinong ADVLoc_Class=ADVLoc_Boundary ;
 edawayi'ii ADVLoc_Class=ADVLoc_Boundary ;
 eko-niizhing ADVLoc_Class=ADVLoc_Boundary ;
 eko-nising ADVLoc_Class=ADVLoc_Boundary ;
@@ -595,6 +614,7 @@ eyedawaya'ii ADVLoc_Class=ADVLoc_Boundary ;
 eyedawi-ziibi:eyedawi-ziibiw2 ADVLoc_Class=ADVLoc_Boundary ;
 eyedawidooskwan ADVLoc_Class=ADVLoc_Boundary ;
 eyedawigaad ADVLoc_Class=ADVLoc_Boundary ;
+eyedawigamaag ADVLoc_Class=ADVLoc_Boundary ;
 eyedawigidig ADVLoc_Class=ADVLoc_Boundary ;
 eyedawikana:eyedawikanaw2 ADVLoc_Class=ADVLoc_Boundary ;
 eyedawinik ADVLoc_Class=ADVLoc_Boundary ;
@@ -638,6 +658,7 @@ giiwitaaya'ii ADVLoc_Class=ADVLoc_Boundary ;
 i'imaa ADVLoc_Class=ADVLoc_Boundary ;
 i'iwidi:i'iwidiw2 ADVLoc_Class=ADVLoc_Boundary ;
 imaa ADVLoc_Class=ADVLoc_Boundary ;
+inake ADVLoc_Class=ADVLoc_Boundary ;
 ishkwaya'ii ADVLoc_Class=ADVLoc_Boundary ;
 ishkwe-aya'ii ADVLoc_Class=ADVLoc_Boundary ;
 ishkwe-ayi'ii ADVLoc_Class=ADVLoc_Boundary ;
@@ -649,6 +670,7 @@ ishpayi'ii ADVLoc_Class=ADVLoc_Boundary ;
 ishpimiing ADVLoc_Class=ADVLoc_Boundary ;
 ishpiming ADVLoc_Class=ADVLoc_Boundary ;
 iwidi:iwidiw2 ADVLoc_Class=ADVLoc_Boundary ;
+izhi-gwayak ADVLoc_Class=ADVLoc_Boundary ;
 jaajiigibiig ADVLoc_Class=ADVLoc_Boundary ;
 jiigaabik ADVLoc_Class=ADVLoc_Boundary ;
 jiigaagonag ADVLoc_Class=ADVLoc_Boundary ;
@@ -685,6 +707,7 @@ jiigishkwaand ADVLoc_Class=ADVLoc_Boundary ;
 jiigishkwaandeng ADVLoc_Class=ADVLoc_Boundary ;
 jiigitawag ADVLoc_Class=ADVLoc_Boundary ;
 keyaa ADVLoc_Class=ADVLoc_Boundary ;
+maa ADVLoc_Class=ADVLoc_Boundary ;
 megwaagonag ADVLoc_Class=ADVLoc_Boundary ;
 megwayaak ADVLoc_Class=ADVLoc_Boundary ;
 megwe-aya'ii ADVLoc_Class=ADVLoc_Boundary ;
@@ -706,6 +729,7 @@ mitaamik ADVLoc_Class=ADVLoc_Boundary ;
 mitakamig ADVLoc_Class=ADVLoc_Boundary ;
 mitikwam ADVLoc_Class=ADVLoc_Boundary ;
 mizhisha:mizhishaw2 ADVLoc_Class=ADVLoc_Boundary ;
+mizhishawaya'ii ADVLoc_Class=ADVLoc_Boundary ;
 mizhishawikwam ADVLoc_Class=ADVLoc_Boundary ;
 miziwe ADVLoc_Class=ADVLoc_Boundary ;
 miziwekamig ADVLoc_Class=ADVLoc_Boundary ;
@@ -745,6 +769,7 @@ naawoodena:naawoodenaw2 ADVLoc_Class=ADVLoc_Boundary ;
 naawoonag ADVLoc_Class=ADVLoc_Boundary ;
 nabane-aya'ii ADVLoc_Class=ADVLoc_Boundary ;
 nabaneya'ii ADVLoc_Class=ADVLoc_Boundary ;
+nake ADVLoc_Class=ADVLoc_Boundary ;
 namanjaya'ii ADVLoc_Class=ADVLoc_Boundary ;
 napaaj ADVLoc_Class=ADVLoc_Boundary ;
 napaajaya'ii ADVLoc_Class=ADVLoc_Boundary ;
@@ -827,6 +852,7 @@ wanako'oning:wanako'on ADVLoc_Class=ADVLoc_Boundary ;
 wanakong ADVLoc_Class=ADVLoc_Boundary ;
 wanakwaanow ADVLoc_Class=ADVLoc_Boundary ;
 wanakwaya'ii ADVLoc_Class=ADVLoc_Boundary ;
+washkamonig ADVLoc_Class=ADVLoc_Boundary ;
 wekwaagam ADVLoc_Class=ADVLoc_Boundary ;
 wekwaasag ADVLoc_Class=ADVLoc_Boundary ;
 wekwaashkiig ADVLoc_Class=ADVLoc_Boundary ;
@@ -887,7 +913,7 @@ LEXICON ADVLoc_Class=ADVLoc_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ADVLoc_Class=ADVLoc_Prefix=NONE_Order=Other_Endings
-+ADVLoc: # ;
++ADVLoc: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -928,6 +954,8 @@ bagwana:bagwanaw2 ADVMan_Class=ADVMan_Boundary ;
 bakaan ADVMan_Class=ADVMan_Boundary ;
 bebakaan ADVMan_Class=ADVMan_Boundary ;
 bekaa ADVMan_Class=ADVMan_Boundary ;
+bepesho:bepeshow2 ADVMan_Class=ADVMan_Boundary ;
+biinisikaa ADVMan_Class=ADVMan_Boundary ;
 biinizikaa ADVMan_Class=ADVMan_Boundary ;
 bizaan ADVMan_Class=ADVMan_Boundary ;
 bizaan% igo:bizaan% igow2 ADVMan_Class=ADVMan_Boundary ;
@@ -969,6 +997,7 @@ memeshkwad ADVMan_Class=ADVMan_Boundary ;
 memindage ADVMan_Class=ADVMan_Boundary ;
 memindage% go:memindage% gow2 ADVMan_Class=ADVMan_Boundary ;
 memwech ADVMan_Class=ADVMan_Boundary ;
+meshkod ADVMan_Class=ADVMan_Boundary ;
 meshkwad ADVMan_Class=ADVMan_Boundary ;
 meta:metaw2 ADVMan_Class=ADVMan_Boundary ;
 miinooj ADVMan_Class=ADVMan_Boundary ;
@@ -1032,7 +1061,7 @@ LEXICON ADVMan_Class=ADVMan_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ADVMan_Class=ADVMan_Prefix=NONE_Order=Other_Endings
-+ADVMan: # ;
++ADVMan: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1105,7 +1134,7 @@ LEXICON ADVNeg_Class=ADVNeg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ADVNeg_Class=ADVNeg_Prefix=NONE_Order=Other_Endings
-+ADVNeg: # ;
++ADVNeg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1185,7 +1214,7 @@ LEXICON ADVPred_Class=ADVPred_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ADVPred_Class=ADVPred_Prefix=NONE_Order=Other_Endings
-+ADVPred: # ;
++ADVPred: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1224,6 +1253,8 @@ baatayiinwewaan ADVQnt_Class=ADVQnt_Boundary ;
 bangii ADVQnt_Class=ADVQnt_Boundary ;
 bangiishenh ADVQnt_Class=ADVQnt_Boundary ;
 bebangii ADVQnt_Class=ADVQnt_Boundary ;
+bebangiishenh ADVQnt_Class=ADVQnt_Boundary ;
+bizhishigwaabik ADVQnt_Class=ADVQnt_Boundary ;
 diba'oobaan ADVQnt_Class=ADVQnt_Boundary ;
 eyiizh ADVQnt_Class=ADVQnt_Boundary ;
 gakina:gakinaw2 ADVQnt_Class=ADVQnt_Boundary ;
@@ -1286,7 +1317,7 @@ LEXICON ADVQnt_Class=ADVQnt_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ADVQnt_Class=ADVQnt_Prefix=NONE_Order=Other_Endings
-+ADVQnt: # ;
++ADVQnt: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1316,6 +1347,7 @@ LEXICON ADVTmp_PrefixBoundary
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ADVTmp_Stems
+'owapii ADVTmp_Class=ADVTmp_Boundary ;
 aabiding ADVTmp_Class=ADVTmp_Boundary ;
 aanapii ADVTmp_Class=ADVTmp_Boundary ;
 aanapiish ADVTmp_Class=ADVTmp_Boundary ;
@@ -1341,6 +1373,7 @@ awasinaago:awasinaagow2 ADVTmp_Class=ADVTmp_Boundary ;
 awasonaago:awasonaagow2 ADVTmp_Class=ADVTmp_Boundary ;
 awaswaabang ADVTmp_Class=ADVTmp_Boundary ;
 ayaangodinong ADVTmp_Class=ADVTmp_Boundary ;
+ayaangodinow2 ADVTmp_Class=ADVTmp_Boundary ;
 ayaapii ADVTmp_Class=ADVTmp_Boundary ;
 ayaapiichinaag ADVTmp_Class=ADVTmp_Boundary ;
 azhigwa:azhigwaw2 ADVTmp_Class=ADVTmp_Boundary ;
@@ -1349,6 +1382,7 @@ baamaa ADVTmp_Class=ADVTmp_Boundary ;
 baamaapii ADVTmp_Class=ADVTmp_Boundary ;
 baanimaa ADVTmp_Class=ADVTmp_Boundary ;
 baanimaa% apii ADVTmp_Class=ADVTmp_Boundary ;
+baanimaapii ADVTmp_Class=ADVTmp_Boundary ;
 babenag ADVTmp_Class=ADVTmp_Boundary ;
 bekish ADVTmp_Class=ADVTmp_Boundary ;
 biboonong ADVTmp_Class=ADVTmp_Boundary ;
@@ -1502,98 +1536,100 @@ LEXICON ADVTmp_Class=ADVTmp_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON ADVTmp_Class=ADVTmp_Prefix=NONE_Order=Other_Endings
-+ADVTmp: # ;
++ADVTmp: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: AVDDeg                                                     !
+!         Paradigm: ADVDeg                                                     !
 !         Prefixes                                                             !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON AVDDeg_Prefix
-@P.Prefix.NONE@ AVDDeg_PrefixBoundary ;
+LEXICON ADVDeg_Prefix
+@P.Prefix.NONE@ ADVDeg_PrefixBoundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: AVDDeg                                                     !
+!         Paradigm: ADVDeg                                                     !
 !         Morpheme boundary between prefix and stem                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON AVDDeg_PrefixBoundary
+LEXICON ADVDeg_PrefixBoundary
 0:%<%< PreadverbRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: AVDDeg                                                     !
+!         Paradigm: ADVDeg                                                     !
 !         Stems                                                                !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON AVDDeg_Stems
-aapiji:aapijiw2 AVDDeg_Class=AVDDeg_Boundary ;
-agaawaa AVDDeg_Class=AVDDeg_Boundary ;
-awashime AVDDeg_Class=AVDDeg_Boundary ;
-enigok AVDDeg_Class=AVDDeg_Boundary ;
-eniwek AVDDeg_Class=AVDDeg_Boundary ;
-eniwek% igo:eniwek% igow2 AVDDeg_Class=AVDDeg_Boundary ;
-eshkam AVDDeg_Class=AVDDeg_Boundary ;
-eta:etaw2 AVDDeg_Class=AVDDeg_Boundary ;
-gaawiin% aapiji:gaawiin% aapijiw2 AVDDeg_Class=AVDDeg_Boundary ;
-gegaa AVDDeg_Class=AVDDeg_Boundary ;
-gegaa% go:gegaa% gow2 AVDDeg_Class=AVDDeg_Boundary ;
-gichi-enigok AVDDeg_Class=AVDDeg_Boundary ;
-gomaa AVDDeg_Class=AVDDeg_Boundary ;
-gomaapii AVDDeg_Class=AVDDeg_Boundary ;
-inagakeyaa AVDDeg_Class=AVDDeg_Boundary ;
-inakeya'ii AVDDeg_Class=AVDDeg_Boundary ;
-ingoji:ingojiw2 AVDDeg_Class=AVDDeg_Boundary ;
-miinange AVDDeg_Class=AVDDeg_Boundary ;
-nawaj AVDDeg_Class=AVDDeg_Boundary ;
-nawaj% igo:nawaj% igow2 AVDDeg_Class=AVDDeg_Boundary ;
-nenawaj AVDDeg_Class=AVDDeg_Boundary ;
-owiinge AVDDeg_Class=AVDDeg_Boundary ;
+LEXICON ADVDeg_Stems
+aapiji:aapijiw2 ADVDeg_Class=ADVDeg_Boundary ;
+agaawaa ADVDeg_Class=ADVDeg_Boundary ;
+awashime ADVDeg_Class=ADVDeg_Boundary ;
+enigok ADVDeg_Class=ADVDeg_Boundary ;
+eniwek ADVDeg_Class=ADVDeg_Boundary ;
+eniwek% igo:eniwek% igow2 ADVDeg_Class=ADVDeg_Boundary ;
+eshkam ADVDeg_Class=ADVDeg_Boundary ;
+eta:etaw2 ADVDeg_Class=ADVDeg_Boundary ;
+gaawiin% aapiji:gaawiin% aapijiw2 ADVDeg_Class=ADVDeg_Boundary ;
+gagwaanisa:gagwaanisaw2 ADVDeg_Class=ADVDeg_Boundary ;
+gegaa ADVDeg_Class=ADVDeg_Boundary ;
+gegaa% go:gegaa% gow2 ADVDeg_Class=ADVDeg_Boundary ;
+gichi-enigok ADVDeg_Class=ADVDeg_Boundary ;
+gomaa ADVDeg_Class=ADVDeg_Boundary ;
+gomaapii ADVDeg_Class=ADVDeg_Boundary ;
+inagakeyaa ADVDeg_Class=ADVDeg_Boundary ;
+inakeya'ii ADVDeg_Class=ADVDeg_Boundary ;
+ingoji:ingojiw2 ADVDeg_Class=ADVDeg_Boundary ;
+miinange ADVDeg_Class=ADVDeg_Boundary ;
+nawaj ADVDeg_Class=ADVDeg_Boundary ;
+nawaj% igo:nawaj% igow2 ADVDeg_Class=ADVDeg_Boundary ;
+nenawaj ADVDeg_Class=ADVDeg_Boundary ;
+owiinge ADVDeg_Class=ADVDeg_Boundary ;
+wiinge ADVDeg_Class=ADVDeg_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: AVDDeg, Class: AVDDeg                                      !
+!         Paradigm: ADVDeg, Class: ADVDeg                                      !
 !         Morpheme boundary between stem and suffix                            !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON AVDDeg_Class=AVDDeg_Boundary
-0:%>%> AVDDeg_Class=AVDDeg_Flags ;
+LEXICON ADVDeg_Class=ADVDeg_Boundary
+0:%>%> ADVDeg_Class=ADVDeg_Flags ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: AVDDeg, Class: AVDDeg                                      !
+!         Paradigm: ADVDeg, Class: ADVDeg                                      !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending                                                    !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON AVDDeg_Class=AVDDeg_Flags
-@R.Prefix.NONE@ AVDDeg_Class=AVDDeg_Flags_Prefix=NONE ;
+LEXICON ADVDeg_Class=ADVDeg_Flags
+@R.Prefix.NONE@ ADVDeg_Class=ADVDeg_Flags_Prefix=NONE ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: AVDDeg, Class: AVDDeg                                      !
+!         Paradigm: ADVDeg, Class: ADVDeg                                      !
 !         Flag diacritic governing combinations between                        !
 !         prefix and ending_Prefix=NONE                                        !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON AVDDeg_Class=AVDDeg_Flags_Prefix=NONE
-@U.Order.Other@ AVDDeg_Class=AVDDeg_Prefix=NONE_Order=Other_Endings ;
+LEXICON ADVDeg_Class=ADVDeg_Flags_Prefix=NONE
+@U.Order.Other@ ADVDeg_Class=ADVDeg_Prefix=NONE_Order=Other_Endings ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
-!         Paradigm: AVDDeg, Class: AVDDeg, Prefix: NONE, Order: Other          !
+!         Paradigm: ADVDeg, Class: ADVDeg, Prefix: NONE, Order: Other          !
 !         Endings                                                              !
 !                                                                              !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON AVDDeg_Class=AVDDeg_Prefix=NONE_Order=Other_Endings
-+AVDDeg: # ;
+LEXICON ADVDeg_Class=ADVDeg_Prefix=NONE_Order=Other_Endings
++ADVDeg: EncliticRoot ;
 

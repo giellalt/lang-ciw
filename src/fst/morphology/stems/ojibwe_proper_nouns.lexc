@@ -34,7 +34,8 @@ LEXICON ProperNounStems
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON NamePerson_Stems
-Naawakamigook NamePerson_Class=NamePerson_Boundary ;
+Anangookwe NamePerson_Class=NamePerson_Boundary ;
+Dabasaanakwadook NamePerson_Class=NamePerson_Boundary ;
 Ogimaawigwanebiik NamePerson_Class=NamePerson_Boundary ;
 Wenabozho:Wenabozhow2 NamePerson_Class=NamePerson_Boundary ;
 
@@ -78,7 +79,7 @@ LEXICON NamePerson_Class=NamePerson_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON NamePerson_Class=NamePerson_Prefix=NONE_Order=Other_Endings
-+NamePerson: # ;
++NamePerson: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -184,5 +185,5 @@ LEXICON NamePlace_Class=NamePlace_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON NamePlace_Class=NamePlace_Prefix=NONE_Order=Other_Endings
-+NamePlace: # ;
++NamePlace: EncliticRoot ;
 

@@ -11,6 +11,7 @@ LEXICON PronounRoot
 @P.Paradigm.PRONDub+NA+ProxSg@ PRONDub+NA+ProxSg_Prefix ;
 @P.Paradigm.PRONDub+NI+Pl@ PRONDub+NI+Pl_Prefix ;
 @P.Paradigm.PRONDub+NI+Sg@ PRONDub+NI+Sg_Prefix ;
+@P.Paradigm.PRONIndf+NA+ProxPl@ PRONIndf+NA+ProxPl_Prefix ;
 @P.Paradigm.PRONIndf+NA@ PRONIndf+NA_Prefix ;
 @P.Paradigm.PRONIndf+NI@ PRONIndf+NI_Prefix ;
 @P.Paradigm.PRONInter+NA+ObvPl@ PRONInter+NA+ObvPl_Prefix ;
@@ -68,6 +69,7 @@ LEXICON PronounStems
 @R.Paradigm.PRONDub+NA+ProxSg@ PRONDub+NA+ProxSg_Stems ;
 @R.Paradigm.PRONDub+NI+Pl@ PRONDub+NI+Pl_Stems ;
 @R.Paradigm.PRONDub+NI+Sg@ PRONDub+NI+Sg_Stems ;
+@R.Paradigm.PRONIndf+NA+ProxPl@ PRONIndf+NA+ProxPl_Stems ;
 @R.Paradigm.PRONIndf+NA@ PRONIndf+NA_Stems ;
 @R.Paradigm.PRONIndf+NI@ PRONIndf+NI_Stems ;
 @R.Paradigm.PRONInter+NA+ObvPl@ PRONInter+NA+ObvPl_Stems ;
@@ -157,7 +159,7 @@ LEXICON PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONDem+NA+ProxSg_Class=PRONDem+NA+ProxSg_Prefix=NONE_Order=Other_Endings
-+PRONDem+NA+ProxSg: # ;
++PRONDem+NA+ProxSg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -196,6 +198,7 @@ igiwedig PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
 igiweg PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
 ingiw PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
 ingiwedig PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
+ogo:ogow2 PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
 ogow PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
 ogowe PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
 ogowedi:ogowediw2 PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Boundary ;
@@ -244,7 +247,7 @@ LEXICON PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONDem+NA+ProxPl_Class=PRONDem+NA+ProxPl_Prefix=NONE_Order=Other_Endings
-+PRONDem+NA+ProxPl: # ;
++PRONDem+NA+ProxPl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -327,7 +330,7 @@ LEXICON PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONDem+NA+ObvSg_Class=PRONDem+NA+ObvSg_Prefix=NONE_Order=Other_Endings
-+PRONDem+NA+ObvSg: # ;
++PRONDem+NA+ObvSg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -410,7 +413,7 @@ LEXICON PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONDem+NA+ObvPl_Class=PRONDem+NA+ObvPl_Prefix=NONE_Order=Other_Endings
-+PRONDem+NA+ObvPl: # ;
++PRONDem+NA+ObvPl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -452,12 +455,15 @@ i'i:i'iw2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
 i'iw PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
 i'iwe PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
 i'iwedi:i'iwediw2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+idi:idiw2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
 iw PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
 iwe PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+iwedi:iwediw2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
 o'o:o'ow2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
 o'ow PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
 o'owe PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
 o'owedi:o'owediw2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
+ow PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
 owe PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
 owedi:owediw2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
 yo'o:yo'ow2 PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Boundary ;
@@ -503,7 +509,7 @@ LEXICON PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONDem+NI+Sg_Class=PRONDem+NI+Sg_Prefix=NONE_Order=Other_Endings
-+PRONDem+NI+Sg: # ;
++PRONDem+NI+Sg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -587,7 +593,7 @@ LEXICON PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONDem+NI+Pl_Class=PRONDem+NI+Pl_Prefix=NONE_Order=Other_Endings
-+PRONDem+NI+Pl: # ;
++PRONDem+NI+Pl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -660,7 +666,7 @@ LEXICON PRONDub+NI+Sg_Class=PRONDub+NI+Sg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONDub+NI+Sg_Class=PRONDub+NI+Sg_Prefix=NONE_Order=Other_Endings
-+PRONDub+NI+Sg: # ;
++PRONDub+NI+Sg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -733,7 +739,7 @@ LEXICON PRONDub+NI+Pl_Class=PRONDub+NI+Pl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONDub+NI+Pl_Class=PRONDub+NI+Pl_Prefix=NONE_Order=Other_Endings
-+PRONDub+NI+Pl: # ;
++PRONDub+NI+Pl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -805,7 +811,7 @@ LEXICON PRONDub+NA+ProxSg_Class=PRONDub+NA+ProxSg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONDub+NA+ProxSg_Class=PRONDub+NA+ProxSg_Prefix=NONE_Order=Other_Endings
-+PRONDub+NA+ProxSg: # ;
++PRONDub+NA+ProxSg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -877,7 +883,7 @@ LEXICON PRONDub+NA+ProxPl_Class=PRONDub+NA+ProxPl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONDub+NA+ProxPl_Class=PRONDub+NA+ProxPl_Prefix=NONE_Order=Other_Endings
-+PRONDub+NA+ProxPl: # ;
++PRONDub+NA+ProxPl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -949,7 +955,7 @@ LEXICON PRONDub+NA+ObvSg_Class=PRONDub+NA+ObvSg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONDub+NA+ObvSg_Class=PRONDub+NA+ObvSg_Prefix=NONE_Order=Other_Endings
-+PRONDub+NA+ObvSg: # ;
++PRONDub+NA+ObvSg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1022,7 +1028,7 @@ LEXICON PRONDub+NA+ObvPl_Class=PRONDub+NA+ObvPl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONDub+NA+ObvPl_Class=PRONDub+NA+ObvPl_Prefix=NONE_Order=Other_Endings
-+PRONDub+NA+ObvPl: # ;
++PRONDub+NA+ObvPl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1098,7 +1104,79 @@ LEXICON PRONIndf+NA_Class=PRONIndf+NA_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONIndf+NA_Class=PRONIndf+NA_Prefix=NONE_Order=Other_Endings
-+PRONIndf+NA: # ;
++PRONIndf+NA: EncliticRoot ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA+ProxPl                                         !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA+ProxPl_Prefix
+@P.Prefix.NONE@ PRONIndf+NA+ProxPl_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA+ProxPl                                         !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA+ProxPl_PrefixBoundary
+0:%<%< PronounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA+ProxPl                                         !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA+ProxPl_Stems
+awiyag PRONIndf+NA+ProxPl_Class=PRONIndf+NA+ProxPl_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA+ProxPl, Class: PRONIndf+NA+ProxPl              !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA+ProxPl_Class=PRONIndf+NA+ProxPl_Boundary
+0:%>%> PRONIndf+NA+ProxPl_Class=PRONIndf+NA+ProxPl_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA+ProxPl, Class: PRONIndf+NA+ProxPl              !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA+ProxPl_Class=PRONIndf+NA+ProxPl_Flags
+@R.Prefix.NONE@ PRONIndf+NA+ProxPl_Class=PRONIndf+NA+ProxPl_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA+ProxPl, Class: PRONIndf+NA+ProxPl              !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA+ProxPl_Class=PRONIndf+NA+ProxPl_Flags_Prefix=NONE
+@U.Order.Other@ PRONIndf+NA+ProxPl_Class=PRONIndf+NA+ProxPl_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: PRONIndf+NA+ProxPl, Class: PRONIndf+NA+ProxPl, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRONIndf+NA+ProxPl_Class=PRONIndf+NA+ProxPl_Prefix=NONE_Order=Other_Endings
++PRONIndf+NA+ProxPl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1174,7 +1252,7 @@ LEXICON PRONIndf+NI_Class=PRONIndf+NI_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONIndf+NI_Class=PRONIndf+NI_Prefix=NONE_Order=Other_Endings
-+PRONIndf+NI: # ;
++PRONIndf+NI: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1246,7 +1324,7 @@ LEXICON PRONInter+NA_Class=PRONInter+NA_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONInter+NA_Class=PRONInter+NA_Prefix=NONE_Order=Other_Endings
-+PRONInter+NA: # ;
++PRONInter+NA: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1321,7 +1399,7 @@ LEXICON PRONInter+NI+Sg_Class=PRONInter+NI+Sg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONInter+NI+Sg_Class=PRONInter+NI+Sg_Prefix=NONE_Order=Other_Endings
-+PRONInter+NI+Sg: # ;
++PRONInter+NI+Sg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1394,7 +1472,7 @@ LEXICON PRONInter+NI+Pl_Class=PRONInter+NI+Pl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONInter+NI+Pl_Class=PRONInter+NI+Pl_Prefix=NONE_Order=Other_Endings
-+PRONInter+NI+Pl: # ;
++PRONInter+NI+Pl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1466,7 +1544,7 @@ LEXICON PRONInter+NA+ProxSg_Class=PRONInter+NA+ProxSg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONInter+NA+ProxSg_Class=PRONInter+NA+ProxSg_Prefix=NONE_Order=Other_Endings
-+PRONInter+NA+ProxSg: # ;
++PRONInter+NA+ProxSg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1538,7 +1616,7 @@ LEXICON PRONInter+NA+ObvSg_Class=PRONInter+NA+ObvSg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONInter+NA+ObvSg_Class=PRONInter+NA+ObvSg_Prefix=NONE_Order=Other_Endings
-+PRONInter+NA+ObvSg: # ;
++PRONInter+NA+ObvSg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1611,7 +1689,7 @@ LEXICON PRONInter+NA+ObvPl_Class=PRONInter+NA+ObvPl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONInter+NA+ObvPl_Class=PRONInter+NA+ObvPl_Prefix=NONE_Order=Other_Endings
-+PRONInter+NA+ObvPl: # ;
++PRONInter+NA+ObvPl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1683,7 +1761,7 @@ LEXICON PRONInter+NA+ProxPl_Class=PRONInter+NA+ProxPl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONInter+NA+ProxPl_Class=PRONInter+NA+ProxPl_Prefix=NONE_Order=Other_Endings
-+PRONInter+NA+ProxPl: # ;
++PRONInter+NA+ProxPl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1755,7 +1833,7 @@ LEXICON PRONPret+NA_Class=PRONPret+NA_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONPret+NA_Class=PRONPret+NA_Prefix=NONE_Order=Other_Endings
-+PRONPret+NA: # ;
++PRONPret+NA: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1828,7 +1906,7 @@ LEXICON PRONSim+NI+Sg_Class=PRONSim+NI+Sg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONSim+NI+Sg_Class=PRONSim+NI+Sg_Prefix=NONE_Order=Other_Endings
-+PRONSim+NI+Sg: # ;
++PRONSim+NI+Sg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1900,7 +1978,7 @@ LEXICON PRONSim+NI+Pl_Class=PRONSim+NI+Pl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONSim+NI+Pl_Class=PRONSim+NI+Pl_Prefix=NONE_Order=Other_Endings
-+PRONSim+NI+Pl: # ;
++PRONSim+NI+Pl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -1973,7 +2051,7 @@ LEXICON PRONSim+NA+ProxSg_Class=PRONSim+NA+ProxSg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONSim+NA+ProxSg_Class=PRONSim+NA+ProxSg_Prefix=NONE_Order=Other_Endings
-+PRONSim+NA+ProxSg: # ;
++PRONSim+NA+ProxSg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -2045,7 +2123,7 @@ LEXICON PRONSim+NA+ProxPl_Class=PRONSim+NA+ProxPl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONSim+NA+ProxPl_Class=PRONSim+NA+ProxPl_Prefix=NONE_Order=Other_Endings
-+PRONSim+NA+ProxPl: # ;
++PRONSim+NA+ProxPl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -2117,7 +2195,7 @@ LEXICON PRONSim+NA+ObvSg_Class=PRONSim+NA+ObvSg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONSim+NA+ObvSg_Class=PRONSim+NA+ObvSg_Prefix=NONE_Order=Other_Endings
-+PRONSim+NA+ObvSg: # ;
++PRONSim+NA+ObvSg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -2190,7 +2268,7 @@ LEXICON PRONSim+NA+ObvPl_Class=PRONSim+NA+ObvPl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONSim+NA+ObvPl_Class=PRONSim+NA+ObvPl_Prefix=NONE_Order=Other_Endings
-+PRONSim+NA+ObvPl: # ;
++PRONSim+NA+ObvPl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -2265,7 +2343,7 @@ LEXICON PRONPer+NA+1Sg_Class=PRONPer+NA+1Sg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONPer+NA+1Sg_Class=PRONPer+NA+1Sg_Prefix=NONE_Order=Other_Endings
-+PRONPer+NA+1Sg: # ;
++PRONPer+NA+1Sg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -2340,7 +2418,7 @@ LEXICON PRONPer+NA+2Pl_Class=PRONPer+NA+2Pl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONPer+NA+2Pl_Class=PRONPer+NA+2Pl_Prefix=NONE_Order=Other_Endings
-+PRONPer+NA+2Pl: # ;
++PRONPer+NA+2Pl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -2415,7 +2493,7 @@ LEXICON PRONPer+NA+2Sg_Class=PRONPer+NA+2Sg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONPer+NA+2Sg_Class=PRONPer+NA+2Sg_Prefix=NONE_Order=Other_Endings
-+PRONPer+NA+2Sg: # ;
++PRONPer+NA+2Sg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -2490,7 +2568,7 @@ LEXICON PRONPer+NA+3Pl_Class=PRONPer+NA+3Pl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONPer+NA+3Pl_Class=PRONPer+NA+3Pl_Prefix=NONE_Order=Other_Endings
-+PRONPer+NA+3Pl: # ;
++PRONPer+NA+3Pl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -2565,7 +2643,7 @@ LEXICON PRONPer+NA+3Sg_Class=PRONPer+NA+3Sg_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONPer+NA+3Sg_Class=PRONPer+NA+3Sg_Prefix=NONE_Order=Other_Endings
-+PRONPer+NA+3Sg: # ;
++PRONPer+NA+3Sg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -2640,7 +2718,7 @@ LEXICON PRONPer+NA+Excl_Class=PRONPer+NA+Excl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONPer+NA+Excl_Class=PRONPer+NA+Excl_Prefix=NONE_Order=Other_Endings
-+PRONPer+NA+Excl: # ;
++PRONPer+NA+Excl: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -2715,5 +2793,5 @@ LEXICON PRONPer+NA+Incl_Class=PRONPer+NA+Incl_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PRONPer+NA+Incl_Class=PRONPer+NA+Incl_Prefix=NONE_Order=Other_Endings
-+PRONPer+NA+Incl: # ;
++PRONPer+NA+Incl: EncliticRoot ;
 

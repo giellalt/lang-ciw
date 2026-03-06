@@ -101,7 +101,7 @@ LEXICON PCInterj_Class=PCInterj_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PCInterj_Class=PCInterj_Prefix=NONE_Order=Other_Endings
-+PCInterj: # ;
++PCInterj: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -138,6 +138,7 @@ igo:igow2 PCEmph_Class=PCEmph_Boundary ;
 inaa PCEmph_Class=PCEmph_Boundary ;
 isa:isaw2 PCEmph_Class=PCEmph_Boundary ;
 naa PCEmph_Class=PCEmph_Boundary ;
+osha:oshaw2 PCEmph_Class=PCEmph_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -179,7 +180,7 @@ LEXICON PCEmph_Class=PCEmph_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PCEmph_Class=PCEmph_Prefix=NONE_Order=Other_Endings
-+PCEmph: # ;
++PCEmph: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -209,23 +210,35 @@ LEXICON PCDisc_PrefixBoundary
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PCDisc_Stems
+aana:aanaw2 PCDisc_Class=PCDisc_Boundary ;
+aapidakamig PCDisc_Class=PCDisc_Boundary ;
 aapidekamig PCDisc_Class=PCDisc_Boundary ;
+aashke PCDisc_Class=PCDisc_Boundary ;
 aatayaa PCDisc_Class=PCDisc_Boundary ;
+angashkomaa PCDisc_Class=PCDisc_Boundary ;
 awas PCDisc_Class=PCDisc_Boundary ;
 ay' PCDisc_Class=PCDisc_Boundary ;
+baakaj PCDisc_Class=PCDisc_Boundary ;
 baapiniziwaagan PCDisc_Class=PCDisc_Boundary ;
+bina:binaw2 PCDisc_Class=PCDisc_Boundary ;
+booshke PCDisc_Class=PCDisc_Boundary ;
 booshke% giin PCDisc_Class=PCDisc_Boundary ;
+da:daw2 PCDisc_Class=PCDisc_Boundary ;
 da% naa PCDisc_Class=PCDisc_Boundary ;
 daga:dagaw2 PCDisc_Class=PCDisc_Boundary ;
+dagapii PCDisc_Class=PCDisc_Boundary ;
 detiwe PCDisc_Class=PCDisc_Boundary ;
 en' PCDisc_Class=PCDisc_Boundary ;
 enange PCDisc_Class=PCDisc_Boundary ;
+enh PCDisc_Class=PCDisc_Boundary ;
 enyanh' PCDisc_Class=PCDisc_Boundary ;
 eya' PCDisc_Class=PCDisc_Boundary ;
 gaawesaa PCDisc_Class=PCDisc_Boundary ;
 gaawiin% ingodinoo PCDisc_Class=PCDisc_Boundary ;
 giboj PCDisc_Class=PCDisc_Boundary ;
+giiwaaj PCDisc_Class=PCDisc_Boundary ;
 giiwenh PCDisc_Class=PCDisc_Boundary ;
+giniin PCDisc_Class=PCDis_Boundary ;
 go:gow2 PCDisc_Class=PCDisc_Boundary ;
 iinzan PCDisc_Class=PCDisc_Boundary ;
 ina:inaw2 PCDisc_Class=PCDisc_Boundary ;
@@ -236,6 +249,7 @@ ine PCDisc_Class=PCDisc_Boundary ;
 inge PCDisc_Class=PCDisc_Boundary ;
 ingwana:ingwanaw2 PCDisc_Class=PCDisc_Boundary ;
 ise PCDisc_Class=PCDisc_Boundary ;
+ishke PCDisc_Class=PCDisc_Boundary ;
 ke PCDisc_Class=PCDisc_Boundary ;
 maamakaadakamig PCDisc_Class=PCDisc_Boundary ;
 miigwech PCDisc_Class=PCDisc_Boundary ;
@@ -243,6 +257,7 @@ miitagiin PCDisc_Class=PCDisc_Boundary ;
 na:naw2 PCDisc_Class=PCDisc_Boundary ;
 naasanaa PCDisc_Class=PCDisc_Boundary ;
 naayanh PCDisc_Class=PCDisc_Boundary ;
+nanda:nandaw2 PCDisc_Class=PCDisc_Boundary ;
 nangwana:nangwanaw2 PCDisc_Class=PCDisc_Boundary ;
 nashke PCDisc_Class=PCDisc_Boundary ;
 nashke% giniin PCDisc_Class=PCDisc_Boundary ;
@@ -256,7 +271,9 @@ owa:owaw2 PCDisc_Class=PCDisc_Boundary ;
 sa PCDisc_Class=PCDisc_Boundary ;
 sa:saw2 PCDisc_Class=PCDisc_Boundary ;
 shke PCDisc_Class=PCDisc_Boundary ;
+shko:shkow2 PCDisc_Class=PCDisc_Boundary ;
 taayaa PCDisc_Class=PCDisc_Boundary ;
+wa:waw2 PCDisc_Class=PCDisc_Boundary ;
 waa PCDisc_Class=PCDisc_Boundary ;
 way PCDisc_Class=PCDisc_Boundary ;
 
@@ -300,7 +317,7 @@ LEXICON PCDisc_Class=PCDisc_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PCDisc_Class=PCDisc_Prefix=NONE_Order=Other_Endings
-+PCDisc: # ;
++PCDisc: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -376,5 +393,5 @@ LEXICON PCAsp_Class=PCAsp_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON PCAsp_Class=PCAsp_Prefix=NONE_Order=Other_Endings
-+PCAsp: # ;
++PCAsp: EncliticRoot ;
 
