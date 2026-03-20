@@ -1,0 +1,24 @@
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                         !!
+!!   CL lexicons start     !!
+!!                         !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON EncliticRoot
+enCLBoundary ;
+# ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!                         !!
+!!        enCLitic         !!
+!!                         !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON enCL
++CL%/ADVConj%/dash:sh # ;
+
+
+LEXICON enCLBoundary
+0:- enCL ;

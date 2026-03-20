@@ -34,11 +34,12 @@ GT_LEXC_ROOT=$(srcdir)/root.lexc
 # Set this to the names of all regular lexc source files:
 GT_LEXC_SRCS_L1_L2=\
 			stems/ojibwe_adverbs.lexc \
-			stems/ojibwe_irregular_verbs.lexc \
+			stems/enclitics.lexc \
 			stems/ojibwe_nouns.lexc \
 			stems/ojibwe_numerals.lexc \
 			stems/ojibwe_particles.lexc \
 			stems/ojibwe_pronouns.lexc \
+			stems/ojibwe_proper_nouns.lexc \
 			stems/ojibwe_verbs.lexc \
 			stems/preadverbs.lexc \
 			stems/prenouns.lexc \

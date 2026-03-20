@@ -161,18 +161,18 @@ PVLex%/giiwitaa+ PVLex%/giiwitaawi+ PVLex%/giizhi+ PVLex%/gijigi+
 PVLex%/gimooji+ PVLex%/ginibi+ PVLex%/ginwaako+ PVLex%/ginwaakojii+
 PVLex%/goji+ PVLex%/goshko+ PVLex%/gwayako+ PVLex%/gwiinawi+ PVLex%/ishkwaa+
 PVLex%/ishkwe+ PVLex%/ishpi+ PVLex%/jiigewe+ PVLex%/jiigi+ PVLex%/maajii+
-PVLex%/maamawoo+ PVLex%/maazhi+ PVLex%/madwe+ PVLex%/maji+ PVLex%/makade+
-PVLex%/mangi+ PVLex%/mayagi+ PVLex%/megwaa+ PVLex%/megwe+ PVLex%/michi+
-PVLex%/miigwechiwi+ PVLex%/mino+ PVLex%/mishi+ PVLex%/misko+ PVLex%/naabe+
-PVLex%/naawi+ PVLex%/nabagi+ PVLex%/nanda+ PVLex%/niibaa+ PVLex%/niigaani+
-PVLex%/niiji+ PVLex%/niisi+ PVLex%/nisawi+ PVLex%/nishkaaji+ PVLex%/nitaa+
-PVLex%/nitami+ PVLex%/noonde+ PVLex%/noosooki+ PVLex%/noozhe+ PVLex%/ogiji+
-PVLex%/ojaanimi+ PVLex%/oke+ PVLex%/oko+ PVLex%/ondami+ PVLex%/onzaami+
-PVLex%/opime+ PVLex%/oshki+ PVLex%/ozaawi+ PVLex%/ozhaashi+ PVLex%/ozhaawashko+
-PVLex%/waabani+ PVLex%/waabanoo+ PVLex%/waabi+ PVLex%/waabijii+
-PVLex%/waabishki+ PVLex%/waanda+ PVLex%/waasamoo+ PVLex%/waasiko+
-PVLex%/wagiji+ PVLex%/wake+ PVLex%/wani+ PVLex%/wenda+ PVLex%/wiiji+
-PVLex%/wiimaa+ PVLex%/wiisagi+ PVLex%/wiishkobi+ PVLex%/zazegaa+
+PVLex%/maamawi+ PVLex%/maamawoo+ PVLex%/maazhi+ PVLex%/madwe+ PVLex%/maji+
+PVLex%/makade+ PVLex%/mangi+ PVLex%/mayagi+ PVLex%/megwaa+ PVLex%/megwe+
+PVLex%/michi+ PVLex%/miigwechiwi+ PVLex%/mino+ PVLex%/mishi+ PVLex%/misko+
+PVLex%/naabe+ PVLex%/naawi+ PVLex%/nabagi+ PVLex%/nanda+ PVLex%/niibaa+
+PVLex%/niigaani+ PVLex%/niiji+ PVLex%/niisi+ PVLex%/nisawi+ PVLex%/nishkaaji+
+PVLex%/nitaa+ PVLex%/nitami+ PVLex%/noonde+ PVLex%/noosooki+ PVLex%/noozhe+
+PVLex%/ogiji+ PVLex%/ojaanimi+ PVLex%/oke+ PVLex%/oko+ PVLex%/ondami+
+PVLex%/onzaami+ PVLex%/opime+ PVLex%/oshki+ PVLex%/ozaawi+ PVLex%/ozhaashi+
+PVLex%/ozhaawashko+ PVLex%/waabani+ PVLex%/waabanoo+ PVLex%/waabi+
+PVLex%/waabijii+ PVLex%/waabishki+ PVLex%/waanda+ PVLex%/waasamoo+
+PVLex%/waasiko+ PVLex%/wagiji+ PVLex%/wake+ PVLex%/wani+ PVLex%/wenda+
+PVLex%/wiiji+ PVLex%/wiimaa+ PVLex%/wiisagi+ PVLex%/wiishkobi+ PVLex%/zazegaa+
 PVLex%/zhaawani+ PVLex%/zhiibaa+ PVLex%/zhiiwi+ PVLex%/ziiwiski+ PVQnt%/aabita+
 PVQnt%/ashi-bezhigo+ PVQnt%/ashi-ingodwaaso+ PVQnt%/ashi-ishwaaso+
 PVQnt%/ashi-naano+ PVQnt%/ashi-niiwo+ PVQnt%/ashi-niiyo+ PVQnt%/ashi-niizho+
@@ -195,4 +195,3 @@ ParticleRoot ;
 PronounRoot ;
 ProperNounRoot ;
 VerbRoot ;
-VerbRootIrregular ;
