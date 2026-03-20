@@ -4,7 +4,7 @@ The Southwestern Ojibwe morphology and tools
 [![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ciw%2Fgh-pages%2Fmaturity.json)](https://giellalt.github.io/MaturityClassification.html)
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ciw%2Fgh-pages%2Flemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-ciw)](https://github.com/giellalt/lang-ciw/issues)
-[![License](https://img.shields.io/github/license/giellalt/lang-ciw)](https://github.com/giellalt/lang-ciw/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/giellalt/lang-ciw)](https://github.com/giellalt/lang-ciw/blob/main/LICENSE.md)
 [![Doc Build Status](https://github.com/giellalt/lang-ciw/workflows/Docs/badge.svg)](https://github.com/giellalt/lang-ciw/actions)
 [![CI/CD Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-ciw/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-ciw/main/latest)
 
