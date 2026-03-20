@@ -272,59 +272,13 @@ match the prefixes in the stem file.
 
 ---
 
-## src-fst-morphology-stems-interjections.lexc.md 
+## src-fst-morphology-stems-enclitics.lexc.md 
 
 
-Ojibwe interjections                           
-
-This is a dummy files, awaiting real interjections.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/interjections.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/interjections.lexc)</small>
-
----
-
-## src-fst-morphology-stems-nouns.lexc.md 
-
-
-Ojibwe noun stems                           
-
-Note that both prefixes and suffixes are found in the file
-../affixes/nouns.lexc
-
-The stems
-
-####  Animate Nouns
-
-####  Inanimate Nouns
-
-LEXICON INSTEMS  
-
-waakaa'igan INDECL "house" ;  
-adopowin INDECL "table" ;     
-
-LEXICON KINSHIPSTEMS   
-
-* baabaa KINDECL "father" ;   
-* maamaa KINDECL "mother" ;   
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/nouns.lexc)</small>
-
----
-
-## src-fst-morphology-stems-numerals.lexc.md 
-
-
-Ojibwe numerals                           
-
-None so far.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/numerals.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/enclitics.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/enclitics.lexc)</small>
 
 ---
 
@@ -348,19 +302,6 @@ None so far.
 
 ---
 
-## src-fst-morphology-stems-prepositions.lexc.md 
-
-
-Ojibwe postpositions                           
-
-Do these even exist?
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/prepositions.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/prepositions.lexc)</small>
-
----
-
 ## src-fst-morphology-stems-preverbs.lexc.md 
 
 
@@ -368,93 +309,6 @@ Do these even exist?
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/preverbs.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/preverbs.lexc)</small>
-
----
-
-## src-fst-morphology-stems-pronouns.lexc.md 
-
-
-Ojibwe verb morphology                           
-
-We list personal and demonstrative pronouns, and still have
-not made it to the reflexives.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/pronouns.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/pronouns.lexc)</small>
-
----
-
-## src-fst-morphology-stems-subjunctions.lexc.md 
-
-
-Ojibwe postpositions                           
-
-This is a dummy file, but perhaps *den* is a real subjunction?
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/subjunctions.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/subjunctions.lexc)</small>
-
----
-
-## src-fst-morphology-stems-verbs.lexc.md 
-
-
-Ojibwe verb stems                           
-
-The verbs are analysed as follows:
-* We split the Verb lexicon in 4 groups according to transitivity class
-* For each group, we add the prefixes, and mark them with *flag diacritics* (the @ symbols)
-* Then come the stems themselves
-* Finally, come the suffixes, including flag diacritics
-to ensure that the correct prefixes and suffixes are matched together
-
-Prefixes and suffixes are in affixes/verbs.lexc, whereas
-the stems are in stems/verbs.lexc
-
-The Ojibwe verbs are divided in four groups:
-
-1. IA: Intransitive animate
-1. II: Intransitive inanimate
-1. TA: Transitive animate
-1. TI: Transitive inanimate
-
-The stems
-
-LEXICON IASTEM    
-
--mo 
-
--de
-
--aa / go/be ?
-
-VAI2 extracted from pdfs in Gikendandaa Ojibwemowin.
-All of these are -am stems. What is (CH)?
-
-VAI3 extracted from pdfs in Gikendandaa Ojibwemowin
-All of these are -shin stems. What is (CH)?
-
-dw- ?
-
-LEXICON IISTEM    
-
-TODO: these need morphology
-
-LEXICON TASTEM_am    
-
-LEXICON TASTEM_aw    
-
--zo passives
-
-TODO: morphology for the -zo passives
-
-LEXICON ZO    
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/verbs.lexc](https://github.com/giellalt/lang-ciw/blob/main/src/fst/morphology/stems/verbs.lexc)</small>
 
 ---
 
