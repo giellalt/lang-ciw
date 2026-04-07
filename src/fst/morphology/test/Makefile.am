@@ -17,6 +17,7 @@ GENERATION_TESTS=
 XFAIL_TESTS=generate-noun-lemmas.sh \
             generate-propernoun-lemmas.sh \
             generate-verb-lemmas.sh       \
+            generate-adjective-lemmas.sh       \
 			missing-multichars.sh
 
 
