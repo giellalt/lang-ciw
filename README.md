@@ -1,12 +1,12 @@
 The Southwestern Ojibwe morphology and tools
 ==========================================
 
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ciw%2Fgh-pages%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ciw%2Fgh-pages%2Fbadgedata%2Ffst-lemmacount.json)
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ciw%2Fmain%2Fdocs%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-ciw%2Fmain%2Fdocs%2Fbadgedata%2Ffst-lemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-ciw)](https://github.com/giellalt/lang-ciw/issues)
 [![License](https://img.shields.io/github/license/giellalt/lang-ciw)](https://github.com/giellalt/lang-ciw/blob/main/LICENSE.md)
-[![Doc Build Status](https://github.com/giellalt/lang-ciw/workflows/Docs/badge.svg)](https://github.com/giellalt/lang-ciw/actions)
-[![CI/CD Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-ciw/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-ciw/main/latest)
+[![Doc build](https://img.shields.io/github/actions/workflow/status/giellalt/lang-ciw/docs.yml?logo=github&label=DocCI)](https://github.com/giellalt/lang-ciw/actions/workflows/docs.yml)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-ciw?logo=buildkite&label=CoreCI)](https://builds.giellalt.org/pipelines/lang-ciw/builds/latest)
 
 Download nightly / CI/CD installation packages for testing (contains the core zhfst file(s)):
 
