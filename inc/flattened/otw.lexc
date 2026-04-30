@@ -6082,7 +6082,7 @@ jaangaakshkoode:jaangaakoshkoode    VII_TAG    " 1 be tilted2up by weight, tilt 
 jaangaaksin:jaangaakosin    VII_TAG    " 1 lie with one end2raised" ; !Rand key:n73082950039n
 jaanmakmigat:jaanVv1makamigad2   VII_TAG    " 1 be hectic, bustle with activity" ; !Rand key:n7304367398n
 jaanmiiwat:jaanVv1miiwad2   VII_TAG    " 1 be busy, bustle with activity" ; !Rand key:n7304367638n
-Jibwesin:ojibwesin    VII_TAG    " 1 be written in Chippewa, be written in Ojibwa, be written in Ojibway" ; !Rand2key:n73028341560n
+Jibwesin:ojibwesin    VII_TAG    " 1 be written in Southwestern Ojibwe (Anishinaabemowin), be written in Ojibwa, be written in Ojibway" ; !Rand2key:n73028341560n
 jidkiisin:ajidakiisin    VII_TAG    " 1 lie on its head, lie upside down, lie with upper part tilted2downwards, stand upside down" ; !Rand key:n73028343226n
 Jiibaatgo-giizhgat:jiibaatigo-giizhigad2   VII_TAG    " 1 be Friday" ; !Rand key:n73028345361n
 jiibse:jiibVv1se    VII_TAG    " 1 shake momentarily" ; !Rand2key:n73032647355n
@@ -9455,7 +9455,7 @@ jenjngwaam:jenjingwaam    VAI_TAG    " 1 sleep in luxury one is not accustomed t
 jepaadzi:jepaadizi    VAI_TAG    " 1 be agile, be quick (of one's trait)" ; !Rand key:n73028340056n
 jepzi:jepizi    VAI_TAG    " 1 be athletic, be bright, be clever, be coordinated" ; !Rand key:n73028340244n
 jeshkse:jeshkVv1se    VAI_TAG    " 1 strike something headlong" ; !Rand key:n71429843740n
-Jibwemo:ojibwemo    VAI_TAG    " 1 speak Chippewa, speak Ojibwa, speak Ojibway" ; !Rand key:n73028341049n
+Jibwemo:ojibwemo    VAI_TAG    " 1 speak Southwestern Ojibwe (Anishinaabemowin), speak Ojibwa, speak Ojibway" ; !Rand key:n73028341049n
 jichaabi:ajichaabi    VAI_TAG    " 1 be cross-eyed" ; !Rand key:n73028341721n
 jidkiigaabwi:ajidakiigaabawi    VAI_TAG    " 1 do a handstand, do a headstand, stand on one's head" ; !Rand key:n73028342522n
 jidkiise:ajidakiise    VAI_TAG    " 1 fall face first, fall head first" ; !Rand key:n73028342675n
@@ -13895,7 +13895,7 @@ jaajiigwmaa:jaajiigwam    VTA_TAG    " 1 gnaw on sth. (an.)" ; !Rand key:n730283
 jaanmwewemaa:jaanVv1mwewem    VTA_TAG    " 1 call out to smb. urgently to do something" ; !Rand key:n73102080462n
 jejenshimaa:jejenVv1shim    VTA_TAG    " 1 put sth. (an.) down gingerly" ; !Rand key:n73028337403n
 jekaakdaabaanaa:jekaakodaabaan    VTA_TAG    " 1 drag smb. off into the woods" ; !Rand key:n73082952127n
-Jibwemtawaa:ojibwemotaw    VTA_TAG    " 1 speak Chippewa to smb., speak Ojibwa to smb., speak Ojibway to smb." ; !Rand key:n73028341292n
+Jibwemtawaa:ojibwemotaw    VTA_TAG    " 1 speak Southwestern Ojibwe (Anishinaabemowin) to smb., speak Ojibwa to smb., speak Ojibway to smb." ; !Rand key:n73028341292n
 jidkiishmaa:ajidakiishim    VTA_TAG    " 1 place sth. (an.) upside down, place sth. (an.) so that its upper part is tilted downwards, stand sth" ; !Rand key:n73028343346n
 jidkiiyebnaa:ajidakiiwebin1    VTA_TAG    " 1 throw sth. (an.) upside down, throw sth. (an.) onto its head" ; !Rand key:n73028344314n
 jiibaakwaa:jiibaakwaw    VTA_TAG    " 1 cook for smb." ; !Rand key:n73028344790n

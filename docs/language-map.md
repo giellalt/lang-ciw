@@ -2,7 +2,7 @@
 {
   "type": "Feature",
   "properties": {
-    "name": "Chippewa",
+    "name": "Southwestern Ojibwe (Anishinaabemowin)",
     "radius": 200,
     "marker-color": "#ff4444",
     "marker-size": "large"

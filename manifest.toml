@@ -1,14 +1,14 @@
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
-en = "Chippewa spellchecker"
-ciw = "Autonym spellchecker"
+en = "Southwestern Ojibwe (Anishinaabemowin) spellchecker"
+ciw = "Anishinaabemowin spellchecker"
 
 # Description of the speller package in various languages.
 # The default is English + autonym:
 [speller.description]
-en = "A spellchecker for Chippewa, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
-ciw = "TRANSLATE: A spellchecker for Chippewa, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
+en = "A spellchecker for Southwestern Ojibwe (Anishinaabemowin), made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
+ciw = "TRANSLATE: A spellchecker for Anishinaabemowin, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
 
 [macos]
 system_pkg_id = "no.divvun.MacDivvun.ciw"
@@ -21,17 +21,17 @@ legacy_product_codes = [
 ]
 
 [package.speller]
-name = "Chippewa"
+name = "Southwestern Ojibwe (Anishinaabemowin)"
 version = "0.1.1"
 
 [package.grammar]
-name = "Chippewa"
+name = "Southwestern Ojibwe (Anishinaabemowin)"
 version = "0.1.0"
 
 [package.tts-textproc]
-name = "Chippewa"
+name = "Southwestern Ojibwe (Anishinaabemowin)"
 version = "0.1.0"
 
 [package.hyphenator]
-name = "Chippewa"
+name = "Southwestern Ojibwe (Anishinaabemowin)"
 version = "0.1.0"

@@ -1,5 +1,5 @@
 remote_theme: giellalt/jekyll-theme-giellalt@main
-title: Chippewa NLP Grammar
+title: Southwestern Ojibwe (Anishinaabemowin) NLP Grammar
 description: Finite state and Constraint Grammar based analysers, proofing tools and other resources
 plugins:
   - jekyll-remote-theme

@@ -13,7 +13,7 @@
 ! giellatekno@uit.no or feedback@divvun.no
 
 ! ========================================================================== !
-! !! # Chippewa abbreviations
+! !! # Southwestern Ojibwe (Anishinaabemowin) abbreviations
 ! ========================================================================== !
 
 !! This file contains mappings from abbreviations and some acronyms to full
@@ -22,7 +22,7 @@
 !! to work. The resulting full form must be lemmas known to the analyser,
 !! for further processing.
 
-!! We describe here how abbreviations in Chippewa are read out,
+!! We describe here how abbreviations in Southwestern Ojibwe (Anishinaabemowin) are read out,
 !! for text-to-speech systems.
 
 ! The transcriptions below are mostly in North Sámi, replace with whatever

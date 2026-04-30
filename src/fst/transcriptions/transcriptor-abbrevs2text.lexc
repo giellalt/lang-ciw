@@ -1,4 +1,4 @@
-! Divvun & Giellatekno - open source grammars for Chippewa language
+! Divvun & Giellatekno - open source grammars for Southwestern Ojibwe (Anishinaabemowin) language
 ! Copyright © 2021 The University of Tromsø & the Norwegian Sámi Parliament
 ! http://giellatekno.uit.no & http://divvun.no
 !
@@ -18,10 +18,10 @@
 ! to work.
 
 ! ========================================================================== !
-! !!            !!!Chippewa abbreviations                               !
+! !!            !!!Southwestern Ojibwe (Anishinaabemowin) abbreviations                               !
 ! ========================================================================== !
 
-!! We describe here how abbreviations are in Chippewa are read out, e.g.
+!! We describe here how abbreviations are in Southwestern Ojibwe (Anishinaabemowin) are read out, e.g.
 !! for text-to-speech systems.
 
 LEXICON Root

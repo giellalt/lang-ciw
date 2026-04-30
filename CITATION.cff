@@ -28,6 +28,8 @@ identifiers:
     value: https://aclanthology.org/2022.lrec-1.125/
 keywords:
   - Chippewa
+  - Southwestern Ojibwe
+  - Anishinaabemowin
   - NLP
   - morphology
   - spell-checking

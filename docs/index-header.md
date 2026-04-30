@@ -1,4 +1,4 @@
-# Chippewa documentation
+# Southwestern Ojibwe (Anishinaabemowin) documentation
 
 <div class="twocolumn map" markdown="1">
 
@@ -18,7 +18,7 @@ Center location data taken from [Glottolog](https://glottolog.org/). Area extent
 
 </div>
 
-This page documents the work on the [Chippewa language model](https://github.com/giellalt/lang-ciw). 
+This page documents the work on the [Southwestern Ojibwe (Anishinaabemowin) language model](https://github.com/giellalt/lang-ciw). 
 It contains some 750 nouns and verbs, and a morphological
 component covering their basic inflection pattern.
 
