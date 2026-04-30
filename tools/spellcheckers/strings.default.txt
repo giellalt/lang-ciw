@@ -6,10 +6,10 @@ s:sh	4
 sh:s	4
 z:zh	5
 zh:z	5
-o:oo	0
+o:oo	0.5
 oo:o	2
-a:aa	0
+a:aa	0.5
 aa:a	2
-i:ii	0
+i:ii	0.5
 ii:i	2
 tch:ch	1
