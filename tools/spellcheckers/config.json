@@ -1,7 +1,7 @@
 {
   "n-best": 15,
   "max-weight": 10000,
-  "beam": 7,
+  "beam": 1.5,
   "reweight": {
     "start-penalty": 3,
     "mid-penalty": 1,
