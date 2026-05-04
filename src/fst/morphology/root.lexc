@@ -106,86 +106,115 @@ Multichar_Symbols
 @R.Paradigm.VTI@ @R.Prefix.%<CHCNJ%>@ @R.Prefix.G@ @R.Prefix.GI@
 @R.Prefix.GIDW@ @R.Prefix.N@ @R.Prefix.NI@ @R.Prefix.NONE@ @R.Prefix.O@
 @R.Prefix.W@ @U.Order.Cnj@ @U.Order.Ind@ @U.Order.Other@ CL%/ADVConj%/dash+
-ChCnj+ PNLex%/aabiji+ PNLex%/aabitaa+ PNLex%/aako+ PNLex%/aanji+
-PNLex%/aazhawi+ PNLex%/agaami+ PNLex%/agaasi+ PNLex%/agiji+ PNLex%/anaami+
-PNLex%/anama'e+ PNLex%/anda+ PNLex%/ando+ PNLex%/ashki+ PNLex%/asho+
-PNLex%/awasi+ PNLex%/ayaangwaami+ PNLex%/azhe+ PNLex%/baashki+ PNLex%/baate+
-PNLex%/bagaki+ PNLex%/bagami+ PNLex%/bagwaji+ PNLex%/bakobii+ PNLex%/besho+
-PNLex%/bibine+ PNLex%/bichi+ PNLex%/bigii+ PNLex%/bigishki+ PNLex%/biichi+
-PNLex%/biimasko+ PNLex%/biini+ PNLex%/biinji+ PNLex%/biisaawangi+
-PNLex%/biisadaawangi+ PNLex%/biisi+ PNLex%/biitoo+ PNLex%/bizaani+ PNLex%/chi+
+ChCnj+ PNLex%/aabaakawi+ PNLex%/aabiji+ PNLex%/aabitaa+ PNLex%/aabitawi+
+PNLex%/aagawi+ PNLex%/aako+ PNLex%/aanike+ PNLex%/aaniko+ PNLex%/aanji+
+PNLex%/aapiji+ PNLex%/aazhawi+ PNLex%/agaami+ PNLex%/agaasi+ PNLex%/agiji+
+PNLex%/agwaa+ PNLex%/anaami+ PNLex%/anama'e+ PNLex%/anda+ PNLex%/ando+
+PNLex%/animiko+ PNLex%/asabi+ PNLex%/ashki+ PNLex%/asho+ PNLex%/awasi+
+PNLex%/ayaangwaami+ PNLex%/azhe+ PNLex%/baashki+ PNLex%/baataa+ PNLex%/baate+
+PNLex%/baazhiji+ PNLex%/bagaki+ PNLex%/bagami+ PNLex%/bagone+ PNLex%/bagwaji+
+PNLex%/bake+ PNLex%/bakobii+ PNLex%/bapagone+ PNLex%/besho+ PNLex%/bibine+
+PNLex%/bichi+ PNLex%/bigii+ PNLex%/bigishki+ PNLex%/bigwaji+ PNLex%/biichi+
+PNLex%/biimasko+ PNLex%/biimi+ PNLex%/biimisko+ PNLex%/biindige+ PNLex%/biini+
+PNLex%/biinishi+ PNLex%/biinji+ PNLex%/biisaawangi+ PNLex%/biisadaawangi+
+PNLex%/biisi+ PNLex%/biitawi+ PNLex%/biitoo+ PNLex%/biiwaabiko+ PNLex%/bimiji+
+PNLex%/bishigo+ PNLex%/bizaani+ PNLex%/booni+ PNLex%/chi+ PNLex%/dabasi+
 PNLex%/dago+ PNLex%/daki+ PNLex%/de+ PNLex%/desi+ PNLex%/dibi+ PNLex%/dibiki+
-PNLex%/ditibi+ PNLex%/enda+ PNLex%/eyedawi+ PNLex%/eyiidawi+ PNLex%/gaagige+
-PNLex%/gabe+ PNLex%/gagaanwaabiigi+ PNLex%/gagwe+ PNLex%/gakaki+
-PNLex%/gashkii+ PNLex%/gete+ PNLex%/gichi+ PNLex%/gigizhebaa+ PNLex%/giimooji+
-PNLex%/giiwe+ PNLex%/giiwitaa+ PNLex%/giiwitaawi+ PNLex%/giizhi+ PNLex%/gijigi+
-PNLex%/gimooji+ PNLex%/ginibi+ PNLex%/ginwaako+ PNLex%/ginwaakojii+
-PNLex%/goji+ PNLex%/goshko+ PNLex%/gwayako+ PNLex%/gwiinawi+ PNLex%/ishkwaa+
-PNLex%/ishkwe+ PNLex%/ishpi+ PNLex%/jiigewe+ PNLex%/jiigi+ PNLex%/maajii+
-PNLex%/maamawoo+ PNLex%/maazhi+ PNLex%/madwe+ PNLex%/maji+ PNLex%/makade+
-PNLex%/mangi+ PNLex%/mayagi+ PNLex%/megwaa+ PNLex%/megwe+ PNLex%/michi+
-PNLex%/miigwechiwi+ PNLex%/mino+ PNLex%/mishi+ PNLex%/misko+ PNLex%/naabe+
-PNLex%/naawi+ PNLex%/nabagi+ PNLex%/nanda+ PNLex%/niibaa+ PNLex%/niigaani+
-PNLex%/niiji+ PNLex%/niisi+ PNLex%/nisawi+ PNLex%/nishkaaji+ PNLex%/nitaa+
-PNLex%/nitami+ PNLex%/noonde+ PNLex%/noosooki+ PNLex%/noozhe+ PNLex%/ogiji+
-PNLex%/ojaanimi+ PNLex%/oke+ PNLex%/oko+ PNLex%/ondami+ PNLex%/onzaami+
-PNLex%/opime+ PNLex%/oshki+ PNLex%/ozaawi+ PNLex%/ozhaashi+ PNLex%/ozhaawashko+
-PNLex%/waabani+ PNLex%/waabanoo+ PNLex%/waabi+ PNLex%/waabijii+
-PNLex%/waabishki+ PNLex%/waanda+ PNLex%/waasamoo+ PNLex%/waasiko+
-PNLex%/wagiji+ PNLex%/wake+ PNLex%/wani+ PNLex%/wenda+ PNLex%/wiiji+
-PNLex%/wiimaa+ PNLex%/wiisagi+ PNLex%/wiishkobi+ PNLex%/zazegaa+
-PNLex%/zhaawani+ PNLex%/zhiibaa+ PNLex%/zhiiwi+ PNLex%/ziiwiski+ PNQnt%/aabita+
-PNQnt%/ashi-bezhigo+ PNQnt%/ashi-ingodwaaso+ PNQnt%/ashi-ishwaaso+
-PNQnt%/ashi-naano+ PNQnt%/ashi-niiwo+ PNQnt%/ashi-niiyo+ PNQnt%/ashi-niizho+
+PNLex%/dinowi+ PNLex%/ditibi+ PNLex%/edawi+ PNLex%/edawigaam+ PNLex%/enendagi+
+PNLex%/eyedawi+ PNLex%/eyiidawi+ PNLex%/gaagige+ PNLex%/gaaski+ PNLex%/gabe+
+PNLex%/gagaanwaabiigi+ PNLex%/gagwaanisagi+ PNLex%/gagwe+ PNLex%/gagweji+
+PNLex%/gakaki+ PNLex%/gashki+ PNLex%/gashkii+ PNLex%/gawi+ PNLex%/gegabe+
+PNLex%/gete+ PNLex%/geziko+ PNLex%/gichi+ PNLex%/gigi+ PNLex%/gigizhebaa+
+PNLex%/giimooji+ PNLex%/giiwe+ PNLex%/giiwitaa+ PNLex%/giiwitaawi+
+PNLex%/giizhi+ PNLex%/giizhii+ PNLex%/gijigi+ PNLex%/gimooji+ PNLex%/ginibi+
+PNLex%/ginwaako+ PNLex%/ginwaakojii+ PNLex%/gipagi+ PNLex%/goji+ PNLex%/goshko+
+PNLex%/gwayako+ PNLex%/gwiinawi+ PNLex%/iniwe+ PNLex%/ishkwaa+ PNLex%/ishkwe+
+PNLex%/ishpi+ PNLex%/jaagi+ PNLex%/jiigewe+ PNLex%/jiigi+ PNLex%/maajii+
+PNLex%/maamawoo+ PNLex%/maazhi+ PNLex%/madaabii+ PNLex%/madwe+ PNLex%/maji+
+PNLex%/makade+ PNLex%/manaa+ PNLex%/mangi+ PNLex%/mayagi+ PNLex%/megwaa+
+PNLex%/megwe+ PNLex%/meshkoji+ PNLex%/michi+ PNLex%/miigwechiwi+
+PNLex%/miikawaaji+ PNLex%/mino+ PNLex%/mishi+ PNLex%/misko+ PNLex%/mizhisha+
+PNLex%/miziwe+ PNLex%/naabe+ PNLex%/naabi+ PNLex%/naaji+ PNLex%/naawi+
+PNLex%/nabagi+ PNLex%/nabane+ PNLex%/namaji+ PNLex%/namanji+ PNLex%/nanda+
+PNLex%/nando+ PNLex%/nazhike+ PNLex%/nibaaji+ PNLex%/niibaa+ PNLex%/niigaani+
+PNLex%/niiji+ PNLex%/niisi+ PNLex%/niminaawe+ PNLex%/nisawi+ PNLex%/nishike+
+PNLex%/nishkaaji+ PNLex%/nisibi+ PNLex%/nitaa+ PNLex%/nitami+ PNLex%/noogi+
+PNLex%/nooji+ PNLex%/noonde+ PNLex%/noosooki+ PNLex%/noozhe+ PNLex%/ogiji+
+PNLex%/ojaanimi+ PNLex%/ojibwe+ PNLex%/oke+ PNLex%/oko+ PNLex%/ondaasi+
+PNLex%/ondami+ PNLex%/onzaami+ PNLex%/opaa+ PNLex%/opime+ PNLex%/oshki+
+PNLex%/ozaawi+ PNLex%/ozhaashi+ PNLex%/ozhaawashko+ PNLex%/waabani+
+PNLex%/waabanoo+ PNLex%/waabi+ PNLex%/waabijii+ PNLex%/waabishki+
+PNLex%/waanda+ PNLex%/waasamoo+ PNLex%/waasiko+ PNLex%/waawiye+ PNLex%/wagiji+
+PNLex%/wake+ PNLex%/wanako+ PNLex%/wani+ PNLex%/wiiji+ PNLex%/wiimaa+
+PNLex%/wiinge+ PNLex%/wiisagi+ PNLex%/wiishkobi+ PNLex%/zaabi+ PNLex%/zaagiji+
+PNLex%/zazegaa+ PNLex%/zhaawani+ PNLex%/zhigaji+ PNLex%/zhiibaa+ PNLex%/zhiiwi+
+PNLex%/ziiwiski+ PNQnt%/aabita+ PNQnt%/ashi-bezhigo+ PNQnt%/ashi-ingodwaaso+
+PNQnt%/ashi-ishwaaso+ PNQnt%/ashi-naano+ PNQnt%/ashi-ngodwaaso+
+PNQnt%/ashi-niiwo+ PNQnt%/ashi-niiyo+ PNQnt%/ashi-niizho+
 PNQnt%/ashi-niizhwaaso+ PNQnt%/ashi-ningodwaaso+ PNQnt%/ashi-nishwaaso+
 PNQnt%/ashi-niso+ PNQnt%/ashi-zhaangaso+ PNQnt%/bezhigo+ PNQnt%/ingo+
 PNQnt%/ingodwaaso+ PNQnt%/ishwaaso+ PNQnt%/midaaso+ PNQnt%/naano+
-PNQnt%/nenishwaaswi+ PNQnt%/niiwo+ PNQnt%/niiyo+ PNQnt%/niizho+
-PNQnt%/niizhwaaso+ PNQnt%/ningo+ PNQnt%/ningodwaaso+ PNQnt%/nishwaaso+
-PNQnt%/niso+ PNQnt%/zhaangaso+ PVDir%/ani+ PVDir%/awi+ PVDir%/baa+
-PVDir%/babaa+ PVDir%/bi+ PVDir%/bibaa+ PVDir%/biiji+ PVDir%/bimi+ PVDir%/ini+
-PVDir%/ni+ PVDir%/o+ PVDir%/ombi+ PVDir%/owi+ PVDir%/wi+ PVDir%/zaagiji+
-PVLex%/aabiji+ PVLex%/aabitaa+ PVLex%/aako+ PVLex%/aanji+ PVLex%/aazhawi+
-PVLex%/agaami+ PVLex%/agaasi+ PVLex%/agiji+ PVLex%/anaami+ PVLex%/anama'e+
-PVLex%/anda+ PVLex%/ando+ PVLex%/ashki+ PVLex%/asho+ PVLex%/awasi+
-PVLex%/ayaangwaami+ PVLex%/azhe+ PVLex%/baashki+ PVLex%/baate+ PVLex%/bagaki+
-PVLex%/bagami+ PVLex%/bagwaji+ PVLex%/bakobii+ PVLex%/besho+ PVLex%/bibine+
-PVLex%/bichi+ PVLex%/bigii+ PVLex%/bigishki+ PVLex%/biichi+ PVLex%/biimasko+
-PVLex%/biini+ PVLex%/biinji+ PVLex%/biisaawangi+ PVLex%/biisadaawangi+
-PVLex%/biisi+ PVLex%/biitoo+ PVLex%/bizaani+ PVLex%/chi+ PVLex%/dago+
-PVLex%/daki+ PVLex%/de+ PVLex%/desi+ PVLex%/dibi+ PVLex%/dibiki+ PVLex%/ditibi+
-PVLex%/enda+ PVLex%/eyedawi+ PVLex%/eyiidawi+ PVLex%/gaagige+ PVLex%/gabe+
-PVLex%/gagaanwaabiigi+ PVLex%/gagwe+ PVLex%/gakaki+ PVLex%/gashkii+
-PVLex%/gete+ PVLex%/gichi+ PVLex%/gigizhebaa+ PVLex%/giimooji+ PVLex%/giiwe+
-PVLex%/giiwitaa+ PVLex%/giiwitaawi+ PVLex%/giizhi+ PVLex%/gijigi+
-PVLex%/gimooji+ PVLex%/ginibi+ PVLex%/ginwaako+ PVLex%/ginwaakojii+
-PVLex%/goji+ PVLex%/goshko+ PVLex%/gwayako+ PVLex%/gwiinawi+ PVLex%/ishkwaa+
-PVLex%/ishkwe+ PVLex%/ishpi+ PVLex%/jiigewe+ PVLex%/jiigi+ PVLex%/maajii+
-PVLex%/maamawi+ PVLex%/maamawoo+ PVLex%/maazhi+ PVLex%/madwe+ PVLex%/maji+
-PVLex%/makade+ PVLex%/mangi+ PVLex%/mayagi+ PVLex%/megwaa+ PVLex%/megwe+
-PVLex%/michi+ PVLex%/miigwechiwi+ PVLex%/mino+ PVLex%/mishi+ PVLex%/misko+
-PVLex%/naabe+ PVLex%/naawi+ PVLex%/nabagi+ PVLex%/nanda+ PVLex%/niibaa+
-PVLex%/niigaani+ PVLex%/niiji+ PVLex%/niisi+ PVLex%/nisawi+ PVLex%/nishkaaji+
-PVLex%/nitaa+ PVLex%/nitami+ PVLex%/noonde+ PVLex%/noosooki+ PVLex%/noozhe+
-PVLex%/ogiji+ PVLex%/ojaanimi+ PVLex%/oke+ PVLex%/oko+ PVLex%/ondami+
-PVLex%/onzaami+ PVLex%/opime+ PVLex%/oshki+ PVLex%/ozaawi+ PVLex%/ozhaashi+
-PVLex%/ozhaawashko+ PVLex%/waabani+ PVLex%/waabanoo+ PVLex%/waabi+
-PVLex%/waabijii+ PVLex%/waabishki+ PVLex%/waanda+ PVLex%/waasamoo+
-PVLex%/waasiko+ PVLex%/wagiji+ PVLex%/wake+ PVLex%/wani+ PVLex%/wenda+
-PVLex%/wiiji+ PVLex%/wiimaa+ PVLex%/wiisagi+ PVLex%/wiishkobi+ PVLex%/zazegaa+
-PVLex%/zhaawani+ PVLex%/zhiibaa+ PVLex%/zhiiwi+ PVLex%/ziiwiski+ PVQnt%/aabita+
-PVQnt%/ashi-bezhigo+ PVQnt%/ashi-ingodwaaso+ PVQnt%/ashi-ishwaaso+
-PVQnt%/ashi-naano+ PVQnt%/ashi-niiwo+ PVQnt%/ashi-niiyo+ PVQnt%/ashi-niizho+
+PNQnt%/nenishwaaswi+ PNQnt%/ngo+ PNQnt%/ngodwaaso+ PNQnt%/niiwo+ PNQnt%/niiyo+
+PNQnt%/niizho+ PNQnt%/niizhwaaso+ PNQnt%/ningo+ PNQnt%/ningodwaaso+
+PNQnt%/nishwaaso+ PNQnt%/niso+ PNQnt%/zhaangaso+ PVDir%/ani+ PVDir%/awi+
+PVDir%/baa+ PVDir%/babaa+ PVDir%/bi+ PVDir%/bibaa+ PVDir%/biiji+ PVDir%/bimi+
+PVDir%/ini+ PVDir%/ni+ PVDir%/o+ PVDir%/ombi+ PVDir%/owi+ PVDir%/wi+
+PVDir%/zaagiji+ PVLex%/aabaakawi+ PVLex%/aabiji+ PVLex%/aabitaa+
+PVLex%/aabitawi+ PVLex%/aagawi+ PVLex%/aako+ PVLex%/aanike+ PVLex%/aaniko+
+PVLex%/aanji+ PVLex%/aapiji+ PVLex%/aazhawi+ PVLex%/agaami+ PVLex%/agaasi+
+PVLex%/agiji+ PVLex%/agwaa+ PVLex%/anaami+ PVLex%/anama'e+ PVLex%/anda+
+PVLex%/ando+ PVLex%/animiko+ PVLex%/asabi+ PVLex%/ashki+ PVLex%/asho+
+PVLex%/awasi+ PVLex%/ayaangwaami+ PVLex%/azhe+ PVLex%/baashki+ PVLex%/baataa+
+PVLex%/baate+ PVLex%/baazhiji+ PVLex%/bagaki+ PVLex%/bagami+ PVLex%/bagone+
+PVLex%/bagwaji+ PVLex%/bake+ PVLex%/bakobii+ PVLex%/bapagone+ PVLex%/besho+
+PVLex%/bibine+ PVLex%/bichi+ PVLex%/bigii+ PVLex%/bigishki+ PVLex%/bigwaji+
+PVLex%/biichi+ PVLex%/biimasko+ PVLex%/biimi+ PVLex%/biimisko+ PVLex%/biindige+
+PVLex%/biini+ PVLex%/biinishi+ PVLex%/biinji+ PVLex%/biisaawangi+
+PVLex%/biisadaawangi+ PVLex%/biisi+ PVLex%/biitawi+ PVLex%/biitoo+
+PVLex%/biiwaabiko+ PVLex%/bimiji+ PVLex%/bishigo+ PVLex%/bizaani+ PVLex%/booni+
+PVLex%/chi+ PVLex%/dabasi+ PVLex%/dago+ PVLex%/daki+ PVLex%/de+ PVLex%/desi+
+PVLex%/dibi+ PVLex%/dibiki+ PVLex%/dinowi+ PVLex%/ditibi+ PVLex%/edawi+
+PVLex%/edawigaam+ PVLex%/enendagi+ PVLex%/eyedawi+ PVLex%/eyiidawi+
+PVLex%/gaagige+ PVLex%/gaaski+ PVLex%/gabe+ PVLex%/gagaanwaabiigi+
+PVLex%/gagwaanisagi+ PVLex%/gagwe+ PVLex%/gagweji+ PVLex%/gakaki+
+PVLex%/gashki+ PVLex%/gashkii+ PVLex%/gawi+ PVLex%/gegabe+ PVLex%/gete+
+PVLex%/geziko+ PVLex%/gichi+ PVLex%/gigi+ PVLex%/gigizhebaa+ PVLex%/giimooji+
+PVLex%/giiwe+ PVLex%/giiwitaa+ PVLex%/giiwitaawi+ PVLex%/giizhi+
+PVLex%/giizhii+ PVLex%/gijigi+ PVLex%/gimooji+ PVLex%/ginibi+ PVLex%/ginwaako+
+PVLex%/ginwaakojii+ PVLex%/gipagi+ PVLex%/goji+ PVLex%/goshko+ PVLex%/gwayako+
+PVLex%/gwiinawi+ PVLex%/iniwe+ PVLex%/ishkwaa+ PVLex%/ishkwe+ PVLex%/ishpi+
+PVLex%/jaagi+ PVLex%/jiigewe+ PVLex%/jiigi+ PVLex%/maajii+ PVLex%/maamawi+
+PVLex%/maamawoo+ PVLex%/maazhi+ PVLex%/madaabii+ PVLex%/madwe+ PVLex%/maji+
+PVLex%/makade+ PVLex%/manaa+ PVLex%/mangi+ PVLex%/mayagi+ PVLex%/megwaa+
+PVLex%/megwe+ PVLex%/meshkoji+ PVLex%/michi+ PVLex%/miigwechiwi+
+PVLex%/miikawaaji+ PVLex%/mino+ PVLex%/mishi+ PVLex%/misko+ PVLex%/mizhisha+
+PVLex%/miziwe+ PVLex%/naabe+ PVLex%/naabi+ PVLex%/naaji+ PVLex%/naawi+
+PVLex%/nabagi+ PVLex%/nabane+ PVLex%/namaji+ PVLex%/namanji+ PVLex%/nanda+
+PVLex%/nando+ PVLex%/nazhike+ PVLex%/nibaaji+ PVLex%/niibaa+ PVLex%/niigaani+
+PVLex%/niiji+ PVLex%/niisi+ PVLex%/niminaawe+ PVLex%/nisawi+ PVLex%/nishike+
+PVLex%/nishkaaji+ PVLex%/nisibi+ PVLex%/nitaa+ PVLex%/nitami+ PVLex%/noogi+
+PVLex%/nooji+ PVLex%/noonde+ PVLex%/noosooki+ PVLex%/noozhe+ PVLex%/ogiji+
+PVLex%/ojaanimi+ PVLex%/ojibwe+ PVLex%/oke+ PVLex%/oko+ PVLex%/ondaasi+
+PVLex%/ondami+ PVLex%/onzaami+ PVLex%/opaa+ PVLex%/opime+ PVLex%/oshki+
+PVLex%/ozaawi+ PVLex%/ozhaashi+ PVLex%/ozhaawashko+ PVLex%/waabani+
+PVLex%/waabanoo+ PVLex%/waabi+ PVLex%/waabijii+ PVLex%/waabishki+
+PVLex%/waanda+ PVLex%/waasamoo+ PVLex%/waasiko+ PVLex%/waawiye+ PVLex%/wagiji+
+PVLex%/wake+ PVLex%/wanako+ PVLex%/wani+ PVLex%/wiiji+ PVLex%/wiimaa+
+PVLex%/wiinge+ PVLex%/wiisagi+ PVLex%/wiishkobi+ PVLex%/zaabi+ PVLex%/zaagiji+
+PVLex%/zazegaa+ PVLex%/zhaawani+ PVLex%/zhigaji+ PVLex%/zhiibaa+ PVLex%/zhiiwi+
+PVLex%/ziiwiski+ PVQnt%/aabita+ PVQnt%/ashi-bezhigo+ PVQnt%/ashi-ingodwaaso+
+PVQnt%/ashi-ishwaaso+ PVQnt%/ashi-naano+ PVQnt%/ashi-ngodwaaso+
+PVQnt%/ashi-niiwo+ PVQnt%/ashi-niiyo+ PVQnt%/ashi-niizho+
 PVQnt%/ashi-niizhwaaso+ PVQnt%/ashi-ningodwaaso+ PVQnt%/ashi-nishwaaso+
 PVQnt%/ashi-niso+ PVQnt%/ashi-zhaangaso+ PVQnt%/bezhigo+ PVQnt%/ingo+
 PVQnt%/ingodwaaso+ PVQnt%/ishwaaso+ PVQnt%/midaaso+ PVQnt%/naano+
-PVQnt%/nenishwaaswi+ PVQnt%/niiwo+ PVQnt%/niiyo+ PVQnt%/niizho+
-PVQnt%/niizhwaaso+ PVQnt%/ningo+ PVQnt%/ningodwaaso+ PVQnt%/nishwaaso+
-PVQnt%/niso+ PVQnt%/zhaangaso+ PVRel%/ako+ PVRel%/apiichi+ PVRel%/daso+
-PVRel%/dazhi+ PVRel%/izhi+ PVRel%/onji+ PVSub%/a+ PVSub%/e+ PVSub%/gaa+
-PVTense%/aana+ PVTense%/aano+ PVTense%/daa+ PVTense%/ga+ PVTense%/gii'+
-PVTense%/gii+ PVTense%/jibwaa+ PVTense%/wii'+ PVTense%/wii+ V1 a1 i1 i2 n1 s1
-w1 w2 y1 y2
+PVQnt%/nenishwaaswi+ PVQnt%/ngo+ PVQnt%/ngodwaaso+ PVQnt%/niiwo+ PVQnt%/niiyo+
+PVQnt%/niizho+ PVQnt%/niizhwaaso+ PVQnt%/ningo+ PVQnt%/ningodwaaso+
+PVQnt%/nishwaaso+ PVQnt%/niso+ PVQnt%/zhaangaso+ PVRel%/ako+ PVRel%/apiichi+
+PVRel%/daso+ PVRel%/dazhi+ PVRel%/izhi+ PVRel%/onji+ PVSub%/a+ PVSub%/e+
+PVSub%/gaa+ PVTense%/aana+ PVTense%/aano+ PVTense%/daa+ PVTense%/ga+
+PVTense%/gii'+ PVTense%/gii+ PVTense%/jibwaa+ PVTense%/wii'+ PVTense%/wii+ V1
+a1 i1 i2 n1 s1 w1 w2 y1 y2
 
 LEXICON Root
 AdverbRoot ;

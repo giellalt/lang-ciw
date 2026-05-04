@@ -2,13 +2,13 @@
 # The default is English + autonym:
 [speller.name]
 en = "Southwestern Ojibwe (Anishinaabemowin) spellchecker"
-ciw = "Anishinaabemowin spellchecker"
+ciw = "Autonym spellchecker"
 
 # Description of the speller package in various languages.
 # The default is English + autonym:
 [speller.description]
 en = "A spellchecker for Southwestern Ojibwe (Anishinaabemowin), made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
-ciw = "TRANSLATE: A spellchecker for Anishinaabemowin, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
+ciw = "TRANSLATE: A spellchecker for Southwestern Ojibwe (Anishinaabemowin), made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
 
 [macos]
 system_pkg_id = "no.divvun.MacDivvun.ciw"
