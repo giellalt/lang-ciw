@@ -1,6 +1,6 @@
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
 %                                                                            %
-%    List of morphological and syntactic tags used in the Ïnupiaq corpus     %
+%  List of morphological and syntactic tags in the Anishinaabemowin corpus   %
 %                                                                            %
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% %
 
@@ -33,7 +33,9 @@
 
 % The name of these boxes are now legible, rather than the tags (tags in parentheses?)
 % Noun: N
-
+% Gender: AN|IN
+% Number: Sg|Pl
+% PossessiveSuffix: Px1Sg|Px2Sg|Px3Sg|Px1Pl|Px12Pl|Px2Pl|Px3Pl
 
 % Verb: V
 % Class: IA|II|TA|TI
