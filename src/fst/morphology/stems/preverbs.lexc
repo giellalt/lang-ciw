@@ -22,9 +22,8 @@ TensePV ;
 
 LEXICON SubPVPlainConjunct
 ChCnj+:0 ChCnjPV ;
-@D.ChCnj@PVSub%/e+:@D.ChCnj@e SubPVBoundary ;
-@D.ChCnj@PVSub%/a+:@D.ChCnj@a SubPVBoundary ;
-@D.ChCnj@PVSub%/gaa+:@D.ChCnj@gaa SubPVBoundary ;
+PVSub%/e+:e SubPVBoundary ;
+PVSub%/a+:a SubPVBoundary ;
 
 LEXICON ChCnjPV
 @U.ChCnj.On@ TensePVChangedConjunct ;
@@ -56,19 +55,15 @@ PVTense%/aano+:aano TensePVBoundary ;
 PVTense%/aana+:aana TensePVBoundary ;
 
 LEXICON TensePVIndependent
+PVTense%/daa+:daa TensePVBoundary ;
 PVTense%/ga+:ga TensePVBoundary ;
-PVTense%/daa+:daa TensePVBoundary ;
-PVTense%/daa+:daa TensePVBoundary ;
 
 LEXICON TensePVPlainConjunct
-@D.ChCnj@PVTense%/ga+:@D.ChCnj@ji TensePVBoundary ;
-@D.ChCnj@PVTense%/daa+:@D.ChCnj@ji TensePVBoundary ;
-@D.ChCnj@PVTense%/daa+:@D.ChCnj@da TensePVBoundary ;
+PVTense%/ji+:ji TensePVBoundary ;
+PVTense%/da+:da TensePVBoundary ;
 
 LEXICON TensePVChangedConjunct
-PVTense%/ga+:ge TensePVBoundary ;
-PVTense%/daa+:ge TensePVBoundary ;
-PVTense%/daa+:ge TensePVBoundary ;
+PVTense%/ge+:ge TensePVBoundary ;
 
 LEXICON TensePVBoundary 
 @C.ChCnj@:@C.ChCnj@- TensePV ;
@@ -98,6 +93,7 @@ PVDir%/bi+:bi DirPVBoundary ;
 PVDir%/bimi+:bimi DirPVBoundary ;
 PVDir%/ni+:ni DirPVBoundary ;
 PVDir%/o+:o DirPVBoundary ;
+PVDir%/'o+:'o DirPVBoundary ;
 PVDir%/ombi+:ombi DirPVBoundary ;
 PVDir%/wi+:wi DirPVBoundary ;
 PVDir%/zaagiji+:zaagiji DirPVBoundary ;
@@ -136,6 +132,7 @@ PVRel%/dazhi+:dazhi RelPVBoundary ;
 PVRel%/daso+:daso RelPVBoundary ;
 PVRel%/onji+:onji RelPVBoundary ;
 PVRel%/izhi+:izhi RelPVBoundary ;
+PVRel%/izhi+:zhi RelPVBoundary ;
 
 LEXICON RelPVIndependent
 %<EMPTYLEX%> # ;
@@ -374,6 +371,10 @@ PVLex%/gawi+:gawiw2 LexPVBoundary ;
 PVLex%/anda+:andaw2 LexPVBoundary ;
 PVLex%/nitami+:nitamiw2 LexPVBoundary ;
 PVLex%/maamawi+:maamawiw2 LexPVBoundary ;
+PVLex%/gagwaanisa+:gagwaanisaw2 LexPVBoundary ;
+PVLex%/booski+:booskiw2 LexPVBoundary ;
+PVLex%/nooki+:nookiw2 LexPVBoundary ;
+PVLex%/wenda+:wendaw2 LexPVBoundary ;
 PVQnt%/aabita+:aabitaw2 LexPVBoundary ;
 PVQnt%/ashi-ingodwaaso+:ashi-ingodwaasow2 LexPVBoundary ;
 PVQnt%/ashi-ishwaaso+:ashi-ishwaasow2 LexPVBoundary ;

@@ -36,6 +36,7 @@ LEXICON ProperNounStems
 LEXICON NamePerson_Stems
 Anangookwe NamePerson_Class=NamePerson_Boundary ;
 Dabasaanakwadook NamePerson_Class=NamePerson_Boundary ;
+Gezhibaayaaniwanook NamePerson_Class=NamePerson_Boundary ;
 Ogimaawigwanebiik NamePerson_Class=NamePerson_Boundary ;
 Wenabozho:Wenabozhow2 NamePerson_Class=NamePerson_Boundary ;
 
@@ -138,6 +139,7 @@ Gaa-zhiigwanaabikokaag NamePlace_Class=NamePlace_Boundary ;
 Gabekanaansing NamePlace_Class=NamePlace_Boundary ;
 Gagiibiingwezowining NamePlace_Class=NamePlace_Boundary ;
 Gakaabikaang NamePlace_Class=NamePlace_Boundary ;
+Gakaabikaaning NamePlace_Class=NamePlace_Boundary ;
 Gakijiwanaang NamePlace_Class=NamePlace_Boundary ;
 Gakijiwanong NamePlace_Class=NamePlace_Boundary ;
 Genooshigamaag NamePlace_Class=NamePlace_Boundary ;
@@ -160,6 +162,7 @@ Manidoo-baatigong NamePlace_Class=NamePlace_Boundary ;
 Manidoo-baawitigong NamePlace_Class=NamePlace_Boundary ;
 Manidoo-zaaga'igaans NamePlace_Class=NamePlace_Boundary ;
 Manidoo-ziibi:Manidoo-ziibiw2 NamePlace_Class=NamePlace_Boundary ;
+Manoomini-ziibiing NamePlace_Class=NamePlace_Boundary ;
 Manoominikaaning NamePlace_Class=NamePlace_Boundary ;
 Mashkimodaashing:mashkimodaash NamePlace_Class=NamePlace_Boundary ;
 Mazhii'iganing NamePlace_Class=NamePlace_Boundary ;

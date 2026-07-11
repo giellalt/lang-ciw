@@ -875,6 +875,7 @@ jaajiigaatig ADVLoc_Class=ADVLoc_Boundary ;
 jaajiigaya'ii ADVLoc_Class=ADVLoc_Boundary ;
 jejiigibiig ADVLoc_Class=ADVLoc_Boundary ;
 jiigaabik ADVLoc_Class=ADVLoc_Boundary ;
+jiigaabikaang ADVLoc_Class=ADVLoc_Boundary ;
 jiigaagonag ADVLoc_Class=ADVLoc_Boundary ;
 jiigaakwaa ADVLoc_Class=ADVLoc_Boundary ;
 jiigaakwaang ADVLoc_Class=ADVLoc_Boundary ;
@@ -913,6 +914,7 @@ jiigikwam ADVLoc_Class=ADVLoc_Boundary ;
 jiigimisad ADVLoc_Class=ADVLoc_Boundary ;
 jiigisag ADVLoc_Class=ADVLoc_Boundary ;
 jiigishkode ADVLoc_Class=ADVLoc_Boundary ;
+jiigishkodeng ADVLoc_Class=ADVLoc_Boundary ;
 jiigishkwaand ADVLoc_Class=ADVLoc_Boundary ;
 jiigishkwaandeng ADVLoc_Class=ADVLoc_Boundary ;
 jiigiskwam ADVLoc_Class=ADVLoc_Boundary ;
@@ -936,6 +938,7 @@ megwaayaak ADVLoc_Class=ADVLoc_Boundary ;
 megwaayaakwaa ADVLoc_Class=ADVLoc_Boundary ;
 megwaayaakwaang ADVLoc_Class=ADVLoc_Boundary ;
 megwayaak ADVLoc_Class=ADVLoc_Boundary ;
+megwayaandag ADVLoc_Class=ADVLoc_Boundary ;
 megwe-aya'ii ADVLoc_Class=ADVLoc_Boundary ;
 megwe-ayi'ii ADVLoc_Class=ADVLoc_Boundary ;
 megwe-ishkode ADVLoc_Class=ADVLoc_Boundary ;
@@ -1435,6 +1438,7 @@ maamawi:maamawiw2 ADVMan_Class=ADVMan_Boundary ;
 maanoo ADVMan_Class=ADVMan_Boundary ;
 maawiin ADVMan_Class=ADVMan_Boundary ;
 maazhaa ADVMan_Class=ADVMan_Boundary ;
+mamaazhiinzh ADVMan_Class=ADVMan_Boundary ;
 mamaazhiish ADVMan_Class=ADVMan_Boundary ;
 memeshkod ADVMan_Class=ADVMan_Boundary ;
 memeshkwad ADVMan_Class=ADVMan_Boundary ;
@@ -1557,6 +1561,7 @@ LEXICON ADVNeg_PrefixBoundary
 
 LEXICON ADVNeg_Stems
 gaawiin ADVNeg_Class=ADVNeg_Boundary ;
+gaawiinoon ADVNeg_Class=ADVNeg_Boundary ;
 gego:gegow2 ADVNeg_Class=ADVNeg_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

@@ -18,6 +18,8 @@ enCLBoundary ;
 
 LEXICON enCL
 +CL%/ADVConj%/dash:sh # ;
++CL%/PCDisc%/go:gow2 # ;
++CL%/PCDisc%/sa:saw2 # ;
 
 
 LEXICON enCLBoundary

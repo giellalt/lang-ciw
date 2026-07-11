@@ -63,6 +63,8 @@ haaw PCInterj_Class=PCInterj_Boundary ;
 hay' PCInterj_Class=PCInterj_Boundary ;
 ho:how2 PCInterj_Class=PCInterj_Boundary ;
 hoo% wah PCInterj_Class=PCInterj_Boundary ;
+indaashaayok PCInterj_Class=PCInterj_Boundary ;
+indagashko:indagashkow2 PCInterj_Class=PCInterj_Boundary ;
 kaa PCInterj_Class=PCInterj_Boundary ;
 kaa' PCInterj_Class=PCInterj_Boundary ;
 maajiikamik PCInterj_Class=PCInterj_Boundary ;
@@ -155,9 +157,11 @@ LEXICON PCEmph_PrefixBoundary
 
 LEXICON PCEmph_Stems
 aanagonaa PCEmph_Class=PCEmph_Boundary ;
+gegesa:gegesaw2 PCEmph_Class=PCEmph_Boundary ;
 gesa:gesaw2 PCEmph_Class=PCEmph_Boundary ;
 goda:godaw2 PCEmph_Class=PCEmph_Boundary ;
 gosha:goshaw2 PCEmph_Class=PCEmph_Boundary ;
+hoo PCEmph_Class=PCEmph_Boundary ;
 igo PCEmph_Class=PCEmph_Boundary ;
 igo:igow2 PCEmph_Class=PCEmph_Boundary ;
 inaa PCEmph_Class=PCEmph_Boundary ;
@@ -249,7 +253,6 @@ agashkomaa PCDisc_Class=PCDisc_Boundary ;
 angashkomaa PCDisc_Class=PCDisc_Boundary ;
 apidekamig PCDisc_Class=PCDisc_Boundary ;
 awas PCDisc_Class=PCDisc_Boundary ;
-awe PCDisc_Class=PCDisc_Boundary ;
 ay' PCDisc_Class=PCDisc_Boundary ;
 baakaj PCDisc_Class=PCDisc_Boundary ;
 besh PCDisc_Class=PCDisc_Boundary ;
@@ -296,6 +299,7 @@ indashkaa PCDisc_Class=PCDisc_Boundary ;
 ine PCDisc_Class=PCDisc_Boundary ;
 inenh PCDisc_Class=PCDisc_Boundary ;
 inge PCDisc_Class=PCDisc_Boundary ;
+ingodinoo PCDisc_Class=PCDist_Boundary ;
 ingwana:ingwanaw2 PCDisc_Class=PCDisc_Boundary ;
 ise PCDisc_Class=PCDisc_Boundary ;
 ishe PCDisc_Class=PCDisc_Boundary ;
