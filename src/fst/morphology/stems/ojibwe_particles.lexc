@@ -420,6 +420,7 @@ iidog PCAsp_Class=PCAsp_Boundary ;
 iko:ikow2 PCAsp_Class=PCAsp_Boundary ;
 ko PCAsp_Class=PCAsp_Boundary ;
 ko:kow2 PCAsp_Class=PCAsp_Boundary ;
+miidog PCAsp_Class=PCAsp_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
