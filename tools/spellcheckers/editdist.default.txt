@@ -1,6 +1,26 @@
 
 
 ## Inclusions: this is the real alphabet definition:
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+M
+N
+O
+P
+S
+T
+W
+Y
+Z
 a
 b
 c
@@ -38,11 +58,11 @@ z
 @@
 
 ## Transition pair specifications + weight:
-d	t	15
+d	t	10
 t	d	5
-b	p	15
+b	p	10
 p	b	5
-g	k	15
+g	k	10
 k	g	5
 
 ## Swaps. NB! Please note that these depend on the variable
