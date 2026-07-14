@@ -1,4 +1,4 @@
-! Divvun & Giellatekno - open source grammars for Southwestern Ojibwe (Anishinaabemowin) language
+! Divvun & Giellatekno - open source grammars for Anishinaabemowin (Southwestern Ojibwe) language
 ! Copyright © 2021 The University of Tromsø & the Norwegian Sámi Parliament
 ! http://giellatekno.uit.no & http://divvun.no
 !
@@ -18,10 +18,10 @@
 ! to work.
 
 ! ========================================================================== !
-! !!            !!!Southwestern Ojibwe (Anishinaabemowin) abbreviations                               !
+! !!            !!!Anishinaabemowin (Southwestern Ojibwe) abbreviations                               !
 ! ========================================================================== !
 
-!! We describe here how abbreviations are in Southwestern Ojibwe (Anishinaabemowin) are read out, e.g.
+!! We describe here how abbreviations are in Anishinaabemowin (Southwestern Ojibwe) are read out, e.g.
 !! for text-to-speech systems.
 
 LEXICON Root

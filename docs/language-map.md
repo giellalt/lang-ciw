@@ -2,7 +2,7 @@
 {
   "type": "Feature",
   "properties": {
-    "name": "Southwestern Ojibwe (Anishinaabemowin)",
+    "name": "Anishinaabemowin (Southwestern Ojibwe)",
     "radius": 200,
     "marker-color": "#ff4444",
     "marker-size": "large"
