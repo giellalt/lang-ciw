@@ -22,7 +22,7 @@ legacy_product_codes = [
 
 [package.speller]
 name = "Anishinaabemowin (Southwestern Ojibwe)"
-version = "0.1.1"
+version = "0.2.0"
 
 [package.grammar]
 name = "Anishinaabemowin (Southwestern Ojibwe)"
