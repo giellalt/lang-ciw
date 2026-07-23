@@ -34,26 +34,26 @@ Multichar_Symbols
 +3PlProxObj +3PlProxPoss +3PlProxSubj +3SgObvHead +3SgObvObj +3SgObvPoss
 +3SgObvSubj +3SgProx +3SgProxHead +3SgProxObj +3SgProxPoss +3SgProxSubj
 +ADVConj +ADVDeg +ADVDisc +ADVDub +ADVGram +ADVInter +ADVLoc +ADVMan +ADVNeg
-+ADVPred +ADVQnt +ADVTmp +Alt +Aug/magad +Cnj +Del +Der/magad +Dim +Dub +DubPrt
-+ExclObj +ExclPoss +ExclSubj +Imp +InclObj +InclPoss +InclSubj +Ind +Loc
-+LocDist +NA +NAD +NI +NID +NUM +NamePerson +NamePlace +Neg +Neu +ObvPl +ObvSg
-+PCAsp +PCDisc +PCEmph +PCInterj +PRONDem+NA+ObvPl +PRONDem+NA+ObvSg
-+PRONDem+NA+ProxPl +PRONDem+NA+ProxSg +PRONDem+NI+Pl +PRONDem+NI+Sg
-+PRONDub+NA+ObvPl +PRONDub+NA+ObvSg +PRONDub+NA+ProxPl +PRONDub+NA+ProxSg
-+PRONDub+NI+Pl +PRONDub+NI+Sg +PRONIndf+NA +PRONIndf+NA+ProxPl +PRONIndf+NI
-+PRONInter+NA +PRONInter+NA+ObvPl +PRONInter+NA+ObvSg +PRONInter+NA+ProxPl
-+PRONInter+NA+ProxSg +PRONInter+NI+Pl +PRONInter+NI+Sg +PRONPer+NA+1Sg
-+PRONPer+NA+2Pl +PRONPer+NA+2Sg +PRONPer+NA+3Pl +PRONPer+NA+3Sg
-+PRONPer+NA+Excl +PRONPer+NA+Incl +PRONPret+NA +PRONSim+NA+ObvPl
-+PRONSim+NA+ObvSg +PRONSim+NA+ProxPl +PRONSim+NA+ProxSg +PRONSim+NI+Pl
-+PRONSim+NI+Sg +Pcp%/ChCnj +Pcp%/PVSub%/gaa +Pej +Pl +Pos +Poss +Prb +Pret
-+ProxPl +ProxSg +Prt +Recip/di +Reflex/dizo +Sg +Sim +VAI +VAIO +VAIPL +VII
-+VIIPL +VTA +VTI +Voc +XObj +XSubj @P.Paradigm.ADVConj@ @P.Paradigm.ADVDeg@
-@P.Paradigm.ADVDisc@ @P.Paradigm.ADVDub@ @P.Paradigm.ADVGram@
-@P.Paradigm.ADVInter@ @P.Paradigm.ADVLoc@ @P.Paradigm.ADVMan@
-@P.Paradigm.ADVNeg@ @P.Paradigm.ADVPred@ @P.Paradigm.ADVQnt@
-@P.Paradigm.ADVTmp@ @P.Paradigm.NA@ @P.Paradigm.NAD@ @P.Paradigm.NI@
-@P.Paradigm.NID@ @P.Paradigm.NUM@ @P.Paradigm.NamePerson@
++ADVPred +ADVQnt +ADVTmp +Alt +Aug/magad +Cnj +Del +Der/loc +Der/magad +Dim
++Dub +DubPrt +ExclObj +ExclPoss +ExclSubj +Imp +InclObj +InclPoss +InclSubj
++Ind +Loc +LocDist +NA +NAD +NI +NID +NUM +NamePerson +NamePlace +Neg +Neu
++ObvPl +ObvSg +PCAsp +PCDisc +PCEmph +PCInterj +PRONDem+NA+ObvPl
++PRONDem+NA+ObvSg +PRONDem+NA+ProxPl +PRONDem+NA+ProxSg +PRONDem+NI+Pl
++PRONDem+NI+Sg +PRONDub+NA+ObvPl +PRONDub+NA+ObvSg +PRONDub+NA+ProxPl
++PRONDub+NA+ProxSg +PRONDub+NI+Pl +PRONDub+NI+Sg +PRONIndf+NA
++PRONIndf+NA+ProxPl +PRONIndf+NI +PRONInter+NA +PRONInter+NA+ObvPl
++PRONInter+NA+ObvSg +PRONInter+NA+ProxPl +PRONInter+NA+ProxSg +PRONInter+NI+Pl
++PRONInter+NI+Sg +PRONPer+NA+1Sg +PRONPer+NA+2Pl +PRONPer+NA+2Sg
++PRONPer+NA+3Pl +PRONPer+NA+3Sg +PRONPer+NA+Excl +PRONPer+NA+Incl +PRONPret+NA
++PRONSim+NA+ObvPl +PRONSim+NA+ObvSg +PRONSim+NA+ProxPl +PRONSim+NA+ProxSg
++PRONSim+NI+Pl +PRONSim+NI+Sg +Pcp%/ChCnj +Pcp%/PVSub%/gaa +Pej +Pl +Pos +Poss
++Prb +Pret +ProxPl +ProxSg +Prt +Recip/di +Reflex/dizo +Sg +Sim +VAI +VAIO
++VAIPL +VII +VIIPL +VTA +VTI +Voc +XObj +XSubj @P.Paradigm.ADVConj@
+@P.Paradigm.ADVDeg@ @P.Paradigm.ADVDisc@ @P.Paradigm.ADVDub@
+@P.Paradigm.ADVGram@ @P.Paradigm.ADVInter@ @P.Paradigm.ADVLoc@
+@P.Paradigm.ADVMan@ @P.Paradigm.ADVNeg@ @P.Paradigm.ADVPred@
+@P.Paradigm.ADVQnt@ @P.Paradigm.ADVTmp@ @P.Paradigm.NA@ @P.Paradigm.NAD@
+@P.Paradigm.NI@ @P.Paradigm.NID@ @P.Paradigm.NUM@ @P.Paradigm.NamePerson@
 @P.Paradigm.NamePlace@ @P.Paradigm.PCAsp@ @P.Paradigm.PCDisc@
 @P.Paradigm.PCEmph@ @P.Paradigm.PCInterj@ @P.Paradigm.PRONDem+NA+ObvPl@
 @P.Paradigm.PRONDem+NA+ObvSg@ @P.Paradigm.PRONDem+NA+ProxPl@

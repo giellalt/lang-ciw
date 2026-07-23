@@ -37,6 +37,7 @@ LEXICON NamePerson_Stems
 Anangookwe NamePerson_Class=NamePerson_Boundary ;
 Dabasaanakwadook NamePerson_Class=NamePerson_Boundary ;
 Gezhibaayaaniwanook NamePerson_Class=NamePerson_Boundary ;
+Njim NamePerson_Class=NamePerson_Boundary ;
 Ogimaawigwanebiik NamePerson_Class=NamePerson_Boundary ;
 Wenabozho:Wenabozhow2 NamePerson_Class=NamePerson_Boundary ;
 
@@ -171,6 +172,7 @@ Mishiimin-oodenaang NamePlace_Class=NamePlace_Boundary ;
 Misi-zaaga'igan NamePlace_Class=NamePlace_Boundary ;
 Misi-zaaga'iganiing NamePlace_Class=NamePlace_Boundary ;
 Misi-zaaga'iganing NamePlace_Class=NamePlace_Boundary ;
+Miskwaagamii-zaaga'iganing NamePlace_Class=NamePlace_Boundary ;
 Miskwaagamiiwi-zaaga'igan NamePlace_Class=NamePlace_Boundary ;
 Mitaanjigamiing NamePlace_Class=NamePlace_Boundary ;
 Nagaajiwanaang NamePlace_Class=NamePlace_Boundary ;
