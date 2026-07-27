@@ -35,6 +35,7 @@ LEXICON ProperNounStems
 
 LEXICON NamePerson_Stems
 Anangookwe NamePerson_Class=NamePerson_Boundary ;
+Bagandiz NamePerson_Class=NamePerson_Boundary ;
 Dabasaanakwadook NamePerson_Class=NamePerson_Boundary ;
 Gezhibaayaaniwanook NamePerson_Class=NamePerson_Boundary ;
 Njim NamePerson_Class=NamePerson_Boundary ;
