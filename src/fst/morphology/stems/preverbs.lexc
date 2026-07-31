@@ -24,6 +24,7 @@ LEXICON SubPVPlainConjunct
 ChCnj+:0 ChCnjPV ;
 PVSub%/e+:e SubPVBoundary ;
 PVSub%/a+:a SubPVBoundary ;
+PVSub%/gaa+:gaa SubPVBoundary ;
 
 LEXICON ChCnjPV
 @U.ChCnj.On@ TensePVChangedConjunct ;

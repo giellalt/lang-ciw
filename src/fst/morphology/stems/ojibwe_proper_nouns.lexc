@@ -1,6 +1,7 @@
 LEXICON ProperNounRoot
 @P.Paradigm.NamePerson@ NamePerson_Prefix ;
 @P.Paradigm.NamePlace@ NamePlace_Prefix ;
+@P.Paradigm.NameVocative@ NameVocative_Prefix ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -25,6 +26,7 @@ LEXICON NamePerson_PrefixBoundary
 LEXICON ProperNounStems
 @R.Paradigm.NamePerson@ NamePerson_Stems ;
 @R.Paradigm.NamePlace@ NamePlace_Stems ;
+@R.Paradigm.NameVocative@ NameVocative_Stems ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -38,9 +40,11 @@ Anangookwe NamePerson_Class=NamePerson_Boundary ;
 Bagandiz NamePerson_Class=NamePerson_Boundary ;
 Dabasaanakwadook NamePerson_Class=NamePerson_Boundary ;
 Gezhibaayaaniwanook NamePerson_Class=NamePerson_Boundary ;
+Nenabozho:Nenabozhow2 NamePerson_Class=NamePerson_Vw_Boundary ;
 Njim NamePerson_Class=NamePerson_Boundary ;
 Ogimaawigwanebiik NamePerson_Class=NamePerson_Boundary ;
 Wenabozho:Wenabozhow2 NamePerson_Class=NamePerson_Boundary ;
+Wenabozho:Wenabozhow2 NamePerson_Class=NamePerson_Vw_Boundary ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -82,7 +86,52 @@ LEXICON NamePerson_Class=NamePerson_Flags_Prefix=NONE
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON NamePerson_Class=NamePerson_Prefix=NONE_Order=Other_Endings
-+NamePerson: EncliticRoot ;
++NamePerson+ProxSg: EncliticRoot ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePerson, Class: NamePerson_Vw                           !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePerson_Class=NamePerson_Vw_Boundary
+0:%>%> NamePerson_Class=NamePerson_Vw_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePerson, Class: NamePerson_Vw                           !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePerson_Class=NamePerson_Vw_Flags
+@R.Prefix.NONE@ NamePerson_Class=NamePerson_Vw_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePerson, Class: NamePerson_Vw                           !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePerson_Class=NamePerson_Vw_Flags_Prefix=NONE
+@U.Order.Other@ NamePerson_Class=NamePerson_Vw_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NamePerson, Class: NamePerson_Vw, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NamePerson_Class=NamePerson_Vw_Prefix=NONE_Order=Other_Endings
++NamePerson+ObvSg:V1n EncliticRoot ;
++NamePerson+Pret+ObvSg:V1baniin EncliticRoot ;
++NamePerson+Pret+ProxSg:V1ban EncliticRoot ;
++NamePerson+ProxSg: EncliticRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !                                                                              !
@@ -257,4 +306,80 @@ LEXICON NamePlace_Class=NamePlace_Flags_Prefix=NONE
 
 LEXICON NamePlace_Class=NamePlace_Prefix=NONE_Order=Other_Endings
 +NamePlace: EncliticRoot ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NameVocative                                               !
+!         Prefixes                                                             !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NameVocative_Prefix
+@P.Prefix.NONE@ NameVocative_PrefixBoundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NameVocative                                               !
+!         Morpheme boundary between prefix and stem                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NameVocative_PrefixBoundary
+0:%<%< ProperNounStems ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NameVocative                                               !
+!         Stems                                                                !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NameVocative_Stems
+niij NameVocative_Class=NameVocative_Boundary ;
+niijii NameVocative_Class=NameVocative_Boundary ;
+niijii:niijiiw2 NameVocative_Class=NameVocative_Boundary ;
+nookoo NameVocative_Class=NameVocative_Boundary ;
+noozis NameVocative_Class=NameVocative_Boundary ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NameVocative, Class: NameVocative                          !
+!         Morpheme boundary between stem and suffix                            !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NameVocative_Class=NameVocative_Boundary
+0:%>%> NameVocative_Class=NameVocative_Flags ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NameVocative, Class: NameVocative                          !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending                                                    !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NameVocative_Class=NameVocative_Flags
+@R.Prefix.NONE@ NameVocative_Class=NameVocative_Flags_Prefix=NONE ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NameVocative, Class: NameVocative                          !
+!         Flag diacritic governing combinations between                        !
+!         prefix and ending_Prefix=NONE                                        !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NameVocative_Class=NameVocative_Flags_Prefix=NONE
+@U.Order.Other@ NameVocative_Class=NameVocative_Prefix=NONE_Order=Other_Endings ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!                                                                              !
+!         Paradigm: NameVocative, Class: NameVocative, Prefix: NONE, Order: Other
+!         Endings                                                              !
+!                                                                              !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NameVocative_Class=NameVocative_Prefix=NONE_Order=Other_Endings
++NameVocative: EncliticRoot ;
 
